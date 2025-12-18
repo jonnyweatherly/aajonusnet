@@ -90,7 +90,6 @@ h1, .header, .title {
 }
 
 .back-arrow, #share-button {
-    position: absolute;
     top: 50%;
     transform: translateY(-50%) translateZ(0);
     transition: opacity 0.3s ease;

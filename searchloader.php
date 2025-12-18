@@ -10,14 +10,15 @@ $data = json_decode($rawInput, true);
 
 $ids = (isset($data['ids']) && is_array($data['ids'])) ? $data['ids'] : [];
 
-$replaceWith = '/\s+/u';
+$whiteSpaceList = ["\x09" => ' ', "\x0A" => ' ', "\x0B" => ' ', "\x0C" => ' ', "\x0D" => ' ', "\xC2\xA0" => ' '];
 $contents = [];
 
 foreach ($ids as $filePath) {
     if (is_file($filePath)) {
         $text = file_get_contents($filePath);
-        $text = preg_replace($replaceWith, ' ', $text);
-				$text = trim($text);
+        $text = strtr($text, $whiteSpaceList);
+        $text = preg_replace('/ {2,}/', ' ', $text); // Avoid /u (slow)
+	    $text = trim($text);
         $contents[$filePath] = $text;
     }
 }

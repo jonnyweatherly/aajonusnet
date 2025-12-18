@@ -65,7 +65,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=47">
+    <link rel="stylesheet" href="style.css?v=49">
     <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
 

@@ -1,8 +1,8 @@
 @[Video Source](https://youtube.com/watch?v=IOyLEO2xoLw)
 
-Transcribed by Aajonus.net & Rawmeatgang
-
 Date: 28 January 2007
+
+Transcribed by Aajonus.net & Rawmeatgang
 
 This is a bonus talk by Aajonus from the [UCLA Workshop DVD](primal-diet-workshop-of-january-28-2007-dvd), recorded at the UCLA campus in Westwood, California.
 

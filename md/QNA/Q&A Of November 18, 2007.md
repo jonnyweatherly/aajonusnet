@@ -1412,7 +1412,7 @@ teaspoon a day but break it up into two. Do you have a question?
 Q: I do, I have two questions …what is a great detoxifier for the lungs?
 
 A: One of the best detoxes for anything is coconut cream, okay? Have any
-fruitalong with that, tomatoes and coconut cream are a good combination for the
+fruit along with that, tomatoes and coconut cream are a good combination for the
 lungs. Ice cream is wonderful for cleaning the lungs, if there’s lime or lemon
 in it. Eating raw ice cream.
 

@@ -1,6 +1,6 @@
-Transcribed by Aajonus.net & Rawmeatgang
-
 Date: 27 March 2013
+
+Transcribed by Aajonus.net & Rawmeatgang
 
 Comment on Raw Milk
 
