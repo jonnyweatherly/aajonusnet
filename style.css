@@ -214,6 +214,7 @@ pre, code, h4, h3, h2, h1, h5, h6 {
     position: fixed;
     bottom: 28px;
     left: 10px;
+    cursor: pointer;
     z-index: 9999;
     display: inline-flex;
     align-items: center;

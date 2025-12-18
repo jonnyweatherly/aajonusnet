@@ -28,8 +28,11 @@ $maxLength  = 200;
 // ----------------------------------------------------------------------
 // 3) Build article list by scanning the "md" folder
 // ----------------------------------------------------------------------
+
+$config = require dirname(__DIR__) . '/config.php';
+$mdFolder  = $config['mdFolder'];
+
 $prioritizeCategories = ['QNA','Newsletters','Books','Books/Old'];
-$mdFolder              = 'md';
 $articles              = [];
 
 $it = new RecursiveIteratorIterator(

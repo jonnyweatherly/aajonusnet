@@ -18,6 +18,9 @@ $mdFolder = 'md';
 $articleMap = [];
 $categoryMap = [];
 
+$useCloudSearch = array_key_exists('cloudsearch', $_GET);
+$script = $useCloudSearch ? 'index2.js' : 'index.js';
+
 function sanitizeFileName($string) {
     $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
     $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
@@ -296,8 +299,9 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
         $file = file_exists($fileMd) ?$fileMd:(file_exists($fileTxt) ?$fileTxt : null);
 
         if ($file) {
-            require 'libs/Parsedown.php';
-            $Parsedown = new Parsedown();  
+            require 'code/Parsedown.php';
+            require 'code/ParsedownExtra.php';
+            $Parsedown = new ParsedownExtra();  
             $content = trim(file_get_contents($file));
 
             $scrollToThisPlaceholder = "\u{F8FF}";
@@ -358,25 +362,6 @@ $pattern = implode('|', array_map(function ($word) {
             $content = preg_replace('/!\[\[(.*?)\]\]/', '![$1](imgs/$1 "Title")', $content);
             $htmlContent = $Parsedown->text($content);
 
-            // Identify footnote references and footnotes
-            preg_match_all('/\[\^(\d+)\]/', $htmlContent, $refs);
-            preg_match_all('/\[\^(\d+)\]: (.*)/', $htmlContent, $notes);
-
-            $footnoteRefs = $refs[1];
-            $footnoteNotes = array_combine($notes[1], $notes[2]);
-            $currentURL = $_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-            foreach ($footnoteRefs as $ref) {
-                $occurrences = substr_count($htmlContent, "[^$ref]");
-                $counter = 0;
-                $htmlContent = preg_replace_callback("/\[\^{$ref}\]/", function ($matches) use (&$counter, $occurrences, $ref, $currentURL) {
-                    $counter += 1;
-                    if ($counter < $occurrences) {
-                        return "<a href=\"{$currentURL}#fn{$ref}\">[{$ref}]</a>";
-                    } else {
-                        return "<a id=\"fn{$ref}\">[{$ref}]</a>";
-                    }
-                }, $htmlContent);
-            }
             echo $htmlContent;
             if (isset($_GET['s'])) {
                 echo '<button id="removeHighlights"><span class="x">×</span>Highlights</button>';
@@ -404,6 +389,7 @@ $pattern = implode('|', array_map(function ($word) {
             </div>
         </div>
     <?php } ?>
-    <script src="index.js?v=371"></script>
+    <script src="/code/<?php echo $script; ?>?v=371"></script>
+    <script defer src="/code/findonpage.js"></script>
 </body>
 </html>

@@ -5,8 +5,9 @@ if (ob_get_level()) {
     ob_end_clean();
 }
 
-$config   = require dirname(__DIR__) . '/config.php';
+$config = require dirname(__DIR__) . '/config.php';
 $mdFolder = $config['mdFolder'];
+$mdBase = basename($mdFolder);
 
 $whiteSpaceList = ["\x09" => ' ', "\x0A" => ' ', "\x0B" => ' ', "\x0C" => ' ', "\x0D" => ' ', "\xC2\xA0" => ' '];
 $contents = [];
@@ -17,8 +18,9 @@ foreach ($files as $fileInfo) {
     if (!$fileInfo->isFile()) continue;
     $ext = strtolower($fileInfo->getExtension());
     if ($ext !== 'md' && $ext !== 'txt') continue;
-    $rel = $fileInfo->getPathname();
-    $text = file_get_contents($rel);
+    $abs = $fileInfo->getPathname();
+    $rel = $mdBase . '/' . substr($abs, strlen($mdFolder) + 1);
+    $text = file_get_contents($abs);
     $text = strtr($text, $whiteSpaceList);
     $text = preg_replace('/ {2,}/', ' ', $text); // Avoid /u (slow)
 

@@ -5,8 +5,7 @@ return [
     // Absolute filesystem path to your Markdown root
     'mdFolder' => __DIR__ . '/md',
 
-    // Your site base URL (with or without trailing slash; we'll normalize it)
+    // Your site base URL
     'baseUrl'  => 'https://aajonus.net/',
 ];
-
 ?>
