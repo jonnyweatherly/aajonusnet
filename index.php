@@ -3,32 +3,9 @@ $title = "Aajonus.net";
 $description = "Raw Primal Diet: Aajonus Online Database by Aajonus Vonderplanitz";
 $url = "https://aajonus.net/";
 $sitename = "Aajonus Net";
+$categoryInLinks = false;
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title><?php echo $title; ?></title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="<?php echo $url; ?>">
-    <base href="/">
-    <link rel="stylesheet" href="style.css?v=1">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <meta name="title" content="News">
-    <meta name="description" content="<?php echo $description; ?>">
-    <meta property="og:title" content="News">
-    <meta property="og:description" content="<?php echo $description; ?>">
-    <meta property="og:url" content="<?php echo $url; ?>">
-    <meta property="og:site_name" content="<?php echo $sitename; ?>">
-    <meta property="og:type" content="website">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="manifest" href="manifest.json">
-</head>
-<body>
-    <?php
+<?php
 function sanitizeFileName($string) {
     $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
     $string = preg_replace('/\s+/', '-', $string);
@@ -67,13 +44,39 @@ $uri = parse_url(strtok($_SERVER['REQUEST_URI'], '&'), PHP_URL_PATH);
 $uriSegments = explode("/", $uri);
 $sanitizedFile = array_pop($uriSegments);
 $originalFile = findOriginalFileName($sanitizedFile);
+
+$dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><?php echo $dynamicTitle; ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="<?php echo $url; ?>">
+    <base href="/">
+    <link rel="stylesheet" href="style.css?v=1">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <meta name="title" content="News">
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta property="og:title" content="News">
+    <meta property="og:description" content="<?php echo $description; ?>">
+    <meta property="og:url" content="<?php echo $url; ?>">
+    <meta property="og:site_name" content="<?php echo $sitename; ?>">
+    <meta property="og:type" content="website">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="manifest" href="manifest.json">
+</head>
+<body>
     <div class="header">
         <div class="title-container">
             <?php if ($originalFile) { ?>
                 <button class="back-button" onclick="goBack()">←</button>
             <?php } ?>
-            <a class="title" href="/"><h1><?php echo (!$originalFile) ? $title : basename($originalFile, '.md'); ?></h1></a>
+            <a class="title" href="/"><h1><?php echo $dynamicTitle; ?></h1></a>
         </div>
     </div>
     <?php 
@@ -163,7 +166,7 @@ if (!$originalFile) { ?>
                 <div class="card-md" 
                 <?php if (strpos(strtolower($filePath), $lowerFolderName) === false) 
                 echo ' style="display: none;"'; 
-                   $fullUrl = $sanitizedCategory . '/' . $sanitizedName; ?>>
+                   $fullUrl = $categoryInLinks ? $sanitizedCategory . '/' . $sanitizedName : $sanitizedName; ?>>
                     <span class="category"><?php echo $category;?></span>
                     <h2><a class="read-more" href="/<?php echo $fullUrl; ?>"><?php echo $filename; ?></a></h2>
                     <?php 
@@ -270,6 +273,6 @@ if (isset($_GET['s'])) {
 </div>  
     <?php } ?>
     <div class="results"></div>
-    <script src="index.js?v=188"></script>
+    <script src="index.js?v=191"></script>
 </body>
 </html>

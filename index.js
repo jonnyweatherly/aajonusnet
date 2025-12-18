@@ -253,7 +253,7 @@ function filterCategory(category, sanitizedCategory, element) {
     var card = cards[i];
     var cardCategory = card.getElementsByClassName('category')[0].innerText;
 
-    if (category === 'All' || cardCategory === category) {
+    if (category === 'All' || cardCategory.startsWith(category)) {
       card.style.display = '';
     } else {
       card.style.display = 'none';
@@ -295,35 +295,111 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 
-document.addEventListener("DOMContentLoaded", function() {
+
+// Open or create the database
+let db;
+const openRequest = indexedDB.open("myDatabase", 1);
+
+openRequest.onupgradeneeded = function(event) {
+  db = event.target.result;
+  db.createObjectStore("myData", { keyPath: "id" });
+};
+
+openRequest.onsuccess = function(event) {
+  db = event.target.result;
+  // Now that the database is open, load the content
   loadContentAsync();
-});
+};
+
+openRequest.onerror = function(event) {
+  console.error("Error opening IndexedDB:", event);
+};
+
+let hasRetried = false;
+
+// Populate HTML and enable search
+function populateAndEnableSearch(data) {
+try {
+  Object.keys(data).forEach(id => {
+    const el = document.getElementById(id);
+    el.innerHTML = data[id];
+    el.style.display = "none"; // Keep it hidden for search later
+  });
+  const searchEl = document.getElementById("search");
+  searchEl.disabled = false;
+  searchEl.placeholder = "Search";
+  search(searchEl); // Assuming you have a search function
+  hasRetried = false;
+} catch (error) {
+  console.error("Error:", error);
+  if (!hasRetried) { // Reset the cache
+    hasRetried = true;
+    const transaction = db.transaction(["myData"], "readwrite");
+    transaction.objectStore("myData").delete("allData");
+    loadContentAsync();
+  }
+}
+}
+
+// Store entire dataset in IndexedDB with expiration time
+function storeAllData(data) {
+  const expireTime = new Date().getTime() + 24 * 60 * 60 * 1000; // 24 hours from now
+  const transaction = db.transaction(["myData"], "readwrite");
+  const objectStore = transaction.objectStore("myData");
+  objectStore.put({ id: "allData", content: data, expireTime: expireTime });
+}
+
+// Retrieve entire dataset from IndexedDB, checking for expiration
+function retrieveAllData(callback) {
+  const transaction = db.transaction(["myData"], "readonly");
+  const objectStore = transaction.objectStore("myData");
+  const request = objectStore.get("allData");
+
+  request.onsuccess = function(event) {
+    const currentTime = new Date().getTime();
+    if (request.result && request.result.expireTime > currentTime) {
+      callback(request.result.content);
+    } else {
+      callback(null);
+    }
+  };
+}
+
+// Main content loading function
 function loadContentAsync() {
   // Collect all the IDs for the .data elements
   const ids = Array.from(document.querySelectorAll(".data")).map(el => el.id);
-   if (ids.length === 0) {
+  if (ids.length === 0) {
     return;
   }
-  fetch('/searchloader.php', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ ids: ids }),
-  })
-  .then(response => response.json())
-  .then(data => {
-    Object.keys(data).forEach(id => {
-      const el = document.getElementById(id);
-      el.innerHTML = data[id];
-      el.style.display = "none"; // Keep it hidden for search later
-    });
-    const searchEl = document.getElementById("search");
-    searchEl.disabled = false;
-    searchEl.placeholder = "Search";
-    search(searchEl);
-  })
-  .catch(error => {
-    console.error("Error fetching content:", error);
+
+  retrieveAllData(function(cachedData) {
+    if (cachedData) {
+      populateAndEnableSearch(cachedData);
+    } else {
+      fetch('/searchloader.php', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ ids: ids }),
+      })
+      .then(response => response.json())
+      .then(data => {
+        storeAllData(data);
+        populateAndEnableSearch(data);
+      })
+      .catch(error => {
+        console.error("Error fetching content:", error);
+      });
+    }
   });
 }
+
+// Entry point: Wait for the DOM to load before proceeding
+document.addEventListener("DOMContentLoaded", function() {
+  if (db) {
+    loadContentAsync();
+  }
+  // If db is not available yet, it will be triggered by openRequest.onsuccess
+});

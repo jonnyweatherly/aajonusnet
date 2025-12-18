@@ -1,3 +1,5 @@
+## What If You Have High Blood-Pressure While Transitioning Into Primal Diet?
+
 > My question would be on transitioning into the raw diet, which I'm doing and
 I've only been doing it for 3 or 4 weeks, I think. I've been doing eggs and some
 other things. I'm having some high blood pressure. It's almost like my blood

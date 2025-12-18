@@ -1,5 +1,7 @@
-If most published medical studies are biased and/or corrupt, why do we
-still believe them? Over the last decade, investigational studies found
+## If most published medical studies are biased and/or corrupt, why do we
+still believe them?
+
+Over the last decade, investigational studies found
 that doctors who participated in pharmaceutical-company-sponsored drug
 trials more often prescribed that company's drugs, and that clinical
 trials funded by pharma companies more often reported favorably for

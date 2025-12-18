@@ -1,4 +1,4 @@
-###Does Drinking Raw Milk and Eating No-Salt Raw Cheeses Cause Bladder, Kidney, Liver or Gallbladder Stones?
+### Does Drinking Raw Milk and Eating No-Salt Raw Cheeses Cause Bladder, Kidney, Liver or Gallbladder Stones?
 
 It was reported to me that people were saying and even writing on the
 internet that I had kidney stones caused by consuming dairy and/or eating
