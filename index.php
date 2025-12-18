@@ -8,6 +8,7 @@ $description = "Raw Primal Diet: Aajonus Online Archive by Aajonus Vonderplanitz
 $keywords = "aajonus, aajonus vonderplanitz, primal diet, raw primal diet, raw meat, raw milk, raw dairy, raw meat diet, raw honey";
 $url = "https://aajonus.net/";
 $sitename = "Aajonus Vonderplanitz";
+$twitterAccount = "@Aajonus";
 
 $categoryInLinks = false;
 $prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
@@ -65,9 +66,9 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=49">
-    <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="style.css?v=50">
+    <link rel="icon" href="logos/favicon.ico" type="image/x-icon" sizes="any">
+    <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 
     <meta name="title" content="<?php echo $dynamicTitle; ?>">
     <meta name="description" content="<?php echo $description; ?>">
@@ -78,9 +79,11 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <meta property="og:url" content="<?php echo $url; ?>">
     <meta property="og:site_name" content="<?php echo $sitename; ?>">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="<?php echo $url; ?>large-logo.jpg">
+    <meta property="og:image" content="<?php echo $url; ?>logos/large-logo.jpg">
 
     <meta name="twitter:card" content="summary">
+    <meta property="twitter:image" content="<?php echo $url; ?>logos/large-logo.jpg">
+    <meta name="twitter:site" content="<?php echo $twitterAccount; ?>">
     <meta name="format-detection" content="telephone=no">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -401,6 +404,6 @@ if (isset($_GET['s'])) {
             </div>
         </div>
     <?php } ?>
-    <script src="index.js?v=325"></script>
+    <script src="index.js?v=340"></script>
 </body>
 </html>

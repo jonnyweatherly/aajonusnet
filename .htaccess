@@ -15,7 +15,6 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^/%]+)/([^/%]+)/?$ index.php?category=$1&file=$2 [L,QSA,B,UnsafeAllow3F]
 
-
 <IfModule mod_expires.c>
     ExpiresActive on
  

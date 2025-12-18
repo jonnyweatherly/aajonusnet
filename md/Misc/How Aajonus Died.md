@@ -1,6 +1,6 @@
 @[Source](https://web.archive.org/web/20240301185006/https://getrawmilk.com/content/aajonus-vonderplanitz-fatal-fall)
 
-Controversial figure, no doubt, nevertheless the name of Aajonus Vonderplanitz has lived beyond his death.
+The name of Aajonus Vonderplanitz has lived beyond his death.
 
 Alongside advocating for his raw food diet, The Primal Diet outlined in his talks and books, and helping desperate refugees of the medical industrial complex regain their strength, he was an active supporter of food freedom. He was early and prominent in the push for making raw milk accessible under unjust legal circumstances.
 
@@ -124,7 +124,7 @@ AV’s friends, Larry Otting and Wasma who went to help settle his affairs after
 
 ![[aajonusdeath_larry-otting-and-wasma.jpg]]
 
-Watch [Aajonus Vonderplanitz’s friends discuss his death in Thailand](https://odysee.com/@getrawmilk:d/aajonus-vonderplanitz-friends-discuss-his-death) [(Also transcribed here)](/aajonus-death-what-actually-happened)
+Watch [Aajonus Vonderplanitz’s friends discuss his death in Thailand](https://odysee.com/@getrawmilk:d/aajonus-vonderplanitz-friends-discuss-his-death) [(Transcribed here)](/aajonus-death-what-actually-happened)
 
 ### Memorial service held of Aajonus Vonderplanitz
 

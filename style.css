@@ -91,7 +91,7 @@ h1, .header, .title {
 
 .back-arrow, #share-button {
     top: 50%;
-    transform: translateY(-50%) translateZ(0);
+    transform: translateY(-50%);
     transition: opacity 0.3s ease;
 }
 
@@ -167,7 +167,7 @@ h1, .header, .title {
     background-color: yellow;
     color: #000;
 }
-.result-link{
+.result-link, .title {
     color: #fff;
     text-decoration: none;
 }
@@ -177,8 +177,6 @@ h1, .header, .title {
     font-size: smaller;
 }
 .title {
-    color: #fff;
-    text-decoration: none;
     word-wrap: break-word;
     margin: 0 auto;
     max-width: calc(100% - 80px);
@@ -231,7 +229,7 @@ h1, .header, .title {
     font-size: .9rem;
     font-weight: 600;
     line-height: 1;
-    box-shadow: 0 1px 3px #0006;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
     user-select: none;
     -webkit-user-select: none;
 }

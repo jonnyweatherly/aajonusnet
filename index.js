@@ -131,12 +131,9 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
         let offset = text.indexOf(word);
         while (offset !== -1) {
             let start = Math.max(0, offset - maxLength);
-            let end = Math.min(text.length, offset + maxLength);
+            if (start < lastWindowEnd) start = lastWindowEnd;
 
-            if (start < lastWindowEnd) {
-                offset = text.indexOf(word, offset + 1);
-                continue;
-            }
+            let end = Math.min(text.length, start + (maxLength * 2));
             let windowText = text.substring(start, end);
 
             let exactMatchPos = windowText.indexOf(searchValue);
