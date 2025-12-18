@@ -537,7 +537,7 @@ a little bit of chicken with the fish, like maybe a quarter of that meal -
 fowl with the fish – then you’ll regenerate tissue a little bit faster. Ok.
 
 Q: For those of us using toothpaste formula after brushing, how often does
-one use a water pick to rinse it and is that necessary?
+one use a waterpik to rinse it and is that necessary?
 
 A: Ok, I came up with a new formula about a year ago: one tablespoon of coconut
 cream, two teaspoons of terramin clay and one half to one teaspoon of raw apple
@@ -548,7 +548,7 @@ with it. Once a day is fine. And you brush it down into the gums. I don’t
 use these big toothbrushes; I don’t think are good. I think you should get
 one of those baby toothbrushes, very soft. And just brush - work that down
 in there. And it will dissolve the plaque so you don’t have to have deep
-root cleanings. I have found that I haven’t had to use my water pick. Maybe
+root cleanings. I have found that I haven’t had to use my waterpik. Maybe
 every three months or something like that and do that routine that I talk
 about on www.wewant2live.com. Where I talked about the formula for getting
 deep down and removing the plaque and other tars. And also found that when

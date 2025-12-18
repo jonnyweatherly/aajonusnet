@@ -10,7 +10,8 @@ eliminate microbes. Health-officials are pushing to mandate that all fresh
 produce be irradiated in the name of food-safety. What does that mean to us as
 consumers? Let’s take a look at a different view on food-safety that will come
 as a paradigm-shift for most of you. It is likely to change your perspective on
-nature, the environment and life. . Hopefully, you will develop a new trust and
+nature, the environment and life. 
+Hopefully, you will develop a new trust and
 faith that relaxes and eliminates fears that have been conditioned into most of
 us since birth, extolled by theorists to academics, and on to the media and
 government.

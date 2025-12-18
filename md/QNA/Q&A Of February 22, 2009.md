@@ -551,9 +551,7 @@ from yale two years ago. So, you have to, and all these children are very very
 bright unless the mother smokes. If the mother smokes during pregnancy, or even
 if she’s been smoking a few years before, the child’s not as smart because
 those tars get in there and start blocking neurological transmitters. So no
-there’s no, usually for
-
-women who are pregnant it depends upon the toxicity in the mother, if she has a
+there’s no, usually for women who are pregnant it depends upon the toxicity in the mother, if she has a
 lot of toxins in the body you wanna eat a lot of cheese often so you don’t go
 into morning sickness. Morning sickness is the body detoxing very toxic
 substances, that dump into the stomach. Vomit vomit vomit, because the body does
@@ -1513,9 +1511,7 @@ Q: What about '[inaudible, sounds like gold butter or rolled butter]?
 [inaudible question about starch]
 
 Well like I say in the book, starch is a nut formula. If the nut formula
-doesn't work,
-
-then you go to some kind of cooked starch, and you eat as much cooked starch
+doesn't work, then you go to some kind of cooked starch, and you eat as much cooked starch
 with as much butter as you do cooked starch, some kind of fat, butters always
 better. And with the experiments I’ve been doing in the last three years, the
 different kinds of starches, rice is the best. The Asians have it right. Rice is

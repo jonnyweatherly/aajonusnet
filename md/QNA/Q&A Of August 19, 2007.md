@@ -1036,7 +1036,7 @@ A: Don't watch it. Don't watch it.
 
 Q: What do you do for symptoms of leaky gut?
 
-A: Leaky gut, you have to live on eggs and a little bit of milk. You have to have more than half a cup of milk at a time and eggs all day long. So that your intestines can heal.
+A: Leaky gut, you have to live on eggs and a little bit of milk. You have to have no more than half a cup of milk at a time and eggs all day long. So that your intestines can heal.
 
 Q: Otherwise you get a lot of pain.
 
@@ -1384,7 +1384,7 @@ A: Yeah, I did.
 
 Q: Scott, are you from Boston?
 
-A: No, I'm from Patterson, New Jersey.
+Q: No, I'm from Patterson, New Jersey.
 
 Q: You and I had a conversation. I was from Boston.
 

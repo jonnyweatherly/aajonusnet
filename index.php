@@ -65,7 +65,7 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=28">
+    <link rel="stylesheet" href="style.css?v=35">
     <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
@@ -211,18 +211,25 @@ usort($articles, function ($a, $b) use ($prioritizeCategories) {
     // If main categories are the same
     if ($mainCatA == $mainCatB) {
         // Special handling for "QNA" category
-        if ($mainCatA == 'QNA') {
-            preg_match('/\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s(\d{1,2}),\s(\d{4})\b/', $a['filename'], $matchesA);
-            preg_match('/\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s(\d{1,2}),\s(\d{4})\b/', $b['filename'], $matchesB);
-            
-            $dateStrA = isset($matchesA[0]) ? $matchesA[0] : 'January 1, 1970';
-            $dateStrB = isset($matchesB[0]) ? $matchesB[0] : 'January 1, 1970';
+if ($mainCatA == 'QNA') {
+    $pattern = '/\b(?:(January|February|March|April|May|June|July|August|September|October|November|December)(?:(?:\s+(\d{1,2})(?:,\s*|\s+))|(?:,\s*))?)?(\d{4})\b/';
+    
+    preg_match($pattern, $a['filename'], $ma);
+    $monthA = !empty($ma[1]) ? $ma[1] : 'January';
+    $dayA   = !empty($ma[2]) ? $ma[2] : '1';
+    $yearA  = isset($ma[3]) ? $ma[3] : '1970';
+    $timestampA = strtotime("$monthA $dayA, $yearA");
+    
+    preg_match($pattern, $b['filename'], $mb);
+    $monthB = !empty($mb[1]) ? $mb[1] : 'January';
+    $dayB   = !empty($mb[2]) ? $mb[2] : '1';
+    $yearB  = isset($mb[3]) ? $mb[3] : '1970';
+    $timestampB = strtotime("$monthB $dayB, $yearB");
+    
+    return $timestampB - $timestampA;  // Newest first
+}
 
-            $timestampA = strtotime($dateStrA);
-            $timestampB = strtotime($dateStrB);
-            
-            return $timestampB - $timestampA;  // Newest first
-        }
+
         
         $fullCatA = $a['category'];
         $fullCatB = $b['category'];
@@ -405,6 +412,6 @@ if (isset($_GET['s'])) {
     </div>
 </div>
     <?php } ?>
-    <script src="index.js?v=216"></script>
+    <script src="index.js?v=274"></script>
 </body>
 </html>

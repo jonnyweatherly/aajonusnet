@@ -4,10 +4,12 @@ tissue, there was some vomiting some diarrhoea in a while but there was no
 active disease, but i put a group of animals on a frozen meat and they all
 developed skin disorders some of them got scurvy so i choose that which isn't
 frozen. Now i lived on mad cow meat for 3 years and a half years when i was in
-Paris. Because at Paris there were no butcher shops , only at carrefour
+Paris. Because at Paris there were no butcher shops, only at Carrefour
 supermarket and that's what i ate. And i always eat extra fat with my meat so
 it protects me.
 
 ===
 
 WS_CH_2005_10_08 04:56:56
+
+@[Source](primal-diet-workshop-qa-of-october-8-2005?s=frozen%2Bpastured%2Bmeat&pos=207790)

@@ -888,9 +888,9 @@ A: It's mainly a red meat deficiency. Which can correct that. And as I said earl
 
 Q: I ate cooked food for 10 days and I was done. And I bent over during an early time and my back went up. And I came back and started eating raw food again. [unintelligible]
 
-A: The body can repair itself with good nutrients. It can't repair itself when the nutrients are gone in dead food. And processed food at that has all those chemicals in it. There's no cooked pure food packaged out there. No matter what the labels say, it is a lie. The FDA allows them to use 15% chemicals and garbage and call it natural and organic. 15% chemical by-products. If I fed you 15% poison directly, you could die.But the FDA allows it. Why? Because they're in bed with the manufacturers. Do you have a question?
+A: The body can repair itself with good nutrients. It can't repair itself when the nutrients are gone in dead food. And processed food at that has all those chemicals in it. There's no cooked pure food packaged out there. No matter what the labels say, it is a lie. The FDA allows them to use 15% chemicals and garbage and call it natural and organic. 15% chemical by-products. If I fed you 15% poison directly, you could die. But the FDA allows it. Why? Because they're in bed with the manufacturers. Do you have a question?
 
-Q: [unintelligible]
+Q: What if you are allergic to eggs?
 
 A: I've never met anybody allergic to eggs for more than a couple of weeks. So what you have to do is... Nobody's really allergic to the egg itself unless they're eating it cold and eating it with other foods. So if you're eating an egg alone, you'll never have an allergy to it as long as it's room temperature. Sometimes what happens is the body will use the liquid protein and the liquid fat to have a liver, gallbladder, pancreas detoxification. If that happens, you might have diarrhea. You might have some cramping or vomiting. That'll occur. But it's not from the egg directly. It's what the body's utilizing the fats and proteins for. The detoxification. Do you have a question?
 

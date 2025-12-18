@@ -1,5 +1,7 @@
 @[Source](https://www.primaldiet.net/primal-diet-workshop-qa-june-22-2013-in-chicago/)
 
+Location: Chicago
+
 I'm Aajonus Vonderplanitz and I got into health because I was a very sickly
 individual. I was born into a violent household. One of my brothers was 18
 months older and still in diapers when I was born,. He was very distressed about
@@ -1112,7 +1114,7 @@ that you can experience - you will see how bad these can be.
 But you need to realize that attacking your body going to a doctor is just
 going to make it worse. I will teach you how to get it through it and get
 through it well so when you are repaired you are not worse than you were because
-your body detoxifying itself is a good thing. You don't want to stop it[ you
+your body detoxifying itself is a good thing. You don't want to stop it, you
 want to help the body detox; you don't want to stop the process. The more you
 stop the process, the more industrial toxins remain in the body and then organs
 shut down, body parts are impaired and don't function normally then when you get
@@ -1457,7 +1459,10 @@ we see the photos.
 
 I will also show you two laboratory investigations done at the University of
 Calgary, in Canada, on mercury.
-@[Here](https://youtu.be/9ylnQ-T7oiA) and @[here](https://youtu.be/XU8nSn5Ezd8).
+
+Video about alalgam fillings @[here](https://www.youtube.com/watch?v=9ylnQ-T7oiA) [(archive)](https://web.archive.org/web/20201203200057/https://www.youtube.com/watch?v=9ylnQ-T7oiA)
+
+Video showing how mercury melts nerve cells @[here](https://www.youtube.com/watch?v=XU8nSn5Ezd8) [(archive)](https://web.archive.org/web/20200123155031/https://www.youtube.com/watch?v=XU8nSn5Ezd8)
 
 This is just the mercury used in dental amalgams and how they outgas and make a
 body very toxic. That is outgassing and crystallization of mercury. Can you
@@ -1986,7 +1991,7 @@ through the song when my voice comes in on it. [On the video] they show children
 getting stabbed, children getting their arm cut off, and all kinds of things
 dealing with vaccines. You can still see it if you go online and put in there
 “the vaccine song SAY NO TO THE VACCINE by trillion”.
-[https://www.youtube.com/watch?v=PbSpPs05YAc]. It is 7 minutes, 32 seconds.
+@[video](https://www.youtube.com/watch?v=PbSpPs05YAc) (taken down) [(archive)](https://web.archive.org/web/20201209204343/https://www.youtube.com/watch?v=PbSpPs05YAc). It is 7 minutes, 32 seconds.
 
 That caused so much ruckus all over the world that 6 countries actually sued
 Smith-Kline the company that manufactured them, and spread all over the World
@@ -4115,5 +4120,6 @@ by itself.
 The End
 
 ===
+
 
 WS_CH_2013_06_22

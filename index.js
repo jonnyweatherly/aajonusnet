@@ -37,7 +37,8 @@ async function search(input) {
        const content = articleData[dataId].text;
        const [exactResults, partialResults] = await highlightSearchText(content, searchValue, validwords, trimmedSearchValue, link);
 
-       if (title.includes(searchValue)) {
+       const searchTitleWords = trimmedSearchValue.split(/\s+/);
+       if (searchTitleWords.every(word => title.includes(word))) {
            const resultCard = createResultCard(card, [], link);
            fragmentTitle.appendChild(resultCard);
        }
@@ -487,6 +488,20 @@ function debounce(func, wait) {
     };
 }
 
+function updateFindOnPagePosition() {
+    const findOnPageBar = document.getElementById('find-on-page');
+    if (window.visualViewport) {
+        const { innerHeight } = window;
+        const { height: vvHeight, offsetTop } = window.visualViewport;
+        // Compute the effective keyboard height: what's not covered by the viewport.
+        let kbHeight = innerHeight - (vvHeight + offsetTop);
+        if (kbHeight < 0) kbHeight = 0;
+        findOnPageBar.style.bottom = kbHeight + 'px';
+    } else {
+        findOnPageBar.style.bottom = '0';
+    }
+}
+
 function showFindOnPage() {
     removeHighlights();
     document.getElementById('find-on-page').style.display = 'flex';
@@ -494,6 +509,8 @@ function showFindOnPage() {
     document.body.classList.add('find-on-page-active');
     const searchInput = document.getElementById('find-on-page-input');
     searchInput.focus();
+
+    updateFindOnPagePosition();
     
     // Perform search if there's already text in the input
     if (searchInput.value.trim() !== '') {
@@ -539,7 +556,8 @@ function scrollToCurrentResult() {
     if (currentResultIndex >= 0 && currentResultIndex < searchResults.length) {
         const result = searchResults[currentResultIndex];
         const rect = result.getBoundingClientRect();
-        const scrollY = window.scrollY + rect.top - window.innerHeight / 2 + rect.height / 2;
+        const viewportHeight = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+        const scrollY = window.scrollY + rect.top - viewportHeight / 2 + rect.height / 2;
         window.scrollTo({
             top: scrollY,
             behavior: 'smooth'
@@ -553,6 +571,9 @@ function moveToNextResult() {
         currentResultIndex = (currentResultIndex + 1) % searchResults.length;
         scrollToCurrentResult();
         updateSearchCount();
+        if (isKeyboardOpen()) {
+            document.getElementById('find-on-page-input').focus();
+        }
     }
 }
 
@@ -561,7 +582,14 @@ function moveToPreviousResult() {
         currentResultIndex = (currentResultIndex - 1 + searchResults.length) % searchResults.length;
         scrollToCurrentResult();
         updateSearchCount();
+        if (isKeyboardOpen()) {
+            document.getElementById('find-on-page-input').focus();
+        }
     }
+}
+
+function isKeyboardOpen() {
+    return window.visualViewport && (window.innerHeight - window.visualViewport.height > 100);
 }
 
 function isElementVisible(element) {
@@ -648,6 +676,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     if (searchClose) {
         searchClose.addEventListener('click', hideFindOnPage);
+    }
+    if (window.visualViewport) {
+        window.visualViewport.addEventListener('resize', updateFindOnPagePosition);
+        window.visualViewport.addEventListener('scroll', updateFindOnPagePosition);
     }
 });
 

@@ -1,6 +1,6 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
-Place: NC
+Location: NC
 
 Q: ...people are in for a real treat.
 

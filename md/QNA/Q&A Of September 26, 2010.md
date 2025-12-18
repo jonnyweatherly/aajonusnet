@@ -280,8 +280,8 @@ eating raw, desiccated ovaries. I’ve seen pig testes sold but never ovarian
 tissue. Also, they’re very difficult to find as they’re very small in
 animals – well shrouded in extra tissue so hard to find.
 
-Q: I’m going to do some travelling to Europe, Canada and may be some other
-countries – suggestions for eating on primal diet while travelling.
+Q: I’m going to do some traveling to Europe, Canada and may be some other
+countries – suggestions for eating on primal diet while traveling.
 
 A: Europe is not easy unless you’re going to Italy or Slovakia. In Italy,
 they have 1,300 raw milk vending machines and just started this week in Slovakia
@@ -305,7 +305,7 @@ donut shop or the grocery store. It only takes 45 minutes to an hour to prepare
 all the food for the day from the time you eat your cheese until you eat your
 meat in the morning.
 
-Q: What about green juices when travelling?
+Q: What about green juices when traveling?
 
 A: You can pretty easily get green juices almost everywhere. In Asia, I drink
 mostly sugar cane juice because it’s very easy to get. But there are a lot
@@ -689,7 +689,7 @@ and forth. Very stimulating. Very taxing on the body; causes massive
 detoxification. Good, if you’ve got enough fat in your intestines, in your
 nerves. Eat butter, cheese and honey.
 
-q: Unclear [Need to add anything to water]
+Q: Unclear [Need to add anything to water]
 
 A: If you’ve got well water or spring water you don’t have to put anything
 in it. Hot springs have minerals but that’s OK because they don’t have

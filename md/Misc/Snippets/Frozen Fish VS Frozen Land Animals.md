@@ -8,3 +8,5 @@ some deterioration of the animals that eat it.
 ===
 
 WS_CH_2007_09_29 05:10:30
+
+@[Source](primal-diet-workshop-qa-of-september-29-2007?s=frozen%2Bfish%2C%2Bas%2Blong&pos=238663)

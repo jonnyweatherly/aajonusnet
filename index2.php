@@ -211,18 +211,23 @@ usort($articles, function ($a, $b) use ($prioritizeCategories) {
     // If main categories are the same
     if ($mainCatA == $mainCatB) {
         // Special handling for "QNA" category
-        if ($mainCatA == 'QNA') {
-            preg_match('/\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s(\d{1,2}),\s(\d{4})\b/', $a['filename'], $matchesA);
-            preg_match('/\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s(\d{1,2}),\s(\d{4})\b/', $b['filename'], $matchesB);
-            
-            $dateStrA = isset($matchesA[0]) ? $matchesA[0] : 'January 1, 1970';
-            $dateStrB = isset($matchesB[0]) ? $matchesB[0] : 'January 1, 1970';
-
-            $timestampA = strtotime($dateStrA);
-            $timestampB = strtotime($dateStrB);
-            
-            return $timestampB - $timestampA;  // Newest first
-        }
+if ($mainCatA == 'QNA') {
+    $pattern = '/\b(?:(January|February|March|April|May|June|July|August|September|October|November|December)(?:(?:\s+(\d{1,2})(?:,\s*|\s+))|(?:,\s*))?)?(\d{4})\b/';
+    
+    preg_match($pattern, $a['filename'], $ma);
+    $monthA = !empty($ma[1]) ? $ma[1] : 'January';
+    $dayA   = !empty($ma[2]) ? $ma[2] : '1';
+    $yearA  = isset($ma[3]) ? $ma[3] : '1970';
+    $timestampA = strtotime("$monthA $dayA, $yearA");
+    
+    preg_match($pattern, $b['filename'], $mb);
+    $monthB = !empty($mb[1]) ? $mb[1] : 'January';
+    $dayB   = !empty($mb[2]) ? $mb[2] : '1';
+    $yearB  = isset($mb[3]) ? $mb[3] : '1970';
+    $timestampB = strtotime("$monthB $dayB, $yearB");
+    
+    return $timestampB - $timestampA;  // Newest first
+}
         
         $fullCatA = $a['category'];
         $fullCatB = $b['category'];

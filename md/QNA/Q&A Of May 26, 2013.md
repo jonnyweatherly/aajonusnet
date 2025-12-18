@@ -470,7 +470,7 @@ Q: I'll pass and I'll come around.
 
 A: Okay, Michael.
 
-Q: Well, I've had some unfortunate dental needs. I've got a couple of cavities. My dentist wants to use TPA, translucent pallet crystalline aluminum oxide. As a filling.
+Q: Well, I've had some unfortunate dental needs. I've got a couple of cavities. My dentist wants to use TPA, translucent polycrystalline aluminum oxide. As a filling.
 
 A: Because?
 
@@ -480,7 +480,7 @@ A: Just get a regular composite, is this on the top side of a molar? Or is it fa
 
 Q: It's on the front, it's number 27. Actually, I've got smaller ones at 26 and one at 27. He also wanted to use dycal initially. And I've checked that against the Clifford testing that I used, and that's to be counter-indicated for that material. And this is an aluminum type ceramic, but I don't know...
 
-A: Well, it's ceramic. He actually wants to put ceramic filling. Because any time you use a ceramic, you have to drill out twice as much tooth, and you snap it in, and it causes cracking of teeth in many situations. I used to recommend porcelain and ceramic, but because they have to snap them in, too many teeth crack, too many people have extended pain from it, because of the pressure in the tooth, I stopped recommending it. I just say do the composite, the hard plastic. Some of it's high in aluminum, but it's solid there in the plastic, and you use the light to solidify it.
+A: Well, it's ceramic. He actually wants to put a ceramic filling? Because any time you use a ceramic, you have to drill out twice as much tooth, and you snap it in, and it causes cracking of teeth in many situations. I used to recommend porcelain and ceramic, but because they have to snap them in, too many teeth crack, too many people have extended pain from it, because of the pressure in the tooth, I stopped recommending it. I just say do the composite, the hard plastic. Some of it's high in aluminum, but it's solid there in the plastic, and you use the light to solidify it.
 
 Q: Yeah, that's what he has here.
 
@@ -540,11 +540,11 @@ A: You still throw all that off. That's such a minute amount that you can get ri
 
 Q: Would there be a material for pulp capping? He wanted to use a dycal and that seemed... He said that if you don't use something right, I guess this is over the nerve.
 
-A: Well, I usually use BioCalix.
+A: Well, I usually use BioCalex.
 
 Q: What's that?
 
-A: It's a type of calcium. Calcium rock that's powdered. And it's pretty non-toxic, BioCalix.
+A: It's a type of calcium. Calcium rock that's powdered. And it's pretty non-toxic, BioCalex.
 
 Q: So who's your dentist?
 
@@ -1738,11 +1738,7 @@ A: So those actors are big because of all the cooking and the broths and stuff l
 
 Q: So the body is not using the minerals?
 
-A: Look at me. I'm the same size as I was when I was a teenager.
-
-Q: Yeah
-
-A: Same bone structure, nothing's grown.....I just saw my cousin today, I'm a year and a half older, a year and nine months older than he is. His skin is thick, he’s broadened, his nose is huge. I don't get all that because I don't eat cooked food.. I don't have all the cauterized minerals to add all this adipose tissue to my body.
+A: Look at me. I'm the same size as I was when I was a teenager. Same bone structure, nothing's grown.....I just saw my cousin today, I'm a year and a half older, a year and nine months older than he is. His skin is thick, he’s broadened, his nose is huge. I don't get all that because I don't eat cooked food.. I don't have all the cauterized minerals to add all this adipose tissue to my body.
 
 Q: You're saying that the body's not using the minerals.
 
@@ -2052,9 +2048,13 @@ Q: How much value lost by freezing bone marrow?
 
 A: 80% of the value, it's better to eat it rotten and stinky. Protein could be more, but fats are 80% and bone marrow is predominantly fat.
 
-Q: What about refrigerating? Does refrigerating do anything?
+Q: Everybody freezes.
 
-A: It lowers bacteria levels, considerably. That's why you leave it out to get room temperature, to get the bacteria going.
+A: Well, everybody’s not well.
+
+Q: How about about refrigerating? Does refrigerating do anything?
+
+A: It lowers the bacterial levels, considerably. That's why you leave it out to get room temperature, to get the bacteria going.
 
 Q: Beef bone marrow, I didn't like the taste of it. [unintelligible] sometimes I mix a tiny bit of honey with it and it makes it taste so wonderful. Is that okay to put tiny bit of honey with it. Please say yes?
 
@@ -2090,11 +2090,11 @@ A: Yes, absolutely.
 
 Q: I think sometimes there’s a blockage when I go to the bathroom, like sometimes a squeeze through this thin thing,
 
-A: What texture is it?
+A: That's not blockage. What texture is it?
 
 Q: Its soft.
 
-A: You're not constipated, your body is getting everything it can.
+A: You're not constipated, your body is robbing everything out as it can.
 
 Q: I had the same issue and found that eating an avocado in the evening...
 

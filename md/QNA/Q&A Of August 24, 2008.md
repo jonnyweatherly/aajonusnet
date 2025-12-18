@@ -1259,7 +1259,7 @@ only increases it maybe ten percent. Ten percents good but then who has a
 cow...sucking the milk out of a cow right away, you know as soon as you
 refrigerate it, it's lost.
 
-Q: What the fat?
+Q: What, the fat?
 
 A: No, the growth hormone potential.
 
@@ -1860,7 +1860,7 @@ in your body that it's deteriorating the cells. Bacteria, parasites, virus -
 none of them tear the body down and work against you. You don't fight your own
 blood unless it's been poisoned, contaminated and then it's like going after the
 cell because it's a cell because it's contaminated. Auto-immune, get rid of
-that. That is a...a...is a misnomer
+that. That is a misnomer.
 
 Q: So then why when when you take internally a steroid, a cortisone… why does
 that then stop the response in the skin, wherever it was having inflammation it

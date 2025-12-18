@@ -1020,7 +1020,7 @@ Q: Right, so if the issue's there, then how do you get the...
 
 A: Microorganisms.
 
-Q: [unintelligible] In our body.
+Q: Minerals in our body.
 
 A: Oh, in your, well... If you're drinking vegetable juice, you're already doing it.
 

@@ -17,7 +17,7 @@ pinch and not feeling well and having some symptoms - it's always better to
 access it on your computer and get the answers a little bit quicker. As quickly
 as possible but there are always adjustments to make.
 
-A: lot of people say 'well you know I got on the diet; I did great for a year,
+A: A lot of people say 'well you know I got on the diet; I did great for a year,
 year and a half and you know I keep doing the same thing' so I've adjusted it.
 If you're not doing well on it, it means you're not making the proper
 adjustments for your changes. So re-read the books. A lot of people think one

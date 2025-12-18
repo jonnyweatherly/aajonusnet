@@ -478,7 +478,7 @@ Q: I was just wondering what you suggest for treating hemorrhoids. I was reading
 
 A: Yeah, like I say in the book, take just a thin piece of meat and put it up there. You might coat it with a little bit of honey before you put it up there. Sometimes it doesn't stay up there. It slides in and out. You might want to carve a little barbell, a little tiny one so it's got a plug at both ends. So it won't go in and it won't go out. I mean, for one out of ten people, that's a problem. My rectum was always so dry, I didn't have to worry about that. But some people have very lubricated rectums. Most people don't. So that's the best thing you can do. Also, cabbage juice is good.
 
-Q: My brother just finished his chemo two weeks ago. He's had symptoms of mucus [unintelligible]. Is there anything you recommend that he should...
+Q: My brother just finished his chemo two weeks ago. He's had symptoms of mucus [unintelligible] and excruciating pain. Is there anything you recommend that he should...
 
 A: Well, the chemo is coming out of his mucus membranes. So he needs to eat a lot of milkshakes to produce a lot of mucus, to get that out of his system. Because as long as that chemical is staying in his mucus membranes, there's going to be pain, severe pain.
 

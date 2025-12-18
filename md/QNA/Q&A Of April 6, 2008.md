@@ -520,7 +520,7 @@ A: Good, great. Congratulations.
 
 Q: But what I also want to ask you, before you, I've had three surgeries on each knee. Originally it was a climbing accident. But they said trauma induced. [unintelligible], which I think is just arthritis and no cartilage left behind. So what can I do now? I'm still as active as I can be. But can I get back to what I used to be?
 
-A: It takes a while to rebuild that kind of tissue, especially after you have surgery, because they coat it with iodine or mercuricron, which is liquid mercury.
+A: It takes a while to rebuild that kind of tissue, especially after you have surgery, because they coat it with iodine or mercurochrome, which is liquid mercury.
 
 Q: But even before the surgery I couldn't walk. So the surgery seemed to help, but it was a waste of time.
 
