@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 // Absolute filesystem path to your Markdown / Text files root
-$mdFolder = 'md';
+$mdFolder = 'texts';
 
 // Your site base URL
 $baseUrl = 'https://aajonus.net/';

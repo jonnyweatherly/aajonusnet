@@ -1,4 +1,5 @@
 <?php
+
 error_reporting(E_ERROR | E_PARSE);
 
 if (ob_get_level()) {
@@ -27,7 +28,7 @@ foreach ($files as $fileInfo) {
     $contents[$rel] = trim($text);
 }
 
-$json = json_encode($contents, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+$json = json_encode($contents, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_INVALID_UTF8_SUBSTITUTE | JSON_PARTIAL_OUTPUT_ON_ERROR);
 
 header('Content-Type: application/json');
 header('X-Total-Uncompressed-Length: ' . strlen($json));

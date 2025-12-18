@@ -67,6 +67,9 @@ $slug = basename(trim($uri, '/'));
 $originalFile = $slug !== '' ? ($articleMap[strtolower($slug)] ?? null) : null;
 $dynamicTitle = $originalFile ? basename($originalFile) : $siteTitle;
 
+$canonicalUrl = $baseUrl;
+if ($originalFile) $canonicalUrl = $baseUrl . $slug;
+
 $isHome = ($slug === '' || $uri === '/');
 $is404  = !$isHome && !$originalFile && !isset($categoryMap[sanitizeFileName($slug)]);
 if ($is404) {
@@ -81,7 +84,7 @@ if ($is404) {
     <title><?= $dynamicTitle ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php if (!$is404): ?>
-    <link rel="canonical" href="<?= $baseUrl ?>">
+    <link rel="canonical" href="<?= htmlspecialchars($canonicalUrl) ?>">
     <?php endif; ?>
     <base href="/">
     <link rel="stylesheet" href="style.css?v=54">
@@ -112,7 +115,7 @@ if ($is404) {
     <div class="header">
         <div class="title-container">
             <?php if ($originalFile) { ?>
-                <a href="/" class="back-arrow" onclick="goBack()" role="button" aria-label="Go back">
+                <a href="/" class="back-arrow" onclick="goBack(event)" role="button" aria-label="Go back">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><polyline points="13.42,5.41 4,12 13.41,18.59" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                 </a>
             <?php } ?>
@@ -332,7 +335,8 @@ if ($is404) {
         }
         ?>
         </div>
-        <script defer src="/code/findonpage.js?v=2"></script>
+        <script defer src="/code/findonpage.js?v=8" data-findx-css="/code/findx.css?v=1"></script>
+        <!-- <script defer src="/code/findonpage.js?v=2"></script> --!>
     <?php } ?>
     <script src="/code/<?= $script ?>?v=371"></script>
 </body>

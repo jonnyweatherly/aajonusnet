@@ -1,0 +1,17 @@
+@[Video Source](https://facebook.com/watch/?v=794855034629648) - Unfortunately taken down before we had the chance to preserve it.
+
+Date: 2012
+
+Transcribed by Aajonus.net & Rawmeatgang
+
+A = Aajonus, V = Videographer	
+
+V: Okay, we're on.
+
+A: Okay. And we're recording?
+
+V: Yes.
+
+A: Okay. Hi, I'm Dr. Aajonus Vonderplanitz, nutritional scientist and author. There are some people who like to attack me because I'm a good target. I advocate raw meat and raw dairy, all the things that everybody tells you to be afraid of. But one particular person I'm going to talk about today, who talks about my program, is a fellow who calls himself Durian Rider. His real name is Harley Johnston, and he's an Australian fellow, living in Thailand a lot of the time. He attacks me and says that raw meat and all of that stuff is dangerous. But if you take a look at the statistics of all the people who eat raw meat throughout the world, you say, how can that be true? People eat sushi, raw meat, steak tartare, carpaccio, kibbeh, kibbeh nayyeh, all kinds of raw meat dishes throughout the world. And people eat them on a daily basis. I eat them on a daily basis. When I was a fruitarian like Harley Johnston, Durian Rider, I got very sick. I did it for six and a half years while I stuck on that raw vegetarian, fruitarian diet. And I ended up back in cancers again, blood and bone cancer. When I began eating raw meat, here's an interesting tale, when I first ate raw meat, I did it to kill myself because I thought it would kill me. Because I'd been so sick before, the doctors had treated me, severed the vagus nerve to my stomach, so I no longer secreted hydrochloric acid. They said that I would definitely die of bacterial poisoning if I didn't cook everything. So, here I ate raw meat to kill myself because I was so sickly I didn't want to suffer anymore. And the raw meat did just the opposite, it made me healthy. So here I am today, 43 years beyond my death sentence, almost 65 years old, and I'm doing great. So think about that. When you hear people talk about raw meats and raw dairy being a bad thing, it isn't. They don't know. They haven't tried it. I've done it since September 1976 is when I ate my first raw meat. So, you can see how long it's been. A long time. And I'm still here, and I'm still alive and well. And the interesting thing is that thousands of people come to me with grave illnesses, ready for the coffin or crematory. Yet, I put them on these so-called high bacterial foods. Raw meats, raw eggs, raw milk, and they get well. Not everybody, but 95 out of 100 get very well. That's a good average. So, don't be afraid. Don't listen to people like Durian Rider, Harley Johnston, and others who talk about the dangers of those things. The only danger that we have to watch out for are all of the chemicals, dangerous, deadly chemicals that are put in food and food processing. Whether it's colorings, flavorings, aromatics, no matter what it is, they are all chemicals. They are not food and they are dangerous. Sure, it won't kill you outright, but it will slowly. It will destroy your bacteria in your intestines. 90% of digestion is supposed to be bacterial. So it destroys those. It destroys your intestines, cell by cell. So when you get old, like me, most people are crippled and deteriorating. I'm not. So think about it.
+
+V: Okay. Great.

@@ -174,12 +174,15 @@ renderState.partialHeadingShown = false;
   const titleWords = (trimmedSearchValue || '').split(/\s+/).filter(Boolean);
   if (titleWords.length) {
     const fragmentTitle = document.createDocumentFragment();
+    let titleMatchCount = 0;
     cardIndex.forEach(({ card, title, titleText, link }) => {
       if (titleWords.every(w => title.includes(w))) {
         fragmentTitle.appendChild(createResultCard(titleText, [], link));
+        titleMatchCount++;
       }
     });
     results_DOM.appendChild(fragmentTitle);
+    renderState.totalResults = titleMatchCount;
   }
 results_DOM.appendChild(renderState.exactSection);
 results_DOM.appendChild(heading);
@@ -250,7 +253,7 @@ while (renderState.queue.length && (performance.now() - start) < BUDGET_MS) {
 }
   // update summary progressively
 if (renderState.summaryEl) {
-  const txt = `There are ${renderState.totalResults} results.`;
+  const txt = `There ${renderState.totalResults === 1 ? 'is 1 result' : `are ${renderState.totalResults} results`}.`;
   if (renderState.summaryEl.textContent !== txt) renderState.summaryEl.textContent = txt;
 }
 
@@ -276,7 +279,7 @@ function finishRender(seq, totalResultsFromWorker) {
   commitFrags();
 
   const total = totalResultsFromWorker ?? renderState.totalResults;
-  if (renderState.summaryEl) renderState.summaryEl.textContent = `There are ${total} results.`;
+  if (renderState.summaryEl) renderState.summaryEl.textContent = `There ${total === 1 ? 'is 1 result' : `are ${total} results`}.`;
 }
 
 
@@ -311,7 +314,8 @@ function clearSearch() {
     searchInput.focus();
 }
 
-function goBack() {
+function goBack(ev) {
+    if (ev) ev.preventDefault();
     if (document.referrer == "" || document.referrer.indexOf(window.location.hostname) < 0 || window.history.length <= 1) {
         // There is no previous page, go to the homepage
         window.location.href = '/';

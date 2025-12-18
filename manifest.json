@@ -1,20 +1,14 @@
 {
   "name": "Aajonus.net",
   "short_name": "Aajonus",
-  "description": "Raw Primal Aajonus Vonderplanitz Transcriptions",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "logos/favicon.ico",
-      "sizes": "16x16 32x32 48x48",
-      "type": "image/x-icon"
-    },
-    {
       "src": "logos/apple-touch-icon.png",
-      "sizes": "512x512",
+      "sizes": "192x192 512x512",
       "type": "image/png"
     }
   ]

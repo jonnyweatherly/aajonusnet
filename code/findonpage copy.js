@@ -12,7 +12,6 @@
       down: 'find-on-page-down',
       close: 'find-on-page-close',
       count: 'find-on-page-count',
-      clear: 'find-on-page-clear',
     },
     highlightClass: 'find-on-page-highlight',
     currentClass: 'find-on-page-highlight-current',
@@ -48,24 +47,20 @@
   let currentResultIndex = -1;
 
   // ---------- Layout helpers ----------
-
-// ---------- Always-on-top ----------
-function pinToTop() {
-  const bar = el(cfg.ids.bar);
-  if (!bar) return;
-
-  bar.style.position = 'fixed';
-  bar.style.top = '0px'; // keeps it below the notch if applicable
-  bar.style.left = '0';
-  bar.style.right = '0';
-  bar.style.bottom = 'auto'; // clear any old bottom styles
-  bar.style.zIndex = '2147483647';
-    requestAnimationFrame(() => {
-    const r = bar.getBoundingClientRect();
-    if (r.bottom <= 0 || r.top < -2) bar.style.top = '0px';
-  });
-}
-
+  function updateFindOnPagePosition() {
+    const bar = el(cfg.ids.bar);
+    if (!bar) return;
+    if (global.visualViewport) {
+      const { innerHeight } = global;
+      const { height: vvHeight, offsetTop } = global.visualViewport;
+      let kbHeight = innerHeight - (vvHeight + offsetTop);
+      if (kbHeight < 0) kbHeight = 0;
+      bar.style.bottom = kbHeight + 'px';
+    } else {
+      bar.style.bottom = '0';
+    }
+    if (isPWA()) bar.style.paddingBottom = 'calc(env(safe-area-inset-bottom, 0px) + 50px)';
+  }
 
   // ---------- Highlighting ----------
   function clearHighlights() {
@@ -96,19 +91,8 @@ function pinToTop() {
     }
   }
 
-  const toggleClear = () => {
-    const b = el(cfg.ids.clear), i = el(cfg.ids.input);
-    if (b && i) b.style.display = i.value && i.value.length ? 'inline-flex' : 'none';
-  };
-
-  const clearInput = () => {
-    const i = el(cfg.ids.input);
-    if (!i) return;
-    i.value = '';
-    performSearch();
-    toggleClear();
-    i.focus();
-  };
+  const prefersReduced = () =>
+  global.matchMedia?.('(prefers-reduced-motion: reduce)')?.matches;
 
   const isKeyboardOpen = () =>
     global.visualViewport && (global.innerHeight - global.visualViewport.height > 100);
@@ -122,7 +106,7 @@ function pinToTop() {
     const rect = result.getBoundingClientRect();
     const viewportH = global.visualViewport ? global.visualViewport.height : global.innerHeight;
     const scrollY = global.scrollY + rect.top - viewportH / 2 + rect.height / 2;
-    global.scrollTo({ top: scrollY, behavior: 'auto' });
+    global.scrollTo({ top: scrollY, behavior: (isPWA() || prefersReduced()) ? 'auto' : 'smooth' });
     updateCurrentResultHighlight();
   }
 
@@ -208,10 +192,9 @@ function pinToTop() {
     const input = el(cfg.ids.input);
     if (input) {
       input.focus();
-      toggleClear();
       if (input.value.trim() !== '') performSearch();
     }
-    pinToTop();
+    updateFindOnPagePosition();
   }
 
   function hide() {
@@ -230,27 +213,28 @@ function pinToTop() {
     const up = el(cfg.ids.up);
     const down = el(cfg.ids.down);
     const closeBtn = el(cfg.ids.close);
-    const clearBtn = el(cfg.ids.clear);
 
     if (activator) activator.addEventListener('click', show);
 
     if (input) {
-      const run = debounce(performSearch, 300);
-      input.addEventListener('input', () => { toggleClear(); run(); });
+      input.addEventListener('input', debounce(performSearch, 300));
       input.addEventListener('keydown', (e) => {
         if (e.key === 'Enter') { e.preventDefault(); e.shiftKey ? moveToPreviousResult() : moveToNextResult(); }
         else if (e.key === 'Escape') { e.preventDefault(); hide(); }
       });
     }
 
-    if (clearBtn) {
-      clearBtn.addEventListener('click', clearInput);
-      clearBtn.addEventListener('dblclick', (e) => e.preventDefault(), { passive:false });
-    }
-
     if (up) up.addEventListener('click', moveToPreviousResult);
     if (down) down.addEventListener('click', moveToNextResult);
     if (closeBtn) closeBtn.addEventListener('click', hide);
+
+    if (activator && global.visualViewport) {
+      global.visualViewport.addEventListener('resize', updateFindOnPagePosition);
+      global.visualViewport.addEventListener('scroll', updateFindOnPagePosition);
+      global.addEventListener('focusin', updateFindOnPagePosition);
+      global.addEventListener('focusout', () => setTimeout(updateFindOnPagePosition, 50));
+      global.addEventListener('scroll', updateFindOnPagePosition);
+    }
 
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && isOpen()) {
@@ -279,18 +263,14 @@ function pinToTop() {
       wrap.innerHTML = `
         <div class="find-on-page-content">
           <button id="${cfg.ids.close}" type="button" aria-label="Close find on page">✕</button>
-          <div class="find-on-page-input-wrap">
-            <input id="${cfg.ids.input}" type="text" placeholder="Find on page" role="searchbox" aria-label="Find text on page" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false">
-            <button id="${cfg.ids.clear}" class="find-on-page-clear" type="button" aria-label="Clear search">✕</button>
-          </div>
-          <div id="${cfg.ids.count}" aria-live="polite" aria-atomic="true">0 of 0</div>
+          <input id="${cfg.ids.input}" type="text" placeholder="Find on Page" role="searchbox" aria-label="Find text on page" autocomplete="off" spellcheck="false">
+          <div id="${cfg.ids.count}" aria-live="polite" aria-atomic="true"></div>
           <div class="find-on-page-buttons">
             <button id="${cfg.ids.up}" type="button" aria-label="Previous result">▲</button>
             <button id="${cfg.ids.down}" type="button" aria-label="Next result">▼</button>
           </div>
         </div>`;
       document.body.appendChild(wrap);
-      pinToTop();
     }
   }
 
@@ -299,7 +279,7 @@ function pinToTop() {
     const link = document.createElement('link');
     link.id = 'find-on-page-css';
     link.rel = 'stylesheet';
-    link.href = '/code/findonpage.css?v=2';
+    link.href = '/code/findonpage.css?v=1';
     document.head.appendChild(link);
   }
 
