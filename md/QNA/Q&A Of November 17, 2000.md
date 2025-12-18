@@ -1046,7 +1046,7 @@ A: Occasionally.
 G: Why is Trinity toxic?
 
 A: Because it is treated water – electrically treated water. They treat it
-with some kind of electric current. It is like gator-aid – they say it is ion
+with some kind of electric current. It is like gatorade – they say it is ion
 active. It is a chemical process. You can make natural chlorine with an
 electrical machine. You can force an electrical formaldehyde in water with
 certain electrical currents. That is the thing with [inaudible] water; it

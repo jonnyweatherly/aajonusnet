@@ -24,26 +24,26 @@ On that card, I suggest that you type the following on the front-side:
 
 ### In Case of Injury or Unconsciousness, The Following Medical Procedures Apply
 
-Absolutely NO medications of any kind except those mentioned permissible herein can be utilized on or in my body.
+* Absolutely NO medications of any kind except those mentioned permissible herein can be utilized on or in my body.
 
-Absolutely NO antibiotics, vaccines or antiseptics are to be used, applied, administered or injected into me at any time for any reason.
+* Absolutely NO antibiotics, vaccines or antiseptics are to be used, applied, administered or injected into me at any time for any reason.
 
-If unconscious without severe injury, NO medical procedures are to be performed on me. I am to be left alone until I recover consciousness. Once conscious, I will decide if any help is necessary.
+* If unconscious without severe injury, NO medical procedures are to be performed on me. I am to be left alone until I recover consciousness. Once conscious, I will decide if any help is necessary.
 
-Alcohol (non-wood) may be used sparingly, applied to wounds only and not used internally.
+* Alcohol (non-wood) may be used sparingly, applied to wounds only and not used internally.
 
-Pain relievers and narcotics may be utilized only upon my conscious request. Absolutely NO Injected or IV anesthesia. Gaseous anesthesia may be used for emergency surgery in
+* Pain relievers and narcotics may be utilized only upon my conscious request. Absolutely NO Injected or IV anesthesia. Gaseous anesthesia may be used for emergency surgery in
 cases listed below.
 
-If bones appear to be broken, only 2 x-rays may be taken and in case of bone fragmentation,
+* If bones appear to be broken, only 2 x-rays may be taken and in case of bone fragmentation,
 the least surgical repairs may be performed but only with my conscious approval.
 
 Type the following on the backside of the card, laminate it and keep it with you at all times:
 
-If dismemberment occurred, surgical procedures to reattach member may be performed
+* If dismemberment occurred, surgical procedures to reattach member may be performed
 excluding tetanus, antibiotics and antiseptics except non-wood alcohol used sparingly.
 
-Blood transfusions must be kept to minimum and at least one of the following donors’
+* Blood transfusions must be kept to minimum and at least one of the following donors’
 blood only is to be used in me unless donors are unreachable in reasonable time:
 
 ______________________________________________________________________________ 

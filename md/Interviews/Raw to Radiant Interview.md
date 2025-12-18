@@ -4,7 +4,7 @@ Transcribed by Aajonus.net & Rawmeatgang
 
 K = Kim (Host), A = Aajonus
 
-[Intro]: Opinions, Options, Answers, you're listening to Voice America Health and Wellness. Good afternoon and welcome to Raw to Radiant with host and nutritional consultant Kim Cohen. Discover how truly raw foods support a life of radiant health and vitality. Now here's your host, Kim Cohen.
+[Intro] Opinions, Options, Answers, you're listening to Voice America Health and Wellness. Good afternoon and welcome to Raw to Radiant with host and nutritional consultant Kim Cohen. Discover how truly raw foods support a life of radiant health and vitality. Now here's your host, Kim Cohen.
 
 K: Hello everyone and welcome to Raw to Radiant. The purpose of this show is to discuss how nutritional deficiencies and environmental toxins, including toxins created from cooked foods, contribute to the modern day diseases we know of today. And how incorporating raw foods into your diet can support a life of health and wellness free of disease. I'm your host, Kim Cohen, and I'm so excited to have Dr. Aajonus Vonderplanitz with me today. Dr. Vonderplanitz has a Ph.D. in nutrition and cured himself of blood, bone and stomach cancers, as well as developmental autism, diabetes, bursitis, psoriasis and angina, all of which he had developed by the age of 20 years old. If you've listened to my show before, you've heard me reference Dr. Vonderplanitz numerous times, as he is truly one of the only modern day nutritional scientists that has actually studied how a raw diet, including raw meats and raw dairy products, leads to a life of health and vitality. Dr. Vonderplanitz also wrote the expert report that reversed a 38-year ban on raw dairy in the state of California. Dr. Vonderplanitz, are you there?
 
@@ -58,11 +58,11 @@ K: We're going to take a real quick two-minute break here, and we'll be right ba
 
 [music]
 
-[Intermission]: You're listening to Voice America Health and Wellness. Rawtoradiant.com is the ultimate source of information on raw foods, health, and wellness. Here you'll find the latest articles on how both cooked and raw foods affect our well-being. Browse the store to shop for everything you need to transition life-giving raw foods into your current diet and lifestyle. Find books, CDs, juicers, blenders, raw living minerals, raw foods, and amazing skin care products. Make sure to check the calendar of events for Kim's schedule of lectures and workshops. Rawtoradiant.com, raw foods to radiant health. You're listening to Voice America Health and Wellness.
+[Intermission] You're listening to Voice America Health and Wellness. Rawtoradiant.com is the ultimate source of information on raw foods, health, and wellness. Here you'll find the latest articles on how both cooked and raw foods affect our well-being. Browse the store to shop for everything you need to transition life-giving raw foods into your current diet and lifestyle. Find books, CDs, juicers, blenders, raw living minerals, raw foods, and amazing skin care products. Make sure to check the calendar of events for Kim's schedule of lectures and workshops. Rawtoradiant.com, raw foods to radiant health. You're listening to Voice America Health and Wellness.
 
 [ads]
 
-[Intermission]: You're listening to Raw to Radiant with host Kim Cohen. If you have a question for Kim or your guest, call now. Our toll-free number is 1-866-472-5792. That number again is 1-866-472-5792. Now back to Raw to Radiant.
+[Intermission] You're listening to Raw to Radiant with host Kim Cohen. If you have a question for Kim or your guest, call now. Our toll-free number is 1-866-472-5792. That number again is 1-866-472-5792. Now back to Raw to Radiant.
 
 K: Welcome back to Raw to Radiant. I'm your host, Kim Cohen, and today we're talking with Dr. Aajonus Vonderplanitz about the health benefits of raw unpasteurized dairy. And I apologize, we had to go to a commercial right between a thought there, so if you can go ahead and continue on what you were talking about earlier.
 
@@ -146,13 +146,13 @@ K: Yep. Well, we have to take another quick break here. And we'll be back right 
 
 [ads]
 
-[ad]: Hey kid, over here, inside your radio. Name's Ralph. I'm an energy hog. Hey, if you're going to waste energy in your home, I'm going to pig out on it. Anyway, I've got a deal for you. There's this new website called energyhog.org. Forget about it. It teaches kids how to get rid of us energy hogs. So you promise not to log on to energyhog.org, and I promise not to eat your radio. Deal? A public service announcement brought to you by the U.S. Department of Energy and the Ad Council.
+[ad] Hey kid, over here, inside your radio. Name's Ralph. I'm an energy hog. Hey, if you're going to waste energy in your home, I'm going to pig out on it. Anyway, I've got a deal for you. There's this new website called energyhog.org. Forget about it. It teaches kids how to get rid of us energy hogs. So you promise not to log on to energyhog.org, and I promise not to eat your radio. Deal? A public service announcement brought to you by the U.S. Department of Energy and the Ad Council.
 
-[ad]: Hey, how you doing? Educational videos. Top quality. Right here. You'll never hear anyone selling education on the street, but with free family learning programs, you can get the education you need. Call 1-877-FAMLIT-1 for information on free learning programs. 1-877-FAMLIT-1. Check it out, check it out. I want your GED right here, guaranteed, ma. Come on, check it out. Free family learning programs from the National Center for Family Literacy. Brought to you by the National Center for Family Literacy and the Ad Council.
+[ad] Hey, how you doing? Educational videos. Top quality. Right here. You'll never hear anyone selling education on the street, but with free family learning programs, you can get the education you need. Call 1-877-FAMLIT-1 for information on free learning programs. 1-877-FAMLIT-1. Check it out, check it out. I want your GED right here, guaranteed, ma. Come on, check it out. Free family learning programs from the National Center for Family Literacy. Brought to you by the National Center for Family Literacy and the Ad Council.
 
-[ad]: Your life, your health, your network. Voice America Health and Wellness.
+[ad] Your life, your health, your network. Voice America Health and Wellness.
 
-[Intermission]: You're listening to Raw to Radiant with host Kim Cohen. If you have a question for Kim or her guest, call now. Our toll free number is 1-866-472-5792. The number again is 1-866-472-5792. Now back to Raw to Radiant.
+[Intermission] You're listening to Raw to Radiant with host Kim Cohen. If you have a question for Kim or her guest, call now. Our toll free number is 1-866-472-5792. The number again is 1-866-472-5792. Now back to Raw to Radiant.
 
 K: Welcome back to Raw to Radiant. I'm your host, Kim Cohen, and today we're talking with Dr. Aajonus Vonderplanitz about the health benefits of raw unpasteurized dairy. And I know that there's something specific that you wanted to talk about in this next segment. Go right ahead, Aajonus.
 
@@ -228,11 +228,11 @@ K: Well, we're going to take our last break right now, and when we come back, we
 
 [music]
 
-[Intermission]: Opinions, options, answers. Voice America Health and Wellness. 
+[Intermission] Opinions, options, answers. Voice America Health and Wellness. 
 
-[ad]: Marissa, are you ready yet? I know you can hear me. You are not missing school again. Marissa. You trying to be a nobody or something? Let's go. All right, then. Hit it. I know you can hear this. Hey, guys, move closer. That's it. Girls, I am not leaving. Hey, whatever it takes, don't let your friends drop out. A real friend can make all the difference. Cut that noise, yo. I'm coming. Took you long enough. Thanks for the help, guys. For more ways to help, go to OperationGraduation.com, a public service message from the U.S. Army and the Ad Council.
+[ad] Marissa, are you ready yet? I know you can hear me. You are not missing school again. Marissa. You trying to be a nobody or something? Let's go. All right, then. Hit it. I know you can hear this. Hey, guys, move closer. That's it. Girls, I am not leaving. Hey, whatever it takes, don't let your friends drop out. A real friend can make all the difference. Cut that noise, yo. I'm coming. Took you long enough. Thanks for the help, guys. For more ways to help, go to OperationGraduation.com, a public service message from the U.S. Army and the Ad Council.
 
-[Intermission]: RawToRadiant.com is the ultimate source of information on raw foods, health, and wellness. Here you will find the latest articles on how both cooked and raw foods affect our well-being. Browse the store to shop for everything you need to transition life giving raw foods into your current diet and lifestyle. Find books, CDs, juicers, blenders, raw living minerals, raw foods, and amazing skin care products. Make sure to check the calendar of events for Kim's schedule of lectures and workshops. RawToRadiant. Raw foods to radiant health. Your life, your health, your network. This is Voice America Health & Wellness. You're listening to RawToRadiant with host Kim Cohen. If you have a question for Kim or her guest, call now. Our toll-free number is 1-866-472-5792. That number again is 1-866-472-5792. Now back to RawToRadiant.
+[Intermission] RawToRadiant.com is the ultimate source of information on raw foods, health, and wellness. Here you will find the latest articles on how both cooked and raw foods affect our well-being. Browse the store to shop for everything you need to transition life giving raw foods into your current diet and lifestyle. Find books, CDs, juicers, blenders, raw living minerals, raw foods, and amazing skin care products. Make sure to check the calendar of events for Kim's schedule of lectures and workshops. RawToRadiant. Raw foods to radiant health. Your life, your health, your network. This is Voice America Health & Wellness. You're listening to RawToRadiant with host Kim Cohen. If you have a question for Kim or her guest, call now. Our toll-free number is 1-866-472-5792. That number again is 1-866-472-5792. Now back to RawToRadiant.
 
 K: Welcome back. I'm Kim Cohen. Today we're talking with Dr. Aajonus Vonderplanitz about the health benefits of raw unpasteurized dairy. Aajonus, I know you want to touch on a couple of things real quickly here.
 
@@ -282,4 +282,4 @@ K: Don't miss our show next week. We're going to have Debra M. Dodd, and Debra i
 
 A: Thank you.
 
-[Outro]: We hope you've enjoyed today's episode of Raw to Radiant. If you would like to learn more about Kim or healthy living with raw foods, visit Kim's website at www.rawtoradiant.com.
+[Outro] We hope you've enjoyed today's episode of Raw to Radiant. If you would like to learn more about Kim or healthy living with raw foods, visit Kim's website at www.rawtoradiant.com.

@@ -52,7 +52,7 @@ the back seat with me during the accident; she had a severe concussion, and
 went blind for a while. She is somewhat restored now but she goes in and out
 of energy, she can't drive, she is still in pretty bad shape. She took all
 that medication to not go into seizure, and to keep the brain from swelling
-which means you don't remove... [see next sentence for continuity]:
+which means you don't remove... [see next sentence for continuity]
 
 If you don't have the swelling, you don't get the extra nutrients into
 the brain to remove the bruised tissue, brain tissue, so basically you are

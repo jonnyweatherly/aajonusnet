@@ -124,7 +124,7 @@ AV’s friends, Larry Otting and Wasma who went to help settle his affairs after
 
 ![[aajonusdeath_larry-otting-and-wasma.jpg]]
 
-Watch [Aajonus Vonderplanitz’s friends discuss his death in Thailand](https://odysee.com/@getrawmilk:d/aajonus-vonderplanitz-friends-discuss-his-death) [(Transcribed here)](/aajonus-death-what-actually-happened)
+Watch [Aajonus Vonderplanitz’s friends discuss his death in Thailand](https://archive.org/details/aajonus-death-what-actually-happened) [(Transcribed here)](/aajonus-death-what-actually-happened)
 
 ### Memorial service held of Aajonus Vonderplanitz
 

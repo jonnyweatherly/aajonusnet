@@ -248,11 +248,11 @@ A: Yep.
 
 P: Aajonus Vonderplanitz and 888-663-6386. Hi, what's your first name? Where are you calling from?
 
-[Adam]: Hey, Patrick, it's Adam from Toronto. How are you doing?
+Adam: Hey, Patrick, it's Adam from Toronto. How are you doing?
 
 P: Hi, Adam from Toronto. You're on the air with Aajonus Go ahead.
 
-[Adam]: Yeah, so actually about two months ago, I started adding in raw animal products. I started with eggs. Actually, I just left off the 80-10-10 diet, which I was having a lot of trouble with, heavy quantities of fruit. And so, yeah, I actually started. I wanted to start the primal diet initially, but I actually couldn't get any dairy, so I was just starting with the raw meats and stuff. I just wanted to talk a little bit about some of the problems I had initially, which was I didn't really feel that it was... I didn't understand how important it was to get grass-fed meat. I didn't understand how sensitive my stomach was. And what ended up happening was I was eating all this beef, and it was tasting great, all this raw beef, but it was grain-fed. And I could taste the grains in the flesh at times. And then what started happening is my skin started drying up and getting like it was on fire, and my hair started falling out. This happened really quickly, too. It was actually very shocking. And then I started buying grass-fed beef, and then I noticed the taste, the difference in the taste of the beef almost immediately, and my problems went away, snap of the finger. But then what ended up happening was I realized that I kept buying grass-fed beef from the same source, but they were getting it from different farms, and some farms were feeding their animals grass-fed, but some were obviously lying about it. And then my problems started to come back. I finally found a source here in Toronto. They don't feed it 100% grass, but at least it's not grain. It seems to be – I think it's grain that was causing all these problems. But, yeah, I'm just giving people a warning that don't be surprised when people lie to you about what they're selling you.
+Adam: Yeah, so actually about two months ago, I started adding in raw animal products. I started with eggs. Actually, I just left off the 80-10-10 diet, which I was having a lot of trouble with, heavy quantities of fruit. And so, yeah, I actually started. I wanted to start the primal diet initially, but I actually couldn't get any dairy, so I was just starting with the raw meats and stuff. I just wanted to talk a little bit about some of the problems I had initially, which was I didn't really feel that it was... I didn't understand how important it was to get grass-fed meat. I didn't understand how sensitive my stomach was. And what ended up happening was I was eating all this beef, and it was tasting great, all this raw beef, but it was grain-fed. And I could taste the grains in the flesh at times. And then what started happening is my skin started drying up and getting like it was on fire, and my hair started falling out. This happened really quickly, too. It was actually very shocking. And then I started buying grass-fed beef, and then I noticed the taste, the difference in the taste of the beef almost immediately, and my problems went away, snap of the finger. But then what ended up happening was I realized that I kept buying grass-fed beef from the same source, but they were getting it from different farms, and some farms were feeding their animals grass-fed, but some were obviously lying about it. And then my problems started to come back. I finally found a source here in Toronto. They don't feed it 100% grass, but at least it's not grain. It seems to be – I think it's grain that was causing all these problems. But, yeah, I'm just giving people a warning that don't be surprised when people lie to you about what they're selling you.
 
 P: Aajonus, have you heard this story before, the difference between the grain and the grass-fed?
 
@@ -276,7 +276,7 @@ A: Yes, well, it can be. You don't need much cream to feed the nervous system. T
 
 P: Adam, did you have another question or a follow-up?
 
-[Adam]: Actually, I had two. The first one was is that in your book you emphasize on the veggie juices, but among a lot of the raw paleo community, a lot of them seem to feel right now that vegetables are toxic and that especially veggie juices release too many carcinogens in the body. What are your thoughts on that belief?
+Adam: Actually, I had two. The first one was is that in your book you emphasize on the veggie juices, but among a lot of the raw paleo community, a lot of them seem to feel right now that vegetables are toxic and that especially veggie juices release too many carcinogens in the body. What are your thoughts on that belief?
 
 A: Well, if they're not, you know, a lot of your paleos, and it's funny they say paleolithic because they never lived in the paleo or they don't remember any lives as far as I know, that they lived in the paleo times, and most of them believe that a lot of fruit is important. However, when I lived outdoors for three years traveling all over North America from Alaska with the Eskimos all the way down to the Mayans in Mexico, there's very little fruit, only if man cultivates it. So the idea that man in his earlier days and primitive days and paleo times ate a lot of fruit is absolute nonsense.
 
@@ -298,27 +298,27 @@ A: Well, I like, let's say I'm eating dates, I'll eat cheese or butter and chees
 
 P: And your other question, Adam?
 
-[Adam]: Yeah, one of the things that started happening to me before I went raw about a year ago was that the lymph nodes on the right side of my neck started swelling big time. And I had a lot of indigestion problems, and I'm still dealing with those. But when I actually went to the ER a few months ago to get checked out, one of the things that they noticed was that my spleen was enlarged big time. So a swollen lymph node, enlarged spleen. But they were also noting to me that I was very pale and a paleish yellow, but they didn't notice any jaundice in my blood test. So I'm just wondering what you would recommend for that.
+Adam: Yeah, one of the things that started happening to me before I went raw about a year ago was that the lymph nodes on the right side of my neck started swelling big time. And I had a lot of indigestion problems, and I'm still dealing with those. But when I actually went to the ER a few months ago to get checked out, one of the things that they noticed was that my spleen was enlarged big time. So a swollen lymph node, enlarged spleen. But they were also noting to me that I was very pale and a paleish yellow, but they didn't notice any jaundice in my blood test. So I'm just wondering what you would recommend for that.
 
 A: Well, it's normal for people to have enlarged spleens if they've done a high fruit diet.
 
-[Adam]: Oh, really?
+Adam: Oh, really?
 
 A: Yeah. What it does is it causes a lot of white blood cell loss, and the body is over-manufacturing red blood cells normally. So they collect in the bone marrow where your red and white blood cells divide and mature. You only have so many. You have a ratio of red to white blood cells. So if the body is trying to pump out more white blood cells, it's going to be over-producing red blood cells at the same time, and the spleen holds your extra red blood cells.
 
 P: That answers it for you. Adam?
 
-[Adam]: Yeah, what would you recommend nutrition-wise?
+Adam: Yeah, what would you recommend nutrition-wise?
 
 A: I wouldn't eat red meat. I would eat chicken and fish.
 
 P: Chicken and fish.
 
-[Adam]: Right. Okay.
+Adam: Right. Okay.
 
 P: Thanks, Adam.
 
-[Adam]: Thank you.
+Adam: Thank you.
 
 P: I was going to ask you about that. Actually, you eat raw chicken.
 
@@ -370,17 +370,17 @@ A: Correct, yes.
 
 P: Okay. And your website is wewant2live.com. My name is Patrick Timpone. We're going to talk with a gentleman who says if you ever have to go to court, he can show you how to not go and just win. It's called abatement, and he did it with a grand jury, a four-count grand jury, and never had to show up and never did anything, and it just went away. That's good information. That's tomorrow night, 7 o'clock, and then the Horizon Project tomorrow night where they're melding prophecy and science all about the Earth changes and kind of possibly wild times coming ahead and maybe nothing will happen, but that'll be tomorrow night, 7 o'clock, right here at oneradionetwork.com. Let's go back to the phones. Hi, what's your first name? Where are you calling from?
 
-[Mike]: Hi, Patrick. This is Mike in Chattanooga.
+Mike: Hi, Patrick. This is Mike in Chattanooga.
 
 P: Hi. Hello, Mike. How are you?
 
-[Mike]: I'm doing super. I got a question for Aajonus.  My question to him is my dad was diagnosed 30 days ago with cancer of the lymphatic system and the bone cancer, and so we went and seen two different herb doctors, and, you know, they use the eye dollies where they look at the eyes.
+Mike: I'm doing super. I got a question for Aajonus.  My question to him is my dad was diagnosed 30 days ago with cancer of the lymphatic system and the bone cancer, and so we went and seen two different herb doctors, and, you know, they use the eye dollies where they look at the eyes.
 
 P: Iridology.
 
 A: Right. That's what I do.
 
-[Mike]: And so both of them come up with the same conclusion. They're saying that my dad, since he's in the bad state, his digestive tract isn't working at all, really, that he must eat cooked food. And so because we used to have him on raw, and he wasn't doing very good on it at all, and so they recommended him to eat nothing but cooked vegetables right now for the next couple months. And then as his digestive tract comes back on, then they do recommend the raw diet.
+Mike: And so both of them come up with the same conclusion. They're saying that my dad, since he's in the bad state, his digestive tract isn't working at all, really, that he must eat cooked food. And so because we used to have him on raw, and he wasn't doing very good on it at all, and so they recommended him to eat nothing but cooked vegetables right now for the next couple months. And then as his digestive tract comes back on, then they do recommend the raw diet.
 
 A: Well, the problem with most of your nutritionists is they've never been sick, and they don't know what they're talking about. They're just repeating from other people, and they really don't know how to balance it. If your father was eating vegetables, like I said earlier in the show, he's not going to digest well, especially if he has a low digestive ability. But people who have low digestibility, if he has bone cancer, it's likely he has digestive problems like Crohn's, and he needs to eat lots of raw eggs, but he needs good quality raw eggs. And they digest in 27 minutes, so his body spends very little energy in digestion and will spend the energy and nutrients in healing and detoxifying.
 
@@ -388,11 +388,11 @@ P: Raw eggs.
 
 A: Lots of raw eggs. And of course butter.
 
-[Mike]: Okay, because they've only given him two months to live. He's really weak, and so I have to take him to a colonics, have him washed out every couple of days.
+Mike: Okay, because they've only given him two months to live. He's really weak, and so I have to take him to a colonics, have him washed out every couple of days.
 
 A: That's not a good thing.
 
-[Mike]: But the thing is, he's doing better every day. It's like we get these poisons out of him. It's like he keeps doing better and better, leaps and bounds.
+Mike: But the thing is, he's doing better every day. It's like we get these poisons out of him. It's like he keeps doing better and better, leaps and bounds.
 
 A: But the problem there is you're rushing E. coli into the system, and E. coli is responsible for feeding the brain and nervous system. However, what it does is it pushes the E. coli out of the bowel, and then you have a very low colony. So what happens in about six months is it does the opposite. He starts breaking down. E. coli is the final stage of digestion for proteins and fats to feed the brain and nervous system.
 
@@ -406,15 +406,15 @@ A: Correct.
 
 P: I see.
 
-[Mike]: Okay. So what do you think, Dad? You know, a weak guy like... All right, let's say that I put him on, you know, like a dozen eggs a day. What all do you recommend?
+Mike: Okay. So what do you think, Dad? You know, a weak guy like... All right, let's say that I put him on, you know, like a dozen eggs a day. What all do you recommend?
 
 A: How tall is he?
 
-[Mike]: 5'10". He weighs, say, 170 pounds.
+Mike: 5'10". He weighs, say, 170 pounds.
 
 A: Yeah, that's pretty thin.
 
-[Mike]: Yeah, he's really thin.
+Mike: Yeah, he's really thin.
 
 A: Yeah, so what I would say is he needs probably about 18 to 24 eggs a day. And he needs, you know, some raw butter and honey together. Those are always the easiest things to eat and digest. And a little bit of vegetable juice a day.
 
@@ -426,7 +426,7 @@ P: And what do the vegetables add to that mix? What are they doing?
 
 A: Well, that's allowing the acidity from the toxins that have caused his cancer to neutralize them with the alkalizing minerals. It also delivers minerals and substances and enzymes for digestive activity.
 
-[Mike]: Exactly. Now, here's one of the things they want to add to his diet is wheatgrass. They'd like for him to do that a lot.
+Mike: Exactly. Now, here's one of the things they want to add to his diet is wheatgrass. They'd like for him to do that a lot.
 
 A: Very bad.
 
@@ -450,7 +450,7 @@ P: I thought Ann Wigmore had all this success with doing the wheatgrass stuff wi
 
 A: No. Most people who reverse cancer have only reversed maybe 20 to 35% on her diet. And according to Hardin B. Jones, who's Emeritus of Medical Physics and Physiology at Berkeley for almost 40-some years, when he observed cancer, that's what he followed and studied and observed, he found that people normally, this was in the 50s, 60s, and 70s, that they reversed cancer on their own without doing anything else, not changing your diet or anything. So cancer was like flu. It had its course. The course may run three to five years, but it left alone, without the... And he was against medical therapies of any kind because he called butchering, burning, and poisoning the three different systems of the medical profession. I went through all three of them, and they made me an invalid.
 
-[Mike]: Hey, Patrick, can I add one more thing to this? You know Dr. William Kelly, he wrote the book One Answer to Cancer? I had the pleasure of talking to him on the telephone maybe 15 or 16 times over a five- to seven-year period, and he told me how he cured himself when he had pancreatic cancer. He said that what he did is he took raw liver, you know, like beef liver, and ate it, put it into a blender, and blended it up with tomato juice because he didn't like the taste of the liver. So he put it, you know, mixed like tomato juice or some kind of juice like that to it so he liked it. And he did that three times a day, every day, and at the end of the year, he was 100% cured of his pancreatic cancer.
+Mike: Hey, Patrick, can I add one more thing to this? You know Dr. William Kelly, he wrote the book One Answer to Cancer? I had the pleasure of talking to him on the telephone maybe 15 or 16 times over a five- to seven-year period, and he told me how he cured himself when he had pancreatic cancer. He said that what he did is he took raw liver, you know, like beef liver, and ate it, put it into a blender, and blended it up with tomato juice because he didn't like the taste of the liver. So he put it, you know, mixed like tomato juice or some kind of juice like that to it so he liked it. And he did that three times a day, every day, and at the end of the year, he was 100% cured of his pancreatic cancer.
 
 A: Yeah, that was Dr. Beeler's cure.
 
@@ -460,7 +460,7 @@ A: Dr. Beeler's cure.
 
 P: Uh-huh. Wow, that's pretty well. Thanks for the call. All the best. Let us know if we can help with your dad.
 
-[Mike]: Yes, sir. Thank you so much for your help.
+Mike: Yes, sir. Thank you so much for your help.
 
 P: Oh, yeah, my pleasure.
 

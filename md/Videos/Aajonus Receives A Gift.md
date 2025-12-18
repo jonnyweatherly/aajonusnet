@@ -2,6 +2,8 @@
 
 Date: 1 May 2011
 
+Transcribed by Aajonus.net & Rawmeatgang
+
 A = Aajonus, H = Host
 
 H: ... maybe shocked. So, um-

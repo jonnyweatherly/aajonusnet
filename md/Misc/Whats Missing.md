@@ -2,6 +2,13 @@ The audio/transcripts for these events are missing. Please contact aajonus at ik
 
 (Announcements from [RawPaleoDietForum.com](https://web.archive.org/web/20210125194635/https://www.rawpaleodietforum.com/index.php?topic=184.0))
 
+Unknown
+- The Aware Radio Show with Lisa Garr
+- The Big Picture with Morgan Williams Radio Show
+
+1997
+- October 27 - Dr Robert Atkins Radio Show Interview 
+
 2008
 - September 6–9 – Aspen/Carbondale, CO: Lecture, workshop, potluck, and iridology consults.
 - September 27–29 – Edmonton, Canada event. - UNCLEAR if this ever happened.
@@ -24,6 +31,7 @@ The audio/transcripts for these events are missing. Please contact aajonus at ik
 2010
 - March 27 – Lake Worth, FL: Free lecture and workshop.
 - May 10 – Dayton, OH: Private consults.
+- September 11 - Food Chain Radio, Show #698 (Gods that damn food). [(link)](https://www.foodchainradio.com/)
 - October 9 – Sedona, AZ: Free lecture and workshop.
 - October 30 – St. Louis, MO: Workshop.
 - November 6–7 – San Jose, CA: Lecture, workshop, and consults.

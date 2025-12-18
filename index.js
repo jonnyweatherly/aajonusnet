@@ -1,5 +1,7 @@
+const EMOJI_VS = /[\uFE0E\uFE0F]/g; // Ignore emoji variation selector
+
 async function search(input) {
-    const searchValue = input.value.toLowerCase();
+    const searchValue = input.value.replace(EMOJI_VS, '').toLowerCase();
     const trimmedSearchValue = searchValue.trim();
     const catBar = document.querySelector('.categories');
     const grid = document.querySelector('.grid');
@@ -134,6 +136,11 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
             if (start < lastWindowEnd) start = lastWindowEnd;
 
             let end = Math.min(text.length, start + (maxLength * 2));
+
+            // Support emojis
+            if (start > 0 && isLow(text.charCodeAt(start))) start--;
+            if (end < text.length && isHigh(text.charCodeAt(end - 1))) end++;
+
             let windowText = text.substring(start, end);
 
             let exactMatchPos = windowText.indexOf(searchValue);
@@ -163,6 +170,9 @@ function highlightTerms(text, regex) {
 function escapeRegExp(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
+
+function isHigh(cp) { return cp >= 0xD800 && cp <= 0xDBFF; }
+function isLow(cp) { return cp >= 0xDC00 && cp <= 0xDFFF; }
 
 
 function clearSearch() {
@@ -444,7 +454,7 @@ async function loadContentAsync() {
   const searchEl = document.getElementById('search');
   if (!searchEl) return;
   searchEl.disabled = true;
-  searchEl.placeholder = 'Loading…';
+  searchEl.placeholder = 'Loading...';
 
   const cached = await getCachedData();
   if (cached) {
@@ -452,7 +462,7 @@ async function loadContentAsync() {
     return;
   }
 
-  searchEl.placeholder = 'Loading… 0%';
+  searchEl.placeholder = 'Loading... 0%';
 
   const response = await fetch('/loadsearch.php');
 
@@ -475,7 +485,7 @@ async function loadContentAsync() {
     loaded += chunk.length;
 
     const pct = Math.min(100, Math.round((loaded / total) * 100));
-    searchEl.placeholder = `Loading… ${pct}%`;
+    searchEl.placeholder = `Loading... ${pct}%`;
   }
 
   const data = JSON.parse(raw);

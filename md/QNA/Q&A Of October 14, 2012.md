@@ -90,7 +90,7 @@ A: Yeah. That is tragic.
 
 [audio cut]
 
-[all singing]: 
+[all singing]
 I'm wishing on a star
 To follow where you are
 I'm wishing on a dream

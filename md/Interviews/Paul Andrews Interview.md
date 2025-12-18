@@ -126,7 +126,7 @@ regeneration of cells, promoting healing, youth and longevity. It has been
 my experience in thousands of cases that regeneration of cells occurs
 prolifically and easily when raw meats are eaten. Vegetable and fruit
 proteins like nuts, beans and grains rarely have promoted regeneration
-of cells in most cases. These same principals apply to prevention of
+of cells in most cases. These same principles apply to prevention of
 degenerative diseases.
 
 Q: Didn't you have a near-fatal incident with a mushroom?
@@ -138,7 +138,7 @@ with chronic fatigue.
 
 I ate one stick of unsalted raw butter with one banana four to eight
 times a day-that is, one to two pounds of unsalted raw butter per day. I
-ate raw eggs by themselves, Rockystyle, raw fish and raw chicken. The
+ate raw eggs by themselves, Rocky-style, raw fish and raw chicken. The
 fats in the unsalted raw butter, raw eggs and raw meats provided the
 nutrients necessary to cleanse and eliminate toxicity resultant from the
 mass destruction of cells, and to strengthen my body. The meats provided
@@ -152,7 +152,7 @@ Q: What sort of response do your ideas get from the vegetarian community?
 A: Before vegetarians hear my experience, they might not relate to
 my ideas. In January I spoke to a vegetarian raw food group in San
 Francisco. At the end of my talk only four of the 52 attendees remained
-staunch vegetarians. I explaned to them that o f the 1,800 people eating
+staunch vegetarians. I explained to them that o f the 1,800 people eating
 a vegetarian diet that I met since 1969, only about four percent did well
 on the vegetarian diet. Only about .01% did very well. Those who did well
 were all very athletic with most of their glands overactive, especially
@@ -258,7 +258,7 @@ Q: What are the basic components of your raw food diet?
 
 A: The healthiest results came when 50 to 70% of the caloric intake was
 raw fat-raw unsalted butter, raw eggs, raw cream, raw unsalted cheeses,
-avocados, oils pressed below 96xF-eaten with all of the following daily:
+avocados, oils pressed below 96F-eaten with all of the following daily:
 8 ounces to one pound of a variety of raw meats-beef, lamb, sea food,
 and organic chicken and turkey-and 28 to 38 ounces of fresh raw vegetable
 juices (carrot and other roots being not more than 40%, celery, parsley

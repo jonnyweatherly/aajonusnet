@@ -6,6 +6,8 @@ Aajonus released a Raw Food Recipes DVD with videos demonstrating how to prepare
 
 These have not been transcribed as they are demonstrations which are best seen in video form.
 
+**All videos are watchable on the link at the top**.
+
 Video 1: Utilizing Jars and Blender
 
 Video 2: Preparing Ribeye Steak With Garlic Butter
@@ -30,7 +32,7 @@ Video 11: Wondrous Vegetable / Bland Fruit Juices
 
 Video 12: How To Quickly Suck An Egg from the Shell So We Don't Have To Wash a Glass
 
-Video 13: Raw Milks Are Safe And Nutritious But Beware of Big Commercial Milks
+Video 13: [Raw Milks Are Safe And Nutritious But Beware of Big Commercial Milks](/raw-milk-is-safe-but-beware-of-big-commercial-milks)
 
 
-All the videos are watchable on the link at the top.
+![[dvdcover_recipes.jpg]]

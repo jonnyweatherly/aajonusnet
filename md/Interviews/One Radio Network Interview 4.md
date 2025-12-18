@@ -226,15 +226,15 @@ P: Stay right there. Aajonus Vonderplanitz. We want to live and the recipe for l
 
 P: I'm with Al Carter, the world's foremost authority on rebound exercise. Al, you patented, designed the rebound air. How can you possibly give a lifetime warranty on a piece of equipment?
 
-[Al Carter]: Because we designed it to be used by the United States Air Force and showed us how we could make sure that the equipment would last a very, very long time.
+Al Carter: Because we designed it to be used by the United States Air Force and showed us how we could make sure that the equipment would last a very, very long time.
 
 P: So if a spring breaks or if a mat would rip or something with a leg, you replace it.
 
-[Al Carter]: Yes. Call us up and we'll replace it right away. Lifetime.
+Al Carter: Yes. Call us up and we'll replace it right away. Lifetime.
 
 P: Lifetime. Order yourself a rebounder right now. Front page. Look at the display for the rebounders on oneradionetwork.com. Go through PayPal. Very secure. You don't have to be a PayPal member. Any credit card, ship it via UPS in three days or so. It's all yours. Right on the front page of 1radionetwork.com.
 
-[Ad]: Could saving 15% of your money in gold coins really save you money on your car insurance? No. But it sure will give you a lot of peace of mind in uncertain times. Protecting your wealth is a great idea in an economy where money is being inflated by the rapid expansion of the money supplied by central banks all over the world. Learn to protect your wealth. We can be reached directly to answer your questions at 1-800-878-2646. Or visit us on the web at usgoldcoins.com.
+[Ad] Could saving 15% of your money in gold coins really save you money on your car insurance? No. But it sure will give you a lot of peace of mind in uncertain times. Protecting your wealth is a great idea in an economy where money is being inflated by the rapid expansion of the money supplied by central banks all over the world. Learn to protect your wealth. We can be reached directly to answer your questions at 1-800-878-2646. Or visit us on the web at usgoldcoins.com.
 
 P: And silver is down a whole buck today at $25.37 and gold at $1,522 an ounce. Consider if you will to get yourself one of these relaxed far infrared saunas. These are portable, but very, very well constructed and you'll be quite surprised. Several of you have emailed over the last few months and questioning how can I pay $900 for something that's a portable. And I know it's a little bit of a stretch to get your head around, but you can see the pictures and the rest of it on oneradionetwork.com, but they're very well constructed. And the machinery inside, it sits on the floor and they have two different components that's putting out these ultraviolet lights and a far infrared, not ultraviolet, but a far infrared and really work well. You'll sweat like the old, yeah, really cool. And you begin sweating probably 10 minutes or so just full on and you can set the controls and they have two different controls if you want to have more heat or less heat. These are relaxed far infrared saunas and you'll have yours for a total delivered price for $935 if you use the promo code ONERADIO. That's ONERADIO, ONERADIO into the promo code right on the front page of One Radio Network and we'll take care of you with a relaxed far infrared sauna.
 
@@ -274,33 +274,33 @@ A: Yes.
 
 P: I want to be, come the revolution, I'm glad you're going to be on my side. Let's take this phone call. Hi, what's your first name? Where are you calling from?
 
-[Francis]: Oh, good morning, gentlemen. This is Francis from Edmonton.
+Francis: Oh, good morning, gentlemen. This is Francis from Edmonton.
 
 P: Hi, Francis. Go ahead. You're on the air with Aajonus Vonderplanitz.
 
 A: Hi, Francis.
 
-[Francis]: Hi, Aajonus. I'm hoping you can provide a piece of my puzzle here for me this morning, maybe. Like I'm in my early 60s and I've been suffering from arthritis all my life. The official diagnosis is anglionosis spondylitis, which has left me a bit crippled, right?
+Francis: Hi, Aajonus. I'm hoping you can provide a piece of my puzzle here for me this morning, maybe. Like I'm in my early 60s and I've been suffering from arthritis all my life. The official diagnosis is anglionosis spondylitis, which has left me a bit crippled, right?
 
 A: Yes.
 
-[Francis]: I eat very good food, organic as much as possible. I eat meat, only from animals that I personally met and my condition, I'm treating it strictly right now with herbs. I was on Celebrex, but I've been off Celebrex since last October and so far so good. But the pain is really starting to come back again and I'm just wondering if you can offer me anything with my diet that might help.
+Francis: I eat very good food, organic as much as possible. I eat meat, only from animals that I personally met and my condition, I'm treating it strictly right now with herbs. I was on Celebrex, but I've been off Celebrex since last October and so far so good. But the pain is really starting to come back again and I'm just wondering if you can offer me anything with my diet that might help.
 
 A: Did you hear what I said about Crohn's earlier?
 
-[Francis]: Yes, I did. I had Crohn's disease at one point. 
+Francis: Yes, I did. I had Crohn's disease at one point. 
 
 A: 85% of Crohn's comes from, I mean, 85% of arthritis comes from Crohn's because the body's- 
 
-[Francis]: Yeah, but I had arthritis before I got the Crohn's.
+Francis: Yeah, but I had arthritis before I got the Crohn's.
 
 A: Well, maybe you think you did. You were diagnosed with Crohn's.
 
-[Francis]: Yes, I was. A while back.
+Francis: Yes, I was. A while back.
 
 A: However, your leaky gut may have gone on for far longer. It could have been when you were born. You didn't produce mucus properly from your intestines, so food was going to your joints at a very, very early age. So what that does is it starts breaking down the joints. Now those bacteria in there that are said, oh, these are bad arthritic bacteria, rheumatoid arthritis-type bacteria, those bacteria are there to digest that food.
 
-[Francis]: Right.
+Francis: Right.
 
 A: Of course, they're going to digest the cartilage along with it, little by little, but the body sends it to that cartilage because that cartilage is pretty resilient, not as resilient as our stomach lining. I mean, our stomach lining produces hydrochloric acid and can dissolve bone and hair, but it doesn't dissolve the stomach lining itself. So that's the most resilient tissue in the body. The second most resilient tissue is the cartilage. That's why the body sends the food there. That's probably why, you know, 85% for sure, that is why you got arthritis and rheumatism. Now I have a woman in Chicago who came to me three years ago in a wheelchair, left knee about three times its normal size, she had a hardball calcification, they always call it calcification, but it's mineralization because it's many minerals, not just calcium, hardball formation at her left elbow and her fingers and hands, everything was pretty contorted. So I put her on the diet three years ago, unable to handle anything but maybe a fork or a spoon to get it to her mouth slowly and not steadily. Now I just saw her two weeks ago and she's walking seven minutes. She went back to playing cards with her friends, you know, after six years of not playing cards. So she's back in shape.
 
@@ -320,39 +320,39 @@ P: And this really just melts this stuff.
 
 A: Yes, it does. It takes time. It's like, consider a cold stick of butter in a two-cup jelly jar, glass jelly jar. You've got a cold stick of butter. We have an air conditioning system, of course, as part of our system, so I count that as like a cold stick of butter. And you've got, let's say, 108 degrees on the outside of that glass. You've got to make the air space become warm between the glass and the butter. That takes about 40 minutes before the butter will be warm enough to even start barely melting. That's why I say if you have a severely congested lymphatic system, you need to stay in 90 minutes at a time. Now a lot of people have a difficulty staying in because the brain hates to get hot. So they can just take one of those cold packs and put it on top of their head with a towel between their head and that cold pack and leave it on there until the brain says, oh, wait a minute, I want to stay in this hot water. And then there's no trouble in staying in that long. But the body loves the warmth, the brain does not.
 
-[Francis]: Yeah, because my blood work, I don't have any rheumatoid factor in my blood, yet I've got fused joints, right?
+Francis: Yeah, because my blood work, I don't have any rheumatoid factor in my blood, yet I've got fused joints, right?
 
 A: Yeah, well, the fused joints come from eating away the cartilage. And then the cartilage trying to mend and they mend into each other.
 
-[Francis]: Yeah, because I once, not too long ago, I went to some hot springs here in the Rocky Mountains and I felt after I spent a considerable time in the spring, like I felt I could almost dance afterwards.
+Francis: Yeah, because I once, not too long ago, I went to some hot springs here in the Rocky Mountains and I felt after I spent a considerable time in the spring, like I felt I could almost dance afterwards.
 
 P: I'll be darned.
 
 A: Exactly. So that is so important to healing quickly. Now this, the woman who I was just talking about, could have spent 12, 13 years just on the diet, reversing that condition, but she did it in, you know, three years because she was taking the baths, especially in the last year. And she removed that hardball size of mineralization on her left elbow in one year by taking the baths.
 
-[Francis]: Really? So do you believe that hot, like, if I can get into a hot tub, which is almost impossible, you think that might help?
+Francis: Really? So do you believe that hot, like, if I can get into a hot tub, which is almost impossible, you think that might help?
 
 A: It would tremendously. If you can get, like, hospitals have an A-frame to lift people.
 
-[Francis]: Yes.
+Francis: Yes.
 
 A: You can, they have ones that are mobile where you just, you know, hit a button.
 
-[Francis]: Okay.
+Francis: Okay.
 
 A: If you can get one of those to take you in and out of the bathtub, you're set.
 
-[Francis]: Okay. And do you think, is it possible that I may be able to unlock my, my, I've got a, like, my left hip is completely locked and my right one's probably on its way.
+Francis: Okay. And do you think, is it possible that I may be able to unlock my, my, I've got a, like, my left hip is completely locked and my right one's probably on its way.
 
 P: My goodness. My goodness.
 
 A: If, yes, I've seen it happen several times.
 
-[Francis]: Oh, nice.
+Francis: Oh, nice.
 
 A: So in conjunction with the diet and the hot baths, without the nutrients, your body isn't going to be able to rebuild that cartilage.
 
-[Francis]: Right. Well, as I said, I eat very good food. I don't eat any processed foods whatsoever.
+Francis: Right. Well, as I said, I eat very good food. I don't eat any processed foods whatsoever.
 
 P: Yeah. Okay, Francis.
 
@@ -360,11 +360,11 @@ A: I'm talking about any cooked food.
 
 P: Yeah.
 
-[Francis]: Okay. Yeah.
+Francis: Okay. Yeah.
 
 P: He wants you to eat more raw food and try that.
 
-[Francis]: Okay. I'll try that. 
+Francis: Okay. I'll try that. 
 
 P: All right, Francis. Thanks for the call.
 
@@ -466,25 +466,25 @@ P: We're with Aajonus Vonderplanitz and a couple of books, We Want to Live and T
 
 P: Here's health motivator Daniel Vitalis and the benefits of using a far infrared sauna.
 
-[Daniel]: Sweating is absolutely going to be one of the most critical things discerning people take on so that they can not only stay healthy but actually so we can continue to have children that are healthy. We're going to need to sweat. People have sweat all through history. Before the world was toxic, they used that for their health. Now that it's toxic, it's one of the only ways we're going to cleanse our body fat. Our body fat is where we store so much of the environmental pollution, not just the radioactive elements, we're talking about PCBs, we're talking about plastics, we're talking about a host of pesticides and herbicides, talking about heavy metals. Getting this stuff out of our bodies, we're going to need to sweat it out.
+Daniel: Sweating is absolutely going to be one of the most critical things discerning people take on so that they can not only stay healthy but actually so we can continue to have children that are healthy. We're going to need to sweat. People have sweat all through history. Before the world was toxic, they used that for their health. Now that it's toxic, it's one of the only ways we're going to cleanse our body fat. Our body fat is where we store so much of the environmental pollution, not just the radioactive elements, we're talking about PCBs, we're talking about plastics, we're talking about a host of pesticides and herbicides, talking about heavy metals. Getting this stuff out of our bodies, we're going to need to sweat it out.
 
 P: A fast, easy and affordable way to sweat is with a portable Relax Far Infrared Sauna. See all the information. Order with promo code OneRadio on oneradionetwork.com, a Relax Portable Far Infrared Sauna on oneradionetwork.com.
 
 P: I'm with Al Carter. He's the world's foremost authority of rebound exercise. Al, one of my favorite things about rebounding for the last 15 years is I do it. I mean it's not like something I think about. I do it because it's right there, right on my porch and I just do it.
 
-[Al Carter]: That's right.
+Al Carter: That's right.
 
 P: Isn't that a wonderful thing? I heard you say that you can do it whenever you're in the mood, not in the mood or in the nude.
 
-[Al Carter]: Yes, and anytime you want to rebound, if it's in your own private home, you can exercise anytime you want to, recognizing you're going to build balance, coordination, rhythm, timing, dexterity, and kinesthetic awareness while building muscle, bulk, and strength.
+Al Carter: Yes, and anytime you want to rebound, if it's in your own private home, you can exercise anytime you want to, recognizing you're going to build balance, coordination, rhythm, timing, dexterity, and kinesthetic awareness while building muscle, bulk, and strength.
 
 P: How about the ladies listening and building up like firming the bust line and firming the old buttocks? Does it work for that?
 
-[Al Carter]: Yes. Everything. It'll help all those things, but one of the other things it'll do is it'll stimulate or strengthen the sphincter muscles. 
+Al Carter: Yes. Everything. It'll help all those things, but one of the other things it'll do is it'll stimulate or strengthen the sphincter muscles. 
 
 P: Really important.
 
-[Al Carter]: Those ladies who know what a sphincter muscle is knows what we're talking about.
+Al Carter: Those ladies who know what a sphincter muscle is knows what we're talking about.
 
 P: Really important. Order yourself a rebounder right now. Front page. Look at the display for the rebounders on oneradionetwork.com. Go through PayPal. Very secure. You don't have to be a PayPal member. Any credit card, ship it via UPS in three days or so. It's all yours. Right on the front page of oneradionetwork.com.
 
@@ -492,7 +492,7 @@ P: Really important. Order yourself a rebounder right now. Front page. Look at t
 
 P: Know the source on One Radio Network.
 
-[Intermission]: Talk to Patrick now, 888-663-6386, or email patrickatoneradionetwork.com.
+[Intermission] Talk to Patrick now, 888-663-6386, or email patrickatoneradionetwork.com.
 
 P: Having a fun time with Aajonus, wewant2live.com. It's a little bit after 10 central time, 888-663-6386. Aajonus, do we face some kind of challenges, some body type, some people, with not having any carbs, some kind of ketosis thing goes on?
 
@@ -582,7 +582,7 @@ P: Even cancer cells. So let's ask this question, because this leads right in fr
 
 A: That is correct.
 
-P: So give us your idea. We just had a very elegant description of that from Andreas Maritz, who I think you'd really like this. Well, I think he's on the same track as you. What is your understanding of what's going on with these things we call tumors?
+P: So give us your idea. We just had a very elegant description of that from Andreas Moritz, who I think you'd really like this. Well, I think he's on the same track as you. What is your understanding of what's going on with these things we call tumors?
 
 A: Well, having had four forms of cancer, I pretty much know what cancer is, and I've addressed it to probably 1,500 people in the last 30 years, reversing 95% of it. What cancer is, is the body's collection of dead cells. That begins because the body does not have what it takes or can't do it to break down dead cells, to dissolve them, the lymphatic system is responsible for that. It's supposed to dissolve those dead cells, put it in the connective tissue to be perspired out of the body. So if the lymphatic system gets jammed, especially with trans fatty acids, that's plastic fats, hydrogenated vegetable oils that crystallize in the body, they jam the system.
 
@@ -618,7 +618,7 @@ P: Keep it moving. That's interesting.
 
 A: But in a water environment, you do not.
 
-P: Interesting. Here is from Chris from Florida. What are Aajonus' thoughts on what meat does to the liver? From what I've heard from Aajonus, his thoughts are opposed to Andreas Mritz, who's a vegetarian advocate. Yeah, so obviously, you don't believe that liver or meat has any detrimental effects to the liver, because your liver is fine, thank you.
+P: Interesting. Here is from Chris from Florida. What are Aajonus' thoughts on what meat does to the liver? From what I've heard from Aajonus, his thoughts are opposed to Andreas Moritz, who's a vegetarian advocate. Yeah, so obviously, you don't believe that liver or meat has any detrimental effects to the liver, because your liver is fine, thank you.
 
 A: Well, my liver, I ate a poison mushroom in 1981 by accident, the death cap, and it destroyed 90% of my liver. And I was only eating raw meat once a day, three days a week. So I was only having three meat meals weekly. And my progression through that poison mushroom and the damaged liver was very slow for a year and a half. And then I just said, okay, I've got to do something different, it's too slow. And I began eating raw meat daily, twice daily, and the amount of change was tremendous. My liver was rebuilt in three years.
 
@@ -858,7 +858,7 @@ P: Just for an hour, and look around, and all of a sudden she'll say, oh, there 
 
 A: Well, we don't have the instincts that they do. We're so adulterated in our diets and lifestyles and everything, it's very hard for people to have good instinct and intuition.
 
-P: So how are you and the federales getting along, are you behaving yourselves?
+P: So how are you and the federals getting along, are you behaving yourselves?
 
 A: Oh, well, they don't think I am.
 

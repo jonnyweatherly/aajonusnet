@@ -94,13 +94,13 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <div class="header">
         <div class="title-container">
             <?php if ($originalFile) { ?>
-                <div class="back-arrow" onclick="goBack()">
+                <div class="back-arrow" onclick="goBack()" aria-label="Go back">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><polyline points="13.42,5.41 4,12 13.41,18.59" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                 </div>
             <?php } ?>
             <a class="title" href="/"><h1><?php echo $dynamicTitle === "Aajonus Vonderplanitz" ? "Aajonus.net" : $dynamicTitle; ?></h1></a>
             <?php if ($originalFile) { ?>
-                <div id="share-button" onclick="shareArticle()" role="button" tabindex="0">
+                <div id="share-button" onclick="shareArticle()" role="button" tabindex="0" aria-label="Share">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z" fill="white"/></svg>
 </div>
             <?php } ?>
@@ -110,11 +110,11 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
         <!-- Search Bar -->
         <div class="search-container">
             <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 44"><g stroke="#757575" stroke-width="1.1" fill="none" stroke-linecap="butt"><circle cx="6" cy="20" r="5"/><line x1="10.039" y1="23.721" x2="13.909" y2="27.591"/></g></svg>
-            <input type="text" id="search" class="search-bar" oninput="search(this)" placeholder="Loading..." disabled>
+            <input type="text" id="search" class="search-bar" oninput="search(this)" placeholder="Loading..." disabled aria-label="Search website">
             <div id="clear-icon" class="clear-icon" onclick="clearSearch()">&#10005;</div>
         </div>
         <!-- Categories -->
-        <div class="categories">
+        <nav class="categories" aria-label="Categories">
             <a href="#" onclick="filterCategory('All', 'All', this)">All</a>
             <?php 
                 $directories = glob($mdFolder . '/*', GLOB_ONLYDIR);
@@ -130,7 +130,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
                      echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a><br>';
                 }
             ?>
-        </div>
+        </nav>
         <main>
         <div class="grid">
         <?php

@@ -105,7 +105,7 @@ Q: On October 27, 1997, I heard Dr. Atkins interview you on his famous
 talk show in New York "Your Healthy Choices." He advocated your diet as
 being the greatest dietary approach to reversing disease and creating
 health of all times, and that he was going to go home that night and
-have steak tar tar.
+have steak tartare.
 
 A: Yes, I was as astounded as you that a medical doctor could discard the
 bacterial and parasitic phobias that are sweeping terror among the masses.

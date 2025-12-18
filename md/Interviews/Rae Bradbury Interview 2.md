@@ -14,12 +14,12 @@ clearest beautiful blue eyes I have ever seen. He wrote a book entitled
 WE WANT TO LIVE that tells how he and thousands of others suffering from
 diseases reversed them with diet.
 
-Unlike most nutritionists who focus on nutritional supplementa-tion,
+Unlike most nutritionists who focus on nutritional supplementation,
 Aajonus is one who thinks diet is everything and supplements are toxic
 when on an optimal diet. He considers that, in the long run, supplements
 are just another drug on which the pharmaceutical industry gets rich and
 people get little. The foods he suggests make most medical doctors' hairs
-stand on end. But his suggestions reverse most diseases, consistently
+stand on end. But his suggestions reverse most diseases, consistently.
 
 Q: What do you think is the most important nutrient?
 
@@ -102,7 +102,7 @@ it until I began eating raw meats and raw bone marrow.
 Q: What kinds of raw fat and meat do you eat?
 
 A: Avocado, unsalted raw butter, raw cream, unsalted raw cheeses,
-coconuts, freerange eggs produced without hormones, oils pressed below
+coconuts, free-range eggs produced without hormones, oils pressed below
 96° F., like olive, sunflower, peanut and flax (with high lignans). Raw
 meats that I eat are fish, chicken, turkey, lamb, beef, and sometimes
 the glands, for instance, liver. However, I eat bone marrow and glands
@@ -229,7 +229,7 @@ food. They don't process the cooked fats, proteins and sugars properly, so
 some store in the body as toxins. The body requires nutrients to cleanse
 them. When someone begins to eat only raw foods, especially plenty of raw
 fats and regularly raw meat, the old toxins are gradually cleansed away.
-One thirtysomething patient was 280 lbs. and was addicted to ice cream. I
+One thirty-something patient was 280 lbs. and was addicted to ice cream. I
 trusted her instincts, that she needed the cream. I gave her recipes to make
 raw ice cream from raw cream, fruit and unheated honey. She made one daily,
 eating up to a gallon a day. Within 5 months she had lost 140 lbs. and

@@ -46,7 +46,7 @@ P: Exactly. And, for example, if you sold, I don't know, if you sold whiskey in 
 
 A: That's where the money is.
 
-P: And the Federales came and made a visit to a club that you were involved in. Tell us about that. You can't believe how many e-mails I got from listeners that said, did you see this, did you see this? Rawesome is the name, what is it, a raw milk, raw dairy thing, Aajonus?
+P: And the Federals came and made a visit to a club that you were involved in. Tell us about that. You can't believe how many e-mails I got from listeners that said, did you see this, did you see this? Rawesome is the name, what is it, a raw milk, raw dairy thing, Aajonus?
 
 A: Well, what happened, about 1998, the government started getting involved with putting raw dairies out of business in California. And they went after the big one, which was Stewie's Dairy at the time. I realized going to the meetings of the Medical Milk Commission, every one for three years, that they were completely close-minded. I brought in scientists, I brought in reports showing that all the epidemics with milk had to do with pasteurized milk. And there wasn't one scientifically linked to raw milk at all. They wouldn't listen to reason, so then I had to go the political route and seek a petition with the County Board of Supervisors, Los Angeles County Board of Supervisors, and I wrote a report with Dr. Douglas M.D., who is probably the world's greatest expert besides myself, on milks, whether they're raw or pasteurized. And we wrote a report showing that raw milk was nothing but favorable and pasteurized milk had all the problems, and they shouldn't be outlawing it and making the restrictions so difficult on it that it put Stewie's Dairy out of business, it bankrupted them. Because dairy was only passing inspection about once every other time. So they passed a bill saying that we could have it, and then just last year, California Department of Health Services got a law passed, snuck to the government, and without anybody knowing about it, and they lied to the Senators and Assemblypersons about the support of that bill. And then we sent to Sally Fallon and a lot of other people, scientists, and I spent a lot of time lobbying in Sacramento to get a law passed, and it was almost unanimously passed in both the House and Assembly, California House and Assembly, and then Governor Schwarzenegger vetoed it with a stroke of a pen. So now we have a milk that isn't as good in California as I would like. The coliform count, which is good bacteria, is such a low count that they have to use chlorine and other antiseptics to keep the bacteria count. Good bacteria counts to a low ratio, so we can't have the best milk that we want.
 
@@ -196,23 +196,23 @@ A: Well, it will definitely cause heart problems.
 
 P: Yeah. Aajonus Vonderplanitz and we have emails coming in. We're going to get to your phone calls and have some fun here this morning. It's about nine thirty or so central time and about twelve hours later in Thailand where we're speaking with him. We want to live with the numeral two dot com is his Web site. A lot of great stuff. He has books and all kinds of cool things. My name is Patrick Timpone. One Radio Network. Stay right there.
 
-[Intermission]: Does your financial portfolio have staying power? Because that's what it's going to take. Interest rates and inflation are once again on the rise. The pendulum has swung. The tangibles market is where real and true wealth is created and saved. Do you understand this concept? Eroding paper money values and great uncertainty in the stock market has resulted in a rapidly rising money supply as investors flock to cash. Do you know what happens in this environment? You owe it to yourself to find out these huge sums of money and capital are quickly depleting existing supplies of United States gold and silver coins. Events like this present great potential for the qualified investor and the average wage earner alike. With standardized and professional grading now available, anyone can participate safely and confidently in this most enjoyable and historic market. We at SDL have produced an audio tape entitled Protecting Your Wealth. To receive your free copy, please call 1-800-878-2646.
+[Intermission] Does your financial portfolio have staying power? Because that's what it's going to take. Interest rates and inflation are once again on the rise. The pendulum has swung. The tangibles market is where real and true wealth is created and saved. Do you understand this concept? Eroding paper money values and great uncertainty in the stock market has resulted in a rapidly rising money supply as investors flock to cash. Do you know what happens in this environment? You owe it to yourself to find out these huge sums of money and capital are quickly depleting existing supplies of United States gold and silver coins. Events like this present great potential for the qualified investor and the average wage earner alike. With standardized and professional grading now available, anyone can participate safely and confidently in this most enjoyable and historic market. We at SDL have produced an audio tape entitled Protecting Your Wealth. To receive your free copy, please call 1-800-878-2646.
 
 P: I'm with Al Carter, the world's foremost authority on rebound exercise. We're told that the lymphatic system, Al Carter, really gets a workout when you jump up and down on these little trampolines.
 
-[Al Carter]: That's right. The lymphatic system is filled with millions of one-way valves. And whenever you jump up and down, those one-way valves open and close, creating a suction throughout the entire lymphatic system. The lymphatic system is the internal vacuum cleaner of the body.
+Al Carter: That's right. The lymphatic system is filled with millions of one-way valves. And whenever you jump up and down, those one-way valves open and close, creating a suction throughout the entire lymphatic system. The lymphatic system is the internal vacuum cleaner of the body.
 
 P: When you jump 20 minutes a day or so, you're really helping the immune system?
 
-[Al Carter]: We'll actually increase the immune system by 15 times. 
+Al Carter: We'll actually increase the immune system by 15 times. 
 
 P: 15 times? Wow. And how often do you recommend people rebound?
 
-[Al Carter]: Anywhere from one time a day to five times a day.
+Al Carter: Anywhere from one time a day to five times a day.
 
 P: Can you do too much?
 
-[Al Carter]: We haven't found anybody who can do it too much yet.
+Al Carter: We haven't found anybody who can do it too much yet.
 
 P: Well, this will keep you well. You know how important, folks, it is about the immune system and the lymphatic system. Go to reboundair.com and you can get all kinds of information at reboundair.com and then go to oneradionetwork.com. Order your rebounder right on the front page because we have the best prices ever. And then we get a commission right on the front page of oneradionetwork.com on the right-hand side. You'll have it in about three days. We have the standard for $209 and the half-fold for $229. That includes shipping right on oneradionetwork.com.
 
@@ -366,19 +366,19 @@ A: Well, as your King and Queen of England fought quite a few wars over it, outl
 
 P: Let's take a quick break. Aajonus Vonderplanitz, he's always fun to talk to and he is in Thailand and it's a few minutes after 10 o'clock. Patrick Timpone on OneRadioNetwork.com, 888-663-6386. We're going to be talking about a gentleman who says that the big problem with our world is there's just too many people. And also tomorrow, America on the Brink, all by Frosty Wooldridge. That's tomorrow at 9 o'clock on OneRadioNetwork.com.
 
-[Intermission]: If you're an investor, you may be considering the future value of paper money. So as an investor, what do you believe? Will your paper dollar buy more in the future? Or do you believe like most that it will potentially buy dramatically less? If so, how does one go about protecting the buying power of their wealth? USGoldCoins.com, a premier gold and silver coin company, is providing wealth protection for investors in the form of gold and silver United States coins. Please call us at 1-800-878-2646 for free information on how you too can learn to acquire gold and silver United States coins. It is the best way to protect your wealth in the current economic environment. 1-800-878-2646. USGoldCoins.com.
+[Intermission] If you're an investor, you may be considering the future value of paper money. So as an investor, what do you believe? Will your paper dollar buy more in the future? Or do you believe like most that it will potentially buy dramatically less? If so, how does one go about protecting the buying power of their wealth? USGoldCoins.com, a premier gold and silver coin company, is providing wealth protection for investors in the form of gold and silver United States coins. Please call us at 1-800-878-2646 for free information on how you too can learn to acquire gold and silver United States coins. It is the best way to protect your wealth in the current economic environment. 1-800-878-2646. USGoldCoins.com.
 
 P: I'm with Al Carter. He's the world's foremost authority on rebound exercise. We're told, Al Carter, that if you jump up and down on one of these little trampolines that you can build bone density. Is there any scientific backing for that?
 
-[Al Carter]: NASA had a problem where the astronauts were shot up in space and in 14 days they lost 15% of their bone mass. We have had people now who have rebounded for 20 years and they have bone density of a 35-year-old woman.
+Al Carter: NASA had a problem where the astronauts were shot up in space and in 14 days they lost 15% of their bone mass. We have had people now who have rebounded for 20 years and they have bone density of a 35-year-old woman.
 
 P: So that's actually been measured by docs, eh?
 
-[Al Carter]: That's measured by doctors and we receive this back from the people who have actually done it.
+Al Carter: That's measured by doctors and we receive this back from the people who have actually done it.
 
 P: So for menopausal ladies who do the osteoporosis thing, these little trampolines are cool.
 
-[Al Carter]: They're the best form of exercise they can get.
+Al Carter: They're the best form of exercise they can get.
 
 P: And you can get yourself a rebounder simply by going to the front page of OneRadioNetwork.com. These little small trampolines. The price includes shipping, about three or four days. It will be there via UPS. They are shipped the same day you order. Go through PayPal. You do not have to be a PayPal member. Simply a credit card. It is very secure and you're ready to go and you're going to love having these rebounders around your house. On OneRadioNetwork.com 
 

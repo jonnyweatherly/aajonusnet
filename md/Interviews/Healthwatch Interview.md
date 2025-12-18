@@ -8,7 +8,7 @@ J = Host (Jim), T = Host (Tricia), A = Aajonus
 
 J: Well, none called for justice, we're told. None pleaded for truth. They trust in vanity and speak lies. They conceive mischief and bring forth iniquity. What's that all about, folks? Is that just some kind of stuff that happened during Isaiah's time? Is that why the Lord had the prophet Isaiah write it? What is going on? Are you watching? Are you concerned about abortions? I don't know. Are you? Are you concerned about what the world, what the government schools are doing to your children? I saw a thing about 13-year-old boys. They're homosexuals. And then something happens and they feel bad about themselves and they kill themselves. What is going on? Where does a 13-year-old boy, a 12-year-old boy, where did they learn to be homosexual? Where does that come from? Is it in the scriptures that God's telling us how this happens or where it happens? Is it conceived in their heart? How do these things happen? How does immorality take place? Where does this all enter into? When does it happen into the mind of a person? Well, I'll tell you what, folks. It's something that you better be aware of because the so-called kind, compassionate Christian out there. You know, I know, I know everybody gets upset because Jim's voice and his ways and his words just are not so flowery and so sweet and pretty. It's just not like honey. You know, but what can I tell you, folks? When will you be upset? When will you call for justice that the school not turn our children into homosexuals? And let us all agree and hold hands and say it's okay. It's okay to be a lesbian. It's okay to be gay. It's okay. It's okay. It's okay. It's not okay, folks. Read the word of God. It's not good. It's bad. It's wrong. And it's not holy. And yeah, sure, we're going to have unconditional love. Look, I've talked to homosexuals. I want to tell them, listen, you've got to get out of this. You can't. This is not healthy. Folks, listen, our school system, our liberal government, there's so much evil in it, and they're teaching the girls basically God says to be whores. It's the word. He says that. He uses that word. What is going on? Immorality is everywhere. Please, I ask you to encourage people to turn to the Lord. See that there is a way out. And by the way, you're no better than anyone else if you think lustful thoughts in your mind. You're just as bad. It's still the same kind of issues. Oh, who's the girl running in Delaware? And they mock her because of that, and on and on and on. But that's how the lowlifes do it. They mock it, and they make fun of it. And God even talks about those mockers. Well, this is Daniel, chapter 1. I just want you to start thinking about things. I want you to think about it. I want you to start knowing who is it that sees the oppression of the poor, the violent perverting of justice and judgment. What is that? That's Ecclesiastes, folks. What about it? Where is the perverting of truth and justice and judgment? What's going on? So you all start agreeing with lies and deceptions because you're a good Christian. Okay, folks, this is Daniel, chapter 1. I'm just asking you to think. We'll be back with a guest, so don't go away.
 
-[Intermission]: It is our mission to glorify Jesus Christ by sharing time-tested knowledge about herbs in His creation. You're listening to Daniel, chapter 1, censored. With God, we'll gain the victory. With God, scamper the enemy. With God, we'll gain the victory. With God, we'll gain the victory. With God, we'll gain the victory. With God, scamper the enemy. With God, we'll gain the victory. With God, we'll gain the victory.
+[Intermission] It is our mission to glorify Jesus Christ by sharing time-tested knowledge about herbs in His creation. You're listening to Daniel, chapter 1, censored. With God, we'll gain the victory. With God, scamper the enemy. With God, we'll gain the victory. With God, we'll gain the victory. With God, we'll gain the victory. With God, scamper the enemy. With God, we'll gain the victory. With God, we'll gain the victory.
 
 J: Well, folks, I hope you all understand what's going on. I hope you have eyes to see and ears to hear because we're in a real, real serious way worldwide. You know, many times you heard me tell you about how my wife and I lived in communist countries like Poland and we were in East Berlin when the wall went down in Germany and Poland and China. We've seen the workings of the evil of an oppressive society. And I want you to know it's happening here. And I know you hear my wife and I try to go over and over how for three years we've been oppressed by the federal government. It's cost us a fortune to fight for rights. 139 companies, 129 of them all laid down. They all signed it because it's all about money. Well, this is Daniel, chapter 1, the ministry. It's about the Lord God and His natural things and His creation. His creation is vitamins, minerals, herbs and foods. And, you know, we just thought it would be important for you to hear another side of what the government is doing to those people, your freedoms, if you want. By the way, going back to the 1990s, they wanted to ban growing herbs like fenugreek, echinacea, in your own garden. They still want to do that now. We've warned you about contaminated water, contaminated foods, contaminated cheeses and milk and fish and everything else. Well, I thought it would be good for you to hear somebody who is also involved in good, wholesome product. And we want to welcome to the program, folks. So tell your friends, families, enemies, everybody, come on on. Listen to Daniel, chapter 1, Censored, the ministry. We want to welcome Dr. Aajonus Vonderplanitz. Is that correct, Doc?
 
@@ -254,7 +254,7 @@ A: Okay.
 
 J: Please hold on if you'd like, folks. We've got Dr. Vonderplanitz planet on our program here. If you have some questions, we'll try to see if we can have him ask some questions for you. But we're warning you, folks. This is oppression. This is tyranny. And I ask you again, how is this constitutional? How is America separate or different from the communists, the Nazis, the fascists, anyone? How is it different when people are just using whole milk or raw milk, using organic foods, using vitamins that are not contaminated? We'll be back. Jimmy Trisch, Daniel, chapter 1, censored, 1-866-222-2368.
 
-[Intermission]: It is our mission to glorify Jesus Christ by sharing time-tested knowledge about herbs and His creation. You're listening to Daniel, chapter 1, censored.
+[Intermission] It is our mission to glorify Jesus Christ by sharing time-tested knowledge about herbs and His creation. You're listening to Daniel, chapter 1, censored.
 
 [music]
 
@@ -430,15 +430,15 @@ J: I know.
 
 T: And we thrived. We ate the sour milk that had been left out. We drank the milk right from the cow. I'll tell you what, it was great. And I miss it. The number here, 1-866-222-2368. You can call in and make a comment. And before I forget, I just wanted to comment, because of Doc's early statement. And I love this. He said they've created a fear about nature. And once you have that fear, you attack it. You attack germs. Well, Louis Pasteur is really the man responsible for creating this fear about germs. Germ theory. When he discovered germs. And his germ theory was, now I know the cause of disease. It's germs. Well, not too many people know. But it's a fact. On his deathbed, he recanted that theory. He said it's not the germ. It's the terrain. So if you have a good, healthy body, you will be able to live symbiotically with the germs. We'll never be able to eradicate all the germs in our environment. And it's not healthy to try to eradicate all the germs in our body, being the bacteria. We are supposed to be able to live, to cohabitate with bacteria. With viruses. 1-866-222-2368. Again, that is the number here. You can call in with your comment, with your testimony. We would love to hear from you. We're nearing the end of the hour. We do have enough time to take a caller. I think we have Barbara on the line right now. Hi, Barbara.
 
-[Barbara]: Hi.
+Barbara: Hi.
 
 T: Hi.
 
-[Barbara]: Yes. I have a comment. I would like to say that, you know, I was diagnosed with advanced spinal cancer four years ago. And if it were not for Dr. Vonderplanitz' advices and recommendations, and if I had done chemo, I would very probably be a dead person at this time. The spinal cancer was certainly very far gone. So I just want to say thank you and give my recommendations for Dr. Vonderplanitz and his work.
+Barbara: Yes. I have a comment. I would like to say that, you know, I was diagnosed with advanced spinal cancer four years ago. And if it were not for Dr. Vonderplanitz' advices and recommendations, and if I had done chemo, I would very probably be a dead person at this time. The spinal cancer was certainly very far gone. So I just want to say thank you and give my recommendations for Dr. Vonderplanitz and his work.
 
 T: Well, thank you, Barbara.
 
-[Barbara]: And his website, wewant2live.com, where the two is the number two, wewant2live.com. It's a very, very good website. I follow the advice. I have the books. And I've seen Dr. Vonderplanitz.
+Barbara: And his website, wewant2live.com, where the two is the number two, wewant2live.com. It's a very, very good website. I follow the advice. I have the books. And I've seen Dr. Vonderplanitz.
 
 T: Awesome. Awesome. I appreciate that very much. He sounds extremely intelligent.
 
@@ -452,41 +452,41 @@ T: Hi, Michael.
 
 J: Hi, Michael.
 
-[Michael]: Hello there.
+Michael: Hello there.
 
 T: Hi.
 
 J: Welcome.
 
-[Michael]: I got to travel around with Dr. Vonderplanet a little bit. I went out to help him lobby the Congress there in the summer of 2007. And it is a lot of work to fight the uphill battle of what the corporations have done. I just put up a website called livingmilk.com. And that is challenging, issuing a challenge to our elected officials. I was thinking about it for Ohio. And then as I was developing the site last week, I said, well, anybody can join us. But we really need to challenge our officials and stay on them like every week.
+Michael: I got to travel around with Dr. Vonderplanitz a little bit. I went out to help him lobby the Congress there in the summer of 2007. And it is a lot of work to fight the uphill battle of what the corporations have done. I just put up a website called livingmilk.com. And that is challenging, issuing a challenge to our elected officials. I was thinking about it for Ohio. And then as I was developing the site last week, I said, well, anybody can join us. But we really need to challenge our officials and stay on them like every week.
 
 T: Absolutely.
 
 J: Well, all our freedoms on every avenue is being attacked. And the sad part about it is we've been doing this, fighting this government for three years, and not one group, not the raw milk meat people, not doctors, nobody has come to help us in any way, shape, or form. And we've reached out to everybody. And we just reached out from Dr. Vonderplanitz. And we're going to continue to do that because we think we should treat people the way we want to be treated, even though no one, no one has reached out to help us in three years. And we're about beat up as can be. And we've gone farther than anybody in 100 years against the federal government. We've got some more people calling in.
 
-[Micheael]: What kind of help do you need?
+Micheael: What kind of help do you need?
 
 J: Oh, brother, you hang on. Let me get this other call.
 
 T: Also, we'd like your website again.
 
-[Michael]: Livingmilk.com.
+Michael: Livingmilk.com.
 
 J: Thank you, Michael. Please hold on. I just want to grab this caller who's calling in, Mike, please. Thank you very much for asking that. You're one of the few people who have ever done that. Please hold on.
 
 T: And we're going to welcome Mike in Kansas City, Missouri. Hi, Mike.
 
-[Mike]: Hi, guys, how are you today?
+Mike: Hi, guys, how are you today?
 
 J: Hi, Mike, welcome.
 
 T: Good, thanks.
 
-[Mike]: I just kind of wanted to share a little story with you. Gosh, when I was about 10 years old, my dad took us out to a farm, and I drank goat's milk, I mean, straight from the goat. I remember as a kid, and I just remember, you know, it was just warm. It wasn't real good tasting, but I guess the question I kind of had, is there a big difference between goat's milk, cow's milk?
+Mike: I just kind of wanted to share a little story with you. Gosh, when I was about 10 years old, my dad took us out to a farm, and I drank goat's milk, I mean, straight from the goat. I remember as a kid, and I just remember, you know, it was just warm. It wasn't real good tasting, but I guess the question I kind of had, is there a big difference between goat's milk, cow's milk?
 
 J: Well, let me bring Michael on and ask that. Hold on. Hey, Michael, Mike and Michael, Mike had a question about, is there a difference between goat milk, and I'll let you, I think you might have more information than I would.
 
-[Michael]: Well, the fat molecule in the goat milk is one-tenth the size of the fat molecule in cow milk. And a lot of people have an easier time digesting goat milk.
+Michael: Well, the fat molecule in the goat milk is one-tenth the size of the fat molecule in cow milk. And a lot of people have an easier time digesting goat milk.
 
 J: As a matter of fact, I can share this with you. My grandfather had lockjaw, and it was, we had raw milk, but he used the raw goat's milk when he got the lockjaw. Maybe that could be one of the differences, Mike.
 
@@ -498,11 +498,11 @@ J: Easier to digest.
 
 T: Right.
 
-[Mike]: It basically has the same, like, enzymes and bacteria.
+Mike: It basically has the same, like, enzymes and bacteria.
 
-[Michael]: Yeah, the enzymes, bacteria, things like that are similar. The protein is lower in the goat milk because it's more close to the human milk protein level. I think protein in cow's milk is 6%, 3% in goat milk, and 1.6% in human milk. 
+Michael: Yeah, the enzymes, bacteria, things like that are similar. The protein is lower in the goat milk because it's more close to the human milk protein level. I think protein in cow's milk is 6%, 3% in goat milk, and 1.6% in human milk. 
 
-[Mike]: I see. Well, I haven't had it since, and it's been about 40 years ago. So maybe I'll try it again.
+Mike: I see. Well, I haven't had it since, and it's been about 40 years ago. So maybe I'll try it again.
 
 T: You might want to get back to it again.
 
@@ -516,7 +516,7 @@ T: We'd make the butter from the cream and use the cream and make yogurt from th
 
 J: Good old Betsy. I miss that Betsy. We made butter and yogurt and everything from it.
 
-[Michael]: Well, I was wondering about your Polish connection. Were they drinking a lot of fermented milk? If you're letting it sit out, it is fermenting. The bacteria is breaking down the lactose.
+Michael: Well, I was wondering about your Polish connection. Were they drinking a lot of fermented milk? If you're letting it sit out, it is fermenting. The bacteria is breaking down the lactose.
 
 J: Yes.
 
@@ -524,7 +524,7 @@ T: Yeah, they didn't have yogurt, but that's what they would do. They would eat 
 
 J: Hey, Michael, thank you both. I wish we had more time. We do have another hour coming up. But thanks, Michael, in Cincinnati, Mike in Kansas City.
 
-[Michael]: Well, tell us how we can help you.
+Michael: Well, tell us how we can help you.
 
 J: I will. You hang on, please, and Jim and Trish, thank you. Michael in Cincinnati and Mike in Kansas City.
 

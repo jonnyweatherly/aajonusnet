@@ -762,7 +762,7 @@ A: Well, I wrote a six-page one addressing most of the chemicals that are in it 
 
 P: On your website?
 
-A: Not on my website. You go to, the man who handles all the information from my web suit created a separate website for that, and you go to Say No to Swine Flu.
+A: Not on my website. You go to, the man who handles all the information from my website created a separate website for that, and you go to Say No to Swine Flu.
 
 P: Say No to Swine Flu.
 

@@ -1,3 +1,6 @@
+Excerpted from a personal letter answering a subscriber.
+
+
 Iridology is not mainstream-established science. ... I found that
 present day iridology lacks many aspects that I discovered when comparing
 iris photos of people with like/similar conditions from 1971 to about 1995.
@@ -60,7 +63,3 @@ Irises are stable and undergo gradual changes, reflecting general and
 specific tissue conditions everywhere in the body, not just the blood
 and urine that fluctuate every few minutes. ... I enjoy seeing people's
 lives improve with my assistance. That is a gift I cherish...
-
-===
-
-Excerpted from a personal letter answering a subscriber.

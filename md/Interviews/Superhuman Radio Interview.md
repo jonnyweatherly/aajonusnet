@@ -4,7 +4,7 @@ Transcribed by Aajonus.net & Rawmeatgang
 
 C = Carl (Host), A = Aajonus
 
-[Intro]: Prepare to experience the strongest radio allowable by law. Secrets will be revealed, myths dispelled. From the studio gym where excuses never apply, it's Superhuman Radio with your host, Carl Lanoor.
+[Intro] Prepare to experience the strongest radio allowable by law. Secrets will be revealed, myths dispelled. From the studio gym where excuses never apply, it's Superhuman Radio with your host, Carl Lanoor.
 
 C: Welcome back to Superhuman Radio. You know, all over the internet and every news media outlet out there, everybody's talking about the swine flu. I mean, it's, you know, it actually is probably causing quite a bit of stir amongst most people. Several people I talk to jokingly say, gee, I hope I don't get it. It just arrives on the scene out of nowhere, and it is kind of suspicious. And my guest today is the keeper of the native nutrition flame, none other than Aajonus Vonderplanitz. How you doing?
 
@@ -58,7 +58,7 @@ C: Okay. And there are obviously necessary responses to something that's happeni
 
 A: Correct.
 
-C: And so the swine flu virus or any of the normal viruses that we catch throughout the years â how are they actually â do they incubate in our body and sit dormant until we spread it to someone else? I've never understood where the viruses go. The viruses are like the cicadas to me. It's a mystery. They come out once every seven years, but where are they for that 6.9 years before they come out? Where do viruses reside?
+C: And so the swine flu virus or any of the normal viruses that we catch throughout the years - how are they actually - do they incubate in our body and sit dormant until we spread it to someone else? I've never understood where the viruses go. The viruses are like the cicadas to me. It's a mystery. They come out once every seven years, but where are they for that 6.9 years before they come out? Where do viruses reside?
 
 A: Okay. If you're working under a wrong premise to begin with, then you're never going to find the answer if you do that.
 
@@ -70,9 +70,9 @@ C: Okay.
 
 A: They're not alive. They are solvents. They are soaps. That's all they are.
 
-C: So when they're not making us sick â the bad ones â when the bad ones are not making us sick, where are they or what are they doing?
+C: So when they're not making us sick - the bad ones, when the bad ones are not making us sick, where are they or what are they doing?
 
-A: Well, what's happening is, like I said, we have colds, which are mainly bacterial, which go in and feed on toxic tissue that's been damaged. Waste products that we are too â we don't eat well enough, we don't eat all raw, and therefore we accumulate toxicity. So bacteria have to come in and eat that waste products because we can't keep up with all the waste.
+A: Well, what's happening is, like I said, we have colds, which are mainly bacterial, which go in and feed on toxic tissue that's been damaged. Waste products that we are too- we don't eat well enough, we don't eat all raw, and therefore we accumulate toxicity. So bacteria have to come in and eat that waste products because we can't keep up with all the waste.
 
 C: Gotcha.
 
@@ -80,7 +80,7 @@ A: Okay. So that's what a cold is.
 
 C: Okay.
 
-A: A flu is mainly viral. Some bacteria may â some areas of your body may not be so contaminated that the bacteria â natural way that we cleanse with bacteria, when we're overloaded with toxicity or waste products, bacteria will help us. But when we are so toxic that the bacteria are poisoned by the tissue from chemical inundation, then we have to make solvents. Each cell makes a solvent.
+A: A flu is mainly viral. Some areas of your body may not be so contaminated that the bacteria natural way that we cleanse with bacteria, when we're overloaded with toxicity or waste products, bacteria will help us. But when we are so toxic that the bacteria are poisoned by the tissue from chemical inundation, then we have to make solvents. Each cell makes a solvent.
 
 C: Gotcha.
 
@@ -88,7 +88,7 @@ A: Each cell makes a soap to help clean itself.
 
 C: Okay.
 
-A: And it's a union. It's like a factory. They all â particular cells get together and say, let's make this for us to help clean us. So they're making a soap to do that. So there's nothing dormant about it.
+A: And it's a union. It's like a factory. They all- particular cells get together and say, let's make this for us to help clean us. So they're making a soap to do that. So there's nothing dormant about it.
 
 C: I got that.
 
@@ -228,7 +228,7 @@ C: Over the counter non-steroidal anti-inflammatory drugs carry a lot of systemi
 
 [music]
 
-C: Don't forget to visit superhumanradio.com and check out all the free stuff. Go down to the area that says free stuff, and you can get free samples of concrete creatine, free samples of Ibunex topical ibuprofen, free samples of Gamma O, which raises testosterone naturally, and free samples of DRIVE, which is a stimulant-free pre-workout supplement. You never pay for shipping and handling when you get free stuff on my radio show. We're talking today with Aajonus Vonderplanitz about the sudden and suspicious outbreak of swine flu. What we've learned so far, for those of you who are just tuning in now, is that the vaccine that may have shown up on the scene there in Mexico and may actually be the reason for swine flu. Now, Agnes, you said something at the beginning of the show that you also put in the email, and I'd like you to elaborate on it. You say that AIDS was created in a laboratory.
+C: Don't forget to visit superhumanradio.com and check out all the free stuff. Go down to the area that says free stuff, and you can get free samples of concrete creatine, free samples of Ibunex topical ibuprofen, free samples of Gamma O, which raises testosterone naturally, and free samples of DRIVE, which is a stimulant-free pre-workout supplement. You never pay for shipping and handling when you get free stuff on my radio show. We're talking today with Aajonus Vonderplanitz about the sudden and suspicious outbreak of swine flu. What we've learned so far, for those of you who are just tuning in now, is that the vaccine that may have shown up on the scene there in Mexico and may actually be the reason for swine flu. Now, Aajonus, you said something at the beginning of the show that you also put in the email, and I'd like you to elaborate on it. You say that AIDS was created in a laboratory.
 
 A: Yes, in UCLA, University of California, Los Angeles, 1961 and 62, they created a mixture. What they did was combine the waste product, the virus of a bovine, the lymphonomic virus of a sheep, and the leukemic virus of a bovine. These are bovines. The way you can only get a virus, like I said, is if the tissue is so toxic with chemicals that bacteria can't do their normal janitorial work and eat the organic tissue and then reduce the waste and eliminate a little waste. When your body makes a solvent, which is a virus, the solvent is a virus, it's a soap, it's not alive. There's no nucleus, no respiratory system, no digestive tract, no circulatory system. There's none of that. So it's not alive. It's a waste product. It's dissolved animal tissue, specific animal tissue. So what they do is they take animal tissue and put it in a petri dish in a contaminated environment but with enough solution to keep them alive. So the cells start taking themselves apart with solvents and will eventually kill the cell. This virus will kill the cell. It will kill itself by poisoning itself and taking itself apart.
 

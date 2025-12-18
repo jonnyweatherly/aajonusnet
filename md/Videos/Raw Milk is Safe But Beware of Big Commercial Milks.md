@@ -1,8 +1,6 @@
-@[Source](https://dev.primaldiet.net/raw-milk-is-safe-but-beware-of-big-commercial-milks/)
+@[Video Source](https://archive.org/details/aajonus-raw-food-recipes) (Video #13)
 
-By Aajonus Vonderplanitz
-
-Okay, milk. Delicious, wonderful milk. Milk is one of the most nutritious foods there is.
+A: Okay, milk. Delicious, wonderful milk. Milk is one of the most nutritious foods there is.
 
 Besides the egg, it is the most easily digestible. It only takes 6 - 10 hours to digest - raw milk of course.
 

@@ -1,4 +1,8 @@
-# Super health for everyone from foods only
+@[Source](https://www.smilingstars.fi/artikkeli-Vonderplanitz.html)
+
+Date: June 2003
+
+## Super health for everyone from foods only
 
 Q: Tell us something about yourself. How did you get acquainted with
 this kind of raw food diet?
@@ -100,7 +104,7 @@ Diet. Which do you think causes that phenomenon?
 Q: How do you determine the condition of your patients? What methods do
 you use?
 
-A: I utilize the much misunderstood and misinterpreted iridolocal science
+A: I utilize the much misunderstood and misinterpreted iridology science
 as my method of analysis. By patterns, coloring, and texture variances
 in the iris, I can determine much of a person's state of health, or lack
 of. Also, I utilize skin analysis.

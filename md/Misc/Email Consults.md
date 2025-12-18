@@ -38,6 +38,7 @@ To control excessive diarrhea, I suggest that you consume lots of raw cheese tha
 
 Healthfully,
 Aajonus
+
 ** Dec 10, 2009**
 > Regarding Phone Consultation
 
@@ -217,7 +218,7 @@ Chicken pox is not a biological disease. Children who are not exposed to industr
 Healthfully,
 Aajonus
 
-**April 26th, 2011**
+**April 26, 2011**
 
 > Re: help
 
