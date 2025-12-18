@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2004-02-01/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2004_02_01.mp3)
+
+Transcribed by primaldiet.net
 
 A: Okay, so let's go ahead and get started. Alright, we'll start with Jim over
 here. Okay, question.

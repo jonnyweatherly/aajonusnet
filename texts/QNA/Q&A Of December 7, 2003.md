@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2003_12_07.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 @[Video Clips](https://archive.org/details/aajonus-7-december-2003-qa-video-clips)

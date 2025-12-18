@@ -1,9 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-may-21-2000-qa-a-transcript-from-aajonus-computer/)
+Transcribed by primaldiet.net
 
-Q&A Raw Potluck
-
-Note: this transcript was located on Aajonus' computer. Only the first half of
-the Q&A was recorded and transcribed. There is valuable info here.
+Note: The transcript was found on Aajonus' computer. Only the first half of the Q&A was recorded and transcribed.
 
 Q: Nuts
 

@@ -1,8 +1,10 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2006-12-17/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_12_17.mp3)
 
-Q&A in San Diego
+Transcribed by primaldiet.net
 
-There's a newsletter that I put out about every two months. This last one was
+Location: San Diego
+
+A: There's a newsletter that I put out about every two months. This last one was
 rather lengthy and complex because I needed a lot of information to back it up.
 It's basically where we're going as a society outlawing everything that's
 organic and raw, and the only way you're going to be able to get it is to have

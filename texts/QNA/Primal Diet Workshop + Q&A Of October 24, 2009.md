@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2009_10_24.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Harbourfront Community Centre, Toronto, ON, Canada

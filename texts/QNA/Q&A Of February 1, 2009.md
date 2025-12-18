@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2009_02_01.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Carlsbad, CA

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2013_06_22.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Wheaton, IL, Chicago.

@@ -1,6 +1,8 @@
-@[Source](https://www.primaldiet.net/special-qa-at-aajonus-place-sept-19-2000/)
+Transcribed by primaldiet.net
 
-Special Q&A at Aajonus’ place, Raw Potluck in Malibu, California
+Location: Malibu, California
+
+Note: No audio available.
 
 Q: When you travel, like abroad to Europe, what do you do?
 

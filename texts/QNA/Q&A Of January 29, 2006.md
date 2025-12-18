@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_01_29.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: Much bigger than the one we are using at the moment. Much bigger than the Green Star.

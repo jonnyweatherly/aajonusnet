@@ -1,8 +1,12 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2012_04_21.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Fort Lauderdale, Florida
 
-Q: I was very close to 400. I was lucky because my mother was sick first during 30 years and I was an electronic engineer doing field service engineer for CT scanners and I was looking what doctors, the way of doctors interpret the way the scanner gives the information of the body. So I was thinking, well, maybe they are doing something wrong, but I was very young, recently came out from the university and I didn't have a criteria to say if that was right or wrong. But my mother was coming on to being almost a vegetable in 30 years, so I decided not to take medicines. So...
+A: Anybody here read my books? Almost everyone, whew. Anybody have a testimony you want to give for 2 minutes?
+
+Q: Yes. I was told 3 times by doctors that I would die. Especially if my cholesterol goes to 400. I was very close to 400. I was lucky because my mother was sick first during 30 years and I was an electronic engineer doing field service engineer for CT scanners and I was looking what doctors, the way of doctors interpret the way the scanner gives the information of the body. So I was thinking, well, maybe they are doing something wrong, but I was very young, recently came out from the university and I didn't have a criteria to say if that was right or wrong. But my mother was coming on to being almost a vegetable in 30 years, so I decided not to take medicines. So...
 
 Q: Excuse me, is there any way they could close the kitchen door? Because I can hardly hear you.
 

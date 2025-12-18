@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2002_04_06.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Nevada City

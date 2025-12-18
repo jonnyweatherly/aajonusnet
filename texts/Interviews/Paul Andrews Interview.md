@@ -1,6 +1,6 @@
 Whole Life Times magazine feature article for March 1998
 
-# Diet of our ancestors
+## Diet of our ancestors
 
 There are many roads to health. In the face of serious illness, people
 often are willing to try things they previously discounted or even found

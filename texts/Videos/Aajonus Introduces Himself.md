@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-introduces-himself/Aajonus%20Introduces%20Himself.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-introduces-himself)
 
 Transcribed by Aajonus.net & Rawmeatgang

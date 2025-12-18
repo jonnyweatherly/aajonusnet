@@ -89,6 +89,10 @@ body.find-on-page-active { padding-bottom: 60px; }
   .find-on-page-content { width: 100%; }
 }
 
+/* LIGHT MODE */
+@media (prefers-color-scheme: light) {
+  .activate-find-on-page { background-color: #e0e0e0; color: #000; }
+}
 
 /* === v2-style skin, without moving the bar === */
 

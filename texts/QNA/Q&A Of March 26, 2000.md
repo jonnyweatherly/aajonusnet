@@ -1,15 +1,14 @@
-@[Source](https://www.primaldiet.net/aajonus-at-his-best-in-qa-of-march-26-2000/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2000_03_26.mp3)
 
-Transcriber: Colin - Thank you, Colin!
+Transcribed by primaldiet.net (Colin)
 
-Aajonus’ Question & Answer Session to Attendees of a Primal Potluck
 Location: Los Angeles, California
 
 A = Aajonus
 
 G = Group
 
-Notes: Transcription begins at 00:06:16
+Note: Transcription begins at 00:06:16.
 
 A: Alright, I'm going to start this one off a little bit differently: I'm going
 to tell you, basically, what I have been going through for the past three and a

@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-cancer-control-society-2000/Cancer%20Control%20Society%20%282000%29.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-cancer-control-society-2000)
 
 Transcribed by Aajonus.net & Rawmeatgang

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2011_09_11.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Since we have so many people, I′m not going to sit here and dissertate, so we′ll just start off if you have a question.

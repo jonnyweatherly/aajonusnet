@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_02_12.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Vonderplanitz.

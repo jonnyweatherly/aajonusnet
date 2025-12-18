@@ -31,32 +31,67 @@ function shareArticle() {
     alert("URL copied to clipboard.");
   }
 }
-
-function scrollToElement(el) {
-  const y = el.getBoundingClientRect().top - (innerHeight / 2);
-  scrollBy({ top: y, behavior: 'smooth' });
+function removeHighlights() {
+  const btn = getById('remove-highlights');
+  if (!btn) return;
+  // Remove highlights
+  document.querySelectorAll('mark').forEach(el => {
+    el.outerHTML = el.innerHTML;
+  });
+  // Hide the "Remove Highlights" button
+  btn.remove();
+  // Update URL
+  let url = location.href.split('?')[0];
+  history.replaceState({}, '', url);
 }
-function scrollToPosition() {
-  const el = getById('scrollToThis');
-  if (el) {
-      scrollToElement(el);
-      return;
-  }
-  const marker = '<span id="scrollToThis"></span>';
-  const specialBlocks = document.querySelectorAll("code, pre");
-  for (const block of specialBlocks) {
-    if (block.textContent.includes(marker)) {
-      scrollToElement(block);
-      // Remove the span marker from the text content
-      block.textContent = block.textContent.replace(marker, '');
-      return;
+
+const pageContent = getById('content');
+
+if (pageContent) {
+  // Scroll to position
+  (() => {
+    if (typeof scrollToPos !== 'number') return;
+    const w = document.createTreeWalker(pageContent, NodeFilter.SHOW_TEXT);
+    let a = 0, n;
+    while (n = w.nextNode()) {
+      const len = n.length;
+      if (a + len > scrollToPos) {
+        const r = document.createRange();
+        r.setStart(n, scrollToPos - a);
+        r.collapse(true);
+        const h = document.querySelector('header').offsetHeight || 0,
+        rect = r.getClientRects()[0] || n.parentElement.getBoundingClientRect();
+        scrollTo(0, scrollY + rect.top - h - innerHeight * 0.3);
+        break;
+      }
+      a += len;
     }
-  }
-}
-scrollToPosition();
+  })();
 
-const articleRoot = getById('content');
-if (articleRoot) {
+  // Highlight terms
+  (() => {
+    const s = new URLSearchParams(location.search).get('s');
+    if (!s) return;
+    const a = s.split(/[+\s]+/).filter(Boolean).filter(w => w.length > 1 || /[^a-z]/i.test(w)).map(t => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    if (!a.length) return;
+    const re = new RegExp(a.join('|'), 'giu');
+    const w = document.createTreeWalker(pageContent, NodeFilter.SHOW_TEXT);
+    const nodes = [];
+    for (let n; n = w.nextNode();) {
+      nodes.push(n);
+    }
+    for (const n of nodes) {
+      const t = n.nodeValue;
+      if (t.search(re) < 0) continue;
+      n.parentNode.replaceChild(document.createRange().createContextualFragment(t.replace(re, m => `<mark>${m}</mark>`)), n);
+    }
+  })();
+
+  const remBtn = getById('remove-highlights');
+  if (remBtn) {
+    remBtn.addEventListener('click', removeHighlights);
+  }
+
   // Image preview / spoiler
   document.body.addEventListener('click', (e) => {
     const target = e.target.closest('a');
@@ -80,28 +115,6 @@ if (articleRoot) {
     img.style.border = '1px solid #ddd';
     preview.appendChild(img);
   target.parentNode.insertBefore(preview, target.nextSibling);
-  });
-}
-
-function removeHighlights() {
-  const btn = getById('remove-highlights');
-  if (!btn) return;
-  // Remove highlights
-  document.querySelectorAll('.highlight').forEach(el => {
-    el.outerHTML = el.innerHTML;
-  });
-  // Hide the "Remove Highlights" button
-  btn.remove();
-  // Update URL
-  let url = location.href.split('?')[0];
-  history.replaceState({}, '', url);
-}
-
-const remBtn = getById('remove-highlights');
-if (remBtn) {
-  remBtn.addEventListener('click', removeHighlights);
-  document.querySelectorAll('code, pre').forEach(el => {
-    el.innerHTML = el.innerHTML.replace(/&lt;span class="highlight"&gt;(.*?)&lt;\/span&gt;/g, '<span class="highlight">$1</span>');
   });
 }
 
@@ -138,6 +151,8 @@ const CARDS = document.getElementsByClassName('card-md');
 
 // Map dataId -> { card, title, link }
 const cardIndex = new Map();
+
+const searchEl = getById('search');
 
 function buildCardIndex() {
   if (cardIndex.size) return;
@@ -409,8 +424,7 @@ function filterCategory(ev, category, sanitizedCategory, element) {
   element.classList.add('chosen-category');
 
   // Clear search input
-  const searchInput = getById('search');
-  searchInput.value = '';
+  searchEl.value = '';
   const clearIcon = getById('clear-icon');
   if (clearIcon) clearIcon.hidden = true;
 
@@ -424,30 +438,29 @@ function filterCategory(ev, category, sanitizedCategory, element) {
   history.replaceState({}, '', showAll ? '/' : `/${sanitizedCategory}/`);
 }
 
-const se = getById('search');
-if (se) {
-  se.focus();
-  se.addEventListener('keyup', function(event) {
+function clearSearch() {
+  searchEl.value = '';
+  search(searchEl);
+  const ci = getById('clear-icon');
+  if (ci) ci.hidden = true;
+  searchEl.focus();
+}
+
+let db;
+let articleData = {}; // Global variable to store data
+let hasRetried = false;
+
+if (searchEl) {
+  searchEl.focus();
+  searchEl.addEventListener('keyup', function(event) {
     // Key code 13 is the "Return" key
     if (event.keyCode === 13) {
       // Remove focus to close the keyboard
-      se.blur();
+      searchEl.blur();
     }
   });
-}
 
-function clearSearch() {
-  const se = getById('search');
-  se.value = '';
-  search(se);
-  const ci = getById('clear-icon');
-  if (ci) ci.hidden = true;
-  se.focus();
-}
-
-// Open or create the search database
-let db;
-if (getById('search')) {
+  // Open or create the search database
   const openRequest = indexedDB.open("myDatabase", 1);
   openRequest.onupgradeneeded = function(event) {
     db = event.target.result;
@@ -468,10 +481,6 @@ if (getById('search')) {
   };
 }
 
-// Global variable to store data
-let articleData = {};
-let hasRetried = false;
-
 function populateAndEnableSearch(data) {
   try {
     const tempDiv = document.createElement('div');
@@ -484,7 +493,6 @@ function populateAndEnableSearch(data) {
       articleData[id] = { text: tempDiv.textContent.toLowerCase() };
     }
      tempDiv.remove();
-     const searchEl = getById('search');
      searchEl.disabled = false;
      searchEl.placeholder = "Search";
      search(searchEl); // Initiate search if necessary
@@ -533,7 +541,6 @@ function getCachedData() {
 }
 
 async function loadContentAsync() {
-  const searchEl = getById('search');
   if (!searchEl) return;
   searchEl.disabled = true;
   searchEl.placeholder = 'Loading...';

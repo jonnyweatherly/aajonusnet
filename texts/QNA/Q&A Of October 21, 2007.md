@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2007_10_21.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: Do you use coconut cream to wash your hair?

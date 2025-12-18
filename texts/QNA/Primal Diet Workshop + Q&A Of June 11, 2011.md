@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2011_06_11.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Toronto, ON, Canada

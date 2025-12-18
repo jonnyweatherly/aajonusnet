@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2003_10_18.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Chicago

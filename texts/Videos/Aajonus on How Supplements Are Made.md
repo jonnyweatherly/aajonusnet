@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-how-supplements-are-made/Aajonus%20on%20How%20Supplements%20Are%20Made.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-how-supplements-are-made)
 
 Transcribed by Aajonus.net & Rawmeatgang

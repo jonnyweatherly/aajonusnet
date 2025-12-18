@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2005_09_12.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Okay, so we're going to get started. I'll start with Kay. Question? No question? Question?

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2003_08_17.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: [unintelligible] You have one with the meat meal and another with [unintelligible]. That way you will utilize the fats a lot better. Protein allows the fats to be utilized properly. Fats can't be utilized without protein and protein cannot be utilized without fat. So that's why I like to put them together. That's why I advise having most of your fat at that meal. Whenever you have a fat with a fruit, it will be for detoxification, not for building or strengthening. Know that when you put fat, no matter what kind of fat it is, you put it with a fruit or a vegetable juice and it will cause detoxification. As far as trying to hydrate yourself, with all that fasting that takes years to rehydrate or re-lubricate every cell. You are at such an extreme point, it's going to be wild until you feel balanced. You just have to make it through.

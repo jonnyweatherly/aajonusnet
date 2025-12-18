@@ -1,9 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2011-05-29/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2011_05_29.mp3)
 
-Transcriber: Colin - Thank you, Colin!
-
-Transcript for Audio Recording of Aajonus’ Question & Answer Session to
-Attendees of a Primal Potluck
+Transcribed by primaldiet.net (Colin)
 
 Location: Carlsbad, California
 

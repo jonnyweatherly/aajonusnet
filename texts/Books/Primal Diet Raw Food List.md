@@ -2172,6 +2172,9 @@ P.O. Box 686, Avondale, PA 19311
 
 ### Aajonus’ Sample Food Club Membership Agreement
 
+Added by Aajonus.net:
+[Rawesome Club - Venice Membership Agreement 2010](docs/rawesome_club_venice_membership_agreement_2010.pdf)
+
 **Part 1. Food Club Membership Agreement**
 
 I attest that as a member of this club, I demand access to food that:
@@ -2203,10 +2206,8 @@ quality of milk and other foods I require to improve and maintain my health, I
 reject those standards and any attempt by government agency to regulate food
 production, preparation, packaging or labeling for this club. I affirm that any
 government-agency would exceed its authority if it were to require members of
-this club to testify on any such matters. Also, in case of any government-
-
-
-proceeding relating to the application of government standards or interference
+this club to testify on any such matters. Also, in case of any government-proceeding
+relating to the application of government standards or interference
 to this club, I will be available to testify about any activities by government
 employees that overreach their authority, including trespass, conspiracy and
 kidnapping (false arrest).

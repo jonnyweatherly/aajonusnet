@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-raw-to-radiant-interview/Raw%20to%20Radiant%20Interview.mp3)
+
 @[Source](https://archive.org/details/aajonus-raw-to-radiant-interview)
 
 Date: 5 June 2007

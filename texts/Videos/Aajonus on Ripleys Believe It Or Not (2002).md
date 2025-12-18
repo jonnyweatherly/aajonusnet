@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-ripleys-believe-it-or-not/Aajonus%20on%20Ripleys%20Believe%20It%20Or%20Not%20%282002%29.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-ripleys-believe-it-or-not)
 
 Date: 17 July 2002

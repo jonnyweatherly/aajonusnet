@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2011_08_13.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Carbondale, CO

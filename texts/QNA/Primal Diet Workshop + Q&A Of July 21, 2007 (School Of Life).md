@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/21-july-2007-workshop-school-of-life/21%20July%202007%20-%20Workshop%20%28School%20of%20Life%29.mp4)
+
 @[Video Source](https://archive.org/details/21-july-2007-workshop-school-of-life)
 
 Transcribed by Aajonus.net & Rawmeatgang
@@ -5,7 +7,7 @@ Transcribed by Aajonus.net & Rawmeatgang
 Location: Chevy Chase, Maryland
 
 Note: This workshop is often found online as "WS_SOL_2007" and "WS_CC_2007_07_21".
-The video found online combines clip segments in the wrong order; the text below follows the correct sequence.
+They combine clip segments in the wrong order; the video above & the text below follow the **correct sequence**.
 
 A: Are we ready? There are some people that need to sit in the back, or have they gone out to the other room? Is it too hot there in those seats, probably? Sun beating in through there. Are Ray and Lindsey going to sit in those seats, or somebody else out there?
 
@@ -137,7 +139,7 @@ So, when we finish, after we talk about the body, then I'll talk about foods, ho
 
 [applause]
 
-A: Please watch your time, Desus. We'll try to do this in 15 minutes.
+A: Please watch your time, Desus. We'll try to do this in 15 minutes. Thank you.
 
 [break]
 
@@ -329,7 +331,7 @@ A: Okay, there's a whole crowd that does that. There are several civilizations, 
 
 [audio cut]
 
-A: Thank you. Again, now, someone asked me about the manure on the eggs. And I said, I like the manure on the eggs. You know why I like the manure on the eggs? Because I said the E. coli helps brain functions. Well, not only that, the University of Toronto and Association for the Children's Hospital Toronto have utilized the verotoxin produced by E. coli, so it's in all feces, to completely dissolve brain tumors in two to five days, including the vessels going to it. So eat shit and live.
+A: Again, now, someone asked me about the manure on the eggs. And I said, I like the manure on the eggs. You know why I like the manure on the eggs? Because I said the E. coli helps brain functions. Well, not only that, the University of Toronto and Association for the Children's Hospital Toronto have utilized the verotoxin produced by E. coli, so it's in all feces, to completely dissolve brain tumors in two to five days, including the vessels going to it. So eat shit and live.
 
 [laughter]
 

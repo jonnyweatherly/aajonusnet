@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/my-first-consult-with-aajonus-vls/My%20First%20Consult%20With%20Aajonus%20VLS.mp3)
+
 @[Source](https://archive.org/details/my-first-consult-with-aajonus-vls)
 
 Transcribed by Aajonus.net & Rawmeatgang

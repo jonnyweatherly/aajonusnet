@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-how-he-created-the-primal-diet/Aajonus%20on%20How%20He%20Created%20The%20Primal%20Diet.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-how-he-created-the-primal-diet)
 
 Transcribed by Aajonus.net & Rawmeatgang

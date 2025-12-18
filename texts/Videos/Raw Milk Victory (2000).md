@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-raw-milk-victory-2000/Raw%20Milk%20Victory.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-raw-milk-victory-2000)
 
 Transcribed by Aajonus.net & Rawmeatgang

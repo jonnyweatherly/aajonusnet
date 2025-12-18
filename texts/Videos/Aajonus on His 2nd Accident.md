@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-his-2nd-accident/Aajonus%20on%20his%202nd%20accident.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-his-2nd-accident)
 
 Transcribed by Aajonus.net & Rawmeatgang

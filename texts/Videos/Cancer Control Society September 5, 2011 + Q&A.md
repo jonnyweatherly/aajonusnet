@@ -1,10 +1,12 @@
+[video]: (https://archive.org/download/aajonus-cancer-control-society-2011/Cancer%20Control%20Society%20%282011%29.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-cancer-control-society-2011)
+
+[video]: (https://archive.org/download/aajonus-cancer-control-society-qa-2011/Cancer%20Control%20Society%20Q%26A%20%282011%29.mp4)
 
 @[Video Source (Q&A)](https://archive.org/details/aajonus-cancer-control-society-qa-2011)
 
-Aajonus – Remedy to Reverse Cancer
-
-Aajonus live, addressing the Cancer Control Society.
+Note: Aajonus starts talking at 0:53.
 
 A: Thank you. Now how many of you are biochemists? How many of you understood all of the language that went on here during this entire entire weekend about what nutrients you have to have for your particular condition or whatever? I want you to throw all of that out.
 

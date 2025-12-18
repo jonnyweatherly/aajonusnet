@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_11_26.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: OK, I'm going to begin. We've got a little bit of a crowd here, so I'm not going to tell any story unless something interests me that somebody asks. OK, so we're going to go around and start with you.

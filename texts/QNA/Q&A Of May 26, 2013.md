@@ -1,8 +1,10 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2013_05_26.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: La Jolla, CA
 
-Note: This Q&A has been wrongly uploaded by some people under the date 26 March 2013 / March 26 2013.
+Note: This Q&A has been wrongly uploaded by some people under the date 26 March 2013.
 
 Q: So just don't worry about it.
 

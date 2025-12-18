@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2005_02_12.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: West Palm Beach, Florida

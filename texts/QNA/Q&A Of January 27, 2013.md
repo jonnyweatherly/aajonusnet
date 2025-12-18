@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2013-01-27/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2013_01_27.mp3)
+
+Transcribed by primaldiet.net
 
 Location: Marina Del Rey, CA.
 

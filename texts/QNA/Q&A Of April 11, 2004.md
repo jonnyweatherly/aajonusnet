@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2004_04_11.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 @[Video Clips](https://archive.org/details/aajonus-11-april-2004-qa-video-clips)

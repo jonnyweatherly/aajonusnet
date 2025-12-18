@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2013_06_16.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Bel Air, CA
@@ -18,7 +20,7 @@ A: Well, thank you. My son actually called me.
 
 Q: That′s nice. How′s he doing?
 
-A: Because I didn′t raise him at all, I don′t feel like I should be given that honor. But he did call me to [unintelligible].
+A: Because I didn′t raise him at all, I don′t feel like I should be given that honor. But he did call me to wish me a happy [unintelligible].
 
 Q: Well, you did save his life.
 
@@ -48,7 +50,7 @@ Q: I think that deserves an acknowledgment.
 
 Q: What was the second time?
 
-Q: In the book. In the book.
+Q: It's in the book. In the book.
 
 A: At some point I want to collect the forty from you.
 

@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-2008-12-14/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2008_12_14.mp3)
+
+Transcribed by primaldiet.net
 
 Location: Los Angeles, CA
 

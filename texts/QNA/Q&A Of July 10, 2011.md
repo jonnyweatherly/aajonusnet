@@ -1,8 +1,10 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2011-07-10/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2011_07_10.mp3)
+
+Transcribed by primaldiet.net
 
 Location: Los Angeles, CA
 
-I made and designed a magnetic pillow because I have a Prius. Every time I
+A: I made and designed a magnetic pillow because I have a Prius. Every time I
 drive 2½ hours down to San Diego I would get aches in the back of my legs and
 behind my knees, especially the right one that works the gas pedal, because of
 the electromagnetic field. They say that Carpal Tunnel has nothing to do with

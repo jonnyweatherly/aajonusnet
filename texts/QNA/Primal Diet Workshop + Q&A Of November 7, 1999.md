@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_1999_11_07.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Nevada City

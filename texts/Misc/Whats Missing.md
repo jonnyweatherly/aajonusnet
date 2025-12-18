@@ -15,7 +15,6 @@ Unknown
 ⸻
 
 2009
-- February 1 – Potluck in Carlsbad, CA.
 - February 14–15 – Lake Worth, FL: Lecture, workshop, and consults.
 - March 7–9 – Toronto, ON, Canada: Lecture, workshop, and consults.
 - May 2–4 – Viroqua, WI events.
@@ -82,6 +81,7 @@ Unknown
 
 
 2009
+- February 1 – Potluck in Carlsbad, CA.
 - February 22 – Potluck and dancing in Santa Monica, CA.
 - April 25–29 – Chicago/Hinsdale, IL events.
 - May 9–11 – Cherry Hill, NJ events.

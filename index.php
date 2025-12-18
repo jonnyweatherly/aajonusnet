@@ -16,13 +16,6 @@ function sanitizeFileName(string $s): string {
     return strtolower(trim($s, '-'));
 }
 
-/*function sanitizeFileName($string) {
-    $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
-    $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
-    $string = preg_replace('/\s+/', '-', $string);
-    return strtolower(trim($string, '-'));
-}*/
-
 function titleDateTs(string $s): int {
     if (preg_match('/(?:of\s+)?([A-Za-z]{3,9}\.?)\s*(\d{1,2}(?:st|nd|rd|th)?)?,?\s*((?:19|20)\d{2})/i',$s,$m))
         return strtotime(rtrim($m[1],'.').' '.(preg_replace('/\D/','',$m[2]??'1')).' '.$m[3]);
@@ -143,7 +136,7 @@ if ($is404) {
         <!-- Search Bar -->
         <div id="search-container">
             <svg id="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 44"><g stroke="#757575" stroke-width="1.1" fill="none" stroke-linecap="butt"><circle cx="6" cy="20" r="5"/><line x1="10.039" y1="23.721" x2="13.909" y2="27.591"/></g></svg>
-            <input type="search" id="search" oninput="search(this)" placeholder="Loading..." disabled aria-label="Search website" spellcheck="false" enterkeyhint="search">
+            <input type="text" id="search" oninput="search(this)" placeholder="Loading..." disabled aria-label="Search website" spellcheck="false" enterkeyhint="search">
             <div id="clear-icon" onclick="clearSearch()" role="button" aria-label="Clear search" hidden>&times;</div>
         </div>
         <!-- Categories -->
@@ -159,7 +152,7 @@ if ($is404) {
             foreach ($topLevelCategories as $category => $cat) {
               $chosen = (isset($folderName) && strtolower($cat) === strtolower($folderName)) ? 'chosen-category' : '';
               $classAttr = $chosen ? ' class="' . $chosen . '"' : '';
-              echo '<a href="/' . $category . '/"' . $classAttr . ' onclick="return filterCategory(event, \'' . $cat . '\', \'' . $category . '\', this)">' . $cat . '</a>';
+              echo '<a href="/' . $category . '/"' . $classAttr . ' onclick="filterCategory(event, \'' . $cat . '\', \'' . $category . '\', this)">' . $cat . '</a>';
             }
             ?>
         </nav>
@@ -216,9 +209,9 @@ if ($is404) {
             $lowerCategory = strtolower($category);
             $sanitizedName = $article['slug'];
             $fullUrl = $categoryInLinks ? $sanitizedCategory . '/' . $sanitizedName : $sanitizedName;
-            $hiddenStyle = ($lowerFolderName !== '' && strpos($lowerCategory, $lowerFolderName) !== 0) ? ' style="display: none;"' : '';
+            $hidden = ($lowerFolderName !== '' && strpos($lowerCategory, $lowerFolderName) !== 0) ? ' hidden' : '';
         ?>
-        <div class="card-md" data-id="<?= $dataId ?>"<?= $hiddenStyle ?>>
+        <div class="card-md" data-id="<?= $dataId ?>"<?= $hidden ?>>
             <span class="category"><?= $category ?></span>
             <h2><a class="read-more" href="/<?= $fullUrl ?>"><?= $filename ?></a></h2>
         </div>
@@ -239,69 +232,47 @@ if ($is404) {
         }
         require_once 'code/Parsedown.php';
         require_once 'code/ParsedownExtra.php';
-        $Parsedown = new ParsedownExtra();  
+        $Parsedown = new ParsedownExtra();
         $content = trim(file_get_contents($file));
-
-        echo '<meta name="raw-md-length" content=' . strlen($content) . '>';
-
-        $scrollToThisPlaceholder = "\u{F8FF}";
+        $position = null;
 
         if (isset($_GET['search'])) {
             $searchValue = preg_replace('/\s/', '', html_entity_decode(strip_tags($_GET['search'])));
             $pattern = '';
-
             for ($i = 0, $n = iconv_strlen($searchValue, 'UTF-8'); $i < $n; $i++) {
                 $pattern .= preg_quote(iconv_substr($searchValue, $i, 1, 'UTF-8'), '/') . '\\s*';
             }
-
-            if (preg_match('#' . $pattern . '#miu', $content, $matches, PREG_OFFSET_CAPTURE)) {
+            if ($pattern && preg_match('#' . $pattern . '#miu', $content, $matches, PREG_OFFSET_CAPTURE)) {
                 $position = $matches[0][1];
-                // if (($p = strrpos($content, "\n", $position - strlen($content))) !== false && $position - $p <= 120) $position = $p + 1;
                 $currentURL = $_SERVER['REQUEST_URI'];
                 $newURL = preg_replace('/&search=[^&]*/', '', $currentURL) . "&pos={$position}";
                 echo "<script>history.replaceState({}, null, " .  json_encode($newURL) . ");</script>";
-                $content = substr_replace($content, $scrollToThisPlaceholder, $position, 0);
             }
-        }
-        if (isset($_GET['pos'])) {
+        } else if (isset($_GET['pos'])) {
             $position = max(0, (int)$_GET['pos']);
-            if ($position > 0 && $position < strlen($content)) {
-                $content = substr_replace($content, $scrollToThisPlaceholder, $position, 0);
-            }
+            $position = min($position, strlen($content));
         }
-        if (isset($_GET['s'])) {
-            $s = html_entity_decode(strip_tags($_GET['s']));
-            $words = explode('+', $s); // Split the words
-
-            $words = array_filter($words, function($word) {
-                if ($word === '') return false;
-                if (iconv_strlen($word, 'UTF-8') > 1) return true;
-                return !preg_match('/^[a-z]$/i', $word);
-            });
-
-            $pattern = implode('|', array_map(fn($w)=>preg_quote($w,'/'), $words)); // Create a pattern that matches any of the words
-
-            // Replace each match with the highlighted version
-            if ($pattern !== '') {
-                $content = preg_replace_callback('/' . $pattern . '/miu', function ($match) {
-                    return '<span class="highlight">' . $match[0] . '</span>';
-                }, $content);
-            }
-        }
-
-        $content = str_replace($scrollToThisPlaceholder, '<span id="scrollToThis"></span>', $content);
+        $content = preg_replace(['~^\[audio\]:\s*\(([^)]+)\)\s*$~m', '~^\[video\]:\s*\(([^)]+)\)\s*$~m'],
+        ['<audio controls preload="none" src="$1"></audio>', '<video controls playsinline preload="none" src="$1"></video>'], $content);
 
         $content = preg_replace('/!\[\[(.*?) \| (\d+)\]\]/', '<img src="/imgs/$1" alt="$1" width="$2">', $content);
         $content = preg_replace('/!\[(.*?)\]\((.*?)\)/', '![$1](/imgs/$2)', $content);
-        $content = preg_replace('/!\[\[(.*?)\]\]/', '![$1](/imgs/$1 "Title")', $content);
-        $htmlContent = $Parsedown->text($content);
+        $content = preg_replace('/!\[\[(.*?)\]\]/', '![$1](/imgs/$1 "$1")', $content);
 
+        if ($position !== null) {
+          $prefixHtml = $Parsedown->text(substr($content, 0, $position));
+          $plain = html_entity_decode(strip_tags($prefixHtml), ENT_QUOTES|ENT_HTML5, 'UTF-8');
+          $scrollToPos = (int) (strlen(iconv('UTF-8','UTF-16LE', $plain)) / 2);
+          echo "<script>scrollToPos={$scrollToPos};</script>";
+        }
+
+        $htmlContent = $Parsedown->text($content);
         echo $htmlContent;
         ?>
         </div>
         <?= isset($_GET['s']) ? '<button id="remove-highlights"><span class="x">×</span>Highlights</button>' : '' ?>
         <script defer src="/code/findonpage.js?v=8"></script>
     <?php } ?>
-    <script defer src="/code/<?= $script ?>?v=375"></script>
+    <script defer src="/code/<?= $script ?>?v=378"></script>
 </body>
 </html>

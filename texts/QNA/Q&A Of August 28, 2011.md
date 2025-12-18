@@ -1,8 +1,10 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2011_08_28.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Carlsbad, CA
 
-Note: This workshop has been wrongly uploaded by other people as a Q&A under the name "QA_SD_2010_08_28" (28 August 2010).
+Note: There are two different recordings of this Q&A that were uploaded by other people under the names "QA_SD_2010_08_28" (28 August 2010, wrong date) and WS_SD_2011_08_28 (correct date, but wrong category).
 
 A: But this was an adult, you know, who was violent.
 

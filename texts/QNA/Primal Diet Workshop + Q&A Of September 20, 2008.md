@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2008_09_20.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Hinsdale, IL, Chicago

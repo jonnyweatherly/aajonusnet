@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2005-11-20/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2005_11_27.mp3)
+
+Transcribed by primaldiet.net
 
 A: I will be picking up some juicing machinery when I leave for Thailand
 next Sunday.

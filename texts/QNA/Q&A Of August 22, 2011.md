@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-with-primal-diet-details-august-22-2011/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2011_08_22.mp3)
+
+Transcribed by primaldiet.net
 
 Location: Omaha, Nebraska
 

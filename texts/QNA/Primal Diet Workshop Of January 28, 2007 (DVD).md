@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-28-january-2007-workshop-dvd/28%20January%202007%20-%20Workshop%20%28DVD%29.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-28-january-2007-workshop-dvd)
 
 Transcribed by Aajonus.net & Rawmeatgang

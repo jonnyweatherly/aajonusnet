@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2003_10_26.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Okay, well let's start over this side of the room.

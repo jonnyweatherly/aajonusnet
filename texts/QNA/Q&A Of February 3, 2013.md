@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2013-02-03/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2013_02_03.mp3)
+
+Transcribed by primaldiet.net
 
 Location: Carlsbad, CA.
 

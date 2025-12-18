@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2002_03_17.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: Well, this isn't really having to do with food. But I was wondering about like fireplaces and stuff like that. If you're burning logs, and papers if that's gives off like toxic...

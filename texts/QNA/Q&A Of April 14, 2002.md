@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2002_04_14.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: Is it toxic to smell your own farts?

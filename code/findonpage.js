@@ -33,12 +33,12 @@
     !!global.navigator.standalone;
 
   // If global removeHighlights (site-search) exists, we’ll use it.
-  // Otherwise, fall back to locally removing .highlight spans only.
+  // Otherwise, fall back to locally removing mark tags only.
   const maybeRemoveSearchHighlights = () => {
     if (typeof global.removeHighlights === 'function') {
       try { global.removeHighlights(); return; } catch {}
     }
-    document.querySelectorAll('.highlight').forEach((node) => {
+    document.querySelectorAll('mark').forEach((node) => {
       node.outerHTML = node.innerHTML;
     });
   };

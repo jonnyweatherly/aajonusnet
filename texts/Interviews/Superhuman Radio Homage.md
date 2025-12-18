@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-superhuman-radio-homage/Superhuman%20Radio%20Homage.mp3)
+
 @[Source](https://archive.org/details/aajonus-superhuman-radio-homage)
 
 Date: 10 September 2013

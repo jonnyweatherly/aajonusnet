@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2005_04_17.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: I always talk about something that I've done over the years. Hello?

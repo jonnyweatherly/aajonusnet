@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-jimmy-moore-interview/Jimmy%20Moore%20Interview.mp3)
+
 @[Source](https://archive.org/details/aajonus-jimmy-moore-interview)
 
 Date: 20 June 2011

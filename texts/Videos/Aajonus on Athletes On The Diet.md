@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-athletes-on-the-diet/Aajonus%20on%20Athletes%20on%20the%20Diet.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-athletes-on-the-diet)
 
 Transcribed by Aajonus.net & Rawmeatgang

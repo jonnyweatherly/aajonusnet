@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-a-fascinating-qa-in-malibu-on-august-8-2008/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2008_08_24.mp3)
+
+Transcribed by primaldiet.net
 
 Location: Malibu, CA
 

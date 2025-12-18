@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2010_04_04.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: I guess my biggest concern now is [unintelligible]. If there′s any suggestions, maybe. I wouldn't like to root canal it. [unintelligible]

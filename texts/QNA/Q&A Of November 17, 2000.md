@@ -1,12 +1,9 @@
-@[Source](https://www.primaldiet.net/aajonus-november-17-2000-qa/)
+Transcribed by primaldiet.net (Colin)
 
-Transcriber: Colin - Thank you, Colin!
-
-Aajonus’ Question & Answer Session to Attendees of a Primal Potluck
-Location: Los Angeles, California
+Note: No audio available.
 
 A = Aajonus
-Q = Question
+
 G = Group
 
 A: You have to understand that dozens of oils are distilled and they are
@@ -88,26 +85,26 @@ your time, spend a lot of money and make you more toxic. They are only two to
 12% utilizable. That means they are 88-98% toxic. Your body has to use vitamins,
 minerals and enzymes to help detoxify and get rid of those bi-products.
 
-Q: Even breathing the oils in?
+G: Even breathing the oils in?
 
 A: Yes. They create gasses just like chlorine creates chloroform, which is a
 gaseous, toxic carcinogenic substance. They create vapors which are very
 penetrating. It can dissolve your lungs; your throat; your nasal passages;
 sinuses – everything.
 
-Q: I just wanted to talk about therapies and magic bullets. Ozone?
+G: I just wanted to talk about therapies and magic bullets. Ozone?
 
 A: Ozone is a terrible one. My landlord just installed it in our well system on
 the property. It oxidizes everything. It turns oils into oxidized substances
 which are very toxic.
 
-Q: Even the air changes?
+G: Even the air changes?
 
 A: Well, the air filters I have not experimented with since the early ‘70’s
 and they were very toxic then. But, I understand something changed but I can not
 speak about those because I have not experimented with them.
 
-Q: How about ionizers?
+G: How about ionizers?
 
 A: Ionizers are the things I have not experimented with. But, ozonation is
 horrible – it oxidizes everything; it is there to destroy bacteria. Bacteria
@@ -137,11 +134,11 @@ excrement – the bi-products of parasites – is five times less toxic than the
 solvent process, or 100% less toxic. Of course that depends on what you are
 looking at – the excrement or the bi-product.
 
-Q: Quick clarification on the solvent process.
+G: Quick clarification on the solvent process.
 
 A: 80% fat; 15% protein; 5% alcohol.
 
-Q: And where does that take place primarily – all over the body?
+G: And where does that take place primarily – all over the body?
 
 A: Well, your body will mainly manufacture the element in the liver or in the
 lymph because the lymph feeds the entire body. Very little is fed in the blood
@@ -175,7 +172,7 @@ the ground and never move and spend your whole life on breaking down those very
 difficult substances to make into biological forms then become a plant in your
 next life. But in this one you are a human and it does not work.
 
-Q: Chelation therapy.
+G: Chelation therapy.
 
 A: Chelation therapy is using toxic minerals to pull out other toxic minerals
 and all it does is collect more toxic minerals in the body. My patients who have
@@ -262,7 +259,7 @@ People go through it eating cooked foods and their body is trying to detoxify
 all the time. But, they are not detoxifying properly and they are not healing
 properly because they are eating cooked foods.
 
-Q: And that was the case with Cesca because she was not even 50% on the diet.
+G: And that was the case with Cesca because she was not even 50% on the diet.
 
 A: Like I said: it takes 40 years. My estimate is according to Pottenger’s
 work and what I have seen so far.

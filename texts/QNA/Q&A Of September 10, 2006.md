@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_09_10.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: Are bugs healthy to eat?

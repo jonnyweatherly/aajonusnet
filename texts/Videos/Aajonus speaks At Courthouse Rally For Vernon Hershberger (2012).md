@@ -1,3 +1,6 @@
+[video]: (https://archive.org/download/aajonus-on-courthouse-steps-before-the-vernon-hershberger-trial/Aajonus%20on%20Courthouse%20Steps%20Before%20The%20Vernon%20Hershberger%20Trial.mp4)
+
+
 @[Video Source](https://archive.org/details/aajonus-on-courthouse-steps-before-the-vernon-hershberger-trial)
 
 Date: 2 March 2012

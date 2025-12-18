@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-talks-about-the-doctors-tv-show/Aajonus%20Talks%20About%20The%20Doctors%20TV%20Show.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-talks-about-the-doctors-tv-show)
 
 Transcribed by Aajonus.net & Rawmeatgang

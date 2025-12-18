@@ -1,4 +1,6 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2008-07-20/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2008_07_20.mp3)
+
+Transcribed by primaldiet.net
 
 Location: San Clemente, CA
 

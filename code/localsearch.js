@@ -100,7 +100,7 @@ function findMatches(text, searchValue, words, maxLength, exactRegex, partialReg
 }
 
 function highlightTerms(text, regex) {
-  return text.replace(regex, '<span class="highlight">$1</span>');
+  return text.replace(regex, '<mark>$1</mark>');
 }
 function escapeRegExp(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 function isHigh(cp) { return cp >= 0xD800 && cp <= 0xDBFF; }

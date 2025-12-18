@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-responds-to-mike-adams/Aajonus%20responds%20to%20Mike%20Adams.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-responds-to-mike-adams)
 
 Transcribed by Aajonus.net & Rawmeatgang

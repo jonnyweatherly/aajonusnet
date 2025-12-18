@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-vaccines-2012/Aajonus%20on%20Vaccines%20%282012%29.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-vaccines-2012)
 
 Date: 2012

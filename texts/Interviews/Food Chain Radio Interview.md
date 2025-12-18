@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-food-chain-radio-interview/Food%20Chain%20Radio%20Interview%20%28Aajonus%20Part%29.mp3)
+
 @[Source](https://archive.org/details/aajonus-food-chain-radio-interview)
 
 Transcribed by Aajonus.net & Rawmeatgang

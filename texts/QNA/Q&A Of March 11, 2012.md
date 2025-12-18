@@ -1,8 +1,8 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2012-03-11/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2012_03_11.mp3)
+
+Transcribed by primaldiet.net (Arielle/Ariella)
 
 Location: Marina Del Rey, CA
-
-Transcriber: Arielle - Thank you, Ariella!
 
 A: Okay, we’re just going to talk a little bit about what’s going on
 in different governments. The root of the main evil is the FDA and CDC.

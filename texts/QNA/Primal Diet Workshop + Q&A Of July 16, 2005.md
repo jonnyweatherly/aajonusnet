@@ -1,6 +1,8 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2005_07_16.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
-Location: California
+Location: Campbell, California
 
 @[Video Clips](https://archive.org/details/aajonus-16-july-2005-workshop-video-clips)
 

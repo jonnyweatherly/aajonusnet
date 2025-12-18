@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-wgdr-interview/WGDR%20Plainfield%20Interview.mp3)
+
 @[Source](https://archive.org/details/aajonus-wgdr-interview)
 
 Date: 9 April 2010

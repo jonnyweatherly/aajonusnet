@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-on-kathy/Aajonus%20on%20Kathy.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-on-kathy)
 
 Transcribed by Aajonus.net & Rawmeatgang

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2002_12_08.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: Don't forget me. With the van.

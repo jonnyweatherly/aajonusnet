@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2005_11_13.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Okay, this week folks, I'm officially a PhD in nutrition.

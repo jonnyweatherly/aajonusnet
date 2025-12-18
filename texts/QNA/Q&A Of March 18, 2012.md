@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2012_03_18.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: And those permits, no written permit, only permission verbally. And the guy who was in charge of Malibu at the time said I gave them permission. But because it wasn't written in writing, they said, well, [unintelligible]. Okay.

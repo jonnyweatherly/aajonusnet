@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2009_02_22.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Santa Monica, CA

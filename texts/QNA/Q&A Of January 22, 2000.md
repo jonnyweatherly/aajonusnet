@@ -1,6 +1,6 @@
-@[Source](https://www.primaldiet.net/qa-january-22-2000-a-very-informative-time-with-aajonus/)
+Transcribed by primaldiet.net
 
-Q&A - a transcript found on Aajonus' computer, Raw Potluck
+Note: The transcript was found on Aajonus' computer.
 
 Q: Do you use a filter for your shower? I fell asleep and when I woke up I
 felt dizzy and had zig zags.

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2010_05_30.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Carlsbad, CA

@@ -1,8 +1,10 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2013_03_02.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Mullica Hill, NJ
 
-Note: This workshop is often found online as "WS_NJ_2013".
+Note: This workshop was often found online as "WS_NJ_2013".
 
 A: ...damaged as low as 98 degrees. When they check to see if something's pasteurized, they look at the phosphorous molecules. If they're cauterized, that means they've been heated. If they're cauterized completely to a solid state, that means they've been heated to 140 degrees. So phosphorous is completely solidified into a non-malleable rock at 140 degrees, but it becomes altered at 98 degrees. Phosphorous is one of the main functions of cleansing the body. So let's say you've got a free radical running around in the body and you have no fat. The body's going to use calcium, magnesium, phosphorous, and potassium to cement it in, that molecule of mercury, causing a plaque, like what appears on your teeth. It will cause plaquing around that. Now, how's the body going to get that out of itself when it's now a hard, large substance? The lymphatic system has to take it and dissolve it and then dump it into the connective tissue to be perspired out of the body. So, if it doesn't happen properly or it doesn't happen at all, when it moves through the skin, it's going to create damage. Let's say you've got a very large cluster of those minerals with two or three molecules of mercury. You saw what the vapors did when they were this far from something this big and the mercury was this small, and yet it was dissolving and deteriorating. So the vapors, as they pass through this cluster of minerals, are still going to be irritating the tissue around. It's one molecule that's going to create substantial damage. Two molecules in there, substantial, much more damage. Three molecules, infinitesimal damage. So you see all the kids with pockmarks, trying to throw their... Now, children didn't have those kind of pockmarks before vaccines. It was not a teenage thing to have that much acne. Of course, they were getting into candy. Candy was now available and stuff like that. That's when children started having acne. 
 

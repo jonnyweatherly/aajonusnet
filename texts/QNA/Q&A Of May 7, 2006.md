@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_05_07.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Plug it into a computer.

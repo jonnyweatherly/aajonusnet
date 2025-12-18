@@ -27,4 +27,4 @@ $prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
 $sortArticlesByDate = ['QNA'];
 
 // Pin these articles to the top for its category
-$pinnedArticles = ['we-want-to-live'];
+$pinnedArticles = ['we-want-to-live', 'the-recipe-for-living-without-disease'];

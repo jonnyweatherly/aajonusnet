@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-the-aware-show-interview/The%20Aware%20Show%20Interview.mp3)
+
 @[Source](https://archive.org/details/aajonus-the-aware-show-interview)
 
 Transcribed by Aajonus.net & Rawmeatgang

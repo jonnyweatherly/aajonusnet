@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2007_02_25.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Q: John is the guy who told us about the diet in the first place.

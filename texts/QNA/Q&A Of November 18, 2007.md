@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2007_11_18.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 @[Video Clips](https://archive.org/details/aajonus-18-november-2007-qa-video-clips)

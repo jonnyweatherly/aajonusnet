@@ -1,6 +1,8 @@
-@[Source](https://www.primaldiet.net/aajonus-qa-2004-05-02/)
+[audio]: (https://archive.org/download/aajonus-qas/QA_2004_05_02.mp3)
 
-For those who don't know, I was in an automobile accident 33 days ago. Some
+Transcribed by primaldiet.net
+
+A: For those who don't know, I was in an automobile accident 33 days ago. Some
 teenager was driving without his lights. I was in the 3rd seat of an RV,
 and I was harnessed this way, and there was a teenager driving without his
 lights in another RV and hit us broad side. He was going about 50 mph. We were
@@ -124,7 +126,7 @@ all these waste products from high carbohydrate foods. Yeasts are there as
 your friends to eat it. To not have a lot of symptoms while they do their job,
 you need a lot of butter. Butter is the main thing that will sooth the skin,
 If the yeast isn't vaginal and you have it outside on the feet, or anywhere
-on the surface skin, you can put the Primal Fascial Body Care Cream ® from
+on the surface skin, you can put the Primal Facial Body Care Cream ® from
 page 145 of the recipe book. That takes care of itching within minutes,
 and also the dryness. But if you have internal yeast, then you need the
 lubrication/moisturizing formula. Coconut is mainly 60 to 70 % solvent reactive;

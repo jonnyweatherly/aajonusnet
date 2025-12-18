@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_03_19.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: And if that is damaged in your RNA or your RNA and DNA and the follicle cannot handle the PABA (para-aminobenzoic acid) anymore, then it will be permanently gray. And heavy metals do that to the follicle, so they can damage it permanently. But mine, I don't seem to have any permanent damage. I thought, this is going to be permanent here, but it comes and goes. So there's a huge gray spot, but it comes and goes, it comes and goes. But it stayed one time for almost two years, and then all of a sudden, one winter it went away. It comes back and goes around and goes away. It gets better every year, it gets less gray. As I get older, I get healthier.

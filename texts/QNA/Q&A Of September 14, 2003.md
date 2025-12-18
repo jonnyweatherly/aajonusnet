@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2003_09_14.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Okay, let's start here. Freddy.

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2003_06_08.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Well, if bile is coming out of the skin, it turns the skin very orange and then it will turn it brown. Sometimes if it's an intense detox, we use coconut cream to help remove the bile that's in the system. When the skin is very orange and then brown, that's where the blood [unintelligible] goes really into the system. If you have toxic bone cells, they usually come in clusters through the skin in crystals.

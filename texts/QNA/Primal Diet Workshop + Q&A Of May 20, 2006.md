@@ -1,8 +1,10 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2006_05_20.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Omaha, Nebraska
 
-Note: These are the only 9 minutes of this workshop that were recorded.
+Note: These are the only 9 minutes of the workshop that were recorded.
 
 A: ...complicated by getting better. So I thought, everybody contradicts everybody else. Everybody says, this is good for you, somebody else says, no, that's bad for you. Just went on and on. I said, I'm not going to find any answers here in this, in our society. So I thought, I'm going to go out and look at animals and primitive tribes and find out.
 

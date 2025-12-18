@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_08_20.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: Okay, I'm not going to talk about anything to begin with. We'll just see if something comes up, some subject that I need to elaborate on.

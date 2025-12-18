@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-superhuman-radio-interview/Superhuman%20Radio%20Interview.mp3)
+
 @[Source](https://archive.org/details/aajonus-superhuman-radio-interview)
 
 Date: 28 April 2009

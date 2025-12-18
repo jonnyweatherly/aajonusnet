@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2007_09_29.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: Chicago

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-workshops/WS_2012_03_31.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Location: IL, Chicago

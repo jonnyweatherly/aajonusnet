@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-conscious-media-network-regina-interview/Conscious%20Media%20Network%20Regina%20Interview.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-conscious-media-network-regina-interview)
 
 Date: June 2010

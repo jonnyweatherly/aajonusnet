@@ -1,3 +1,5 @@
+[video]: (https://archive.org/download/aajonus-talks-about-the-doctors-tv-show-2012/Aajonus%20Talks%20About%20The%20Doctors%20TV%20Show%20%282012%29.mp4)
+
 @[Video Source](https://archive.org/details/aajonus-talks-about-the-doctors-tv-show-2012)
 
 Date: 21 June 2012

@@ -1,3 +1,5 @@
+[audio]: (https://archive.org/download/aajonus-qas/QA_2006_10_29.mp3)
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 A: On the plane I started bleeding. Just not much, but some blood. And my urine was paining for a while. And then it was the, then on that Friday I was having so much pain in my penis that I knew I had some kind of blockage. And I had to lift my leg like a dog to go. So I knew that I probably had a stone. So I went to a urologist on that Monday, on the next Monday, and I had him do a ultrasound sonogram. There was a stone as long as my thumb, as round as a ping-pong ball. He'd never seen a stone that big in his life. So he said, you know, probably take 45 minutes to blast it to pieces, you know, with no surgery, you know. They call it surgery. What they do is stick a pipe up the urethra.
