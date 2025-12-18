@@ -1,6 +1,9 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
-Location: Washington, DC
+Location: Chevy Chase, Maryland
+
+Note: This workshop is often found online as "WS_SOL_2007" and "WS_CC_2007_07_21".
+The video found online combines clip segments in the wrong order; the text below follows the correct sequence.
 
 A: Are we ready? There are some people that need to sit in the back, or have they gone out to the other room? Is it too hot there in those seats, probably? Sun beating in through there. Are Ray and Lindsey going to sit in those seats, or somebody else out there?
 
@@ -602,6 +605,10 @@ A: Yeah, absolutely. I get bone marrow all the time because of my past cancer co
 
 Q: I just wanted to ask a quick question. Your take on, so many people believe that the food today is so empty and they push supplements. Other than just obviously the profit they're looking for, people into nutrition have been studying it for years. Look at the food over the last 50 years. They're not emptying it. They're devoid of nutrients. It's a big argument that you need to supplement your diet. So many people have a hard time letting go of their supplements or vitamins. Do you have any comment on that?
 
-A: If you're eating cooked food, you're going to be deficient. But if you think you're going to supplement it with chemicals, they've hoodwinked you, and they're going to take your money, because there's no way that there is any natural vitamin out there that is really natural. You're going to get high on it, of course, just like you get high on cocaine, or any kind of toxic substance. Your adrenaline is going to run. That doesn't mean you're getting well. I went into it earlier. I went into it earlier. It's all processed, heavily processed. These people that say natural, like I say, they're buying all of this food. You have to remember, it takes a huge amount of food to load one bottle of a certain element. Where are they getting that element? Are they growing just from one? No, they go to another company that has a waste product that has that in it. And they highly processed it. Just because that company takes that product and does very little to it, doesn't mean that it's a natural product. That it hasn't been heavily treated and chemically treated. It has. Yes, our soils are depleted. Our foods aren't as strong. We aren't going to be as healthy. But when you eat them raw, at least you're getting everything in them. As long as you can digest well. You can't suck eggs until you can. Okay. Thank you everyone for coming. 
+A: If you're eating cooked food, you're going to be deficient. But if you think you're going to supplement it with chemicals, they've hoodwinked you, and they're going to take your money, because there's no way that there is any natural vitamin out there that is really natural. You're going to get high on it, of course, just like you get high on cocaine, or any kind of toxic substance. Your adrenaline is going to run. That doesn't mean you're getting well.
+
+Q: Even the natural ones?
+
+A: I went into it earlier. I went into it earlier. It's all processed, heavily processed. These people that say natural, like I say, they're buying all of this food. You have to remember, it takes a huge amount of food to load one bottle of a certain element. Where are they getting that element? Are they growing just from one? No, they go to another company that has a waste product that has that in it. And they highly processed it. Just because that company takes that product and does very little to it, doesn't mean that it's a natural product. That it hasn't been heavily treated and chemically treated. It has. Yes, our soils are depleted. Our foods aren't as strong. We aren't going to be as healthy. But when you eat them raw, at least you're getting everything in them. As long as you can digest well. You can't suck eggs until you can. Okay. Thank you everyone for coming. 
 
 [end]

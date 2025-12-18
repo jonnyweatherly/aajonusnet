@@ -21,34 +21,31 @@ h1, .header, .title {
     background-color: #111;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    flex-basis: 100%;
+    flex-basis: 100%; /* Prevents buggy layout on load */
     margin-bottom: 20px;
     padding: 10px;
 }
 
 .card h2, .card-md h2 {
     color: #fff;
-    margin-top: 0;
-    margin-bottom: 0;
-    word-break: break-word;
+    margin: 0;
 }
 
 .card p, .card-md p {
     color: #ccc;
     margin-bottom: 0;
-    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 .content p {
     color: #fff;
     margin-top: 0;
-    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 .content a {
     color: #fff;
     word-break: break-all;
-    overflow-wrap: break-word;
 }
 
 .content blockquote {
@@ -67,7 +64,7 @@ h1, .header, .title {
     word-wrap: break-word;
 }
 
-.content ol, li {
+.content ol, .content li {
     padding: 0;
     margin: 0;
 }
@@ -93,29 +90,32 @@ h1, .header, .title {
     top: 50%;
     transform: translateY(-50%);
     transition: opacity 0.3s ease;
-}
-
-.back-arrow {
-    left: 0;
     width: 24px;
     height: 24px;
     cursor: pointer;
 }
 
-.back-arrow:hover {
+.back-arrow {
+    left: 0;
+}
+
+.back-arrow:hover, #share-button:hover {
     opacity: 0.8;
+}
+
+#share-button:focus {
+    opacity: 1;
 }
 
 #share-button {
     right: 0;
 }
 
-#share-button:hover path {
-    fill: #ddd;
-}
-
 .read-more {
     color: #fff;
+    text-decoration: none;
+}
+.read-more:hover {
     text-decoration: underline;
 }
 
@@ -130,10 +130,8 @@ h1, .header, .title {
     font-size: 20px;
     box-sizing: border-box;
     outline: none;
-    position: relative;
     z-index: 1;
-    left: 50%;
-    transform: translateX(-50%);
+    transform: translateZ(0);
 }
 
 .search-container {
@@ -147,13 +145,13 @@ h1, .header, .title {
     position: absolute;
     top: calc(50% - 0.5vh);
     transform: translateY(-50%);
+    z-index: 2;
 }
 
 .search-icon {
     left: 12px;
     width: 18.75px;
     height: 55px;
-    z-index: 2;
 }
 
 .clear-icon {
@@ -161,7 +159,6 @@ h1, .header, .title {
     font-size: 20px;
     cursor: pointer;
     display: none;
-    z-index: 2;
 }
 
 .highlight {
@@ -210,13 +207,13 @@ h1, .header, .title {
     padding: 1vh;
     border-radius: 1vh;
 }
-.chosen-link {
+.chosen-category {
     background-color: #fff !important;
     color: #000 !important;
 }
 #scrollToThis {
     background-color: rgb(173, 158, 119) !important;
-    color:#000;
+    color: #000;
 }
 
 #removeHighlights {
@@ -251,7 +248,6 @@ h1, .header, .title {
     border-radius: 50%;
     background: #505050;
 }
-
 #removeHighlights:hover {
     background-color: #262626;
 }
@@ -352,7 +348,6 @@ body.find-on-page-active {
     .find-on-page {
         padding: 10px;
     }
-    
     .find-on-page-content {
         width: 100%;
     }

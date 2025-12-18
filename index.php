@@ -66,7 +66,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=50">
+    <link rel="stylesheet" href="style.css?v=53">
     <link rel="icon" href="logos/favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 
@@ -96,7 +96,12 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
             <?php if ($originalFile) { ?>
                 <div class="back-arrow" onclick="goBack()">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-                        <polygon fill="#FFFFFF" points="20,11 7.83,11 13.42,5.41 12,4 4,12 12,20 13.41,18.59 7.83,13 20,13"/>
+                        <polyline points="13.42,5.41 4,12 13.41,18.59"
+                  fill="none"
+                  stroke="#FFFFFF"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"/>
                     </svg>
                 </div>
 
@@ -104,7 +109,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
             <a class="title" href="/"><h1><?php echo $dynamicTitle === "Aajonus Vonderplanitz" ? "Aajonus.net" : $dynamicTitle; ?></h1></a>
         <?php if ($originalFile) { ?>
 <div id="share-button" onclick="shareArticle()" role="button" tabindex="0">
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z" fill="white"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zm4 5v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z" fill="white"/></svg>
 </div>
         <?php } ?>
         </div>
@@ -129,7 +134,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     		    foreach ($directories as $dir) {
        		    $category = str_replace('md', '', basename($dir));
                  $sanitizedCategory = sanitizeFileName($category);
-                 $selectedClass = (isset($folderName) && strtolower($category) === strtolower($folderName)) ? 'chosen-link' : '';
+                 $selectedClass = (isset($folderName) && strtolower($category) === strtolower($folderName)) ? 'chosen-category' : '';
         		    echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a><br>';
    		    }
    		    ?>
@@ -404,6 +409,6 @@ if (isset($_GET['s'])) {
             </div>
         </div>
     <?php } ?>
-    <script src="index.js?v=345"></script>
+    <script src="index.js?v=354"></script>
 </body>
 </html>

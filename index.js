@@ -267,7 +267,7 @@ function filterCategory(category, sanitizedCategory, element) {
   event.preventDefault();
   var categories = document.querySelectorAll('.categories a');
   for (var i = 0; i < categories.length; i++) {
-    categories[i].classList.remove('chosen-link');
+    categories[i].classList.remove('chosen-category');
   }
 
   // Clear search input
@@ -277,7 +277,7 @@ function filterCategory(category, sanitizedCategory, element) {
 
 
   // Select the clicked category
-  element.classList.add('chosen-link');
+  element.classList.add('chosen-category');
 
   var cards = document.getElementsByClassName('card-md');
   for (var i = 0; i < cards.length; i++) {
@@ -308,9 +308,12 @@ document.addEventListener("DOMContentLoaded", function() {
   var removeHighlightsBtn = document.getElementById("removeHighlights");
   
   if (removeHighlightsBtn) {
-    removeHighlightsBtn.addEventListener("click", function() {
+  removeHighlightsBtn.addEventListener("click", function() {
         removeHighlights();
     });
+    document.querySelectorAll("code, pre").forEach(el => {
+        el.innerHTML = el.innerHTML.replace(/&lt;span class="highlight"&gt;(.*?)&lt;\/span&gt;/g, '<span class="highlight">$1</span>');
+      });
   }
 });
 
@@ -461,7 +464,7 @@ async function loadContentAsync() {
 
   searchEl.placeholder = 'Loading… 0%';
 
-  const response = await fetch('/searchloader.php', {
+  const response = await fetch('/loadsearch.php', {
     method: 'POST',
     headers: {'Content-Type': 'application/json'},
     body: JSON.stringify({ ids })
@@ -527,19 +530,35 @@ function debounce(func, wait) {
 }
 
 function updateFindOnPagePosition() {
-    const findOnPageBar = document.getElementById('find-on-page');
+    const bar = document.getElementById('find-on-page');
     if (window.visualViewport) {
         const { innerHeight } = window;
         const { height: vvHeight, offsetTop } = window.visualViewport;
         let kbHeight = innerHeight - (vvHeight + offsetTop);
         if (kbHeight < 0) kbHeight = 0;
-        findOnPageBar.style.bottom = kbHeight + 'px';
-        if (isPWA()) findOnPageBar.style.paddingBottom = 'calc(env(safe-area-inset-bottom, 0px) + 60px)';
+        bar.style.bottom = kbHeight + 'px';
     } else {
-        findOnPageBar.style.bottom = '0';
-        if (isPWA()) findOnPageBar.style.paddingBottom = 'calc(env(safe-area-inset-bottom, 0px) + 60px)';
+        bar.style.bottom = '0';
     }
+    if (isPWA()) bar.style.paddingBottom = 'calc(env(safe-area-inset-bottom, 0px) + 50px)';
 }
+
+/*function updateFindOnPagePosition() {
+  const bar = document.getElementById('find-on-page');
+  if (!bar) return;
+
+  if (window.visualViewport) {
+    const { height: vvH, offsetTop } = window.visualViewport;
+    const kbHeight = Math.max(0, window.innerHeight - (vvH + offsetTop));
+    bar.style.transform = `translateY(-${kbHeight}px)`;
+  } else {
+    bar.style.transform = '';
+  }
+  bar.style.paddingBottom = isPWA()
+    ? 'calc(env(safe-area-inset-bottom, 0px) + 60px)'
+    : '';
+}*/
+
 
 function showFindOnPage() {
     removeHighlights();
