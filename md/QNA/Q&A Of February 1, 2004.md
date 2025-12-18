@@ -928,7 +928,7 @@ A: TSA, yeah, well I'm going this week to talk with them.
 Q: I was wondering how your son's doing - Jeff? I read the story, I think he is
 in the midwest?
 
-A: He's doing fine, except that he has a crack problem. But as far as the
+A: He's in Cincinnati. He's doing fine, except that he has a crack problem. But as far as the
 accident goes, healing from that, he's fine. But a psychiatrist in San Diego
 showed me a report that people don't usually see and it showed that seventy six
 percent of the people who've been diagnosed as crack addicted, clinically crack

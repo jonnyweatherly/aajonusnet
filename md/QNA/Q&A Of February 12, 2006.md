@@ -66,7 +66,7 @@ A: Some don't carry that particular, the degreaser, but most of them do.
 
 Q: So degreaser is for laundry?
 
-A: Yeah, I use it for laundry. I don't use [unintelligible]. With fish, cleaning it with cold water cleans your plates, everything very nicely with fish. With chicken and beef, lamb and the others that are oily and buttered, just use warm water. And I use a natural sea sponge. If you use a synthetic sponge, you've got lots of contaminant particles in it, and they get on your plates, and I have a tendency to stick to the plate. So the next time you eat, you're going to eat those.
+A: Yeah, I use it for laundry. I don't use dish soap though. With fish, cleaning it with cold water cleans your plates, everything very nicely with fish. With chicken and beef, lamb and the others that are oily and buttered, just use warm water. And I use a natural sea sponge. If you use a synthetic sponge, you've got lots of contaminant particles in it, and they get on your plates, and I have a tendency to stick to the plate. So the next time you eat, you're going to eat those.
 
 Q: Where do you get the sea sponge?
 
@@ -112,7 +112,7 @@ Q: What do you think of PentaWater?
 
 A: PentaWater? It sounds good, you know, theoretically, but it's still produced in an unnatural way with electro fields. I mean, if somebody's making the water using crystals in your water, that's fine. But when you're using a magnetic or chemical process to make something, I find it isn't good.
 
-Q: You were talking about [unintelligible] stone for your toilet bowl. Is it useful for removing scratches if you scratch the porcelain from sharp metal or something?
+Q: You were talking about pumice stone for your toilet bowl. Is it useful for removing scratches if you scratch the porcelain from sharp metal or something?
 
 A: Well, it'll help grind and smooth the area, but it won't patch it.
 
@@ -144,7 +144,7 @@ A: Just filter out the seeds.
 
 Q: Okay.
 
-A: And are there remedies for the headaches and the little...
+A: And are there remedies for the headaches are in the book.
 
 Q: Yeah, I've been...this morning I used the orange juice honey thing, and it helped. [unintelligible] I was down all day. Yeah.
 
@@ -152,7 +152,7 @@ A: Really?
 
 Q: Yeah. It helped a lot.
 
-A: Good. [unintelligible]
+A: Good. You had your [unintelligible]
 
 Q: I did. I've been on this diet for a year, and it's been really good for me. It's stopped headaches and a lot of aches and pains. But I've been getting a lot of chest pain right in here at night. Maybe I'll sleep for four hours, and then this chest pain, and I have to get up to... I don't see that...
 
@@ -280,11 +280,11 @@ A: It will start dissolving healthy cells as well, beyond the tumors.
 
 Q: Oh, you think [unintelligible]?
 
-A: If you don't have the nutrients to absorb that product, the waste water.
+A: If you don't have the nutrients to absorb that product, the waste product.
 
-Q: Let's say [unintelligible]
+Q: Let's say if they don't go for help, they still won't be in danger, right?
 
-A: Most people, everybody gets cancer. Everybody in this room has had cancer at least five times, five times. You're 50 years old. It's just in a very low grade. If they catch it, and then you're diagnosed with it, and they're going to treat you for it, then you can count on dying within 7 to 10 years, absolutely, with metastasis. That's why they like to call five years a dead point. Because only 60% of people die within five years. You get metastasis within five years. So they like to call your cure rate time five years. But six and seven years is when the other half of the population has the metastasis. And you're dead in seven to eight years.
+A: No, most people, everybody gets cancer. Everybody in this room has had cancer at least five times, five times. You're 50 years old. It's just in a very low grade. If they catch it, and then you're diagnosed with it, and they're going to treat you for it, then you can count on dying within 7 to 10 years, absolutely, with metastasis. That's why they like to call five years a dead point. Because only 60% of people die within five years. You get metastasis within five years. So they like to call your cure rate time five years. But six and seven years is when the other half of the population has the metastasis. And you're dead in seven to eight years.
 
 Q: So why do some people develop a symptoms, and other people don't know they have a symptoms? How do they get diagnosed, and other people won't be diagnosed?
 
@@ -302,7 +302,7 @@ Q: Oh, yeah. Well, I was going to mention that this is a question about what the
 
 A: Is this a question, or are you going to tell us something?
 
-Q: Well, it's a question, because I want to know what to do. Because during certain times when it comes down, this air, and it patterns out, whether it's a heaviness of heavy air. [unintelligible]
+Q: Well, it's a question, because I want to know what to do. Because during certain times when it comes down, this air, and it patterns out, whether it's a heaviness of heavy air. You know, there's the times that I have shortness of breath, so I don't know what to do with that air.
 
 A: Well, the best thing to do is to have some coconut cream with lemon juice and honey.
 
@@ -330,9 +330,9 @@ Q: So I did ask a question.
 
 A: Yeah.
 
-Q:  Could I just announce when they're having a protest, anybody new wants to come? Or do I do it another time?
+Q: Could I just announce when they're having a protest, anybody new wants to come? Or do I do it another time?
 
-A: Do it [unintelligible].
+A: Do it another time.
 
 Q: Okay.
 
@@ -350,13 +350,13 @@ Q: You can have butter with cheese, right?
 
 A: Yes. Yeah, that's fine. That doesn't create enzymes for digestion. Do you have a question?
 
-Q: Five years ago when I was like one day on a diet, I tried high meat, and I felt great. And in the last, in Africa I did [unintelligible], and I felt great. And for two years I didn't do it, and two months ago I started to eat it. And now I don't feel any difference. And you told a story about one of your clients in a different [unintelligible]. So how does he do it?
+Q: Five years ago when I was like one day on the diet, I tried high meat, and I felt great. And in the last, in Africa I did it off and on, and I felt great. And for two years I didn't do that, and two months ago I started to eat it. And now I don't feel any difference. And you told a story about one of your clients in a different state who was a very angry man and he eats high meat every day as lunch and dinner and [unintelligible]. So how does he do it? Does he eat a stinky meat?
 
 A: He eats only high meat. He eats one to two pounds a day.
 
 Q: What's high meat?
 
-A: Where he's letting it get full of bacteria and very stinky.
+A: Where he's letting it get full of bacteria and very stinky. I tell how to make it in the Recipe book.
 
 Q: So he eats a stinky one?
 
@@ -368,19 +368,17 @@ A: Because it makes him feel so good. He was depressed for 40 years, suicidal, h
 
 Q: 4 years?
 
-A: 40. 40 years. 
+A: 40. 40 years.
 
-Q: 40 years.
-
-Q: So for me, I don't want to do it that much. Why is that working for me [unintelligible]
+Q: So for me, I don't want to do it that much. Why is that working for me now [unintelligible]
 
 A: Well, you have more weight than you did back then, so you have suffering.
 
 Q: So that means I don't need it as much?
 
-A: Yeah, you don't need it as much. That's mainly to help you digest. Because the bacteria pre-digests the meat. A lot of people think that the bacteria in high meat will cause a detoxification. Never. Never directly causes a detoxification. It breaks down and pre-digests the meat. It helps digest the meat. It's like in turkey and some places in Greece. They will slather a whole side of beef with gangrene. Let it eat all the way to the center and then they shave off an inch, three quarters of an inch to an inch of the outside gangrene. And that's how they eat it. Mainly raw. Because it's created a [unintelligible] by pre-digestion of the gangrene. So all of that protein is freed so that we can digest it completely. That's what happens with high meat. It's pre-digested so all those amino acids can be absorbed. A lot of you and I had such poor digestion that we weren't absorbing all of those amino acids and utilizing them. We were throwing them off. There are two ways that you can get around that. You can do like the Ayurvedics do and they drink their urine. So when the protein discards and it isn't completely assimilated, they recycle it to be able to utilize and absorb it. Especially the vegetarians in India and some other eastern countries. There's another way to do it that other countries do it. Like the Turks. They use the gangrene. We can use the high meat, the bacteria to break it down to be able to absorb all those amino acids that may be missing. They're causing our depression, our paranoia, our obsessions, any of that. Most people can just go ahead and eat the raw meat and they get enough protein to handle it. Some people have such poor digestion that they have to go beyond that and eat high meat or drink their urine.
+A: Yeah, you don't need it as much. That's mainly to help you digest. Because the bacteria pre-digests the meat. A lot of people think that the bacteria in high meat will cause a detoxification. Never. Never directly causes a detoxification. It breaks down and pre-digests the meat. It helps digest the meat. It's like in turkey and some places in Greece. They will slather a whole side of beef with gangrene. Let it eat all the way to the center and then they shave off an inch, three quarters of an inch to an inch of the outside gangrene. And that's how they eat it. Mainly raw. Because it's created a ceviche by pre-digestion of the gangrene. So all of that protein is freed so that we can digest it completely. That's what happens with high meat. It's pre-digested so all those amino acids can be absorbed. A lot of you and I had such poor digestion that we weren't absorbing all of those amino acids and utilizing them. We were throwing them off. There are two ways that you can get around that. You can do like the Ayurvedics do and they drink their urine. So when the protein discards and it isn't completely assimilated, they recycle it to be able to utilize and absorb it. Especially the vegetarians in India and some other eastern countries. There's another way to do it that other countries do it. Like the Turks. They use the gangrene. We can use the high meat, the bacteria to break it down to be able to absorb all those amino acids that may be missing. They're causing our depression, our paranoia, our obsessions, any of that. Most people can just go ahead and eat the raw meat and they get enough protein to handle it. Some people have such poor digestion that they have to go beyond that and eat high meat or drink their urine.
 
-Q: How do you know if your body is able to [unintelligible]?
+Q: How do you know if your body is able to digest it [unintelligible]?
 
 A: Most people, you know, if you're heavy into anger and depression and you've got a weight problem and you're on the diet and you're not digesting all of your protein. That's an indication that you should eat high meat or drink your urine. Don't drink the first urine of the day like most people who are into water therapy do. That first urine is highly toxic because the red cells eat each other after 5 hours of not eating. That's why I suggest people set an alarm during the night, wake up after 3 to 5 hours, have something with protein in it whether it's milk, meat, or eggs or milkshake and go back to sleep. Most of the people, even if you're sleeping 5 hours at a time, that first urine is going to be fairly toxic. So it's better to drink your urine after you've been awake, 4 to 5 to 6 hours after you've eaten a meat meal.
 
@@ -446,7 +444,7 @@ Q: How much honey do you use for the dates?
 
 A: You don't use honey with the dates.
 
-Q: No, not how much butter, excuse me?
+Q: No, how much butter? Excuse me.
 
 A: I'll use, if I'm having this much date, I'll add that much cheese and that much butter.
 
@@ -480,17 +478,13 @@ A: Yeah, that's like a distilled alcohol. Very damaging to the nervous system.
 
 Q: Okay, so...
 
-A: If you're going to ferment this stuff, you ferment it like you do cabbage, you know, do it raw.
-
-Q: Okay, okay.
-
-A: But still, too much of that, you're going to cause problems.
+A: If you're going to ferment this stuff, you ferment it like you do cabbage, you know, do it raw. But still, too much of that, you're going to cause problems.
 
 Q: Okay, so if I want to eat a potato cooked, I should just eat it baked, but then not ferment it.
 
 A: Correct.
 
-Q: The best way, I would just [unintelligible] and ferment it like that, eat it uncooked. And then that'll still be... Is there any health benefit to that, do you think? 
+Q: The best way, I would just [unintelligible] raw and ferment it like that, eat it uncooked. And then that'll still be... Is there any health benefit to that, do you think?
 
 A: If you were a big cooked food potato eater, french fry eater, definitely.
 
@@ -594,9 +588,13 @@ Q: I'll take a rain check.
 
 A: Jim?
 
-Q: I've been accused of falling asleep in the middle of a sentence sometimes. I can't stick to my regular schedule where I can take a nap when I need it. And then there's some kind of [unintelligible] situation and I'm gone. What [unintelligible]?
+Q: I've been accused of falling asleep in the middle of a sentence sometimes. I can't stick to my regular schedule where I can take a nap when I need it. And then there's some kind of [unintelligible] situation and I'm gone. What relationship does the body have to that?
 
-A: The body just needs rest and sleep. When I sued the City of Los Angeles and the police department in federal court, and the only layperson was not an attorney to get the City of Los Angeles and the LA Police Department in federal court, I had them for 22 days. I had to prepare all the suspects of the abuse on Penn Beach, the [unintelligible]. They forced them into prostitution and doing drugs. They were just out there doing hair wraps and stuff like that. So I filed suit on them. I only was able to get an hour and a half sleep a day for 21 days. Ten minutes at a time. So I never ate to satisfaction. I ate a half a cup of food every hour to an hour and 15 minutes. I rotated half a cup of milk, one egg, half a cup of meat every hour to an hour and a half. It was never enough to make me feel relaxed, but it was enough to keep my mind working. But you're going to have a ten minute sleep period, and if it happens during the time that you're in a lecture, it's going to happen.
+A: The body just needs rest and sleep. When I sued the City of Los Angeles and the police department in federal court, and the only layperson was not an attorney to get the City of Los Angeles and the LA Police Department in federal court, I had them for 22 days. I had to prepare all the suspects of the abuse on Penn Beach, the runaways, they would ticket them. They forced them into prostitution and doing drugs. They were just out there doing hair wraps and stuff like that. So I filed suit on them. I only was able to get an hour and a half sleep a day for 21 days. Ten minutes at a time. So I never ate to satisfaction. I ate a half a cup of food every hour to an hour and 15 minutes. I rotated half a cup of milk, one egg, half a cup of meat every hour to an hour and a half. It was never enough to make me feel relaxed, but it was enough to keep my mind working.
+
+Q: You recommend that for me?
+
+A: Yeah. But you're going to have a ten minute sleep period, and if it happens during the time that you're in a lecture, it's going to happen.
 
 Q: More than ten minutes.
 
@@ -606,10 +604,6 @@ Q: Alright, thank you.
 
 A: You're welcome.
 
-Q: So the cops were doing all this prostitution?
-
-A: Pardon?
-
 Q: The cops were doing all this prostitution?
 
 A: No, no, the police were interfering with the runaways doing hair wraps and making jewelry and stuff like that. They were ticketing them, or kicking them off the beach. The only thing else they could do was prostitution or drugs.
@@ -618,17 +612,13 @@ Q: How could you represent them?
 
 A: Well, what I did was, every time I saw Harry Perry, the guitarist, skating Sikh out there with the turban, he, Jerry Rubin, the famous political activist here in Venice, and I, and Jingles all got together, but Jingles didn't help a lot. But what we did was every time we saw a policeman harass one of the teenagers, runaways, we'd go up and hand them a card of an attorney and say, this officer is breaking your freedom of right, your right to be out here, this is a public beach, it's a state property, it's a state beach, you're allowed to be here, you're allowed to be taking your wares and selling them for donations, or offering them for donations. So if he tickets you, you sue him, because he's breaking your rights, you haven't broken his. So the police got very angry with us. So after five and a half years, they arrested all of us, without warrant, but they held me, they held them for three hours, they held me for three days, because I did it every day that I was out there.
 
-Q: So that gave [unintelligible]?
+Q: So that gave you stand?
 
 A: Yes.
 
 Q: And did you win the case against them?
 
 A: No. What they did was, they slipped in, while the juror was out there liberating, they slipped a new juror in, who was working for the police department, worked for the police department for ten years. Stopped it right there, they got the whole thing worked out.
-
-Q: Did they stop the deliberation?
-
-A: Pardon?
 
 Q: Did they stop the deliberation?
 
@@ -710,7 +700,7 @@ Q: I have a question, but [unintelligible].
 
 A: Okay.
 
-Q: Yeah. You're quite familiar [unintelligible]. [unintelligible] And I just want to run my regimen by [unintelligible]. An hour or something like that?
+Q: Yeah. You're quite familiar with my recurring eye infections. So, I've had about eight months break and then all of a sudden on a hot sunny day it came [unintelligible]. And I just want to run my regimen by with the lime and egg white about three times a day. Let it sit in there for how long, half hour?
 
 A: Well, probably only ten minutes all the way after that.
 
@@ -720,13 +710,13 @@ A: Yeah.
 
 Q: Three times a day?
 
-A: You know, I had that experience. When I was coming home on China Airlines, I usually have, because it's a 19-hour flying time from Bangkok to Taipei, from Taipei to L.A., so I usually have their raw fruit plate. They put MSG in it this time. So all of a sudden, within ten minutes, my heart started pounding crazily, and I started getting very angry, you know, really upset, started shaking. So I realized what was in it right away. And what happened was, within 24 hours, I got a terrible cold and flu. My eyes turned just as bright red as yours, and crystals started dropping out of my eyes. I mean, sand was coming out. And they were blistered red, and it turned into cancer. So I had cancer. I remember in the book when I talked about, you know, the epoxy coming through the nose, and it caused cancer here, here, and here. It burned my eye, cornea. It started all around my eyes. So nothing helped. The egg white didn't help. Nothing helped except for honey and saliva. I put that on, and within two days, cancer was gone. Just like that. Stopped. So that worked. Well, I put the saliva all around my eyes, take the honey, saliva on my finger again, put saliva, I mean, the honey on my finger, and saliva on top of that, and rub it thinly all the way down. I mean, I'd rub it into the eyelid, so when I opened the eye, some of that honey went into it. And it worked. It stung a little bit, but it worked wonderfully. Pardon?
+A: You know, I had that experience. When I was coming home on China Airlines, I usually have, because it's a 19-hour flying time from Bangkok to Taipei, from Taipei to L.A., so I usually have their raw fruit plate. They put MSG in it this time. So all of a sudden, within ten minutes, my heart started pounding crazily, and I started getting very angry, you know, really upset, started shaking. So I realized what was in it right away. And what happened was, within 24 hours, I got a terrible cold and flu. My eyes turned just as bright red as yours, and crystals started dropping out of my eyes. I mean, sand was coming out. And they were blistered red, and it turned into cancer. So I had cancer. I remember in the book when I talked about, you know, the epoxy coming through the nose, and it caused cancer here, here, and here. It burned my eye, cornea. It started all around my eyes. So nothing helped. The egg white didn't help. Nothing helped except for honey and saliva. I put that on, and within two days, cancer was gone. Just like that. Stopped. So that worked. Well, I put the saliva all around my eyes, take the honey, saliva on my finger again, put the honey on my finger, and saliva on top of that, and rub it thinly all the way down. I mean, I'd rub it into the eyelid, so when I opened the eye, some of that honey went into it. And it worked. It stung a little bit, but it worked wonderfully. Pardon?
 
-Q: [unintelligible]
+Q: What else is saliva good for?
 
 A: It takes away wrinkles. You notice that my wrinkles are getting, and I only do it twice a week. But do you remember how thick and wrinkled my forehead was? I had about 12 layers of skin there. Now it's down to about five. That's what the honey and saliva does, is remove all that adipose tissue, dead cells, dead skin, it gets thick as we get older. I do it twice a week. Only twice a week. You could do it more. You know, if your skin doesn't get irritated, you have to remember when you put that honey and saliva on, it cuts off oxygen to those cells. So you don't want to cover your whole face, you just want to pick areas.
 
-Q: Can you do it for anything else? [unintelligible]
+Q: Can you do it for anything else? The saliva.
 
 A: It'll work for anything to help them heal faster.
 
@@ -762,7 +752,7 @@ Q: The only thing, the honeycomb is good for the wrinkles, but the rest of the h
 
 A: You can use regular honey for the wrinkles, too. It's just that the comb honey is a little bit more active for some reason. Okay, did you have a question?
 
-Q: Yeah. [unintelligible] When I was back in Italy, they told me that I had a spot, what do you call it? Like a spot or a hole in my heart. One in my lungs, and one in my kidney.
+Q: Yeah. This summer, I visited a friend [unintelligible] when I was back in Italy, they told me that I had a spot, what do you call it? Like a spot or a hole in my heart. One in my lungs, and one in my kidney.
 
 A: You have to understand that what they call a lesion is not a hole at all. That's the most protected and healthiest area you have. How that whole theory came up, I don't understand it. It's all for one. So just, whatever he said about those particular areas, are the healthiest parts of your body.
 
@@ -834,7 +824,7 @@ Q: Okay.
 
 A: Do you have questions?
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
 A: You can take honey and saliva and put it on the area and wrap meat around it every night. And then put hot water bottles on either side of the knee and make sure you're eating enough meat to heal. And eat a little bit of pineapple with your meat when you eat it.
 
@@ -842,39 +832,39 @@ Q: So, with regards to hair, like, [unintelligible]
 
 A: No, if you do the proper diet and you put that meat and the honey and saliva on your... in the area, it will mend without that.
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
-A: Oh yeah. I ripped all of mine completely off of here. We were up in a ball here. Twice I did it. In dance class. And, you know, I tripped on the stage. And they would just ball up here. And I just put the meat on it, the honey and saliva. And I was twenty-four. I was at the British American Drama Academy at Stanford. You know, it was summer stock. Richard Dreyfuss, Marcia Mason, Ann Jackson, and Ted [unintelligible], our teachers, our professors. This was a one-time thing. I was not going to miss out on it. Because I had, you know, my whole rib, my ankle was torn. They said, you are not getting on this stage. I did my dances, my plies, I did jumps, I did everything. Even with the [unintelligible]. And within two weeks, it had all grown back. Just grew back on its own.
+A: Oh yeah. I ripped all of mine completely off of here. We were up in a ball here. Twice I did it. In dance class. And, you know, I tripped on the stage. And they would just ball up here. And I just put the meat on it, the honey and saliva. And I was twenty-four. I was at the British American Drama Academy at Stanford. You know, it was summer stock. Richard Dreyfuss, Marsha Mason, Anne Jackson, and Ted [unintelligible], our teachers, our professors. This was a one-time thing. I was not going to miss out on it. Because I had, you know, my whole rib, my ankle was torn. They said, you are not getting on this stage. I did my dances, my plies, I did jumps, I did everything. Even with the tear. And within two weeks, it had all grown back. Just grew back on its own.
 
-Q: [unintelligible] 
+Q: So what's the regimen?
 
 A: We need to eat meat twice a day. And just with about two thumb-sized amounts of pineapple with it. And lots of butter and honey. Lots of butter and honey.
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
 A: You got that from my book?
 
-Q: Yeah. [unintelligible] 
+Q: Yeah. [unintelligible]
 
 A: That was for the minerals back in those days. It did work, but it wasn't quite as fast as the cheese. So, I used the cheese rather than the germinated grain.
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
 A: Do you have a question? Do you have a question?
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
 A: Yes.
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
 A: You have to tell me your symptoms, because each person's vitiligo is different.
 
-Q: [unintelligible] 
+Q: [unintelligible]
 
 A: Michael Jackson got it because of all the chemical lifts that he did. Okay. It's always when you have that kind of vitiligo, and there's no dry skin involved with it. Then what it is, is your body, that place on your body is removing bone, starting to eat your bone away to get the minerals. And that causes a heavy vitamin D absorption in that area. Doesn't mean you're not getting sun there. It means the body's absorbing any tan that you will get immediately, any light that comes in, and transforms that fat into a vitamin D. It absorbs it immediately, and leaves that area white. Because if you've been on a good diet, and you're eating cheese with some pineapple, then you're able to get enough minerals, so your body isn't eating your bone to do it. I had it terribly when I had cancer of the blood and bone. I had spots that would just be white instantly, and never get sunshine. And that was because my bone was disintegrating because of the cancer. But as soon as I was able to reverse the bone cancer, it stopped.
 
-Q: So [unintelligible]?
+Q: So then [unintelligible], you're saying more cheese with pineapple?
 
 A: Yeah, more cheese. And if you have a tendency to a constipation, you need to eat butter with it. Eat cheese before you eat anything. Just a tablespoon before anything, whether it's vegetable juice, or milk, milkshake, meat meal. If it's a meat meal, I suggest that you have it 10 minutes after the meat meal too.
 
@@ -884,7 +874,7 @@ A: Yes, even before the green drink. In that situation, yes.
 
 Q: [unintelligible]
 
-A: It all depends upon your taste. And once a day you should eat honey with your cheese. Only once a day. [unintelligible] is there to absorb the toxic metals that are causing you to use the bone. The body only goes in and digests your own bone when there's too many toxins in the system, and the body is going to use calcium and other minerals that are related to it to absorb to the toxins. That's why people with cancer, when their body starts dissolving, their body starts going into the bones to use all the calcium and minerals to bind with these heavy metals and toxins that are the problem. And then people die. If they're eating heavy amounts of cheese and butter, then it will keep absorbing those toxins so the body won't have to borrow from the bones. It won't have to eat itself. And when you eat cheese without honey, the cheese won't be absorbed but it will draw the poisons out of the fluid systems, the lymph, the blood, and the neurological systems as they pass through the intestines and stomach. So the cheese will absorb it as long as there's no honey directly with it. You can add cheese and foods that are already mixed with honey and it won't cause that problem. But you can be assured that it will not digest if you eat 10 minutes before everything and then with the meat meal 10 minutes after. And with the meat meal you might want to eat some cheese with honey, like a tablespoon of cheese and a tablespoon of honey with your meat meal. And that should correct it in about 6 months or less. Okay? Yes. Yes.
+A: It all depends upon your taste. And once a day you should eat honey with your cheese. Only once a day. Honey with the cheese, otherwise is there to absorb the toxic metals that are causing you to use the bone. The body only goes in and digests your own bone when there's too many toxins in the system, and the body is going to use calcium and other minerals that are related to it to absorb to the toxins. That's why people with cancer, when their body starts dissolving, their body starts going into the bones to use all the calcium and minerals to bind with these heavy metals and toxins that are the problem. And then people die. If they're eating heavy amounts of cheese and butter, then it will keep absorbing those toxins so the body won't have to borrow from the bones. It won't have to eat itself. And when you eat cheese without honey, the cheese won't be absorbed but it will draw the poisons out of the fluid systems, the lymph, the blood, and the neurological systems as they pass through the intestines and stomach. So the cheese will absorb it as long as there's no honey directly with it. You can add cheese and foods that are already mixed with honey and it won't cause that problem. But you can be assured that it will not digest if you eat 10 minutes before everything and then with the meat meal 10 minutes after. And with the meat meal you might want to eat some cheese with honey, like a tablespoon of cheese and a tablespoon of honey with your meat meal. And that should correct it in about 6 months or less. Okay? Yes. Yes.
 
 Q: Okay.
 
@@ -904,7 +894,7 @@ A: Yeah, unsalted. Because if you have salt in the cheese, the salt, the sodium 
 
 Q: It tastes much better with salt.
 
-A: Tastes much better with salt. Well, eat tomatoes with your cheese and it won't taste salty. Okay? Do you have a question? Okay, do you have a question? Do you have a question? Do you have a question? Do you have a question? Okay, we've made one round.
+A: Tastes much better with salt. Well, eat tomatoes with your cheese and it will taste salty. Okay? Do you have a question? Okay, do you have a question? Do you have a question? Do you have a question? Do you have a question? Okay, we've made one round.
 
 Q: Now I can announce the...
 
@@ -926,13 +916,13 @@ Q: [unintelligible]
 
 A: Well, it could mean many different things. It could mean that you're breaking down a lot of dead cells in your body, and you're dissolving them to eliminate them, and they're not dumping into the intestines, but they're traveling through the blood, and the kidney's going to be responsible for it. As long as you have healthy kidneys, all that excess protein isn't going to tax the kidney. 
 
-Q: [unintelligible] 
+Q: [unintelligible]. Can that be reversed?
 
-A: Yeah. Anything. I see everything reverse. I've seen [unintelligible].
+A: Yeah. Anything. I've seen everything reverse. I've seen paraplegics regain lots of motor control.
 
 [audio cut]
 
-A: This was his entire movement. That was his life. Two years on the diet, he gained 50 pounds, 60 pounds. He can turn on and off and put in his tape into his tape deck, the machine. They said he would never get better. Two years later, he's got so much function. He still doesn't talk well. It's hard to understand him, but he's communicating. He can tell people what he wants. He can play his tape machine. He can express himself. A whole different person. The doctors are amazed. Because social services involved with some children like that, she got these virologists to write a letter saying, this child is allowed to have raw meat and raw dairy. Because it's the only thing that's changed him since his birth. They realized that it was that doing, so the mother wouldn't get in trouble. Okay, questions?
+A: His feet were all buckled over his head. This was his entire movement. That was his life. Two years on the diet, he gained 60 pounds. He can turn on and off and put in his tape into his tape deck, the machine. They said he would never get better. Two years later, he's got so much function. He still doesn't talk well. It's hard to understand him, but he's communicating. He can tell people what he wants. He can play his tape machine. He can express himself. A whole different person. The doctors are amazed. Because social services involved with some children like that, she got these virologists to write a letter saying, this child is allowed to have raw meat and raw dairy. Because it's the only thing that's changed him since his birth. They realized that it was that doing, so the mother wouldn't get in trouble. Okay, questions?
 
 Q: [unintelligible]
 
@@ -992,7 +982,7 @@ Q: Every day?
 
 A: Probably will. If I'm taking care of warts, I can't imagine not taking care of moles also.
 
-Q: Okay, so let's talk about STDs. So if I get them, it's good, and if I get them, it's good?
+Q: Okay, so let's talk about STDs. So if I get them, it's good, and if I give them, it's good?
 
 A: STDs?
 
@@ -1008,7 +998,7 @@ Q: So if someone is bleeding in the vagina and you know, it's going to [unintell
 
 A: That's not an infusion. You don't bleed inward.
 
-Q: [unintelligible]
+Q: But there's, like, cuts inside herpes.
 
 A: If you're going to take their fluid and inject it into you, then there's a possibility. But it doesn't absorb into you.
 
@@ -1074,7 +1064,7 @@ A: They weren't infected with it. These vaccines were purposely infected with HI
 
 Q: How is it spreading so fast?
 
-A: It isn't spreading. Sometimes people, it takes 10, 15 years for it to take over the body and deteriorate it to that point where there's a problem. Some people are infected immediately. But it's not spread. It's already done. It's over.
+A: It isn't spreading. Sometimes people, it takes 10, 15 years for it to take over the body and deteriorate it to that point where there's a problem. Some people are infected immediately. But it's not spread. It's already done, it's over.
 
 Q: What about from mother to child?
 
@@ -1088,17 +1078,13 @@ Q: What do you eat [unintelligible]?
 
 A: There's nothing to eat. What happens is the sinuses start sagging, especially in men. Women, they have the menstrual discharge. They have 20% more fat in their bodies, so they absorb more heavy metals. They have less toxicity in their brains and in their sinuses. They have less discharge from their brain to their sinuses. So because women have that fat and we don't, men's sinuses are more abused. It's heavy metals. So they start sagging. And when that happens at night, you're lying on your back, it sags right over your windpipe. So it creates snoring because you can't breathe through your nose properly, so you start breathing through your mouth. And the sagging is so pronounced, even through the throat, that it causes the snoring. So the only thing you can do is sit up, and then you're going to have occasional snoring, but it won't be constant snoring.
 
-Q: Like a [unintelligible]?
+Q: Like a higher [unintelligible]?
 
 A: Yeah, sleep at an angle. But you're still, you know, you're going to have a slope as long as you're not straight up. So it can reduce the snoring, but you can't stop it until all those sinuses are reloaded, if they can be reloaded in your life.
 
 Q: Any sort of [unintelligible]? You know, I do that because I think I have a lot of mucus in my nose.
 
 A: No, that's mucus discharge. You're discharging it out, but usually when that membrane, you clog, there's a lot of dead cells there. So there's less elasticity in the sinuses.
-
-Q: You said it's good to have mucus.
-
-A: Pardon?
 
 Q: You said it's good to have mucus.
 
@@ -1148,17 +1134,13 @@ A: They used to do it that way, and it stunk, and it was cloudy. Bacteria, bacte
 
 Q: [unintelligible]?
 
-A: Eat the fish, that's the only way you can get it now. And that stopped in 1980 when that jerk, asshole, and I can say it in so many ways, Reagan took office. He signed a bill that stopped all interstate transportation of raw dairy and any raw food. That took out, you know, Coors used to have raw beer. Until that was signed into law. I could get Alta Dina's raw dairy in Alaska. On this little island off the coast of Georgia. When that was signed, I couldn't find it anywhere. Couldn't find dairy anywhere.
+A: Eat the fish, that's the only way you can get it now. And that stopped in 1980 when that jerk, asshole, and I can say it in so many ways, Reagan took office. He signed a bill that stopped all interstate transportation of raw dairy and any raw food. That took out, you know, Coors used to have raw beer. Until that was signed into law. I could get Alta Dena's raw dairy in Alaska. On this little island off the coast of Georgia. When that was signed, I couldn't find it anywhere. Couldn't find dairy anywhere.
 
 Q: You would drink the beer if it was raw today?
 
 A: No, I wouldn't. Maybe an ounce or two once in a while. Because I was a heavy, heavy alcoholic.
 
-Q: Alta Dina [unintelligible].
-
-A: Pardon?
-
-Q: Alta Dina [unintelligible].
+Q: Alta Dena [unintelligible].
 
 A: They used to distribute it all over the world.
 
@@ -1214,13 +1196,13 @@ Q: Why do you want yogurt to be hard?
 
 A: That's just the way yogurt is sold. It didn't used to be that way. Yes?
 
-Q: [unintelligible]
+Q: Organic Pastures, is that [unintelligible]? For everybody here, Organic Pastures.
 
-A: Fine.
+A: Fine. Yes, it's fine.
 
 Q: Oh, it's five o'clock.
 
-A: Yes, five o'clock. And always to organic pastures, add a little cream. Add a little more cream to it. Because Mark cuts out some cream to make more money. So it's not pure, full-fat milk. Okay, there's going to be a demonstration against chemtrails that cause all this. That's aluminum, barium, and all kinds of other toxins that the military is dumping on us. They're giving the excuse that it's preventing global warming, and that it's taking care of our atmosphere. How can dump barium, a radioactive material, and aluminum, which destroys its added potential, be good for us? So it's absolutely bullshit. They're getting rid of industrial military waste by dumping it on us, because there's so much of it, they can't get rid of it any other way, without being caught.
+A: Yes, five o'clock. And always to Organic Pastures, add a little cream. Add a little more cream to it. Because Mark cuts out some cream to make more money. So it's not pure, full-fat milk. Okay, there's going to be a demonstration against chemtrails that cause all this. That's aluminum, barium, and all kinds of other toxins that the military is dumping on us. They're giving the excuse that it's preventing global warming, and that it's taking care of our atmosphere. How can dump barium, a radioactive material, and aluminum, which destroys its added potential, be good for us? So it's absolutely bullshit. They're getting rid of industrial military waste by dumping it on us, because there's so much of it, they can't get rid of it any other way, without being caught.
 
 Q: I will be giving out any papers that anybody wants it on, to come on Thursday, March 23rd, two days after spring, from 9 to 2, and I'm going to be wearing an Israeli gas mask and a green hazard suit. So it's like a camouflage military outfit.
 

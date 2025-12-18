@@ -58,7 +58,7 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=27">
+    <link rel="stylesheet" href="style.css?v=28">
     <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <meta name="title" content="<?php echo $dynamicTitle; ?>">
@@ -383,16 +383,16 @@ if (isset($_GET['s'])) {
 </button>
 <div id="find-on-page" class="find-on-page">
     <div class="find-on-page-content">
+        <button id="find-on-page-close">✕</button>
         <input type="text" id="find-on-page-input" placeholder="Find on Page">
         <div id="find-on-page-count"></div>
         <div class="find-on-page-buttons">
             <button id="find-on-page-up">▲</button>
             <button id="find-on-page-down">▼</button>
-            <button id="find-on-page-close">✕</button>
         </div>
     </div>
 </div>
     <?php } ?>
-    <script src="index.js?v=212"></script>
+    <script src="index.js?v=215"></script>
 </body>
 </html>

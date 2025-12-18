@@ -250,7 +250,7 @@ A: Sometimes you can use... If it's really hard and you can't break it easily, u
 
 Q: [unintelligible]
 
-A: When you get cleanings, what happens? They take the knife away down there, and they keep cutting the gum away. How much recession do you think is caused by cleaning? Most of it. When I stopped having cleanings done, my recession stopped. I stopped having cleanings in late 80s, and then I only had one in 70, 79. I had all my amalgams taken out. 78 when I had all my amalgams taken out. I had mostly composites put back in. Seven root canals and a crown. And then I had another cleaning in mid-80s, and I go to a dentist every once in a while just to have them check the pocket depth. It hasn't gone any lower than one in 10 years.
+A: When you get cleanings, what happens? They take the knife away down there, and they keep cutting the gum away. How much recession do you think is caused by cleaning? Most of it. When I stopped having cleanings done, my recession stopped. I stopped having cleanings in late 80s, and then I only had one in 1979. I had all my amalgams taken out. 78 when I had all my amalgams taken out. I had mostly composites put back in. Seven root canals and a crown. And then I had another cleaning in mid-80s, and I go to a dentist every once in a while just to have them check the pocket depth. It hasn't gone any lower than one in 10 years.
 
 Q: [unintelligible]
 

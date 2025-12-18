@@ -1554,15 +1554,15 @@ typing or genetic typing or blood typing?
 
 A: Okay when I talk about blood type, it's strictly acid or alkaline type
 that's all I'm talking about. I'm not talking about A, B, A positive, A negative
-or H negative...Its the blood acidity type I'm talking about. You're either a
+or RH negative or RH positive...Its the blood acidity type I'm talking about. You're either a
 high alkaline or your a high acidic blood type or you're a neutral type. If
 you're - like I spell it out in the book - if you're lean and have a lot of
 energy and you hold a tan well you've got very acidic blood. You need to eat
 less red meat and more white meat thats the only difference.
 
-Q: and if you eat the red, what happens?
+Q: And if you eat the red, what happens?
 
-A: you're likely to get more hyper-active, get too thin, even thinner,
+A: You're likely to get more hyper-active, get too thin, even thinner,
 not able to put on weight and you might be a real jerk. (audience laughs),
 impatient and irritable.
 

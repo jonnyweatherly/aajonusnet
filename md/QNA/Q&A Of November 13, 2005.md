@@ -82,11 +82,11 @@ A: How many pharmaceutical houses did he own?
 
 Q: A few.
 
-A: Five. Got Ford to go on and take the swine flu shot. Ida Inoroff, a consumer advocate that was franchised on radio in about 80 markets in the United States, and a Dr. M.D. McBean, both women, filed suit against Ford, against Rockefeller, and against the federal government, and the medical officer of the government?
+A: Five. Got Ford to go on and take the swine flu shot. Ida Honorof, a consumer advocate that was franchised on radio in about 80 markets in the United States, and a Dr. M.D. McBean, both women, filed suit against Ford, against Rockefeller, and against the federal government, and the medical officer of the government?
 
 Q: Surgeon General.
 
-A: The Surgeon General. Saying that the swine flu was a hoax, that it was going to kill a lot of elderly and children, because what Ford did at the behest of Rockefeller, he bought $8 billion of the swine flu vaccine to give us. McBean and Inoroff, with the publicity that they got from that suit, the networks at that time, and the radio stations weren't all owned by the big conglomerates at that time, so they advertised it. They were there at the polls where people were getting their injections. The first week, 2,300 people dropped dead within three days of having the swine flu. So, $7.2 billion went into the vaults, and then popped to present day.
+A: The Surgeon General. Saying that the swine flu was a hoax, that it was going to kill a lot of elderly and children, because what Ford did at the behest of Rockefeller, he bought $8 billion of the swine flu vaccine to give us. McBean and Honorof, with the publicity that they got from that suit, the networks at that time, and the radio stations weren't all owned by the big conglomerates at that time, so they advertised it. They were there at the polls where people were getting their injections. The first week, 2,300 people dropped dead within three days of having the swine flu. So, $7.2 billion went into the vaults, and then popped to present day.
 
 Q: Wait a second. Did you say they got sick after... They dropped dead, after they had the injection?
 
@@ -130,7 +130,7 @@ Q: How do you find out where the mercury is? How do you tell if it's in the stom
 
 A: In the iridology? In the iris?
 
-Q: I don't know [unintelligible]
+Q: I don't know what that is.
 
 A: Okay. Well, it's called iridology. You study the iris and it shows the iris is set out into patterns of the body. And then you know where they are and you can search in the iris.
 
@@ -190,10 +190,6 @@ A: Either one. The trichinosis is better.
 
 Q: If your body needs it.
 
-A: Pardon?
-
-Q: If your body needs it.
-
 A: And I don't know anybody who doesn't need it.
 
 Q: Can't you contaminate others, though?
@@ -212,11 +208,11 @@ Q: [unintelligible]
 
 A: I mean, if you have them all of your life and they help you, who cares?
 
-Q: The fact that when you go to a doctor's office, they care. Because if you pick them up, you're in trouble. [unintelligible]
+Q: The fact that when you go to a doctor's office, they didn't care. Because if you pick them up, you're in trouble, because they're going to get-
 
 A: That is a fiction. It's a myth. Show me any documentation that proves that you can pick it up off of a toilet or anywhere.
 
-Q: No, no, what I'm saying is if you go to a regular doctor and they test you, and you are diagnosed that they will treat you with a [unintelligible] or with one of [unintelligible].
+Q: No, no, what I'm saying is if you go to a regular doctor and they test you, and you are diagnosed, that they will treat you with a [unintelligible] or with one of the antifungals.
 
 A: Right, well, they'll give it to you to take.
 
@@ -264,7 +260,11 @@ A: Oh, it's healed a lot. But this thing was as big as a softball, half of a sof
 
 Q: Yes. Probably a good question about supplements for everyone to hear it. Every now and then, even those who are conscious about natural food talk about, well, just for extra insurance, like if you don't eat enough fish, take a couple of fish liver oil tablets, for instance, things like that. The insurance syndrome, I'd like to know, does that make any sense? I mean, are supplements harmful even if you are eating less than optimal?
 
-A: Well, if you're eating cooked foods, you're destroying enzymes, you're destroying the vitamins, you're destroying, cauterizing your minerals, so you're going to lose at least half of everything. Plus, you're going to have toxins that are formed that your body has to use good nutrients to eliminate it or neutralize it and then eliminate it. So a lot of nutrients lost to cooking foods. So, of course, people want to supplement for that. If you're going to a vitamin supplement, if you know the chemical structure of supplements, it's the most absurd thing in the world. Take, for example, vitamin C. Vitamin C under a high-powered electronic microscope are these cute little fuzzy balls. And they're different colored and they're very, you know, little spongy little things. You look at ascorbic acid, they are 1,000 times the size of these little spongy things and it looks like broken glass. They are glass and they're going to rip the system to pieces. Now, what does that do? It creates a toxic effect that causes adrenaline and other hormones to produce fats to go in there and harness this stuff. That forces a healing reaction in some people, but it's robbing [unintelligible]. It's like slapping somebody to get somebody to do something, give them energy. Let's say, you know, a kid's lying there. Uh, daddy, I need some energy to sweep the porch. Bam! Get up and sweep. Then your adrenaline's going, you need to get up and sweep the porch because you're going to have energy. But that's not a good way to do it because that kid's going to come around and slap daddy one day. You know, and there's a whole loss of humanity that goes along with that. The same violation occurs in the body. 99% of all vitamin E is from Kodak and Fuji. It's the end product of developing film. It's a chemical that's the end product of it because the structure, the molecular structure of that chemical once expended for developing looks 80% like the alpha-tocopherol. A scientist came up with the idea of [unintelligible]. We can sell this to the FDA, we can sell it to, you know, people as this is vitamin E. And it's like saying, oh, this plastic bug here is like this real bug. You know, it has no relationship, it's a poison. And when the chemical companies, Fuji and Kodak, used to have to take their chemicals and they'd have to clean them and then bury them in 12-foot thick walls of concrete and certain kinds of stainless steel, we call them barrels. Millions, hundreds of thousands and billions of dollars over the years. So they found a way to sell them to you so you consume it. The same way they're doing with fluoride. They use fluoride for cleaning metals, cleaning gold. The military is the biggest user to make, you know, tanks, guns, airplanes, all this metal. It goes into military. So they have no place to put all this stuff. So they convinced the government that the only way they can do that is disperse it in people's waters so everybody's drinking it and it spreads it out. The newest way to get rid of some of that chemical toxicity is chemtrails. So the aluminum and the barium and some of the coal that's used in military industrial waste is now being sprayed in the skies over your head, everywhere.
+A: Well, if you're eating cooked foods, you're destroying enzymes, you're destroying the vitamins, you're destroying, cauterizing your minerals, so you're going to lose at least half of everything. Plus, you're going to have toxins that are formed that your body has to use good nutrients to eliminate it or neutralize it and then eliminate it. So a lot of nutrients lost to cooking foods. So, of course, people want to supplement for that. If you're going to a vitamin supplement, if you know the chemical structure of supplements, it's the most absurd thing in the world. Take, for example, vitamin C. Vitamin C under a high-powered electronic microscope are these cute little fuzzy balls. And they're different colored and they're very, you know, little spongy little things. You look at ascorbic acid, they are 1,000 times the size of these little spongy things and it looks like broken glass. They are glass and they're going to rip the system to pieces. Now, what does that do? It creates a toxic effect that causes adrenaline and other hormones to produce fats to go in there and harness this stuff. That forces a healing reaction in some people, but it's robbing [unintelligible]. It's like slapping somebody to get somebody to do something, give them energy. Let's say, you know, a kid's lying there. Uh, daddy, I need some energy to sweep the porch. Bam! Get up and sweep. Then your adrenaline's going, you need to get up and sweep the porch because you're going to have energy. But that's not a good way to do it because that kid's going to come around and slap daddy one day. You know, and there's a whole loss of humanity that goes along with that. The same violation occurs in the body. 99% of all vitamin E is from Kodak and Fuji. It's the end product of developing film. It's a chemical that's the end product of it because the structure, the molecular structure of that chemical once expended for developing looks 80% like the alpha-tocopherol. A scientist came up with the idea of [unintelligible]. We can sell this to the FDA, we can sell it to, you know, people as this is vitamin E. And it's like saying, oh, this plastic bug here is like this real bug. You know, it has no relationship, it's a poison. And when the chemical companies, Fuji and Kodak, used to have to take their chemicals and they'd have to clean them and then bury them in 12-foot thick walls of concrete and certain kinds of stainless steel, we call them barrels. Millions, hundreds of thousands and billions of dollars over the years. So they found a way to sell them to you so you consume it. The same way they're doing with fluoride. They use fluoride for cleaning metals, cleaning gold. The military is the biggest user to make, you know, tanks, guns, airplanes, all this metal. It goes into military. So they have no place to put all this stuff. So they convinced the government that the only way they can do that is disperse it in people's waters so everybody's drinking it and it spreads it out. The newest way to get rid of some of that chemical toxicity is chemtrails. So the aluminum and the barium and some of the coal that's used in military industrial waste is now being sprayed in the skies over your head.
+
+Q: And where is that?
+
+A: Everywhere.
 
 Q: Under what guise?
 
@@ -274,11 +274,11 @@ Q: Like to kill something?
 
 A: No, no, no. They're saying it's to create some kind of a radar security thing for national security. To create some radar fluid, which is absolutely absurd. Aluminum is not a trans-conductor of anything.
 
-Q: So what would be good [unintelligible]?
+Q: So what would be good if you happen to have that?
 
 A: Well, you just have to make sure you're eating your fats and not be skinny.
 
-Q: They call it seeding the clouds in colorado.
+Q: They call it seeding the clouds in Colorado.
 
 A: I don't think they call it seeding clouds because it doesn't seed clouds.
 
@@ -288,7 +288,11 @@ A: Could be.
 
 Q: Or maybe they're doing it.
 
-A: But I mean in all the research on chemtrails, nobody's ever made that claim. They're not seeding anything with aluminum because it doesn't create that kind of environment for seeding. Many ways to do that. Well, they're keeping it a real big secret because I listen to the late night talk shows sometimes and they talk about that subject and nobody seems to have a handle on it. It's like a big secret. Well, if you know the military's waste products from the steel mills and all of that, they are responsible. They've agreed to be responsible for the waste. So now they're spreading it over us. Putting it in our water. 
+A: But I mean in all the research on chemtrails, nobody's ever made that claim. They're not seeding anything with aluminum because it doesn't create that kind of environment for seeding. Many ways to do that.
+
+Q: Well, they're keeping it a real big secret because I listen to the late night talk shows sometimes and they talk about that subject and nobody seems to have a handle on it. It's like a big secret.
+
+A: Well, if you know the military's waste products from the steel mills and all of that, they are responsible. They've agreed to be responsible for the waste. So now they're spreading it over us. Putting it in our water. 
 
 Q: I just heard today that the amount of ADD in children is about 1 in 300 in the United States.
 
@@ -304,9 +308,13 @@ A: Oh, yeah. Yeah, food and air.
 
 Q: [unintelligible]
 
-A: Oh, yes. Everything. They are poisoning them, making them very, you know, unable to focus and concentrate. Also, you know, the FDA says your protein level should be 9 to 12%. Hello? You need a lot more protein to be able to deal with a lot of toxicity in the system. So in an environment like ours, you know, the diet should be at least, you know, 15% protein. Minimum 15% protein, calorie-wise. And, you know, fat should be 80%. Carbohydrates only 5.
+A: Oh, yes. Everything. They are poisoning them, making them very unable to focus and concentrate. Also, the FDA says your protein level should be 9 to 12%. Hello? You need a lot more protein to be able to deal with a lot of toxicity in the system. So in an environment like ours, you know, the diet should be at least, you know, 15% protein. Minimum 15% protein, calorie-wise. And fat should be 80%. Carbohydrates only 5.
 
-Q: In the 60s, they had the four food groups and all that, and then they changed it to that pyramid. I'm like, who decided that? You know, like all of a sudden it's all grains and vegetables. And then a tiny bit of protein at the top. It used to be 25%.
+Q: In the 60s, they had the four food groups and all that, and then they changed it to that pyramid. I'm like, who decided that?
+
+A: The USDA.
+
+Q: Like all of a sudden it's all grains and vegetables. And then a tiny bit of protein at the top. It used to be 25%.
 
 Q: So the masses, they can't afford the protein, so they eat carbohydrates and small [unintelligible].
 
@@ -352,7 +360,7 @@ Q: [unintelligible] grounded.
 
 A: Yeah, I was grounded. I first went to San Diego right after my book was published in 1997. Went to the health convention. And I spoke. And I had a table there with a publisher. And this group of vegetarians, raw food vegetarians, came up to the table to talk to me. And I'm sitting there talking very calmly. And they're furious. Furious. And they went on for about 45 minutes. And I was just very calm with them, did their thing. And I would respond once in a while with one sentence that would answer their question. And they weren't listening. So I had a mirror, a little mirror like this. And I held it up and I said, do you think that you're calm? Do you think that this no meat diet is good and makes you non-angry and non-violent? Take a look. Everyone was foaming at the mouth. They had this white foam there. And you could see. And I held it up to each one of them. And I said, look at me and look at you. You tell me who's angry and who's violent. And they walked away. They got it and they walked away. And they never bothered me again.
 
-Q: I went to the living White House and had that same experience. It was awful.
+Q: I went to the living lighthouse and had that same experience. It was awful.
 
 A: Okay. Do you have a question?
 
@@ -448,8 +456,6 @@ Q: What is it?
 
 Q: The Future of Food.
 
-Q: The Future of Food.
-
 Q: Is that the one? It's about Monsanto and the organic farmers.
 
 A: Okay, do you have a question?
@@ -468,11 +474,15 @@ Q: Taxes are going up.
 
 Q: I get it. Because my one friend's argument was, well, but the flu shot's free, so what do you mean, they're not making any money, and I said, no, there has to be a way they're making money, the way it makes. So it's all our tax money.
 
-A: You gotta understand that corporations pay less and less tax every year that a Republican is in office. They literally give rebates to these companies for employing a lot of people. So some of these companies are getting money and not paying a dime of tax. They are actually being paid by our government. This is all in the system. You have got connections in Congress you're in. Especially if you have got them in the White House. And our little guy in the White House is just robbing the till.
+A: You gotta understand that corporations pay less and less tax every year that a Republican is in office. They literally give rebates to these companies for employing a lot of people. So some of these companies are getting money and not paying a dime of tax. They are actually being paid by our government. This is all in the system. You have got connections in Congress, you're in. Especially if you have got them in the White House. And our little guy in the White House is just robbing the till.
 
-Q: When it comes to brining our child to the doctor [unintelligible].
+Q: And when it comes to immunizing your child and you take them to the doctor, we pay for that, right? The parents pay for those shots. The government pays for it?
 
-A: No no, the individual goes and [unintelligible]. The ones that our government says, here we are paying for this and we are going to give it to you. We are going to do you a service. I am sure they are. Listen, I have got this land in the swamps of Florida and I am going to do you a favor. Do you have questions?
+A: No no, the individual goes and gets a shot. The mother of the family is paying for it.
+
+Q: But like things like the flu shots and all that?
+
+A: The ones that our government says, here we are paying for this and we are going to give it to you. We are going to do you a service. I am sure they are. Listen, I have got this land in the swamps of Florida and I am going to do you a favor. Do you have questions?
 
 Q: I am going to [unintelligible] Hong Kong and Bali. Will I be alright with raw poultry there?
 
@@ -642,13 +652,13 @@ Q: Are there [unintelligible]?
 
 A: No, they don't [unintelligible] whole planet. Do you have questions?
 
-Q: Hi Aajonus, I have two things. One is did you hear something about the milk and organic pastures?
+Q: Hi Aajonus, I have two things. One is did you hear something about the milk and Organic Pastures?
 
 A: Okay.
 
 Q: Okay.
 
-A: I was curious about organic pastures because their milk turned bitter for three solid months and I couldn't stand it anymore. So I sent it to a lab and had it tested for toxins. I thought maybe they were, even one farmer said that his milk tasted like that once when his worker wasn't rinsing out a detergent out of the machinery bucket. So I had to check for everything and it came back completely negative for him. So I thought, I don't know. He must be just feeding them some kind of rice bran again and the [unintelligible] acid is causing the bitterness. So I thought that was probably it. But then I ran into a fellow who works for him. We were talking about it and I said, I stopped drinking that milk five months ago because I couldn't stand it being bitter all the time. He said, oh, that's just because you get warm in shipping. I said, Claravale, Claravale gets very warm. I've had dairy for years, 58 years, it never went bitter like this. There's something about it. He said, no, no, no, that's it. Mark says that's what it is. I said, Mark doesn't know his ass from a hole in the ground. He claims to be this brilliant dairy farmer, but he's not. He doesn't know much of anything. He says, well, we chill it to 32 degrees. 32 degrees, freezing temperature. My grandparents were dairy farmers. They supplied all the dairy all the way to Chicago from Sheffield, [unintelligible] for a hundred mile radius all the way over to Chicago. We never allowed the milk to go under 45 degrees because it would have a tendency to go sour or bitter quicker. So I wrote Mark an email and said, Mark, I told him about my grandparents and what they said. I said, if you want to know why your milk is turning bitter, take your milk and test it. I can take milk that's 45 degrees and I can keep it for three weeks without it ever turning bitter or even sour. Once it goes below 45 degrees, you've got a problem.
+A: I was curious about Organic Pastures because their milk turned bitter for three solid months and I couldn't stand it anymore. So I sent it to a lab and had it tested for toxins. I thought maybe they were, even one farmer said that his milk tasted like that once when his worker wasn't rinsing out a detergent out of the machinery bucket. So I had to check for everything and it came back completely negative for him. So I thought, I don't know. He must be just feeding them some kind of rice bran again and the [unintelligible] acid is causing the bitterness. So I thought that was probably it. But then I ran into a fellow who works for him. We were talking about it and I said, I stopped drinking that milk five months ago because I couldn't stand it being bitter all the time. He said, oh, that's just because you get warm in shipping. I said, Claravale, Claravale gets very warm. I've had dairy for years, 58 years, it never went bitter like this. There's something about it. He said, no, no, no, that's it. Mark says that's what it is. I said, Mark doesn't know his ass from a hole in the ground. He claims to be this brilliant dairy farmer, but he's not. He doesn't know much of anything. He says, well, we chill it to 32 degrees. 32 degrees, freezing temperature. My grandparents were dairy farmers. They supplied all the dairy all the way to Chicago from Sheffield, [unintelligible] for a hundred mile radius all the way over to Chicago. We never allowed the milk to go under 45 degrees because it would have a tendency to go sour or bitter quicker. So I wrote Mark an email and said, Mark, I told him about my grandparents and what they said. I said, if you want to know why your milk is turning bitter, take your milk and test it. I can take milk that's 45 degrees and I can keep it for three weeks without it ever turning bitter or even sour. Once it goes below 45 degrees, you've got a problem.
 
 Q: Well, maybe he listened to you because I bought his milk twice in the past two weeks. And it has been good.
 
@@ -660,7 +670,7 @@ A: Basically he was freezing it.
 
 Q: To make it have a longer life span.
 
-A: Yeah, that's what he thought. But I said, you know, what happens is if you freeze it, you destroy the acidophilus bacteria. So all you have is the [unintelligible] and bulgaricus to digest the fats and the proteins. Then nothing sweet is digested. So you have this bitter milk.
+A: Yeah, that's what he thought. But I said, you know, what happens is if you freeze it, you destroy the acidophilus bacteria. So all you have is the  calcoaceticus and bulgaricus to digest the fats and the proteins. Then nothing sweet is digested. So you have this bitter milk.
 
 Q: The Amish milk is good.
 
@@ -696,15 +706,9 @@ A: So it's out two days and drinking it, you know, one day. So it rotates. Do yo
 
 Q: What do you know about marijuana?
 
-A: Oh, I know a lot about marijuana. For two and a half years, every day.
-
-Q: What did he say?
+A: Oh, I know a lot about marijuana. I was on it for two and a half years, every day.
 
 Q: What do you know about it?
-
-A: There are 16...
-
-Q: What do you know about marijuana?
 
 A: What do I know about marijuana? Marijuana has 16 times minimum the tars that regular cigarettes do. So one joint is like smoking a pack of cigarettes as far as tar goes. And when you're smoking... Pardon? And when you're smoking, the tars are being heated from 750 to 1232 degrees. That crystallizes in the system. It causes lymphatic congestion. It causes severe neurological congestion. So not a good thing. If you're going to take marijuana, you juice it. You get it green and fresh, and you juice it. And I wouldn't take over a teaspoon at a time. And it takes the ptyalin enzyme to release the THC. So you have to leave it in the mouth for as long as you can. If you don't want to juice it, you just chew the leaf. You have to chew and chew and chew and leave it in the mouth for about 20 minutes to get the THC to release if you want to have a high. That's a good high because there's no monoxides in it, and your high lasts for about 3 days without being unruly high.
 
@@ -732,7 +736,7 @@ Q: So THC isn't part of it?
 
 A: THC is locked in the tar and in the cellulose. So that's why if you chew it a long time, the ptyalin enzyme that's in our saliva will help break it and release it.
 
-Q: [unintelligible]
+Q: Will THC in itself cause [unintelligible]?
 
 A: Well, if it's cooked, yeah, it can. But not raw. So it's not just... It just becomes a psychonutrient. There are lots of tribes that use psychonutrients to stay connected with the earth. Psilocybin, when it's in a mushroom and you have an anti-agent for the strychnine in it, you know, if you're taking something... Like when I was experimenting with it in the 60s, I would always take, you know, like peyote, or the magic cactus, or the mushroom, I would always take it with figs to neutralize the strychnine that naturally existed in it. Well, the natives, they taught me how to think like that. You know, I got books from the Native American Indians, you know, on how they took drugs, how they took care. They knew what was toxic and they knew how to take foods along with their psychotropic nutrients.
 
@@ -788,7 +792,7 @@ Q: What is the way to do it?
 
 A: Drinking cilantro juice with coconut cream and dairy cream, berries and coconut cream. That's a safe way to do it. But to get rid of the plaque, you just need to heat the body, get high blood pressure. High blood pressure we have for a reason. Everybody who has clogged arteries gets heart, gets elevated blood pressure. It's to stretch out those veins or else they end up getting strokes. And the doctors got it completely backwards. Because the pharmaceutical industry wants your money. Do you have a question?
 
-Q: Yeah, I do. I got two. One is since you travel a lot in Thailand, have you heard, I'm sure you must have heard the food mangosteen ?
+Q: Yeah, I do. I got two. One is since you travel a lot in Thailand, have you heard, I'm sure you must have heard the food mangosteen?
 
 A: Yeah.
 
@@ -1300,7 +1304,11 @@ A: Oh, yeah. Well, what's a degree pay them? They have to do all the work, and t
 
 Q: Do you have a dentist you can recommend?
 
-A: I use one in Mexico because I don't [unintelligible].
+A: I use one in Mexico because I don't just...
+
+Q: Somebody local?
+
+A: No.
 
 Q: [unintelligible]
 
@@ -1313,10 +1321,6 @@ A: Yeah. And I certainly wouldn't do it as thin as you are. I'd give you 10 poun
 Q: There's a dentist that's connected with Weston Price?
 
 A: There are lots of dentists that Weston Price... Weston Price has a list. You pay six or seven dollars for it, maybe ten dollars now. And they get a whole page of all these holistic dentists throughout the United States.
-
-Q: You don't think they are?
-
-A: Pardon?
 
 Q: You don't think they are?
 
@@ -1346,13 +1350,11 @@ Q: In Tijuana?
 
 A: Tijuana.
 
-Q: Okay.
-
 Q: What's he called?
 
 A: B-R-I-T-T-O-N. Tomás Britton.
 
-Q: Do you recommend Dr. Chacard on Beverly Hills? 
+Q: Do you recommend Dr. Chacard (Shekar?) on Beverly Hills? 
 
 A: I don't know Chacard, but I've met him. But, you know, he's into the same stuff.
 
@@ -1368,7 +1370,7 @@ Q: It's like the healing crystals.
 
 A: I've never seen any one of those clients any healthier than anybody else out there. I don't have much credence to...
 
-Q: Jane Stewart went there.
+Q: James Stewart went there.
 
 Q: [unintelligible] bacterial infection in the vagina?
 

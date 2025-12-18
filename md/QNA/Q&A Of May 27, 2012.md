@@ -2259,6 +2259,158 @@ what it relates to – how the glands work – that’ll be another
 newsletter. So everybody has it there and they don’t have to listen to
 the DVD every time.
 
+[Continued by Aajonus.net]
+
+You know you can't open the newsletter up with Microsoft software now?
+
+No, I didn't know that.
+
+Well, the newsletters are PDF.
+
+It should be Adobe Acrobat opening it up.
+
+If you have a Windows based computer that uses Internet Explorer, you can't open the newsletter.
+
+They've done another update on it and when you go to log in and you go to your name, it just jumps around.
+
+You just can't get into it.
+
+Just use Adobe Acrobat Reader.
+
+I can't open PDF files when I get into it.
+
+You can't even get into your website.
+
+You're kidding.
+
+Why not use it?
+
+It just jumps around.
+
+Did you report it to Jim?
+
+Yeah.
+
+Jim corrected it.
+
+He said you could go to another type of software.
+
+I use Firefox.
+
+I will not use Internet Explorer because it takes hours to get from everywhere.
+
+Firefox is very fast.
+
+That's what Jim said.
+
+I use Firefox for everything.
+
+I have no trouble with it.
+
+Sometimes I have to use Internet Explorer when I'm getting into one of my bank accounts.
+
+It won't let me get into one of my bank accounts without Internet Explorer.
+
+It's the only time I use Internet Explorer.
+
+I hate anything Microsoft.
+
+Can I make a quick announcement?
+
+Is it time?
+
+Yes, it is.
+
+This is about chemtrails, everyone.
+
+I just want to make a quick announcement.
+
+It's going to be August 17th through the 19th.
+
+We are going to be having some people there that are going to have already their Morgellons caused by these geoengineering chemtrails which affects our weather climate.
+
+It's controlling our weather, and it's also affecting a lot of people's health.
+
+It has all kinds of symptoms from dizziness to respiratory to breathing difficulties because the barium is quite high.
+
+We did a lab test to go to losangeloskywatch.org, and I did a HEPA filter test.
+
+After three months, turned it in to the American Scientific Labs.
+
+They returned it, and I had to have a reading.
+
+It's in mega, what they do where they break down scientifically measurements.
+
+So we have aluminum in there and barium, and it was also high.
+
+So anybody that's concerned it's affecting our crops, the foods, that's growing.
+
+The GMOs are involved with Monsanto.
+
+Monsanto is doing this.
+
+It's in his film, What in the World Are They Spraying?
+
+They'll be premiering that film, and why in the world are they spraying?
+
+He's getting very qualified scientific people.
+
+Weatherman, Scott Stevens, in his second film is in it.
+
+And Nick Begich, who does the HAARP program, also knows about it.
+
+Get the cards.
+
+He's in Gakona, which is in Gakona, last of the HAARP program.
+
+So I'll get the cards.
+
+Anybody that can pass them out, if you can't make it, it'll be webcast.
+
+So it's 30-some dollars a day from the computer.
+
+The cost is about $130, something like $30 for the three-day seminar, a three-day conference with all different speakers, including Laura Eisenhower, great-granddaughter of Eisenhower.
+
+So you're going to pass out your...
+
+He spoke out on the military-industrial complex.
+
+So it's all with military's involvement in this, and an investor like Bill Gates, he invests heavily in Monsanto.
+
+So he talks about it.
+
+He talks about geoengineering.
+
+John Holdren talks about geoengineering.
+
+He's saying we're only planning to do it.
+
+Well, he knows Mike Murphy, who did the film.
+
+They already have been doing it.
+
+They generally go from September until about April, May, and then usually at night we see the white thick haze.
+
+Do you want to pass out the cards while you're talking?
+
+Yeah, I'll get the cards, and anybody that's interested, please pick them up, or hand them out if you can't make it.
+
+It's been a beautiful day.
+
+Yeah, it's really nice, it's stunning.
+
+Thank you, Joseph.
+
+Thank you.
+
+Thanks, Audra.
+
+Thank you, Michael.
+
+Thank you, so nice to be here again.
+
+You bet.
+
 ===
 
 QA_SD_2012_05_27

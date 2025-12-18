@@ -1566,18 +1566,18 @@ G: Can I have a second question?
 A: Yeah, go ahead.
 
 G: I have a water ionizer and I have a coral based calcium mineralizer that
-goes into it because it’s purified. Is that ok?
+goes into it because it’s purified. And then it goes to that and it's ionized, is that ok?
 
 A: No, you’re electrically altering the natural charges of the minerals and
 you don’t know what soup it’s going to make inside your body. It’s like:
 ‘The brain uses electrical charges and light – is it ok to get shock
 therapy?’ It discombobulates the whole nervous system. Most people that I know
-who have shock therapy had to re-learn language; re-learn math – re-learn
+who had shock therapy had to re-learn language; re-learn math – re-learn
 everything. So, not a good thing.
 
 A: Do you have a question?
 
-G: I have this little mole on my face. And I’ve got moles and warts. How can
+G: I have recently got this little mole on my face. And I’ve got moles and warts. How can
 I get rid of those? Can I use iodine or apple cider vinegar?
 
 A: Apple cider vinegar can help peel it off a little at a time. Pineapple:
@@ -1590,7 +1590,7 @@ G: Just apply it?
 
 A: Yeah, just to the area – not all around.
 
-G: Just apply?
+G: Not drink it, just apply?
 
 A: Well, you can drink it too.
 
@@ -1600,13 +1600,13 @@ A: Together – not on the same day.
 
 G: Yeah.
 
-A: Just one or the other.
+A: Use one or the other.
 
 G: And also papaya – you can also rub papaya on.
 
 A: I tell people to rotate – pineapple, vinegar, papaya – every five days.
 And they can put the vinegar on every day, if they want. But I like to rotate
-the papaya and the pineapple every five days.
+the papaya and the pineapple on a five day schedule.
 
 A: Lorraine.
 
@@ -1687,7 +1687,7 @@ A: It vaguely rings a bell.
 
 G: They created a product that acts like a ground. So, you can either wear it
 or you can plug it into your house and it grounds the wires from your house. I
-have one that plugs into my wireless and grounds all my wireless networks.
+have one that plugs into my wireless router and grounds all my wireless networks.
 
 A: Did you take a Trifield meter and test?
 

@@ -999,6 +999,20 @@ and four tables...three to four tablespoons of...of honey. Now some athletes
 have problems with that much honey so you can cut it down to just two
 tablespoons.
 
+[*Interruption by Raven squaking*]
+
+A: He's begging.
+
+Q: For what? Meat?
+
+A: Yeah, I give them meat, cheese, anything. It's a raven. I've got 4 ravens that are this big, their wing span are eight feet.
+
+Q: I can't see them. Where are they?
+
+A: Right up here. One of them is right up here. He's right over there. They'll come down later. This is usually the time I feed them. So, they'll come up and sit right on my balcony up here and beg me.
+
+----
+
 Q: Can't you put an egg in there?
 
 A: Yes, you can put an egg in there. If you're a sports person, you put an egg
@@ -1997,7 +2011,7 @@ Q: You wouldn't eat it?
 
 A: No
 
-Q: Would you eat you're own pee and drink you're own shit?
+Q: Would you eat your own pee and drink your own shit?
 
 A: I could do that.
 

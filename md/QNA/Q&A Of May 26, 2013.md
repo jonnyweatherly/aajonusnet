@@ -432,7 +432,7 @@ A: I think it's all about keeping us in control. Same way Hitler used fluoride a
 
 Q: If we get the fluoride out of the water, we have to have a...
 
-A: Before San Diego was the last one, you know, you should have [unintelligible] your board of supervisors.
+A: Before San Diego was the last one, you know, you should have hung your board of supervisors.
 
 Q: Portland doctors.
 
@@ -472,11 +472,11 @@ A: Okay, Michael.
 
 Q: Well, I've had some unfortunate dental needs. I've got a couple of cavities. My dentist wants to use TPA, translucent pallet crystalline aluminum oxide. As a filling.
 
-A: Because? 
+A: Because?
 
 Q: That's what he wants to use.
 
-A: This isn't a regular composite, is this on the top side of a molar? Or is it facial?
+A: Just get a regular composite, is this on the top side of a molar? Or is it facial?
 
 Q: It's on the front, it's number 27. Actually, I've got smaller ones at 26 and one at 27. He also wanted to use dycal initially. And I've checked that against the Clifford testing that I used, and that's to be counter-indicated for that material. And this is an aluminum type ceramic, but I don't know...
 
@@ -856,7 +856,7 @@ Q: Oh, is it my turn? You went around already?
 
 A: Yes, it's your turn.
 
-Q: I'm just trying to tell people, you know, the reason I got into the chemtrail issue, this was about 2006, is because I developed breathing difficulties. I had heart palpitations and I couldn't get enough air. Even now, I was a few days ago coming home. I know it's that because I can look up and I can see, and what you're seeing is not a picture, because I recognize that many people have this problem. We once announced on RussTammy of the GlobalSpyWatch.com, he said, it's been tested on rats that it can induce heart attacks. Now, what I'm asking, the question is, what do you take for this? You suck on garlic?
+Q: I'm just trying to tell people, you know, the reason I got into the chemtrail issue, this was about 2006, is because I developed breathing difficulties. I had heart palpitations and I couldn't get enough air. Even now, I was a few days ago coming home. I know it's that because I can look up and I can see, and what you're seeing is not a picture, because I recognize that many people have this problem. We once announced on Russ Tanner of the GlobalSkyWatch.com, he said, it's been tested on rats that it can induce heart attacks. Now, what I'm asking, the question is, what do you take for this? You suck on garlic?
 
 A: I put it in my newsletter, all about the chemtrails and what to eat.
 
@@ -946,7 +946,7 @@ Q: Well, that's the end of my question. I don't think I need to...
 
 A: Well, you got to tee it up, too. You could have just said, I'm afraid of chemtrails, are they affecting me, what do I do about it?
 
-Q: Well, everyone has a different reaction to it. This guy, Russ Penn, on the show, he can actually smell and taste it. Not very many people can do that.
+Q: Well, everyone has a different reaction to it. This guy, Russ Tanner, on the show, he can actually smell and taste it. Not very many people can do that.
 
 A: When chemtrails are heavy, they would not go outside without a mask.
 
@@ -1370,7 +1370,7 @@ A: Well, I just said that when you're in the bath, the rules can change. The rul
 
 Q: Oh.
 
-Q: I went to what I do, and your detoxification formula before I did.
+Q: I went to Glen Ivy, and I took your detoxification formula before I did.
 
 A: The vegetable juice?
 
@@ -1398,13 +1398,13 @@ Q: No, that was the main ingredients. But what I wanted to continue is that the 
  
 A: Then you were throwing off metals through your lungs. And industrial chemicals out of your lungs. Other people, it affects their livers or their, you know, wherever you have the metals collecting and loosed is where you'll feel it. So yours are in the lungs.
 
-Q: If you get palpitations with that, it's going to be heart.
+Q: If you get palpitations, would that be, it's going through the heart?
 
-A: It's going to be heart.
+A: It's going through the heart. You got metals in your heart.
 
 Q: Yeah.
 
-Q: Is that at Glenn Ivy, I'd be, you know, don't they check your bag so you can't bring any glassware in there?
+Q: Is that a Glenn Ivy thing, now don't they check your bag so you can't bring any glassware in there?
 
 Q: That's true. What I did is I brought plastic and some ice water and that they let me take in. It was a plastic container of ice water.
 
@@ -1492,7 +1492,11 @@ A: Steve, do you have a question?
 
 Q: Yes, I know soup is cooked, but it seems like there might be a benefit from pulling things out of the bone to actually drink?
 
-A: It's all cauterized. The only thing you're going to get that's whole and active are the poison metals in the bone. If you cook them, it doesn't make any difference. Once you cauterize them, you're causing free radicals. See, minerals naturally, in a raw form, they work together in a perfect balance. Once you cook them, the calcium, the phosphorus, potassium, and magnesium are crystallized and hardened into either like a rock or like glass, depending on the temperature. So they are no longer active. It takes 20 times more calcium to do what calcium needs to do, and it still doesn't do it very well.
+A: It's all cauterized. The only thing you're going to get that's whole and active are the poison metals in the bone.
+
+Q: What if it's organic?
+
+A: It doesn't make any difference. Once you cauterize them, you're causing free radicals. See, minerals naturally, in a raw form, they work together in a perfect balance. Once you cook them, the calcium, the phosphorus, potassium, and magnesium are crystallized and hardened into either like a rock or like glass, depending on the temperature. So they are no longer active. It takes 20 times more calcium to do what calcium needs to do, and it still doesn't do it very well.
 
 Q: Is there a way to pull out those minerals in a different way? Like soak them in something, or is that...
 
@@ -1532,7 +1536,7 @@ A: It would be. But what it's going to do is create... You remember John Travolt
 
 Q: Yeah, yeah, yeah.
 
-A: And how thick he is now? Well, that's what it creates. Remember Kevin Klein, I mean Kevin Costner? You remember him, No Way Out? Skinny. Thick now. Thick all over.
+A: And how thick he is now? Well, that's what it creates. Remember Kevin Costner? You remember him, No Way Out? Skinny. Thick now. Thick all over.
 
 Q: And Val Kilmer?
 
@@ -1566,11 +1570,11 @@ A: Price Pottenger. She left because of me.
 
 Q: She did?
 
-A: Yeah. There are 12 board of directors at Price Pottenger. And nine of them, when my book came out, nine of them wanted to go gung-ho on mine and dump hers. She, Mary E. Nigg, and another person on the board, after a year and a half of fighting, the president and all the other people wanted to do my, favor my diet was better.
+A: Yeah. There are 12 board of directors at Price Pottenger. And nine of them, when my book came out, nine of them wanted to go gung-ho on mine and dump hers. She, Mary Enig, and another person on the board, after a year and a half of fighting, the president and all the other people wanted to do my, favor my diet was better.
 
 Q: Wow. 
 
-A: They left. So Mary E. Nigg and Sally Fallon went off and created the Weston Price Foundation.
+A: They left. So Mary Enig and Sally Fallon went off and created the Weston Price Foundation.
 
 Q: What was the original board that you're talking about?
 
@@ -1952,7 +1956,7 @@ Q: If I do that, yeah that would be good.
 
 A: Yeah. When the fluids hit your tongue the whole body reacts. But I mean when you are sucking it through your teeth onto your tongue it's going to be the same way. See the way she's doing it right now. See? You know if I had a big straw like that my tongue would be in front of my teeth and I would be sucking very hard, stream through my teeth and have to stream over my tongue. When you see me drink this, you never see me do anything other than suck. I go like this [slurping noise]. I am sucking over my tongue, I’ve got my teeth and everything, lips and everything hard together. So I will be getting barely a stream.I had no more than a tablespoon just then. I suck.
 
-Q: I’ve been working on my health all of my life. I teach and do a lot of body meditation. That’s how I got my health back by from being [unintelligible] for a year and a half in 1995. So I built my body back slowly but none of the things that were advised to me worked so… But as my energy is coming back stronger and stronger, I’m getting jittery so I went to doctors again and all the ideas given to me are going well. That’s hard to do. So I came up with don’t eat sugar, don’t eat fat, don’t do this, don’t do that. And with all the food allergies it’s like OK, might as well go back to meditating. Anyway, I got your book about two days ago. So I tried your nuts with unheated honey and raw butter – I’m not supposed to have anything sweet…fat. So I said ‘OK, I’m going to try this and meditation’. So every half hour I would try it. I was sore first time because of this esophageal thing. By the second and third time I thought ‘this feels kind of good’. So I meditated for 3-4 hours and at the end I thought ‘this is working’. I thought, ‘wow, I can have some fat and sugar. This is like the most thrilling thing’.
+Q: I’ve been working on my health all of my life. I teach and do a lot of body meditation. That’s how I got my health back by from being dead for a year and a half in 1995. So I built my body back slowly but none of the things that were advised to me worked so… But as my energy is coming back stronger and stronger, I’m getting jittery so I went to doctors again and all the ideas given to me are going well. That’s hard to do. So I came up with don’t eat sugar, don’t eat fat, don’t do this, don’t do that. And with all the food allergies it’s like OK, might as well go back to meditating. Anyway, I got your book about two days ago. So I tried your nuts with unheated honey and raw butter – I’m not supposed to have anything sweet…fat. So I said ‘OK, I’m going to try this and meditation’. So every half hour I would try it. I was sore first time because of this esophageal thing. By the second and third time I thought ‘this feels kind of good’. So I meditated for 3-4 hours and at the end I thought ‘this is working’. I thought, ‘wow, I can have some fat and sugar. This is like the most thrilling thing’.
 
 A: Unheated honey is not sugar.
 
@@ -2042,7 +2046,7 @@ A: That particular area is generating a lot more red blood cells. Normally you h
 
 Q: Okay and that's good?
 
-A: That's wonderful. Just more concentrated in red blood cells than in white blood cells in that area..
+A: That's wonderful. Just more concentrated in red blood cells than in white blood cells in that area.
 
 Q: How much value lost by freezing bone marrow?
 
@@ -2050,9 +2054,9 @@ A: 80% of the value, it's better to eat it rotten and stinky. Protein could be m
 
 Q: What about refrigerating? Does refrigerating do anything?
 
-A: It lowers bacteria levels. That's why you leave it out to get room temperature, to get the bacteria going.
+A: It lowers bacteria levels, considerably. That's why you leave it out to get room temperature, to get the bacteria going.
 
-Q: [unintelligible] honey with bone marrow?
+Q: Beef bone marrow, I didn't like the taste of it. [unintelligible] sometimes I mix a tiny bit of honey with it and it makes it taste so wonderful. Is that okay to put tiny bit of honey with it. Please say yes?
 
 A: It's risky. 
 
@@ -2100,9 +2104,9 @@ Q: Avocado is not good you said?
 
 A: Well it's good but half of it is just going to pass out with the feces.
 
-Q: Well at least it helps...
+Q: Well at least it helps with going to the bathroom?
 
-A: I wouldn’t suggest it. At least not for her....no she doesn't have the dryness that you have.
+A: Yeah, right. I wouldn’t suggest it. At least not for her....no she doesn't have the dryness that you have.
 
 Q: Then what would be the difference then, what would she...?
 
@@ -2120,7 +2124,7 @@ Q: Does pineapple work for constipation?
 
 A: For some people it does. For some people it helps them have movements. You have to experiment and see what things do for you. And if it's consistent it works, okay?
 
-Q: Q: Two questions. I’ve been experiencing heart fibrillations, [unintelligible] joints and I don’t know if that’s part of my [unintelligible]. How much fat of different kinds should I be eating daily?
+Q: Two questions. I’ve been experiencing heart fibrillations, and sort of the achy joints and I don’t know if that’s part of my RA (rheumatoid arthritis). How much fat of different kinds should I be eating daily?
 
 A: You’re one of the dryer individuals that I’ve had but you’re doing better. It all depends on how well you digest - how much bile you produce. Your skin looks good. I see red blood cells, enzymes. You’re probably going as fast as you can. As you get better, eating pineapple will help that.
 
@@ -2304,9 +2308,7 @@ A: I take four quarts. I take four of these with me on my flight because I've go
 
 Q: High meat and high eggs, do you eat those on an empty stomach and you kind of separate them?
 
-A: Well, I like to buy eggs and buy meat.
-
-Q: What is that?
+A: Well, I like to buy eggs and goodbye meat.
 
 Q: What's that?
 
@@ -2585,10 +2587,6 @@ A: But it really damages the skin, too.
 Q: Salt water?
 
 A: Yeah. But that's okay. If you rinse it off fast, it's fine.
-
-Q: I've been going to the ocean a lot.
-
-A: Pardon?
 
 Q: I've been going to the ocean a lot.
 

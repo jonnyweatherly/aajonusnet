@@ -2788,30 +2788,30 @@ A: ... if he's a mellower child.
 Q: What?
 
 A: If he's a more really mellow child with not a lot of energy he might try some
-red meat or liverwith the chicken and fish.
+red meat or liver with the chicken and fish.
 
 Q: What? ….yeah except for the muscles and …..like the supplements of
 twisting and......for us is good exercise. I didn't exercise or I usually do my
 stretch for five or ten minutes. I do it three times a week and that kind of
-keeps it easily. For a period of about two weeks I didn't and I got really stiff
-and I'm now back to stretching again and its fine but its kind of.....
+keeps it easy going. For a period of about two weeks I didn't and I got really stiff
+and I'm now back to stretching again and its fine but its kind of stiffness.....
 
-A: You're too thin, and nothing to arrest the uric acid with a byproduct of
+A: You're too thin, and nothing to arrest the uric acid which is a byproduct of
 your metabolism so what your body does is uses calcium and other minerals to
-combine with those acids.
+bind with those acids.
 
 Q: Okay
 
 A: And they cause crystals, stiffness. You could eat more fats. You could also
 drink some whey with the sports drink or drink whey by itself. Have a little bit
-of vinegar, that helps break down uric acid.
+of vinegar, that helps break down uric acid. Any of those.
 
 Q: My father is 71. He's got two hernias. One inside.
 
 A: Hernia is almost impossible to correct at that age. So he might have to have
 surgery. The only thing I've never tried with a hernia - so hernia is close to
 the skin so it might react very well - is putting bone marrow there. You know so
-you have to understand in every autopsy that iv'e done on a herniated tissue
+you have to understand in every autopsy that i've done on a herniated tissue
 there are metals, from vaccines that are in that tissue and never allow it to
 heal and see it
 

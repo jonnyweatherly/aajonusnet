@@ -16,11 +16,11 @@ A: Yeah, I never looked skinny.
 
 Q: When I first met you, you were like one of those guys.
 
-A: Yeah, I was. This is a small shirt. And I used to wear mediums. Now they're huge. But I'll put it back on. I've already put on about 12 pounds of it already. It's just a slow process. And I feel it's getting near the end, almost all of it. The worst of it's over. I'm starting to gain more in the last probably six weeks. But then there was a problem with James supplying eggs that had mercury in it. Chickens that had arsenic in it. Because he was giving us eggs that were grown off commercial feed and commercial chickens. And the farmer, Sharon Palmer, actually went out and bought commercial chickens and commercial eggs. And sold them, or gave them to, or sold them to James, Rawsome Club as organic. No soy or anything in them. It was absolutely just commercial junk.
+A: Yeah, I was. This is a small shirt. And I used to wear mediums. Now they're huge. But I'll put it back on. I've already put on about 12 pounds of it already. It's just a slow process. And I feel it's getting near the end, almost all of it. The worst of it's over. I'm starting to gain more in the last probably six weeks. But then there was a problem with James supplying eggs that had mercury in it. Chickens that had arsenic in it. Because he was giving us eggs that were grown off commercial feed and commercial chickens. And the farmer, Sharon Palmer, actually went out and bought commercial chickens and commercial eggs. And sold them, or gave them to, or sold them to James, Rawesome Club as organic. No soy or anything in them. It was absolutely just commercial junk.
 
 Q: How did you find that out?
 
-A: Well, I just kept having problems with the change. One time it was salt in it. And another time the chicken was just really, really foul and not bad. You know, like very low-grade feed. So there was an inconsistency. And I know that doesn't happen on an organic farm. There's no inconsistency in quality. And the eggs were almost always uniformly sized and always chemically cleaned, washed. And our contract on the membership agreement with the farmer is that they have to be organic, no soy, and that the eggs are not to be washed. They may be wiped with a wet cloth, damp, but only water. And that's it. So none of this was like that. Every time I told James, James just said, Oh, you don't know what you're talking about, this is perfectly good. But you have to understand, he owns part of the farm. And he made $10,000 a month from it. And Sharon took another $10,000. So they were making a lot of money on taking this commercial stuff and selling it for a very high price. And then we were the consumers. So I got fed up with it. And in June, right after the raid, I said, Well, this is a good time to stir up everything, because everything's already stirred up. So I got a detective agency involved in it and had them watch the farm, interview certain old employees that they had, and the evidence was outstanding that the employees were actually fired. They were disgruntled because they kept telling her, wait a minute, you're selling this as organic at 12 Farmers Markets and to Rossum. And we know what you're buying. We know what you're doing. You have us cleaning the chickens and taking them out of the... and we've got pictures... taking them out of the companies, bagging and putting them into non-labeled bags and then giving them to us. Another reason we found out about that, I finally did something about it, was that when we started investigating, it started coming up about this one person who had written the district attorney up in that area saying that my little girl had lead poisoning. She's in a very serious state. And so we checked everything that goes into her. And everything we bought was from Rawsome for this period. And her mercury and arsenic levels started hitting the roof. 
+A: Well, I just kept having problems with the change. One time it was salt in it. And another time the chicken was just really, really foul and not bad. You know, like very low-grade feed. So there was an inconsistency. And I know that doesn't happen on an organic farm. There's no inconsistency in quality. And the eggs were almost always uniformly sized and always chemically cleaned, washed. And our contract on the membership agreement with the farmer is that they have to be organic, no soy, and that the eggs are not to be washed. They may be wiped with a wet cloth, damp, but only water. And that's it. So none of this was like that. Every time I told James, James just said, Oh, you don't know what you're talking about, this is perfectly good. But you have to understand, he owns part of the farm. And he made $10,000 a month from it. And Sharon took another $10,000. So they were making a lot of money on taking this commercial stuff and selling it for a very high price. And then we were the consumers. So I got fed up with it. And in June, right after the raid, I said, Well, this is a good time to stir up everything, because everything's already stirred up. So I got a detective agency involved in it and had them watch the farm, interview certain old employees that they had, and the evidence was outstanding that the employees were actually fired. They were disgruntled because they kept telling her, wait a minute, you're selling this as organic at 12 Farmers Markets and to Rossum. And we know what you're buying. We know what you're doing. You have us cleaning the chickens and taking them out of the... and we've got pictures... taking them out of the companies, bagging and putting them into non-labeled bags and then giving them to us. Another reason we found out about that, I finally did something about it, was that when we started investigating, it started coming up about this one person who had written the district attorney up in that area saying that my little girl had lead poisoning. She's in a very serious state. And so we checked everything that goes into her. And everything we bought was from Rawesome for this period. And her mercury and arsenic levels started hitting the roof. 
 
 So they tested the eggs and had the eggs tested and the chicken tested. The chicken came up high in arsenic and the eggs came up high in mercury. So we have that evidence too. So it's just outstanding and it's outrageous. James still denies it. He's in total denial about it. And we just have to go through legal means to settle it because there's a lot of angry people. I know that I've been working with people who are very chemically sensitive. And when you're eating chicken with arsenic in it and mercury, it made it very difficult. It's only been that difficult in the past two years that we've been getting those eggs and that chicken. And I was broken. Every time I came to L.A. and would eat those eggs, and I eat a lot of eggs. Anywhere from, let's say, 8 to 50 a day. And that's how much mercury I was consuming. And because they're commercial eggs, they're not good value. So I was getting these big sores all over my neck every time, a few days after I got here in L.A., every time. And I just thought, well, it's the better food that I'm here, I'm getting the best. And then when I found out from this report from the investigator, and then this one father with that little girl testing it, I realized what it was, so I stopped eating the eggs and the chicken, and all the breakout went away. Now I've returned to Los Angeles last Friday. I don't have that breakout. So it's a very, very bad thing that James Stewart did. Very bad thing. And he was told also, the ex-employees told him what she was doing. So he was told many times, and we have all this testimony in writing, signed. Yes?
 
@@ -34,11 +34,7 @@ A: They don't have it. Well, I tell everybody not to buy it. He's still carrying
 
 Q: Mothers?
 
-A: Pardon?
-
-Q: Mothers?
-
-A: No, no, I'm talking about Rawsome, I'm up in Venice. Mothers, you know, I don't trust any eggs from a store.
+A: No, no, I'm talking about Rawesome, I'm up in Venice. Mothers, you know, I don't trust any eggs from a store.
 
 Q: Really?
 
@@ -96,7 +92,7 @@ A: Oh yeah, well that's mainly with the mercury.
 
 Q: Can you say that all the other eggs are contaminated with the soy? And what does that do to us? [unintelligible]
 
-A: Well, I don't know how much soy is in it. We have photographs of the feed packages, but there's been so much going on that I haven't been able to go to the store and see. But anyway, I will because I know we've got a photograph of the feed they were giving. So I have to investigate that. But with the mercury and the arsenic alone, that pulls a lot of our nutrients out of the system. Now, in my eyes, I had a great deal of changes from the injections. All this metal accumulated in my intestinal tract in iridology. So you could see the patterns all throughout the intestinal tract of the additional metal. And after eating all of these eggs, there's no way I can tell arsenic except as a green, radiant compound in the iris. Obviously, I didn't absorb a lot of that, but the mercury was coming out. And when I had the hair analysis done here and the hair analysis done on my head, after the injections, all of those were high. So on me, I can't tell how much is those injections and how much are the eggs. I have to look at my patients who had no other exposure like that little girl. All of a sudden, they're arsenic... They just started feeding her all rawsome foods.
+A: Well, I don't know how much soy is in it. We have photographs of the feed packages, but there's been so much going on that I haven't been able to go to the store and see. But anyway, I will because I know we've got a photograph of the feed they were giving. So I have to investigate that. But with the mercury and the arsenic alone, that pulls a lot of our nutrients out of the system. Now, in my eyes, I had a great deal of changes from the injections. All this metal accumulated in my intestinal tract in iridology. So you could see the patterns all throughout the intestinal tract of the additional metal. And after eating all of these eggs, there's no way I can tell arsenic except as a green, radiant compound in the iris. Obviously, I didn't absorb a lot of that, but the mercury was coming out. And when I had the hair analysis done here and the hair analysis done on my head, after the injections, all of those were high. So on me, I can't tell how much is those injections and how much are the eggs. I have to look at my patients who had no other exposure like that little girl. All of a sudden, they're arsenic... They just started feeding her all Rawesome foods.
 
 Q: For how long was she on the diet, the little girl?
 
@@ -104,7 +100,7 @@ A: The father didn't tell me, or he said it, but I don't remember.
 
 Q: And is she better now?
 
-A: She had severe lead poisoning and almost died from the school that she went to. So then they had to put her on a special diet, make sure it was as pure as possible, so her body could clean out the lead. And then all of a sudden, they always kept tabs on her, always checked her blood to see what the levels were. And then the arsenic and mercury started elevating considerably. And the only exposure she had was rawsome food. So he checked the eggs and the meat first, because they'd, of course, be the highest in mercury, not the fruits and other, you know, not the dairy. So sure enough, that's where he found it, in the eggs and the chicken.
+A: She had severe lead poisoning and almost died from the school that she went to. So then they had to put her on a special diet, make sure it was as pure as possible, so her body could clean out the lead. And then all of a sudden, they always kept tabs on her, always checked her blood to see what the levels were. And then the arsenic and mercury started elevating considerably. And the only exposure she had was Rawesome food. So he checked the eggs and the meat first, because they'd, of course, be the highest in mercury, not the fruits and other, you know, not the dairy. So sure enough, that's where he found it, in the eggs and the chicken.
 
 Q: Can you eat chicken from Rocky's?
 
@@ -121,10 +117,6 @@ A: Fish and beef, yeah.
 Q: What do you think about bison?
 
 A: Bison's great, but if you get it from Northstar Bison, you have to make sure you're not buying a female, because she vaccinates the female.
-
-Q: Green range?
-
-A: Pardon?
 
 Q: Green range?
 
@@ -157,10 +149,6 @@ Q: They always put some kind of feed, even the ones that are [unintelligible].
 A: Yep, and they won't produce eggs.
 
 Q: But they have to be better than, sometimes.
-
-A: Pardon?
-
-Q: They have to be better than.
 
 A: Yeah, it has to be better than commercially, yeah.
 
@@ -333,10 +321,6 @@ A: Slices.
 Q: Sun-dried?
 
 A: No, in the house. There was no sun those days that I was doing it. I would have just left that in the sun for maybe 20, 30 minutes on either side. The meat, yeah. And I cut it in slices about a half-inch thick, maybe three-quarters of an inch thick. And then I stuffed them in quart and half-gallon jars. And first I put either peanut oil. At that time, we could get a completely raw peanut oil, never heated over 104 degrees. But it's so expensive to make. They had such a demand for it that they just go for the cheap stuff now. So they don't produce it anymore. But I put about a cup in the bottom, three-quarters to a cup of the oil in the bottom, and then stuffed the meat around. And, of course, the oil would come up and coat the meat. And then I would put more in as I stuffed more of the meat in until it was not a lot of oil, but just so it covered the surface of all the meat. And then up to the top, about a half-inch above the meat level. And I didn't put anything. Usually, you'd put a beeswax sealer on the top of that. And that's normally how you do it to keep any gases or anything from any oxidation of it. But I just put the lids on it. I wanted to see what happened with just the oil, without beeswax. And I just opened the last one in December, last December, and it was 10 years old. And it was perfectly good.
-
-Q: Do you use olive oil?
-
-A: Pardon?
 
 Q: Do you think you can use olive oil?
 
@@ -536,7 +520,7 @@ Q: What are your thoughts? [unintelligible]
 
 A: If you change the subject then I've got to go around and get to you. Joe, do you have a question?
 
-Q: Can we still trust the bison from Rawsome that they're not vaccinated?
+Q: Can we still trust the bison from Rawesome that they're not vaccinated?
 
 A: They definitely, Mary Gracie, who owns Northstar Bison, who we get the buffalo from, assures us that we never get a vaccinated female or a dewormed.
 
@@ -545,10 +529,6 @@ Q: So that would be our best source for beef, right?
 A: I would suggest that you never eat any of the bison that's from the neck up. Because when they deworm them, they put those right along the spinal cord, which creates CJD. That's mad cow disease, disintegrates the spinal cord and brain.
 
 Q: Well, the normal beef wouldn't be from the neck up.
-
-A: Pardon?
-
-Q: The normal beef wouldn't be from the neck up.
 
 A: No, correct.
 
@@ -578,7 +558,7 @@ A: Lamb and pork. I eat it all the time.
 
 Q: What cuts do you get on this?
 
-A: Oh, did everybody know I got banned from, I'm not allowed to go to Rawsome? If James wasn't part owner of the lot, I could say, James, and I'd go to my notice. I said, you have no authority because I'm the one who runs Rawsome Clubs and all the other clubs under the right to choose healthy food. If you read the contract, I'm it. You cannot ban me from the member's club. I am the main member. I said, but it is your lot. You own it. You can ban me from the lot. But he tried to ban all the members who were involved in helping me get all the evidence. What does that tell you?
+A: Oh, did everybody know I got banned from, I'm not allowed to go to Rawesome? If James wasn't part owner of the lot, I could say, James, and I'd go to my notice. I said, you have no authority because I'm the one who runs Rawesome Clubs and all the other clubs under the right to choose healthy food. If you read the contract, I'm it. You cannot ban me from the member's club. I am the main member. I said, but it is your lot. You own it. You can ban me from the lot. But he tried to ban all the members who were involved in helping me get all the evidence. What does that tell you?
 
 Q: He's guilty?
 
@@ -592,9 +572,9 @@ Q: US wellness meats?
 
 A: Great. John's very good. It took me two years to get him to good quality and not freezing. Yeah.
 
-Q: So you still buy the cheese and everything else from Rawsome?
+Q: So you still buy the cheese and everything else from Rawesome?
 
-A: I get everything from Rawsome but the chicken and the eggs.
+A: I get everything from Rawesome but the chicken and the eggs.
 
 Q: Who gets it for you?
 
@@ -636,7 +616,7 @@ Q: What do you have here?
 
 Q: Co-op.
 
-A: They get it from Rawsome. Once every two weeks is it?
+A: They get it from Rawesome. Once every two weeks is it?
 
 Q: Yeah, but once they close...
 
@@ -662,7 +642,7 @@ A: No, not stop off here. You have to go to L.A. He won't come here.
 
 Q: You just get the whole bulk order to send to L.A.?
 
-A: Even for Rawsome. They have to go downtown and pick up all that food. It doesn't get delivered to Rawsome in Venice. They have to go downtown and at a certain distribution warehouse to unpack it, to unload it and put it on their trucks, and then take it from downtown to here. You would have to do the same thing with a van or something.
+A: Even for Rawesome. They have to go downtown and pick up all that food. It doesn't get delivered to Rawesome in Venice. They have to go downtown and at a certain distribution warehouse to unpack it, to unload it and put it on their trucks, and then take it from downtown to here. You would have to do the same thing with a van or something.
 
 Q: [unintelligible]
 
@@ -694,7 +674,7 @@ A: I spend $300, $350 a week just for my own food.
 
 Q: Joe's half of that order. He orders $500, $600.
 
-Q: I know, but that's how things get started. Rawsome didn't start out that way.
+Q: I know, but that's how things get started. Rawesome didn't start out that way.
 
 A: We're in a garage just selling the raw milk. That we bootlegged in.
 
@@ -1018,7 +998,7 @@ A: This year. So they signed contracts with me. So I own their animals. It's all
 
 Q: And if the law enforcement agents have guns with them, armed assault.
 
-A: Armed assault, yes. And that's what we're getting them for up here. When they came to us in Rawsome.
+A: Armed assault, yes. And that's what we're getting them for up here. When they came to us in Rawesome.
 
 Q: Do you know anything about this organic certification board, which their license was pulled, especially the United States or something, the government?
 
@@ -1082,7 +1062,7 @@ A: Yeah, but they're trying to take all that land. Even the land that the house 
 
 Q: The house that you just built?
 
-A: The house that I just built. They said that's on forestry protected land, too. So I got real angry at them at the last meeting. There were judges. There were policemen. There was the land authority. There was the forestry department.  And there were attorneys and the city attorney all together. This I don't want printed because I promised them I wouldn't. And they all said, give us $200,000 and we'll go away. The whole issue will go away. I said, you're just trying to extort money from me? This is what this is all about? I'm bringing good wealth to your country and all that? I said, do you know something? You're trying to fuck the wrong man. And that's just what I said. I said, I will go online and I'll report this to all the people out there on this diet. And there are at least 40,000 people interested in this diet and what I'm doing. Take a look at Sunday's paper a few weeks ago. You've got the whole city attorney being embarrassed for coming into my Rawsome Club with guns raised and trying to extort and play with us. I said, do you want the same embarrassment? I said, you're screwing with the wrong man if you think you're going to do that to me. They all sat back and I left. I left the next morning, so I have no idea what's happened. And I won't know until I go back. I don't know if I will have land and a house or not.
+A: The house that I just built. They said that's on forestry protected land, too. So I got real angry at them at the last meeting. There were judges. There were policemen. There was the land authority. There was the forestry department.  And there were attorneys and the city attorney all together. This I don't want printed because I promised them I wouldn't. And they all said, give us $200,000 and we'll go away. The whole issue will go away. I said, you're just trying to extort money from me? This is what this is all about? I'm bringing good wealth to your country and all that? I said, do you know something? You're trying to fuck the wrong man. And that's just what I said. I said, I will go online and I'll report this to all the people out there on this diet. And there are at least 40,000 people interested in this diet and what I'm doing. Take a look at Sunday's paper a few weeks ago. You've got the whole city attorney being embarrassed for coming into my Rawesome Club with guns raised and trying to extort and play with us. I said, do you want the same embarrassment? I said, you're screwing with the wrong man if you think you're going to do that to me. They all sat back and I left. I left the next morning, so I have no idea what's happened. And I won't know until I go back. I don't know if I will have land and a house or not.
 
 Q: What about the building?
 
@@ -1119,10 +1099,6 @@ A: No, no, no. I'm going to find another place to live and move to another place
 Q: You ever go to Florida?
 
 A: Yeah, I go every year.
-
-Q: When?
-
-A: Pardon?
 
 Q: When?
 

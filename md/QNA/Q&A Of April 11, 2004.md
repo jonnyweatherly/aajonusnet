@@ -1036,11 +1036,11 @@ A: You don't want to use your own fecal matter.
 
 Q: You don't.
 
-A: So it's completely pure. You don't want to take your own fecal matter.
+A: You have to use an organic animal, so it's completely pure. You don't want to take your own fecal matter.
 
 Q: Why would you not?
 
-A: Because you've got high contaminants in your body. If you had been raised a raw fooder all of you, it wouldn't be an issue.
+A: Because you've got high contaminants in your system. If you had been raised a raw fooder all of you, it wouldn't be an issue.
 
 Q: Oh, it's a good thing I came here and asked you that. Okay, so where do you get organic fecal matter? Kathy? You never told me...
 

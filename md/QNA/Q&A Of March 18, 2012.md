@@ -1522,7 +1522,7 @@ Q: It stinks.
 
 A: It stinks up the whole refrigerator.
 
-Q: Oh, we have a little fridge outside.
+Q: Oh, we have a little fridge outside or something.
 
 Q: No, there's no privacy. Okay, so high meat and high eggs will give the body the bacteria again. 
 
@@ -1530,19 +1530,17 @@ A: It'll reintroduce the kind of bacteria you need.
 
 Q: So how can I lead up to that?
 
-A: There's no lead up.
-
-Q: There's no lead up.
-
-A: You can do the high meat or the high eggs.
+A: There's no lead up. You can do the high meat or the high eggs.
 
 Q: How do you do the high eggs?
 
 Q: She's trying to get out of it.
 
-A: On one end, just tap it. Hair cracks. Then you let it sit in a wooden bowl or you know, cardboard.
+A: Take an egg, take a spoon, around on the end, and you tap it until you hear the faint cracks. Then you let it sit in a wooden bowl or cardboard.
 
-Q: [unintelligible]
+Q: Is it going to be leaking a little bit?
+
+A: No, you are not cracking it enough to do that, hair cracks.
 
 Q: Just one end, right?
 
@@ -1550,15 +1548,15 @@ A: No, you do all, the whole thing, all the way around. Very fine cracks.
 
 Q: Oh, okay.
 
-A: You can't even see them. You might with a magnifying glass.
+A: You can't even see them, unless you get a magnifying glass.
 
 Q: What?
 
-Q: What happens if you get a cracked egg [unintelligible]. And just let it sit for how long?
+Q: What happens if you get a cracked egg [unintelligible].
 
-A: Six weeks.
+A: And just let it sit for six weeks.
 
-Q: Six weeks. [unintelligible]
+Q: That makes me nauseous, when I open one of those and they're high, I almost throw up from the smell.
 
 Q: So you have to hold your nose.
 
@@ -1567,8 +1565,6 @@ Q: I don't know if I open it, I go.
 Q: So you hold your nose and then you take how much of it? How much of it do you take?
 
 A: The whole thing.
-
-Q: The whole thing.
 
 Q: It's tough.
 
@@ -1580,7 +1576,7 @@ Q: Well, I can handle the high meat and not high eggs.
 
 A: It doesn't matter.
 
-Q: It doesn't matter. Every day?
+Q: Every day?
 
 A: Every day is good. I've got people who only eat high meat. I've got one guy who eats two pounds of high meat a day. He won't eat anything fresh.
 
@@ -1588,7 +1584,7 @@ Q: What about if you leave it in your fridge and you don't open it and it's in a
 
 Q: No, you've got to open it to get the bacteria.
 
-Q: You've got to open it. If you open it every few days, that would be income high?
+Q: You've got to open it. If you open it every few days, that would become high?
 
 A: If you have it out of the refrigerator, it will still keep going even if you don't open it with the non-aerobic bacteria.
 
@@ -1618,11 +1614,7 @@ Q: Yeah. I've done high meat, and it was no big... I mean, it was a little bit s
 
 Q: High chicken. [unintelligible]
 
-A: When I used to go to the movie theater...
-
-Q: Yeah, I told you. I told you.
-
-A: I would take high meat. I mean high chicken. And you know how rank that smells. Well, the reason I did it was because everybody was using these perfumes and colognes with formaldehyde in them. And I couldn't go into a movie theater anymore. If I wanted to go to a movie theater, I would take my chicken legs. And I mean they would be rank. I'd leave them out the day before. They were already high in the refrigerator. And they would just be so bad. And I like that smell now. I like the smell. And I would pull that out, and you just... Two rows in front, all the way on the side, and two rows in back. Clear out. They see me eating the stinky... I mean they... Well, I was reported one time.
+A: When I used to go to the movie theater, I would take high meat. I mean high chicken. And you know how rank that smells. Well, the reason I did it was because everybody was using these perfumes and colognes with formaldehyde in them. And I couldn't go into a movie theater anymore. If I wanted to go to a movie theater, I would take my chicken legs. And I mean they would be rank. I'd leave them out the day before. They were already high in the refrigerator. And they would just be so bad. And I like that smell now. I like the smell. And I would pull that out, and you just... Two rows in front, all the way on the side, and two rows in back. Clear out. They see me eating the stinky... I mean they... Well, I was reported one time.
 
 Q: Of course.
 
@@ -1682,13 +1674,9 @@ A: Yeah, but not in a good way.
 
 Q: No, yeah.
 
-A: I mean, if it were pure raw sesame oil it would be okay, but it still smothers the skin. Because it's only water-soluble oil. I mean, it's only fat-soluble oil. It's not water-soluble.
+A: I mean, if it were pure raw sesame oil it would be okay, but it still smothers the skin. Because it's only fat-soluble oil. It's not water-soluble.
 
 Q: Okay. Leg discomfort. When the legs are like really aching and, you know. I remember you saying in the breathing that you can take certain things to dry it. Because you were talking about dryness in the body. And it wasn't too clear. So, I'm asking what's, with my condition, the pain is caused from the stiffness, the drying, the heavy metals. How do I...
-
-A: All of them can cause it.
-
-Q: All can cause what?
 
 A: All of them can cause that pain. Any one of those can cause that pain.
 

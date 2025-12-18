@@ -108,11 +108,15 @@ A: Oh. There are biodegradable cleansers. I like the BioKleen. B-I-O-K-L-E-E-N. 
 
 Q: What's a good paint?
 
-A: Any milk based. True milk based. All milk used to be made with paint... All paint used to be made with milk.
+A: Any milk based. True milk based. All paint used to be made with milk.
 
 Q: Do you know any brands?
 
-A: On the internet. You put milk paint and you go to websites. There are websites. And you can have it pre-mixed or you can have it in the powder and mix it yourself. Pasteurized or not?
+A: On the internet. You put milk paint and you go to websites. There are websites. And you can have it pre-mixed or you can have it in the powder and mix it yourself.
+
+Q: Pasteurized or raw?
+
+[laughter]
 
 A: Pasteurized. [unintelligible].
 
@@ -192,31 +196,27 @@ Q: They're rarely laid, is it?
 
 A: No. Well, they lay less. Probably 50% less.
 
-Q: Oh, okay. But anyway, my question is, if they're out there and they're laid in cold [unintelligible]?
+Q: Oh, okay. But anyway, my question is, if they're out there and they're laid in cold weather [unintelligible]?
 
-A: No, that's a little bit too cold. I mean, unless [unintelligible] is sitting on them.
+A: No, that's a little bit too cold. I mean, unless a hen is sitting on them.
 
-Q: If you [unintelligible] them 15 hours, and then you keep them in a room for a couple more days, does it come back up?
+Q: If it is 15 hours, and then you keep them in a room for a couple more days, does it come back up?
 
-A: They'll come back in again.
+A: The bacteria will come back up again.
 
 Q: And it doesn't lose anything at that point? In other words...
 
 A: It'll gain it back, despite the bacterial activity.
 
-Q: So if I have to an emergency [unintelligible]
+Q: So if I have to in an emergency again, buy a dozen eggs at Whole Foods...
 
 A: I do it once a while. 24 hours. 
 
 Q: 24 hours. And then they're back to...
 
-A: Well, they're on their way.
+A: Well, they're on their way. Depends upon how long they've been refrigerated.
 
-Q: I thought you said never buy...
-
-A: Depends upon how long they've been refrigerated.
-
-Q: I thought you said never buy the cold [unintelligible].
+Q: I thought you said never buy at Whole Foods because the eggs are not [unintelligible].
 
 A: I didn't say never. I never say never. I rarely say never.
 
@@ -224,7 +224,7 @@ Q: There are many cases.
 
 A: There's always a better. And if you can say do the better, the better's the better. I mean, you won't starve to death.
 
-Q: [unintelligible]
+Q: As long as it's cage-free?
 
 A: Yeah.
 
@@ -236,7 +236,7 @@ Q: Is that bad?
 
 A: Well, that particular kind of mucus is there to get rid of the proteins that have passed into the blood and the guts. So that's bad. Now, the mucus that would be produced normally just to get rid of brain toxicity, it would be half as much if you were to eat it room temperature.
 
-Q: What if you're in a hurry because [unintelligible], just some hot water?
+Q: What if you're in a hurry? Can you put the milk in some hot water?
 
 A: Warm it. See what happens is the cold milk goes into the stomach, the stomach contracts. When the stomach contracts, it does not produce hydrochloric acid in the duodenum. So then the proteins don't get digested and the sugars aren't set free, so you get undigested sugars and proteins that go right into the blood. When it's warm, it's different.
 
@@ -260,7 +260,7 @@ Q: Do you think [unintelligible].
 
 A: Then you just start forming molds. That's cheese. All these great molds, you know, you go into a particular cave, you'll find in France and Spain. People find caves and then they'll buy the land and then they'll have cheese making factories in these caves. That produces a particular kind of mold. Each cave produces a different kind of mold.
 
-Q: There is no point in saying within a week to a month that you should throw it away. It's only good for something. So it's butter, cream, or cheese.
+Q: There is no point in saying within a week to a month that you should throw it away. It's always good for something. So it's butter, cream, or cheese.
 
 Q: That's how they make roquefort for instance in this particular cave. It's the only cave in France that produces that exact mold. Nobody else can duplicate it. It's been done that for thousands of years.
 
@@ -294,7 +294,7 @@ Q: We don't know. [unintelligible] We've never figured that one out.
 
 A: Yeah, I've got the same problem. You ready for your question, Michael?
 
-Q: I've been, like, since I've been doing this, I've experienced [unintelligible] I was reading a book... 
+Q: I've been, like, since I've been doing this, I've experienced some pretty interesting detox, that are pretty intense sometimes, I was reading the book yesterday... 
 
 A: Which one?
 
@@ -330,15 +330,23 @@ Q: Okay.
 
 A: Or if you're completely pure and clean, it might reduce to what's supposed to be natural.
 
-Q: But you don't recommend eating [unintelligible].
+Q: But you don't recommend eating lots of fruit [unintelligible].
 
 A: Well, if he's suffering, just cut it out.
 
-Q: And then all you do is [unintelligible]. [unintelligible]
+Q: And then all you do is [unintelligible].
+
+A: No, he should not have a lot of sweet fruit.
+
+Q: Even if the fruit is really nice.
+
+Q: Especially.
+
+Q: [unintelligible] I mean, could you do that a couple days or something?
 
 A: Well, any kind of intense fat will help absorb the poisons that may cause heavy symptoms. Usually I'll use cheese to do it, but now with the cheese pasteurized, you have to work around that.
 
-Q: [unintelligible] I mean, it's like on a continual basis.
+Q: [unintelligible] Look at what it is. The burning coming out of the rectum, I mean, it's like on a continual basis.
 
 A: Well, you have to understand, you were a vegetarian for 20 years?
 
@@ -348,7 +356,7 @@ A: How much?
 
 Q: About 12 years.
 
-A: No, no, no [unintelligible].
+A: No, no, no, [laughter], 12 years without protein.
 
 Q: I ate a lot of fruit, too.
 
@@ -356,13 +364,11 @@ A: Yes, you dissolved your whole body. So you can imagine how...
 
 Q: But all those acids should have come out, then.
 
-A: No. No, because your body can't eliminate it without fat. You just dissolve it and it all retains in the body. So you've got a tremendous amount of [unintelligible]. You just need to eat a lot more cream with it.
+A: No. No, because your body can't eliminate it without fat. You just dissolve it and it all retains in the body. So you've got a tremendous amount of dump. You just need to eat a lot more cream with it.
 
 Q: Okay.
 
 A: A lot more cream. Less butter. And concentrate on cream as long as you're having a burning... He's got a burning rectum. A hot rectum.
-
-Q: Woo!
 
 Q: Woo!
 
@@ -374,7 +380,7 @@ Q: Don't get excited, ladies.
 
 A: Because it's actually hot. So what is happening is his body is discharging a lot of acids that burn the rectum. That can cause hemorrhoids in some people. For him, it's just burns. It does make the tissues very red and irritated. It can cause an eczema or even some ulcerations without turning it into a hemorrhoid. He just needs lots of cream. Cut out butter until the burning stops. Butter causes more detoxification of acids. Cream soothes and heals and protects more. It'll absorb some of those acids.
 
-Q: I noticed when I've had cream, especially like for the evening and the morning, I'll feel like [unintelligible] in my chest. Is that...
+Q: I noticed when I've had cream, especially like for the evening and the morning, I'll feel like heavy through my chest. Is that...
 
 A: Creams do detoxify the heart and lungs, so you get the cream. Heavy heart, hot ass. Light heart, burnt ass.
 
@@ -384,7 +390,7 @@ A: The cream, no, does not stop it. It absorbs those acid toxicities. Toxins.
 
 Q: [unintelligible]
 
-A: Not frozen, no. Frozen will alter it. Frozen creates more detoxification.
+A: Not frozen though. Frozen will alter it. Frozen creates more detoxification.
 
 Q: So ice cream still has some value?
 
@@ -422,15 +428,15 @@ Q: [unintelligible]
 
 Q: There's a naughty word here. It's the N word. They would not allow us to use anything. [unintelligible]
 
-Q: [unintelligible]
+Q: You mentioned about the sweet foods, so you could have the oranges?
 
 A: Oranges are sweet. They still have high amounts of carbohydrates. Anything that is high in carbohydrates is not a fruit that you want to eat. Oranges are high.
 
-Q: [unintelligible]
+Q: What do you consider a non-sweet fruit?
 
 A: Tomatoes, cucumber, zucchini, avocado.
 
-Q: Raspberry.
+Q: Raspberries.
 
 A: They're lower. Grapefruit, those are all high in carbs. Lemons are high in carbs. Pineapples. Even if they're sour.
 
@@ -438,17 +444,17 @@ Q: Anything good, forget about it.
 
 A: I'm finally detoxing some of my diabetic stuff from when I was a child. So even though I'm not eating fruit, I eat maybe fruit once every two weeks. But now I'm having cramps in these toes and this hand.
 
-Q: [unintelligible]
+Q: Arthritis?
 
 A: No, that's from toxic sugar stored in the body that wasn't broken down properly because I was diabetic. And that's a detoxification right now. I'm finally getting this stuff out.
 
 Q: Is fruit acid?
 
-A: Fruit is [unintelligible].
+A: Fruit is [unintelligible]. Acid or alkaline.
 
-Q: I get that too and I'm a sugar person. So that's what's going on?
+Q: I think those cramps, that's not mineralized. I get that too and I'm a sugar person. So that's what's going on?
 
-A: Yes. Toxic sugars are robbing the fats from the muscles. And those acids, remember it's like Coca-Cola when they're poorly formed sugars. And they burn the myelin, the sheaths of the nerves in the muscles. And that causes the cramps. Have you ever seen a diabetic in a cramp mode? I mean it's pretty bad.
+A: Yes. Toxic sugars are robbing the fats from the muscles. And those acids, remember it's like Coca Cola when they're poorly formed sugars. And they burn the myelin, the sheaths of the nerves in the muscles. And that causes the cramps. Have you ever seen a diabetic in a cramp mode? I mean it's pretty bad.
 
 Q: What do you do for that?
 
@@ -472,11 +478,11 @@ A: He won't gain weight from that. What you do is use raw cream, raw eggs and ho
 
 Q: [unintelligible]
 
-A: And eggs. How tall is he? He's what?
+A: High sugar. That'll turn it into detoxification, instead of stabilizing. And eggs. How tall is he? He's what?
 
 Q: A head shorter.
 
-A: So he could probably use four eggs, four ounces of cream, a tablespoon of honey, a tablespoon or two of honey.
+A: So he could probably use four eggs, four ounces of cream, a tablespoon or two of honey.
 
 Q: Why no milk in there? That's like a creamie.
 
@@ -494,7 +500,7 @@ A: No, not a lot of carob. Tomatoes and cream together are your best natural lax
 
 Q: [unintelligible]
 
-A: No, no, no, he still needs that. He's very acid. Just because he's a vegetarian doesn't mean he turned alkaline. Because everything he ate burned up the system and remained acid inside. So he still needs vegetable juice. Honey will help alkalize the blood. Now if he had been a raw food vegetarian strictly, sometimes and he had been more on the diabetic side, it would have been different. But he was on the acidic side with high adrenaline. Thin side. Okay, Lewis, question.
+A: No, no, no, he still needs that. He's very acid. Just because he's a vegetarian doesn't mean he turned alkaline. Because everything he ate burned up the system and remained acid inside. So he still needs vegetable juice. It will help alkalize the blood. Now if he had been a raw food vegetarian strictly, sometimes and he had been more on the diabetic side, it would have been different. But he was on the acidic side with high adrenaline. Thin side. Okay, Lewis, question.
 
 Q: Okay, well, now that I've gone over your new book and cross-referenced back to the old book, the hardest thing is keeping everything up to date. In other words, what do you tell people as far as what is up to date and preventing any confusion as far as… 
 
@@ -510,9 +516,9 @@ A: Nut formula in place of cooked starches.
 
 Q: Oh, still the same nut formula.
 
-A: Yes. In other words, I don't recommend the cooked starches at all, cooked carbs, but to use the nut formula instead. It does the same thing without the acrylamides and the heterocyclic amines, I mean the advanced glycation end products collecting.
+A: Yes. In other words, I don't recommend the cooked starches at all, cooked carbs, but to use the nut formula instead. It does the same thing without the acrylamides and the advanced glycation end products collecting.
 
-Q:  [unintelligible] When you get the urge to [unintelligible]. Can you do that too often?
+Q: With the nut formula, when you get the urge to for bread or something. Can you do that too often in a week?
 
 A: Yes.
 
@@ -520,7 +526,7 @@ Q: What's the maximum you should have, like say in a week? If you're having crav
 
 A: No closer than three days apart.
 
-Q: But how much in that time that you have it, that first time you have it? You have to have the whole four-ounce jar [unintelligible]?
+Q: But how much in that time that you have it, that first time you have it? You have to have the whole four-ounce jar and that butter formula?
 
 A: Depending on how much you eat.
 
@@ -528,17 +534,13 @@ Q: But not like a three-day... You have to wait three days to have it again?
 
 A: Correct.
 
-Q: What if you don't [unintelligible]?
+Q: What if you don't get them at all? Are you bad?
 
-A: Yes. There are neurological toxins in [unintelligible] that can only be bound with starches. That's the only place we can get lots of starches without eating cooked food. Twice a week every three days apart. At least three days apart. Twice or once a week, depends on the person. Depends on the person. If you find yourself going through emotional stuff, let's say you're pissed off at your husband or boyfriend, or the guy's are pissed off at their girlfriends or wives, and there's no reason for it, they haven't done anything, just the irritable. Those are hormones, toxic by-products of hormonal activity during times of stress in the past. You're just using activity, emotional tension to release it like exercise. You have that formula, you won't have all that stress. You'll have the starches there to bind with it so you won't be as irritable and nasty. You'll be liked more.
+A: Yes. There are neurological toxins in me that can only be bound with starches. That's the only place we can get lots of starches without eating cooked food. Twice a week every three days apart. At least three days apart. Twice or once a week, depends on the person. Depends on the person. If you find yourself going through emotional stuff, let's say you're pissed off at your husband or boyfriend, or the guy's are pissed off at their girlfriends or wives, and there's no reason for it, they haven't done anything, just the irritable. Those are hormones, toxic by-products of hormonal activity during times of stress in the past. You're just using activity, emotional tension to release it like exercise. You have that formula, you won't have all that stress. You'll have the starches there to bind with it so you won't be as irritable and nasty. You'll be liked more.
 
-Q:  When guys get pissed off, does that apply more to males or to the females?
+Q: When guys get pissed off, does that apply more to males or to the females?
 
-A: I just said either way.
-
-Q: Either way.
-
-A: Either way.
+A: I just said either way. Either way.
 
 Q: [unintelligible] Actually, I like that one better because the one that you gave me [unintelligible].
 
@@ -552,13 +554,13 @@ Q: I have another one that a couple times I've had it, the next day I get like a
 
 A: Then you'll have a different form of enzyme inhibitor, which is even worse than when it's raw. You just may need to let yours sit for a few hours before you have it. Make it the night before so the bacteria will start breaking it down. It's a problem with raw food fruitarians and vegetarians. They lose, every year goes by, they lose more and more digestive... You have somewhere around 3 million different ways to construct enzymes for digestibility, for digestion. And if you've been a vegetarian for about 10 years, you'll lose about 50% of those. Each year after that you lose about 2% a year. And it decreases exponentially. So like Owanza who was vegetarian for 14 years, by the time she was 35 she had cancer all over her system and couldn't digest anything, not even water. It's a difficult time, so she has a lot of digestive disabilities. So if he lets his food sit, lets bacteria start breaking it down, then he'll be able to handle it better.
 
-Q: Totally, I've had that issue [unintelligible]. My body is working so much better than it ever worked in my life.
+Q: Totally, I've had digestive problems for a long time, and I've been telling people because [unintelligible]. My body is working so much better than it ever worked in my life.
 
-Q: I've had the same thing where I finally ate it and when I started this, I was unable to digest anything [unintelligible] all the time. But I had also been vegetarian for 15  years.
+Q: I've had the same thing where I finally ate it and when I started this, I was unable to digest anything without feeling bloated for a really long time. But I had also been vegetarian for 20 years.
 
 Q: When I had the nut formula my throat started burning. So should I still have it anyway?
 
-A: Absolutely, you just might want to follow with a little cream. What that does is it starts pulling out the acids in the esophagus and [unintelligible]. It's drawing them out. They're usually neurological acids, like what's burning his rectum. Those are the most concentrated in metals, nerve tissue. When that degenerates, you have high amounts of toxic metal in the system. And when that goes through the tissues, into the mucous membranes to attach to the mucus to discharge, it burns the tissue.
+A: Absolutely, you just might want to follow with a little cream. What that does is it starts pulling out the acids in the esophagus and larynx. It's drawing them out. They're usually neurological acids, like what's burning his rectum. Those are the most concentrated in metals, nerve tissue. When that degenerates, you have high amounts of toxic metal in the system. And when that goes through the tissues, into the mucous membranes to attach to the mucus to discharge, it burns the tissue.
 
 Q: And the bee pollen, do [unintelligible]?
 
@@ -588,9 +590,9 @@ Q: The same amount of butter to do it on the weight loss?
 
 A: Yes, but you're only doing it once a week.
 
-Q: Aajonus, I haven't had nut formula in a month. The walnuts that I have in my fridge, should I toss them, [unintelligible]?
+Q: Aajonus, regarding that, because I haven't had nut formula in a month. The walnuts that I have in my fridge, should I toss them, and buy fresh stuff or can I use them?
 
-A: Fine. Everybody should put their nuts in jars, they'll last years that way. If you go through them in a month or two, then that's fine. If you leave them plastic, they're still [unintelligible].
+A: Fine. If you had them properly sealed. Everybody should put their nuts in jars, they'll last years that way. If you go through them in a month or two, then that's fine. If you leave them in plastic and still hold them sealed in the refrigerator.
 
 Q: [unintelligible]
 
@@ -604,7 +606,7 @@ Q: Me?
 
 A: Yes. Yes. [unintelligible] But it's always relevant. I know. Go ahead, Jess. [unintelligible] apologizing.
 
-Q: I'm not clear about between the lube and the cream, because when I first started the diet, I always felt guilty because I loved my lube formula with cream. I hated the butter, and I always felt guilty that I didn't have enough butter.
+Q: I'm not clear about between the lube and the cream, because when I first started the diet, I always felt guilty because I loved my lube formula with cream. I hated the butter, and I always felt guilty that I didn't have enough butter. Now it's changed to [unintelligible].
 
 A: I needed you to get the butter, because the butter will get everywhere.
 
@@ -622,11 +624,7 @@ A: But you can't do without it completely.
 
 Q: But I still have to use a little butter.
 
-A: Yes. You still need the lube formula at least twice a week.
-
-Q: Okay.
-
-A: With butter.
+A: Yes. You still need the lube formula at least twice a week. With butter.
 
 Q: With butter. Okay. So now, we only have [unintelligible].
 
@@ -658,10 +656,6 @@ A: Once a week.
 
 Q: Does it cause constipation?
 
-A: What?
-
-Q: That formula?
-
 A: Nut formula? No, you have enough butter in it.
 
 Q: Okay.
@@ -682,6 +676,8 @@ A: Not when they're pooped out.
 
 Q: No, they still move. They're alive. [unintelligible]
 
+Q: But why did that first one come out so fast then if I had all this stuff still in me?
+
 A: It's just that particular worm wasn't eating the old stuff. It was eating stuff that was in the intestine. It changed its diet. It changed the type of sugars it was eating.
 
 Q: Do they want to eat any meat or egg?
@@ -690,7 +686,7 @@ A: They don't eat protein. Tapeworms exist only in third world countries where t
 
 Q: Wow.
 
-A: And you need those. You see those little children with the big tummies? [unintelligible] because all they're eating is all this carbs. And carbs aren't good for a human diet. So what happens is the tapeworms, they're eating all of this. Of course, the medical profession says, oh, the tapeworms are eating the food so you're not getting it. Well, fuck, get them off of the carbohydrates and feed them some dairy and meat, and then you'll see the change.
+A: And you need those. You see those little children with the big tummies? It's because all they're eating is all this carbs. And carbs aren't good for a human diet. So what happens is the tapeworms, they're eating all of this. Of course, the medical profession says, oh, the tapeworms are eating the food so you're not getting it. Well, fuck, get them off of the carbohydrates and feed them some dairy and meat, and then you'll see the change.
 
 Q: Why do they have it over there and we don't have it here?
 
@@ -698,15 +694,19 @@ A: Because we eat meat and dairy.
 
 Q: Okay.
 
-Q: Can I ask a question about that? [unintelligible]
+Q: Can I ask a question about that? [unintelligible] I've had ongoing fatigue for a long time.
 
 A: Usually tapeworms exist in people who eat high carbs and they're naturally lethargic anyway. But people who are on a good, raw meat, dairy diet, don't have the same type of fatigue.
 
-Q: Can I [unintelligible]?
+Q: And I'm just wondering how long it's going to take [unintelligible]?
 
 A: He's your friend. They're your friends. They're helping you get well quicker. Like I say in the second book, people who have worms get well five times faster than in the other way, than the solvent reaction way. So enjoy it. Enjoy your little slimy friends.
 
-Q: [unintelligible] I know I've been diagnosed with parasites.
+Q: Are worms considered parasites?
+
+A: No parasites in worms.
+
+Q: I know I've been diagnosed with parasites.
 
 A: You have worms, parasites everywhere in the body for all types of tissues.
 
@@ -714,11 +714,11 @@ Q: [unintelligible]
 
 A: Yeah, because it's the cause of massive detoxification, of sugar detoxification in some people.
 
-Q: [unintelligible]
+Q: How long you go before that problem stops [unintelligible]?
 
 A: You'll go in and out of it. In and out. Four years.
 
-Q: [unintelligible
+Q: [unintelligible]
 
 A: When the bee collects the nectar, it swallows it. It manufactures an insulin-like substance which converts 90% of the carbohydrates into enzymes for digesting, utilizing, and assimilating protein. Only 10% is sugar.
 
@@ -736,7 +736,7 @@ A: Absolutely. It helps you digest your protein. You won't get well if you can't
 
 Q: Yeah.
 
-A: You're all diseased. You are all diseased. So you [unintelligible] eating honey for a while.  Do you have a question?
+A: You're all diseased. You are all diseased. So count on eating honey for a while.  Do you have a question?
 
 Q: Not yet.
 
@@ -750,13 +750,13 @@ Q: So I think there's stuff like G3 and the protein and all of this stuff that p
 
 A: Have you heard anybody in Germany living over 106 years?
 
-Q: I don't know. I'm not agreeing with it.
+Q: I don't know if I'm into it. I just think it's very interesting. I'm not agreeing with it.
 
 A: No, that's what I'm saying.
 
 Q: [unintelligible]
 
-A: Let me tell you, if they did, it would be [unintelligible].
+A: Let me tell you, if they did, it would be out.
 
 Q: So what do I do about this?
 
@@ -772,13 +772,13 @@ Q: [laughter]
 
 Q: I always have it. I'm having the same thing. A lot of exercise helping that or hurting it? Sometimes doing four hours of exercise.
 
-A: Well, if you have too much exercise, it's going to make it worse. Because you're going to be detoxing a lot of acids, all the uric acids from the muscular.
+A: Well, if you have too much exercise, it's going to make it worse. Because you're going to be detoxing a lot of acids, all the uric acids from the muscular byproducts.
 
 Q: So what's a good amount of exercise?
 
 A: Depending upon the individual. If you've got a lot of adrenaline, then you need to exercise a lot to burn it. That depends on how many worry circles I see in the eye. Do you remember how many worry circles?
 
-Q: I had a lot.
+Q: You said I had a lot.
 
 A: Yeah, you need to exercise. I would have told you anywhere from an hour and a half to three hours of exercise. I don't remember. What did I tell you?
 
@@ -786,7 +786,7 @@ Q: You probably told me that at the beginning and I thought, oh, I could never d
 
 A: Now you're going way over that, right? Go back to that.
 
-Q: Do you ever [unintelligible]? Or eggs?
+Q: Can I have milk or cream or eggs at the 4:00 point?
 
 A: Absolutely. Cream and eggs together. For resting and relaxing the nerves. And a little meat would be good.
 
@@ -798,29 +798,29 @@ Q: Okay, thank you.
 
 A: You're welcome. Barbara?
 
-Q: Okay. I've had a kind of [unintelligible].
+Q: Okay. I've passed menopause and...
 
 A: Did you wave?
 
 Q: [laughter]
 
-Q: I did.
+Q: Yes I did.
 
 A: Good rhythm.
 
-Q: But now, I don't know [unintelligible] my period here.
+Q: But now, I don't know if it's a detox or what it is but I'm getting my period again. What's that all about?
 
-A: Then you didn't have menopause. You went in and said, [unintelligible]. But most women who go back into their menstruation, and I would say women who've been through, recently been through menopause at an earlier age, usually reverse it, 50 to 60% of the women. Reverse it and go back to having periods.
+A: Then you didn't have menopause. You went in and said, "Hello there! Goodbye again!". But most women who go back into their menstruation, and I would say women who've been through, recently been through menopause at an earlier age, usually reverse it, 50 to 60% of the women. Reverse it and go back to having periods.
 
 Q: What does that mean?
 
-A: You're starting to manufacture those reproductive hormones. So if you don't want children, watch out.
+A: You're starting to manufacture those reproductive hormones again. So if you don't want children, watch out.
 
 Q: [laughter]
 
 A: Watch it, James.
 
-Q: I don't know if you did any of your research on this, but I found among the indigenous people in South America that they have much shorter periods, like one day max. And I know that I and most people, I think, here have like five, seven days, heavy. Is that because of...
+Q: I don't know if you did any of your research on this, but I found among the indigenous people in South America that they have much shorter periods, like one to three day max. And I know that I and most people, I think, here have like five, seven days, heavy. Is that because of...
 
 A: More toxicity, more pollution.
 
@@ -828,15 +828,15 @@ Q: So as we get healthier, that should decrease?
 
 A: Yes, down to three days. Maybe in 40 years, you know, women coming out, it would be shorter, one, one and a half, two days. Do you have a question. Question? Oh, my God, Jimmy, you look so freaking different. Wow, you lost all that weight. Wow, I didn't even recognize you. Congratulations.
 
-Q: I have [unintelligible]. Basically what happens is I'm very allergic to cats, and I'm wondering how much... I love cats. I don't know how I can... If it's something I can do or if it's something I [unintelligible].
+Q: I have [unintelligible] going to ask. Basically what happens is I'm very allergic to cats, and I'm wondering how much... I love cats. I don't know how I can... If it's something I can do or if it's something I [unintelligible].
 
 A: Exactly. There's a lot of people who have allergies. Remember Owanza, we went to New York and visited one of her relatives in the Bronx. They had six cats in the house. They were only allowed on the upper floor, and they had three floors. It's a townhouse. We stayed on the first and second floors. Her eyes were black within two hours of being there. These cats were upstairs. Dander floats in the air. The skin flakes. Because they feed cats canned food, processed food with heavy metal toxicity in it, and nothing raw, these animals, they don't perspire except the tongue, the nose, the eyes, and the rectum. The only way they can perspire, that's why they're going like that, because that's the only way they can emit those toxins. When the poisons are built into the skin, they are built into the skin. They don't perspire out of the system. Those heavy metals and all the other poisons that are preservatives, everything else that's in the food gets built into the skin. People who have asthma and emphysema and just general sinus difficulties, mucous membrane problems, they're not forming a mucus which has good protein. When the body builds mucus, it builds strands of protein, links. You can observe this with a woman's period, who goes [unintelligible]. When they're fertile, you can take the mucus, it discharges, and it will string, sometimes this long. When they're not fertile, it will pop, very short strands. During fertilization, to protect and hold the egg, the strands become very long, the protein fibers become very long, and it's a mesh network. People who have alimentary canal problems, respiratory problems, do not build proper mucus. They do not build those fibers to block out the elements from entering the mucus membrane. So the mucus can hold it, and then you can spit it up or swallow it. So your body has not made it yet, still not making it yet, to isolate and control those from going into your system. It took Owanza seven years. I still don't like to be around cats that aren't on raw diets.
 
-Q: [unintelligible]
+Q: So if they were on a raw diet for [unintelligible]?
 
 A: As long as they're very young.
 
-Q: [unintelligible]
+Q: Okay, the cat [unintelligible]
 
 A: No, way too late. You're still going to suffer for a couple of years. You have to get them six weeks, five weeks old. Because those toxins, by nine months old, those toxins are built into the skin, and at nine months old, that's almost a teenager. That's about nine years old, eight or nine years old for a cat.
 
@@ -848,7 +848,7 @@ Q: [unintelligible]
 
 A: But cats are worse.
 
-Q: It'll take like two to three years. [unintelligible]
+Q: It'll take like two to three years. If I got a cat, it would take 2-3 years for it to detox?
 
 A: About two years. Two and a half years.
 
@@ -868,17 +868,17 @@ Q: All right.
 
 A: Celeste.
 
-Q: Yes. You [unintelligible]. Especially during the work week when I bring all my stuff and I'm really good on the diet. On the weekends sometimes like I'm busy so I'll just drink milk or I'll just eat some eggs or something like that to get me by or something. But is, and you said something about being about fat. Is that something that I need? What should I do in case of something like that? ]
+Q: Yes. Someone has asked questions about heaviness in the pancreas and also heaviness in the liver. I've been having heaviness in my liver a lot, especially during the work week when I bring all my stuff and I'm really good on the diet. On the weekends sometimes like I'm busy so I'll just drink milk or I'll just eat some eggs or something like that to get me by or something. But is, and you said something about being about fat. Is that something that I need? What should I do in case of something like that?
 
 A: Just add some lemon juice to your juice, vegetable juice. Juice one lemon, one medium sized lemon per quart of vegetable juice. And that will help the liver break down those fats. It's less heavy.
 
 Q: That's the only time you put the lemon into the juice.
 
-A: Well, some people who are very, very overweight and their weight loss cycle, you can put some lemon juice in the vegetable juice.
+A: Well, some people who are very, very overweight in their weight loss cycle, you can put some lemon juice in the vegetable juice.
 
 Q: But still keep with the amount of fats that I'm eating.
 
-A: Correct, yeah. Unless you're on the weight loss program. [unintelligible] You were skinny for a very long time. How long were you vegetarian?
+A: Correct, yeah. Unless you're on the weight loss program. You don't like that yet, right? You were skinny for a very long time. How long were you vegetarian?
 
 Q: Years, I was doing meat before I got on the diet for quite a while. But when maybe about 20 years ago before that I had been vegetarian for a while.
 
@@ -924,11 +924,11 @@ Q: Oh, yay.
 
 A: So it will be updated. Okay, let's start over here.
 
-Q: I'm new to the diet. I've been doing it for two months. I'm still eating whatever I want. I cook whatever.
+Q: I'm new to the diet. I've been doing it for two months. I'm still eating whatever I want. Like, cooked food, whatever.
 
 A: So you didn't do the diet.
 
-Q: What I ended up doing was eating 25 pounds of milk. I love the milk so much. Recently, every time I try, I make my own ceviche or [unintelligible]. I know it's psychological, but it tastes fine. But that [unintelligible] gagging. I'm not sure about that.
+Q: What I ended up doing was eating 25 pounds of milk. I love the milk so much. Recently, every time I try, I make my own ceviche or [unintelligible]. I know it's psychological, the taste's fine. But that fourth bite [unintelligible] gagging. I'm not sure about that.
 
 A: People who eat a lot of milk usually do not have an appetite for meat. Just cut down on milk. That's why I say in the book, do not overdrink milk, because then you won't eat the meat.
 
@@ -938,15 +938,15 @@ A: It would stop the gagging.
 
 Q: Oh, you think it would?
 
-A: Oh, yeah. It dilutes the hydrochloric acid so much by drinking so much milk that when the meat goes in, it doesn't [unintelligible]. It causes nausea. Just like eating too much fruit will cause nausea when you eat meat.
+A: Oh, yeah. It dilutes the hydrochloric acid so much by drinking so much milk that when the meat goes in, it doesn't digest well. It causes nausea. Just like eating too much fruit will cause nausea when you eat meat.
 
-Q: My question is, if I can't eat that much, [unintelligible] or something in place of it? Even if I do cut back on milk, which I did already cut back on milk, and it's still happening, could it be like, what, [unintelligible] or something?
+Q: My question is, if I can't eat that much, can I eat egg or something in place of it? Even if I do cut back on milk, which I did already cut back on milk, and it was still happening, could I eat like, what, eggs or something?
 
-A: Well, there's nothing that's going to help you lose weight [unintelligible]. [unintelligible] burns fat.
+A: Well, there's nothing that's going to help you lose weight like raw meat. Raw meat burns fat.
 
-Q: [unintelligible] burns fat?
+Q: Raw meat burns fat?
 
-A: That's why the [unintelligible] works. That's why the weight loss program works for almost everybody. 99% of everybody who's in the weight loss program loses weight because it's mostly meat.
+A: That's why the Zone Diet works. That's why the weight loss program works for almost everybody. 99% of everybody who's in the weight loss program loses weight because it's mostly meat.
 
 Q: You're drinking 8 ounces of milk at night for the nerve factor?
 
@@ -958,7 +958,7 @@ A: Yeah, well, unless you're talking about somebody who's 6'5", and they maybe n
 
 Q: But I mean, if you have all that milk, and then you have that colostrum too [unintelligible] right?
 
-A: Yeah, it's colostrum instead of milk at night.
+A: Yeah, you can use colostrum instead of milk at night.
 
 Q: Do you have a milk with your meat? Chicken or fish?
 
@@ -982,11 +982,11 @@ Q: Well, I've just been doing it, yeah, but on the weight loss, [unintelligible]
 
 A: So it's usually when you get to the point where your body doesn't have enough blood fats to handle the metal toxicity, so it starts discharging through the gum.
 
-Q: Oh, [unintelligible].
+Q: Oh, what do you do [unintelligible]?
 
 A: That's usually the time to stop the weight loss program. I said in the recipe book, if you start a heavy detox, break the weight loss, go on a normal diet until it ceases, and then restart the weight loss program. Sometimes when your body gets down to that level and starts having a strong reaction, that's about all you're going to be able to lose until the next time, so it's time to go back up again.
 
-Q: Would you [unintelligible].
+Q: Would you put cream on?
 
 A: It might help a little bit.
 
@@ -1032,11 +1032,11 @@ Q: The fats.
 
 Q: You don't like, you're on my, my... [unintelligible]
 
-A: Oh, yes, okay, he asked, he asked me a question, he's got, he has problems in his joints right now. Similar to arthritis. Arthritis, virus or bacterial, is a matter of breaking down the toxicity that's in the joints. Over the years, as those, as the cartilage rubs together, it breaks down, and you're not on a good diet... You've been on the diet at home about four years, three and a half?
+A: Oh, yes, okay, he asked, he asked me a question, he's got, he has problems in his joints right now. Similar to arthritis. Arthritis, virus or bacterial, is a matter of breaking down the toxicity that's in the joints. Over the years, as the cartilage rubs together, it breaks down, if you're not on a good diet... You've been on the diet how long? About four years, three and a half?
 
 Q: Three and a half years.
 
-A: So it's worn over the years prior to the diet, it's worn down, toxicity is in the born marrow.
+A: So it's worn all those years prior to the diet, it's worn down toxicity in the born marrow.
 
 Q: Excuse me, when people are talking, even in remote corners of the room, you can't hear what's on the tape recorder, so please don't. Thanks.
 
@@ -1046,7 +1046,7 @@ Q: I should [unintelligible].
 
 A: Eat more chicken. Fifty percent of the diet of meat consumption should be chicken. Helps those joints a lot better. Roger.
 
-Q: As far as having meat, [unintelligible]?
+Q: As far as having meat, ground, I guess the meat, like the whole deal about the New Zealand beef, they put through two or three times. Why does that make it not as good as going through once?
 
 A: Okay, like I said in the second book, when it goes through a high pressure grinder, it causes a homogenization of the fat, which that means is it takes the fat molecule and breaks it up. Then that molecule will absorb the protein. And guess what doesn't get digested properly? It doesn't move through the liver properly, doesn't get digested properly, so it mainly turns into fuel instead of nutrients to regenerate and cause cells to divide, which means you become more alive. You know, cells don't have little babies. They divide and they are a whole cell. Instantly they're mature, you know, as far as size goes. So they divide. That's how we multiply cells. When meat is ground under high pressure circumstances, it homogenizes the fat. The fat absorbs the homogenized fractionated fat molecules, absorbs the protein molecules, and doesn't release it. So the body can use it as fuel or for detoxification, but not for regenerating, not for helping cells divide and multiply.
 
@@ -1062,13 +1062,17 @@ Q: Or grind it yourself.
 
 A: Yeah.
 
-Q: They'll do that if you tell them.
+Q: They'll do that if you tell them?
 
 A: Yeah. They'll say, you know, you're going to lose a few ounces. Because something gets stuck in it.
 
-Q: [unintelligible]
+Q: They tell you call, and then they ask to call up in the morning when they're not busy.
 
-A: Yeah, do it. I just take mine, I'll get my steaks or whatever. If I want cheap meat, I'll get the top round, bottom round, or chuck, and cut it up and throw it in my food processor. And that grinds it up in seconds. Are there any ground meat in the store that are acceptable? No. Well, not acceptable for regenerating cells, for reproducing cells, but for detoxification and energy, ground is fine in the store. But it's a hell of a waste of protein.
+A: Yeah, do it. I just take mine, I'll get my steaks or whatever. If I want cheap meat, I'll get the top round, bottom round, or chuck, and cut it up and throw it in my food processor. And that grinds it up in seconds.
+
+Q: Are there any ground meat in the store that are acceptable?
+
+A: No. Well, not acceptable for regenerating cells, for reproducing cells, but for detoxification and energy, ground is fine in the store. But it's a hell of a waste of protein.
 
 Q: And on the chicken steak, all I get is just the breast, skinless and [unintellgible].
 
@@ -1124,9 +1128,9 @@ A: They don't make them for appliances. You turn on the [unintelligible] you're 
 
 Q: Yes. I have cream in my refrigerator for three or four weeks and I've never even opened it. It's obviously sour and [unintelligible].
 
-A: Just remember, any food that is predigested with bacteria will be easier to digest and better for us. A lot of your tribes will ferment, sour their dairy products before they eat them.
+A: Just remember, any food that is predigested with bacteria will be easier to digest and better for us. The Hunzas and a lot of your tribes will ferment, sour their dairy products before they eat them.
 
-Q: It gets really, really thick.
+Q: It gets really, really thick. Is that cheese?
 
 A: Like I said, if you want to make quick cream cheese, just put it in a jar with about this much air space in it. Put it in a low cupboard where there's no light hitting it. And then in about a week you'll have thick and the water will be at the bottom, the weight will be at the bottom, and you'll have thick cream cheese.
 
@@ -1216,7 +1220,7 @@ Q: Eggs and cream and little bit of honey.
 
 A: Adrenaline, testosterone, estrogen, all of those, they look for fat to utilize. In fact, those hormones are usually 40 to 60 percent fat anyway. But they look for fat to utilize. So you utilize it as fuel. If they don't find it, they go right into the myelin. The myelin is the sheath on the nervous system. Brain, meningi, throughout the whole system. It makes lesions and it pulls out the fat. And guess what? All the charges, the electromagnetic charges, loses buffering ability. So then, you know, children are like this, hyperactive. Because there's no buffer. It takes fat to buffer.
 
-Q: [unintelligible]
+Q: Making them raw milk all day [unintelligible], is that good?
 
 A: Raw milk, no. It needs cream and eggs and honey. It's all thick and rich.
 
@@ -1282,19 +1286,11 @@ Q: Which one did you get?
 
 A: Where did it go?
 
-Q: What do you get if you're not going to have a computer?
-
-A: Pardon?
-
 Q: How do you get it if you're not going to have a computer?
 
 A: Go to the library. Do you have a credit card?
 
 Q: Can you tell us the model you got so I can get one?
-
-A: Pardon?
-
-Q: Can you tell us the model so I can get one?
 
 A: It's called Tri-Field.
 
@@ -1346,7 +1342,7 @@ A: It was only... it went to 8 to 11, between 8 and 10 and a half. It would even
 
 Q: Which is good.
 
-A: Yeah, which is low compared to cars. Like I say, you know, a car with a... the more computer chips and everything it has in it, if they're using transistors instead of capacitors, there's a high EMF field emissions. What that does is with me, like in a computer, if I'm using it, it'll cause my bones to become very sore. That's really what carpal tunnel is. [unintelligible] that's a bull. It's an absolute bull. Secretaries have been typing without electrical for years, never got carpal tunnel. They had to hit those keys, it was a lot more work, never got carpal tunnel syndrome. The electrical field coming off of it. You know, that's why I say... 
+A: Yeah, which is low compared to cars. Like I say, you know, a car with a... the more computer chips and everything it has in it, if they're using transistors instead of capacitors, there's a high EMF field emissions. What that does is with me, like in a computer, if I'm using it, it'll cause my bones to become very sore. That's really what carpal tunnel is. The hand shit, that's a bull. It's an absolute bull. Secretaries have been typing without electrical for years, never got carpal tunnel. They had to hit those keys, it was a lot more work, never got carpal tunnel syndrome. The electrical field coming off of it. You know, that's why I say... 
 
 [audio cut]
 
@@ -1355,10 +1351,6 @@ A: ...down.
 Q: And how does it rate on the machine?
 
 A: I said 8 to 10 and a half.
-
-Q: What's the use of that?
-
-A: Pardon?
 
 Q: What is that used for?
 
@@ -1430,7 +1422,7 @@ Q: Do you have to use candles?
 
 A: That's worse. You get carbon monoxides. When you burn candles, you get carbon monoxide. I don't care whether it's beeswax or petroleum... If you have petroleum, of course, you've got the phthalates and the dioxins produced as well. So they're highly poisonous.
 
-Q: [unintelligible]
+Q: So what you have to do is just go like natural people who live in [unintelligible]?
 
 A: Or use full spectrum bulbs, lighting.
 
@@ -1440,19 +1432,21 @@ A: They're very expensive. Well, just look at it.
 
 Q: [unintelligible]
 
-A: Any candles, all candles produce at least carbon monoxides. If they're wax, petroleum, made from petroleum, or [unintelligible], they have all kinds of poison.
+A: Any candles, all candles produce at least carbon monoxides. If they're wax, petroleum, made from petroleum, or paraben, they have all kinds of poisons.
 
 Q: What if you have a fire, those fumes out again, is that better?
 
 A: If you have a fan directing the fumes out, you're still polluting the air.
 
-Q: [unintelligible]
+Q: So you shouldn't light the candles on Hanukkah or [unintelligible]?
 
-Q: [unintelligible]
+A: Just paint a little...
+
+Q: [unintelligible] bulbs [unintelligible] higher watt, because they usually...?
 
 A: Up to 150. Three ways.
 
-Q: [unintelligible]
+Q: [unintelligible] don't go into church?
 
 Q: Where do you get them?
 
@@ -1464,27 +1458,25 @@ A: Healthfood store.
 
 Q: You're talking about fluorine fluorescence, right?
 
-Q: [unintelligible]
+A: No, full spectrum. They do make some full spectrum fluorescents.
 
-A: [unintelligible]
-
-Q: You're talking about a regular incandescent bulb with fume in it.
+Q: You're talking about a regular incandescent bulb with film in it.
 
 A: Yeah.
 
 Q: And that doesn't have EMFs in it?
 
-A: No, I didn't say it doesn't have EMFs. I said it doesn't have just the ultraviolet ray. It can cause burns and irritation to the eyes and the skin. Full spectrum lets all of the rays, the full spectrum of light fields.
+A: No, I didn't say it doesn't have EMFs. I said it doesn't have just the ultraviolet ray. It can cause burns and irritation to the eyes and the skin. Full spectrum lets all of the rays, the full spectrum of light fields, it emits.
 
 Q: Not incandescent. Full spectrum.
 
-Q: I use full spectrum [unintelligible]
+Q: I use full spectrum screw-in fluorescent.
 
 Q: Fluorescent is no good, though, is it?
 
 A: As long as it's a full spectrum one.
 
-Q: [unintelligible]
+Q: [unintelligible] Is it possible that chronic fatigue can come from [unintelligible]?
 
 A: Oh, it's not possible. It is. Your TVs, your deep TVs, have three laser guns. And they emit radiation 25 feet. According to John Ott, the world's greatest expert on light.
 

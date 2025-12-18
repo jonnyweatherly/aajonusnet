@@ -1908,13 +1908,16 @@ The wood for the staves is to be 2 x 6 nominal wood.
 
 **Table for number staves and angle cuts:**
 
-Tub Diameter: Cutting angle: #of Staves: #Gallons
-3 Feet 8 degrees 30 minutes 23 262
-4 6 degrees 30 minutes 30 420
-5 5 degrees 18 minutes 37 615
-6 4 degrees 15 minutes 45 869
+| Tub Diameter | Cutting Angle         | # of Staves | # Gallons |
+|--------------|-----------------------|-------------|-----------|
+| 3 Feet       | 8 degrees 30 minutes   | 23          | 262       |
+| 4            | 6 degrees 30 minutes   | 30          | 420       |
+| 5            | 5 degrees 18 minutes   | 37          | 615       |
+| 6            | 4 degrees 15 minutes   | 45          | 869       |
+| 8            | 3 degrees 6 minutes    | 60          | 1117      |
 
-8 3 degrees 6 minutes 60 1117
+==
+
 The gallons measurement is based upon a 4 foot tall hot
 tub. If you wish a 5 foot tall hot tub, the angle is the
 same but the stave is longer of course and it will hold
@@ -1950,10 +1953,12 @@ bevel on both sides of the stave.
 You are making a custom sized trapezoid. It is
 this angle that forms the round tub by putting all
 the pieces (staves) together.
+
 Trapezoid:
+```
 
 ![[hottub_6.png]]
-
+```
 6. Using the table saw and dado blade, notch all the
 staves to accept the floor. Measure 3 inches up
 from the bottom of the stave and make the notch
@@ -1961,9 +1966,9 @@ there. The notch is to be 5/8th of an inch deep.
 Make the width of the notch 1/ 16 th to 1 / 8 th less
 than the width of the floorboard so it can fit
 tightly around the floor.
-
+```
 ![[hottub_7.png]]
-
+```
 7. Clean any burs and edges off the staves and keep
 them dry.
 
@@ -2007,9 +2012,9 @@ through the whole floor board, (but you should
 not be able to with that size wood and screw.)
 
 15. This will be the bottom of the floor.
-
+```
 ![[hottub_8.png]]
-
+```
 16. Draw the circle for the circumference cut. For a 6
 foot tub, measure 3 feet into the floor boards
 now assembled and find the center. Take a nail
@@ -2050,9 +2055,9 @@ have installed several staves, go back and pound
 them in completely. Make sure you pound the
 staves in sideways as you go along. Repeat these
 steps as you go along.
-
+```
 ![[hottub_9.png]]
-
+```
 21. The final stave is a custom cut as the angle is
 dictated by the width and it is bound to be
 different. Measure at the bottom both inner and

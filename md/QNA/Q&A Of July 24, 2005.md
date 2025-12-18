@@ -312,6 +312,8 @@ Q: Is it a hot bath at a certain temperature?
 
 A: It has to be... You have to keep the bath from 102 to 105 degrees for a minimum of 45 minutes. You want to work it up to an hour, and then over a year, work it up to an hour and a half. When you get out of the bath, you have to move like a snail, otherwise you'll pass out. So you have to get out of the bath, sit on the floor, dry slowly. And you get some long underwear. Winter silks, www.wintersilks.com, has a long underwear that's made of wool and silk. They're thin, but they keep you very warm. Put that on, clothes on top of that, take your [unintelligible]. I don't care if you look like an old person out there walking this slow, you just need to walk for 45 minutes. And then when you get back, take a nap. These baths should ideally be done between 1.30 and 4.30 in the afternoon. If you do them in the morning, your whole day's going to be imbalanced. If you do it at night, you may not sleep as well. Okay?
 
+[Note: No longer recommended because people were unable to do the walks. Also, there is benefit to staying inside with warm clothes and in a warm room sweating]
+
 Q: One question on the bath.
 
 A: Pardon?

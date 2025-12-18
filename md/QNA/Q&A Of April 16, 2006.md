@@ -86,11 +86,11 @@ Q: Case in point.
 
 A: Okay, we're going to do questions and answers now. We're going to start over here with Jim.
 
-Q: All right. An anonymous person has been trying to get on the diet as [unintelligible] the medical drug, so now he's hooked on a medical drug, trying to get off the medical drug, which is, you know, if it doesn't take about every three days or something like that, the whole thing just comes back, you know, extreme pain and all that.
+Q: All right. Anonymous person who's been trying to get on the diet as cushion like [unintelligible] the medical drug, so now he's hooked on a medical drug, trying to get off the medical drug, which is, you know, if he doesn't take it about every three days or something like that, the whole thing just comes back, you know, extreme pain and all that.
 
 A: What's the condition?
 
-Q: Gout. And I finally gave up, and I took the pill that they recommended, and I took it intensively, and a big swelling went down. I got the thing under control, except now I'm on a drug, basically, and I've got to smooth out, you know, I've got to get off the drug someday.
+Q: Gout. And I finally gave up, and I took the pill that they recommended, and I took it intensively, and the big swelling went down. I got the thing under control, except now I'm on a drug, basically, and I've got to smooth out, you know, I've got to get off the drug someday.
 
 A: So why didn't you call me?
 
@@ -111,10 +111,6 @@ Q: Throughout the day, not at once, right?
 A: No, no, throughout the day. And I always warm the milk. How do you warm it? I put it in a bowl of hot water and take it out of my hot tub. My hot tub's warm, I'll put it out there. And it works a lot better and it helps relax the body.
 
 Q: And how many eggs?
-
-A: Pardon?
-
-Q: How many eggs?
 
 A: If you're doing one every half an hour, you know, it could be up to 30, 40 a day. I've had up to 50 a day in my experiments.
 
@@ -624,10 +620,6 @@ A: It might crawl through your hip bone and cause cancer down there.
 
 Q: What about speaker phones?
 
-A: Pardon?
-
-Q: Speaker phones?
-
 A: Speaker phone would be fine too. You're not touching it.
 
 Q: What about the Bluetooth things that have batteries?
@@ -907,10 +899,6 @@ Q: [unintelligible]
 A: Yeah, all that stuff. Worst looking people I've ever seen. Oh, in person. Those pictures are touched up. If you see them in person, they look like Zuni dolls that have been dried up in the desert for 40 years.
 
 Q: Or well preserved.
-
-A: Pardon?
-
-Q: Well preserved.
 
 A: Yeah, that's what they look like.
 

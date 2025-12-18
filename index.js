@@ -144,32 +144,12 @@ function findMatches(text, searchValue, words, maxLength, link, exactMatches, pa
 }
 
 function highlightTerms(text, terms) {
-    let result = '';
-    let lastIndex = 0;
-    
-    while (lastIndex < text.length) {
-        let nearestMatch = null;
-        let nearestIndex = text.length;
+    const regex = new RegExp(`(${terms.map(escapeRegExp).join('|')})`, 'gi');
+    return text.replace(regex, '<span class="highlight">$1</span>');
+}
 
-        for (let term of terms) {
-            let index = text.indexOf(term, lastIndex);
-            if (index !== -1 && index < nearestIndex) {
-                nearestMatch = term;
-                nearestIndex = index;
-            }
-        }
-
-        if (nearestMatch) {
-            result += text.slice(lastIndex, nearestIndex);
-            result += '<span class="highlight">' + text.slice(nearestIndex, nearestIndex + nearestMatch.length) + '</span>';
-            lastIndex = nearestIndex + nearestMatch.length;
-        } else {
-            result += text.slice(lastIndex);
-            break;
-        }
-    }
-
-    return result;
+function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
 
