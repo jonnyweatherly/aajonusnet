@@ -638,7 +638,7 @@ P: Yeah.
 
 A: Very helpful.
 
-P: Boy, you know, Adjunas, one of my favorite things is raw milk with a couple of eggs and some honey and maybe a little dash of, oh, like cinnamon? Man, it's just like an eggnog. It is so, so luscious. It's like, wow.
+P: Boy, you know, Aajonus, one of my favorite things is raw milk with a couple of eggs and some honey and maybe a little dash of, oh, like cinnamon? Man, it's just like an eggnog. It is so, so luscious. It's like, wow.
 
 A: You can take some nutmeg, the whole nut, and grate a little bit in there too.
 

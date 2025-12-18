@@ -276,327 +276,469 @@ A: You're calming down your energy level. Which, your health or your energy leve
 
 Q: Health. So, how many days [unintelligible]?
 
-A: [unintelligible]
+A: It is a hormone.
+
+Q: Right.
+
+A: Okay, so any kind of hormone is going to stimulate you, whether it′s steroids or Viagra or any of it. It′s going to pump your system. That doesn′t mean it′s natural or healthy. It gives you more energy.
 
 Q: Every hormone?
 
 A: Pardon?
 
-Q: Every hormone?
+Q: Every hormone.
 
-A: No, supplemental. It stimulates hormones.
+Q: Well, Viagra is not a hormone.
 
-Q: [unintelligible]
+A: Supplemental. It stimulates hormones.
 
-A: [unintelligible] Nobody would buy them.
+Q: Every hormone will pump you up and give you energy? Every supplemental hormone will pump you up and give you energy?
+
+A: They don′t sell any that don′t pump you. Because nobody would buy them if they didn′t pump you.
 
 Q: Natural hormones, are they all energy producers?
 
-A: No, you have hormones that will cause sedation. All types of hormones, those that are marketed, unless you have hyperactivity, you have a variety of drugs, hormones, which help lower adrenaline levels.
+A: No, you have hormones that will cause sedation. All types of hormones, but those that are marketed... Unless you have hyperactive individuals, they do have a variety of drugs, hormonal drugs, which help people lower adrenaline levels.
 
-Q: The only reason I was thinking of this was I was diagnosed [unintelligible]. [unintelligible]
+Q: One of the reasons I was taking it was because of my thyroid. I realized that I′ve been doing this iodine test where you put the iodine around the stomach. Basically, it should stay there 24 hours to indicate that your thyroid is doing okay or you don′t need any iodine. But my body just sucks it up within 8, 6 hours, sometimes 10. I put it on at night, and by the time I get up, it′s gone. I understand that the thyroid and the adrenals are working together, and so I′m trying to kind of balance this out a little bit to kind of help out.
 
-A: That's the problem with chemists. They don't look at biochemistry as different from chemistry. They see it only as chemistry. The problem with iodine, when it is free radical, and it is not, in a bioenzymatically-bound, bionic situation, it is toxic. It is also radioactive. So, iodine is a dangerous supplement. And I find it when I read about people who have taken iodine supplements or have used [unintelligible] when they've had x-rays and scans done, it is causing internal, causes internal alterations, that often cause cancer and a lot of other problems in the body. So, the iodine that you put on your stomach absorbs, you don't know where it's going to go, what's going to happen. It's not a natural iodine. If you want a natural iodine, you [unintelligible]. It's concentrated, and you won't have any problems.
+A: That′s the problem with chemists. They don′t look at biochemistry as different from chemistry. They see it only as chemistry. The problem with iodine, when it is free radical and it is not in a bio-enzymatically bound ionic situation, it is caustic. It is also radioactive. So iodine is a dangerous supplement. When I find it in viruses of people who have taken iodine supplements or had used contrast when they had x-rays or scans done, it has caused internal ulcerations that often cause cancer or a lot of other problems and chronic fatigue. So the iodine that you put on your stomach and absorb, you don′t know where it is going to go and what it is going to damage. It is not a natural iodine. If you want a natural iodine, eat oysters or clams. You will get it concentrated and you won′t have any problem.
 
-Q: [unintelligible]
+Q: Clams?
 
-Q: How about [unintelligible]?
+Q: Mm-hmm.
 
-A: [unintelligible] is indigestible. The cellulose is more complex. Sea vegetation, sea cellulose, is more complex than the earth's cellulose. It's much more difficult to break down.
+A: Raw oysters. Raw oysters and clams.
 
-Q: [unintelligible]
+Q: How about kelp?
 
-A: Once it's dried, even if you eat it right out of the ocean, the algae is still indigestible and indigestible. You get very little value. Fish are [unintelligible]. There are apes and there are tribes which can do better than we do with a civilized society digesting vegetables. And they can digest more than we can. But it still may be only 40% instead of the 20% or 30% we do. So it's still not beneficial in the long run. Samburu, Fulani [unintelligible]. They just live on milk, blood and meat. Fulani is 90% on milk.
+A: Kelp is indigestible. It is a cellulose again. In fact, it is more complex. Sea vegetation, sea cellulose, is more complex than the earth cellulose. Much more difficult to break down.
 
-Q: What about salads?
+Q: So is nori part of the sea vegetables?
 
-A: Well, if you're a cooked fooder, yes. If you eat cooked food, if you have putrefactive matter, you can get a loss of enzymes and vitamins. So if you eat a salad for a cooked meal, it will provide some enzymes and vitamins. It will also provide fiber. It will push the stuff that's not moving through. On a raw diet, it will over-alkalize the intestines and the intestines. Also, it's very alkalinizing to the colon. Your E. coli is completely [unintelligible]. Even if it's slightly alkaline. The E. coli is responsible for synthesizing your B vitamins and amino acids to back up your insulin. So on a raw diet, 80% raw, salad is not something to have very often. If you're 100% raw, you can have one maybe once a year.
+A: Pardon?
 
-Q: So how about tomatoes?
+Q: Nori?
 
-A: Tomatoes are a fruit, not a vegetation. They're a fruit. They're a bland fruit. The only cellulose part of it, the complex cellulose, is the skin.
+A: All of it, yeah. Once it′s dry, even if you eat it right out of the ocean, you know, algae, it is still indigestible in the human digestive tract. You get very little value from it. Fish are made to eat it. Vegetarian animals, herbivores are made to eat vegetation. We are not. We don′t have that kind of system. There are apes and there are tribes which can do better than we do as a civilized society digesting vegetables. And they can digest more than we can, but it still may be only 40% instead of the 20% to 30% that we do. So it's still not beneficial in the long run for them to eat very much of it. And that's why they don't. The Samburu, Fulani, Maasai tribe, they hardly ever eat any vegetation. They just live on milk, blood, and meat. Fulani mainly live 90% on milk, raw milk. 
+
+Q: Who's Fulani?
+
+A: Fulani. F-U-L-A-N-I. Fulani tribe.
+
+Q: What about salad?
+
+A: That's what I'm saying. Well, if you're a cooked fooder, yes. If you eat cooked food, you have putrefactive matter. You have a loss of enzymes and vitamins. So if you eat a salad with a cooked meal, it'll provide some enzymes and vitamins. It'll also provide fiber to help push the stuff that's not moving through, because it's cooked. But on a raw diet, it will over-alkalize the intestines and you won't digest your meat and dairy and other animal products properly, eggs. It will interfere with proper digestion. Also, it gets very alkalinized in the colon. Your E. coli is completely incapacitated. Even if it's slightly alkaline there. And E. coli is responsible for synthesizing your B vitamins and amino acids that back up your lymph system, which is basically your immune system. So, on a raw diet that's 80% raw, salads are not something to have very often. If you're 100% raw, you shouldn't have one, but maybe once a year, once every six months.
+
+Q: What about tomatoes?
+
+A: Tomatoes are not a fruit, not a vegetation. They're a fruit. They're a bland fruit. The only cellulose part of it that's complex cellulose is the skin.
 
 Q: How about avocados?
 
-A: Avocados are a fruit. Anything that's a produce of a plant is a fruit. If it's a leaf stalk, a root, a vegetable.
+A: Avocados are a fruit. Anything that's a produce of a plant is a fruit. If it's a leaf stalk or root, it's the vegetable. That's what's so complex.
 
-Q: So tomatoes [unintelligible]?
+Q: So, with tomatoes, would it be best to skin them, if you want to avoid...
 
-A: No, they're so little skin.
+A: No, there's so little skin.
 
-Q: [unintelligible]
+Q: Okay.
 
-A: So you have to understand, any kind of hormone supplement is going to give you a boost. That's what we mean by healthy. And often it's not healthy. [unintelligible], they have it in coffee and other chocolate, other nerve stimulants.
+Q: The skin is really tough.
 
-Q: [unintelligible]
-
-A: You need to eat fat. If you're not eating fat, you're not going to build your own hormones. If you're eating them together, and you're eating enough, you're going to build your own hormones. And they won't be toxic. DHEA is toxic. It's forcing the nerve in. It causes cancer and progresses very rapidly.
+A: Yeah, it'll just pass through you. And it's acid, so you don't have to worry about it.
 
 Q: [unintelligible]
 
-A: Of course. If you want a thyroid, [unintelligible].
+A: Well, you have to understand, any kind of hormone supplement is going to give you a boost. That doesn't mean it's healthy.
 
-Q: So, but if the thyroid is not working?
+Q: Okay.
 
-A: There are all [unintelligible]. [unintelligible], I would say probably 50% of my clients have not functioning thyroid. But their parathyroids are very active. They're way overactive, and they're making up for the inactivity of the thyroid. The adrenal can overproduce, and the body can convert some of that adrenaline into any other hormone.  People just don't eat enough raw meats and raw fats together to make sure that the body can do its balancing. When people are shoving food in their insides all the time, all the heterocyclic amines, [unintelligible]. So when you're on this kind of a diet, you have to have a different thinking. You don't go out there for supplementation.
+A: And often it's not healthy. But people don't like, you know, they don't want... It's an alternative to having coffee and other chocolate, other nerve stimulants.
 
-Q: [unintelligible]
+Q: So it's something that I have to go through, like a detox, to kind of...
 
-A: If you're eating properly, you're [unintelligible]. Look at it this way. The stress in our environment is [unintelligible]. If you have lived outdoors, or you're living outdoors every day, you're out in the wind, you're out in the shade, the temperature changes, you're dealing with the sunlight, you're dealing with the coldness of the night, you're dealing with the wind chill factor, that's stress. You can imagine living in Alaska and going to [unintelligible], and do that, and they do it very easily as long as you're on raw food, which is predominantly fats. You can handle it all. If you're eating properly, your body can do a lot. It can handle the little stress there is in our environment. The worst thing we have in our environment is pollution. Air pollution, water pollution, all of that. You get beyond that, you eat well enough, and then you won't get that.
+A: Well, it depends on what you're eating. You need to eat lots of meat if you're fatigued. Meat and fat together. And if you're not eating meat and fat together, you're not going to build your own hormones. If you're eating them together, and you're eating enough, you're going to build your own hormones. And they won't be toxic. DHEA is toxic. It stores in the nerve endings. It can cause the cancer to progress very rapidly when it collects enough in the body. 
 
-Q: [unintelligible]
+Q: So the same is true for thyroid supplements.
 
-A: If you want a natural thyroid, take thyroid, eat a thyroid. That's the only natural thyroid you can get.
+A: Oh, the thyroid is one of the worst. Brain killers.
 
-Q: [unintelligible]
+Q: But if someone's thyroid is not working, then...
 
-A: Eat one, and how long do patients start feeling the disease again? [unintelligible] Low energy, which comes from the lowly active thyroid. Inactive thyroid. And then you just eat it again. When I first ate one, it lasted for about three months. The next time it lasted for six months. The next time it lasted for 12 months. The next time it lasted for 18 months. The next time it lasted for three years.
+A: All of your glands can supplement for other glands. You have parathyroids that I've seen... I would say probably 50% of my clients have malfunctioning thyroids. But their parathyroids are very active. They're way overactive, and they're making up for the inactivity of the thyroid. The adrenals can overproduce. And the body can convert some of that adrenaline into any other hormone... to supplement in the body. People just don't eat enough raw meat and raw fats together... to make sure that the body can do its balancing act. Most people are shoving cooked foods into themselves all the time. Well, the heterocyclic amines, the lipid peroxide, the acrylamides... all the poisons that go with it without the vitamins and enzymes... the body can't function properly. So when you're on this kind of a diet, you have to have a different thinking. You don't go out there for supplementation.
 
-Q: Where do you get that?
+Q: And that doesn't tap your adrenals, or over-stress them... to make up for low thyroid issues, right?
 
-A: There are sources. Check with Kathy.
+A: If you're eating properly and those are healthy glands, no. Look at it this way, the stress in our environment is very minimal. If you go out and live outdoors, where you're living outdoors every minute... you're out in the wind, you're having to change... the temperature changes, you're dealing with the sunlight, you're dealing with the coldness of the night, you're dealing with the wind chill factor, that's stressful. You can imagine living in Alaska and going to it. There are people that live in Alaska and do that. And they do it very easily as long as you're on these raw foods, which are predominantly fat and meat. And they can handle it all easily and be one of the happiest races in the world. If you're eating properly, your body can do a lot and handle the little stress there is in our environment. The worst thing we have in our environment is pollution. Air pollution, water pollution, all of that. If you can get beyond that and eat well enough, then it won't affect you as much.
 
-Q: I remember you mentioning that sometimes the thyroid might be malfunctioning because it's loaded the toxins and [unintelligible].
+Q: So you're saying if someone has a very low thyroid... not to take even natural thyroid?
 
-A: You're eating [unintelligible] thyroid. But you're eating fresh thyroid at this time. If you're eating high thyroid, my advice is [unintelligible].
+A: Absolutely. If you want a natural thyroid, take thyroid. Eat a thyroid gland. That's the only natural thyroid you're going to get.
 
-Q: [unintelligible]
+Q: Is that dangerous? How do you monitor to not get too much that way?
+
+A: Well, you just eat one, and how long it takes you to start feeling fatigued again, or lower energy, which usually comes with a low inactive or lowly active thyroid, or inactive thyroid, and then just eat it again. When I first ate one, it lasted for about three months, next time it lasted for six months, the next time it lasted for 12 months, the next time it lasted for 18 months, the next time it lasted for three years.
+
+Q: Where do you get it at?
+
+A: There are sources.
+
+Q: There are sources? Okay.
+
+A: Check with Kathy if you want sources.
+
+Q: With regard to that, I remember you mentioning that sometimes the thyroid might be malfunctioning because it's loaded with toxins, and so an individual might want to take a certain amount of time to clear it before they start eating glands to help rebuild it?
+
+A: No. If you're eating high glands, you might want to wait until you've strengthened your cells a little bit. But if you're eating fresh thyroid, that's fine. If you're eating high thyroid, you might want to take some time to build your system before you force a detoxification.
+
+Q: Like a year would be safe?
+
+A: Yeah, a year's usually safe for anybody.
 
 Q: How would you know that your thyroid is malfunctioning?
 
-A: Well, I can tell by looking at the palm. But if you have enough energy for your day, [unintelligible]. The gland is functioning well enough.
+A: Well, I can tell by looking at the palms. But if you have enough energy in your day, and you can walk anywhere you need to get, and you're okay, then your glands are functioning well enough.
 
-Q: [unintelligible]
+Q: What about attention?
 
-A: That has to do with protein. If you had onyx therapy, that means your body is using carbohydrates as fuel, and you've got some advanced glycation end products like [unintelligible], and you're [unintelligible].When you make a... When you use Pyruvate, when you use a glucagon, it has your nerve fuel instead of carbohydrates, you only have a 7% to 8% byproduct of advanced glycation end products that you're storing. But with carbohydrates, you have a 70% to 90% byproduct of advanced glycation end products. The whole brain gets sticky. If you start your day off, you know, after the juice, an hour later, if you start your day off with a meat and fat, you're going to be clearly... You're going to save your fruit for the afternoon.
+A: That has to do with protein deficiency. If you're not clear thinking, then you should not be using carbohydrate as fuel, and you've got too many advanced glycation end products, or acrylamides if you're eating cooked, floating in the blood, causing stickiness in the nervous system. When you use pyruvate with the use of glucagon as your nerve fuel instead of carbohydrate, you only have a 7-8% by-product of advanced glycation end products. That isn't sticky. But with carbohydrates, you have a 70-90% by-product of advanced glycation end products. So the whole brain gets sticky, and that's what causes the attention deficit disorders. But if you start your day off, you know, after a juice, an hour later, you start your day off with the meat and fat, you're going to be clear thinking. Save your fruit for the afternoon.
 
-Q: If you wait until lunchtime, noon, [unintelligible].
+Q: If you wait until lunchtime or noon to eat the meat, it's too late.
 
-A: It should be within an hour and a half of getting out of bed. But it's even better if it's not an hour and a half. Get up and have the juice immediately, and 45 minutes to an hour later, have your meat meal, and you're going to function and think a lot better. You're going to have more clarity and more focus.
+A: Too late. Too late. Too late. It should be within an hour and a half of getting out of bed. But it's even better if it's not an hour and a half. If you get up and have a juice immediately, and 45 minutes to an hour later have your meat meal, you're going to function and think a lot better. You're going to have more clarity and more focus.
 
 Q: Even in the middle of the afternoon.
 
-A: Even in the middle of the afternoon. Because it burns slowly, it's not a carb. Okay, next question.
+A: Even in the middle of the afternoon. Because it burns slowly. It isn't like carbs. It doesn't burn up in a massive combustion. Okay, next question.
 
-Q: I know one of my [unintelligible]?
+Q: Well, one of my questions that you already answered was about the body being too acid that cancer grows in an acid phase. What about a hiatal hernia with acid backing up in this throat? What can you do to stop that? 
 
-A: Well, I've mentioned that in the book, but the [unintelligible]. One of the places where the stomach secretes hydrochloric acid is the stomach wall. It's also absorbed into it. And when it does that, it gets into the tissues. So you're eating a toxic diet of cooked food with all the acrylamide and the lipid peroxides. That's going to create an acidic condition and get into your tissues. You're going to have to have [unintelligible] coating the membrane of the elementary canal and it's going to absorb into the tissues. And when it does, right into the [unintelligible]. Because it will dump acid right into the esophagus. And it will cause a burning. And you have to take [unintelligible].
+A: Well, I mentioned that in the book. Hiatal just means that you have a lot of toxic... One of the places where the stomach secretes its hydrochloric acid is through the stomach walls. And it can also absorb into it. And when it does that, it gets into the tissues. If you're eating a toxic diet of cooked foods with all the acrylamides and the lipid peroxides, that's going to create an acidic condition that it gets into your tissues because you don't have enough mucus coating the mucus membranes of the alimentary canal. It's going to absorb into those tissues. And when it does right into the hiatal, which is the membrane from the stomach and lungs, it's going to cause heart burning and dumping because it will dump its acids right into the esophagus. And it will cause burning. And you have to detox. 
 
-Q: I've never had burning, but I've had pneumonia. I was down for the last night with pneumonia. [unintelligible]
+Q: I've never had burning, but I had pneumonia. And after the last time I had pneumonia, they said I ripped the tissue, coughing so bad. And I've had this reflux. I've never had a burn, but I've had a stupid cough for years that has caused it.
 
-A: Do you get all that? It's the tissue. [unintelligible] burning is like an ulcer.
+A: You've got a lot of acidic tissue in here. Acidic compounds in the tissue. And it causes ulcerations that don't heal. Basically, that's what a hernia is. A hernia is like an ulcer or a psoriasis that doesn't heal.
 
-Q: [unintelligible]
+Q: This diet I've been on for six months hasn't stopped it.
 
-A: [unintelligible] Do you have any other questions?
+A: Well, it takes a certain kind of eating and a certain program to focus on that. And it depends upon your system. I can't tell you because I don't know your system specifically. Okay, Louis, do you have a question?
 
-Q: Yes. Recently, I detoxed with a severe cold. And I suspect maybe because weeks earlier, I had been exposed to a lot of toxic fumes. But this was the first time I had detoxed with a cold in, gosh, three or four years, I think. Anyway, it was quite severe, and I have followed the recipe book for what to take when you have a cold. And the fruit shakes and the [unintelligible] and all that. But my question is, why did I feel so severe? The most severe headaches I've had in a long time, the first night. And I just had to go through it. And by taking these detoxing formulas, does that make it more severe or less severe? Just what exactly was the role of the detoxing formulas in my case?
+Q: Yes, recently I detoxed with a severe cold. And I suspect maybe because weeks earlier I'd been exposed to a lot of toxic fumes. But this was the first time I had detoxed with a cold in, gosh, three or four years, I think. Anyway, it was quite severe, and I followed the recipe book for what to take when you have cold or flu symptoms. And, you know, the fruit shakes and the pain formula and all that. But my question is, why did I feel so severe? You know, the most severe headaches I've had in a long time, the first night, and I just had to go through it. And by taking these detoxing formulas, did that make it more severe or less severe? Just what exactly, what was exactly the role of the detoxing formulas in my case?
 
-A: [unintelligible] Whenever you have a detoxification like a cold or flu, you're in the end of the detoxification. Your body may have been breaking down for months or years. You have a viral or bacterial [unintelligible] or the virus dissolving. It collects from the lymph and other tissue. And when the body's ready to dump it out the mucous membranes, that's when you have [unintelligible].  Every three days, I go through, my eyes just start creaming, literally, they get cream out of my eyes. And the nose starts running. And it may last a couple of hours and go away for three or four hours and come back again. But it happens only one day every three days. The way the body expresses it, you get rid of it. But when you're going through a cold or a flu, that begins a very long cycle of detoxification. So that's the healing crisis where you're getting rid of the bacteria, you're lowering the bacteria level, you're no longer manufacturing the viral level of the solvents, the dissolved tissue. Viruses are not alive, they don't self-replicate. It's like saying, Tide soap, because it's in everybody's home, self-replicate. We have industries in the body, sub-laboratories or particle laboratories, that produce these soaps called viruses. Viruses, dissolved cells and tissue, net bacteria and parasites cannot even get in the building to detoxify. The body builds viruses in the soap. This is all medical professionals who love to scare you with viruses.
+A: Well, you've asked the questions and I'm going to have to give compound answers. Whenever you have a detoxification like a cold or a flu, it is the end of a detoxification. Your body may have been breaking down tissue for months, even years. Either you had a viral or bacterial or parasitical in there eating up the decaying tissue or the virus dissolving it. It collects in the lymph and other tissues. Then when the body is ready to dump it out the mucous membranes, that's when you have the mucous flow. Like after having the novocaine here. Every three days, I'd go through my eyes and start creaming. Literally get a cream out of my eyes. And the nose starts running. It may last a couple of hours and then go away for three or four hours and come back again. But it happens only one day every three days. It's the way the body expresses it to get rid of it. But when you're going through a cold or a flu, that is the end of a very long cycle of detoxification. So that's the healing crisis where you're getting rid of the bacteria. You're lowering the bacteria levels. You're no longer manufacturing the viral levels for the solvents to dissolve tissue. Viruses are not alive. They don't self-replicate. It's like saying Tide, because it's in everybody's home, self-replicates. We have industries in the body, sub-laboratories, sub-particle laboratories that produce these soaps called virus. dissolves cells and tissue that bacteria and parasites cannot eat because it would kill them. It's too toxic. So the body builds viruses, which are soaps, to dissolve it. Medical professionals love to scare you with viruses. They're going to get you. They're contagious. It's bullshit. Is Tide contagious?
 
-Q: [unintelligible]
+Q: Tide, the soap.
 
-A: Parasites and bacteria can eat organic tissue, break it down, even in the toxic, and eliminate it from the system. If it is too toxic with our industrial pollutants, the body has to use solvents, like viruses, to dissolve these compounds. Those wastes are highly toxic. You take a vulture or a crow, and they'll eat the whole animal, and they'll put a turd out to feed the next day. They reduce this huge animal to a turd. And that's the toxicity that prevents a lot of pollution, air pollution, gas pollution, in our atmosphere. That's what bacteria and parasites do. When the body uses viruses, it isn't the same thing at all. It is not consuming. It is dissolving. It is a chemical that dissolves. And you have all of this fluid that will come around and dilute it. So you have this vast amount of waste processing. Bacteria and parasites do that, and they reduce the product so it can be eliminated. A lot can be eliminated in a short period of time. When your body uses viruses, you have all this accumulation of waste product that is diluted and everywhere. It's very difficult. The more industrial we get, the more polluters we get, the worse it gets for us. And the more of us that have to use viruses rather than bacteria and healthy parasites. And over in Thailand, people [unintelligible]. The medical profession has got them thinking. I put aloe vera, cut fresh aloe vera, and put it on my lip, and here, the doctors went nuts because it wasn't [unintelligible]. And they've got all of these people thinking that if you come in contact with somebody and about every three or four hours you have to take a shower. Some of these people take four to eight showers a day, and they use soap after soap after soap. [unintelligible] storing bacteria. The only thing they can use to dissolve anything in their system are viruses. [unintelligible] So they've got all the medical profession has these small herbal companies that are doing this. And most everybody here in this country does. Everybody's afraid of it.
+Q: [unintelligible] the viruses, they have a certain like job, to deal with parasites or something, what did you say?
 
-Q: [unintelligible]
+A: No. Parasites and bacteria can eat organic tissue, break it down, even if it's toxic, and eliminate it from the system. If it is too toxic with our industrial pollutants, the body has to use solvents, like virus, to dissolve these compounds. Those wastes are highly toxic. You take a vulture or a crow, and they'll eat this whole animal, and they'll put a turd out this big the next day. They've reduced this huge animal to a turd. And that's the toxicity that prevents a lot of pollution, air pollution, gas pollution, in our atmosphere. That's what bacteria and parasites do. When the body uses virus, it isn't the same thing at all. It does not consume it. It is a solvent. It is a soap. It is a chemical that dissolves. And you have all of this fluid that will come around and dilute it, so you have this vast amount of waste product. Bacteria and parasites are better. They reduce the product so it can be eliminated. A lot can be eliminated in a short period of time. When your body uses virus, you have all this accumulation of waste product that is diluted and everywhere. Very difficult. The more industrial we get, the more polluted we get, the worse it gets for us. And the more we have to use viruses rather than bacteria and the help of parasites. And you know, over in Thailand, these people take... I mean, the medical profession has got them thinking. I put aloe vera, cut some fresh aloe vera and put it on my lip and here the doctors went nuts because it wasn't sterile. And they've got all of these people thinking that if you come in contact with somebody and about every three or four hours you have to take a shower. Some of these people take four to eight showers a day and they use soap after soap after soap. That soap gets into the body and keeps destroying bacteria. So the only thing they can use to dissolve anything in their system are viruses, which is a lot more toxic. If you use bacteria and parasites, it's easier. So they've got all, the medical profession has these small third world countries completely brainwashed. And most everybody here in this country too. Everybody's afraid of everybody. Look at Hulda Clark running around with gloves. You don't touch anybody.
 
-A: [unintelligible] you take anti-parasitical materials, drugs, to get rid of your parasites. Best friends.
+Q: Who's that?
 
-Q: [unintelligible]
+A: Hulda Clark, Dr. Clark. You know, and you take anti-parasitical materials, you know, drugs to get rid of your parasites. Best friends, they want to kill your friends.
+
+Q: The flu shots are out now.
+
+A: Pardon?
+
+Q: The flu shots are out. And they say people are being killed from the flu. But that's not the [unintelligible].
+
+Q: Some people are dying from the flu shots.
+
+A: Yeah, they're dying from the flu shots.
+
+Q: You're saying that viruses and parasites and all these other things, they're actually, you know...
 
 A: They're beneficial.
 
-Q: [unintelligible]
+Q: We don't contact them through the air or objects that we touch, we just have them in us?
 
-A: Well, if you're a [unintelligible].
+A: Well, if you're swapping slobber, you know, I mean, if you're kissing somebody, you know, rubbing tugs around you, it's exchange of bacteria.
 
-Q: [unintelligible]
+Q: But otherwise, I mean, disease, I mean, if somebody gets sick and... My son was just sick, and he had the flu. And I didn't kiss him on the lips, but I kissed him. Even when he was sick, I didn't catch it.
 
-A: Well, you can't catch it. Like I said, you need to read my book. It's like bears come out of hibernation. You have bacteria and parasites that come out of hibernation in your body when the asthma is cleared and the [unintelligible]. Correct. So that's why it seems slightly pandemic. People get it all at the same time, the same kind of bacteria. Well, that's because they're coming out of hibernation. And you have a seven-year cycle. You've got about somewhere around 60 varieties of bacteria that feed on different parts of your body. And only certain ones can come out at certain times in the seven-year cycle. And people get the same ones. Well, they get the same ones because that's when they come out of hibernation, not because they're contagious. But the medical profession suggests you to run to them and take their medications and everything. Because you're in fear. Because you don't understand. If diseases were really contagious, everybody would be sick.
+A: Well, you can't catch it. Like I said, you didn't read my book?
 
-Q: [unintelligible]
+Q: Sort of.
 
-A: [unintelligible] Why doesn't this American go down and, you know, the British go down and Canadians go down to these places and introduce [unintelligible]? They have so much trouble. And it isn't the diarrhea dominating that's the problem. When they go for the medications, that's the cause of their death. It causes them to go out and kill them. So it's the treatment or the [unintelligible]. So the meat doesn't [unintelligible].
+[laughter]
 
-Q: Regarding my question. [unintelligible]
+A: Well, I said in there, contagious is over, you know. It's like bears come out of hibernation. You have bacteria and parasites that come out of hibernation in your body when the atmosphere and time is right.
 
-A: To produce mucus. Those foods, as I suggest, eggs and milk, produce a lot of mucus and can carry the poisons out.
+Q: So they're in your body?
 
-Q: They work that way. They certainly produce a lot of mucus.
+A: Correct. So that's why it seems slightly pandemic. People get it all at the same time, the same kind of bacteria. Well, that's because they're coming out of hibernation. And you have a seven-year cycle. You've got about, somewhere around 60 varieties of bacteria that feed on different parts of your body and only certain ones can come out at certain times in this seven-year cycle. And people get the same ones. Well, they get the same ones because that's when they come out of hibernation. Not because they're contagious, but the medical profession gets you to run to them and take their medications and everything, the pharmaceutical houses and medication, because you're in fear, because you don't understand. It's got nothing to do with contagious. If disease were really contagious, everybody would be sick.
 
-A: That's what we're after. Otherwise, they stay in the tissue.
+Q: Are you saying parasites are good? What about something like amoeba that can kill you? I mean, it's a dangerous parasite. Amoebic dysentery.
 
-Q: [unintelligible]
+A: If amoebic dysentery were dangerous, everybody in a third world country would be dead. Why is it that just Americans go down, and British go down, and Canadians go down to these places, and introduce the amoeba into the system, they have so much trouble. And it isn't the diarrhea and vomiting that's the problem. When they go for the medication, that's what causes the death. It causes anaphylactic shock. So it's the treatment for the dysentery. But those amoebas go in there and help you get rid of damaged tissue.
 
-A: [unintelligible]
+Q: Regarding my question, if I eliminated a lot of mucus this time, and went through...
 
-Q: [unintelligible]
+A: To produce mucus, those foods that I suggest, eggs and milk, help produce a lot of mucus, so you can carry those poisons out with the mucus.
 
-A: That's usually some very hardened tissue in the body that's eliminated. That's heavily mineral-balanced. Concentrated.
+Q: It worked then, I certainly had a lot of mucus.
 
-Q: Would that apply to the harder yellow and green mucus at the end? At the end of a cycle of a cold, that's when I always notice it coming out of the lungs.
+A: Good. But that's what we're after. Otherwise, they stay in the tissues.
 
-A: Yeah. Mineral-balanced.
+Q: So the foods, if I felt a lot of severity, it's the foods that I'm building up to, to go through this cycle of elimination.
 
-Q: On the diet, usually the cold people get every three, four years.
+A: Right. Otherwise, they'll just store in your lymph system or connective tissue. Not good. Theresa, you?
 
-A: Well, I like people to get it several a year. That's why if you do the weight gain and weight loss, you're basically forcing it.
+Q: Speaking about mucus.
 
-Q: It has a compound.
+A: Yeah.
 
-Q: So if I have more colds, once I'm on a weight loss and weight gain, I should consider myself grateful.
+Q: Kind of gross to other people. The mucus will be so chunky and green and so solid. What's that?
+
+A: You're eating too much of that chunky peanut butter.
+
+Q: I mean, it's not mucusy like what I'm used to. It's like this object, almost.
+
+A: I know.
+
+Q: Is that a sign of good, healthy [unintelligible]?
+
+A: That's usually some very hardened tissue that the body is eliminating that's heavily mineral-bound, concentrated so it dehydrates quickly.
+
+Q: Would that apply to the harder yellow and green mucus at the end of a cycle of a cold? That's when I always notice it coming out of my lungs.
+
+A: Yeah, it's more mineral-bound.
+
+Q: Something about hard... Mineral-bound, it's linked to some harder what?
+
+A: Substances. Whenever you have harder substances, you have more concentrated minerals. So that's the bones have the most concentrated minerals in the body, the bones. The harder the tissue, the more mineral concentration. Same with mucus.
+
+Q: Got it.
+
+Q: On the diet, usually colds people will get every three, four years, generally.
+
+A: Well, I like people to get several a year. That's why if you do the weight gain and weight loss, you're basically forcing it.
+
+Q: But it hasn't come, though.
+
+Q: So if I have more colds, once I'm on the weight loss and weight gain, I should consider myself grateful.
 
 A: Absolutely.
 
 Q: Even six, seven weeks of mucus flowing.
 
-A: No wonder. How many years did you crap food? Toxic food.
+A: Oh, wonderful. How many years did you eat crap food? Toxic food.
 
-Q: At least 40 years.
+Q: At least forty years.
 
-Q: 40?
+Q: Forty.
 
-A: How much mucus do you think you're going to have to do to get rid of all that? Okay. Next.
+A: How much mucus you think you're going to have to get rid of all that.
 
-Q: I was going to ask a question about [unintelligible]. [unintelligible] Something like that. Maybe I should give you a real response. We're in a weak condition. [unintelligible]
+Q: Ask Einstein.
 
-A: That's exactly it. There's no statistics that any vaccine works. Not one. There's no laboratory test to prove that any vaccine works. Any at all. It is all theoretical.
+A: Okay, next.
+
+Q: I have been getting a lot of pressure from the family, get your flu shot, you're in weakened condition, [unintelligible], instead of them just thinking I'm stubborn, say no, I'm not going to do it. The explanation you give, we understand, they don't. I don't know how to do that. I said when they said, you're in a weakened condition, you need that flu shot, and I said, I'm in a weakened condition, why would I want to put that in me?
+
+Q: Yeah, good.
+
+Q: Is that it? Is that what [unintelligible]?
+
+A: That's exactly it.
+
+Q: Why?
+
+A: There's no statistics that any vaccine works.
+
+Q: That's right.
+
+A: Not one.
+
+Q: Okay.
+
+A: There's no laboratory tests that prove that any vaccine works.
+
+Q: Right.
+
+A: Any. At all. It is all theoretical.
 
 Q: And where would that research information be found?
 
-A: It's all over the internet. All over the internet. If you go to the vaccine websites that are not medically produced, you'll find a lot of information.
+A: It's all over the internet.
 
-Q: Do they have mercury?
+Q: It's all over the internet?
 
-A: Mostly.
+A: Yeah. All over the internet. If you put in vaccines and you go to any of those vaccine websites that are not medically produced, you'll find a lot of information.
 
-Q: Mostly.
+Q: Don't they have mercury in some of the vaccine doses?
 
-A: Liquid thimerosal. [unintelligible]
+A: Most of them. Most of them.
+
+Q: Yeah. It affects nerves. Mercury.
+
+A: Yep. Liquid thimerosal.
+
+Q: [unintelligible]
 
 Q: Someone's phone.
 
-Q: I'll call.
+Q: Shut off your phone.
 
-A: Okay.
+A: Okay. Yes.
 
-Q: I want to tell a story. I've been on a diet for six months. And I was like, I couldn't go two hours without eating. [unintelligible] I was mad. I can go all day and it's not good. But when I can't get food, it's a wonderful time. [unintelligible] And now it's like a new life. I think it's protein.
+Q: I want to tell everyone because I am so thrilled. I've been on the diet six months and I don't have hypoglycemia anymore. I couldn't go two hours without eating. I would shake. I'd get so weak. I mean, I was a mess. And I can go all day, which is not good, but when I can't get food, it's wonderful not to have that problem anymore.
 
-A: It's protein and fats together.
+Q: With hypoglycemia.
 
-Q: And how many months were you on the diet before you had your surgery? Was it one month? Was it only one month? Was it one month before you had surgery? And your tumor was way smaller [unintelligible]?
+Q: And it just dropped all the time. All the time. And now, it's like a new life. And I think it's the proteins and the minerals.
 
-Q: Oh, no, that was six months because I had the chemo. [unintelligible]
+A: It's protein and the fats together.
 
-A: You mean after I gave you a specific diet for you to [unintelligible]?
+Q: And how many months were you on the diet before you had your surgery on your breast?
 
-Q: Yes, definitely. I just thought, in the past, I just thought you told me that when you finally got your surgery, the doctors were amazed that instead of the tumor being like a grapefruit, it was being able to be this small- 
+Q: Was it only one month you ate the raw diet before you had surgery? And your tumor was way smaller?
 
-Q: Seven centimeters. And once they took it out, I was like, [unintelligible].
+Q: Oh no, that was six months because I had the chemo, which left me totally depleted. But once I started on the diet even more, because I was eating the raw meat. Oh God.
 
-Q: That's like nothing. Why did you do surgery? [unintelligible]
+A: You mean after I gave you a specific diet for you and your energy?
 
-A: No, you were shrinking. And by the time you got to surgery, it had shrunk so much.
+Q: Yes, definitely the meat was for that.
 
-Q: They didn't know.
+Q: Oh, I just thought...
 
-A: The biopsy is taking the tube, throwing it into your tissue, taking the whole section of tissue out. So all, no matter if it's nerve, if it's layers of tissue, all of it starts bleeding into each other. So you're taking a clump of tissue, as deep as you do that biopsy into that tissue, all of that stuff drains into each other. And they don't belong into each other.
+Q: And the fat.
+
+Q: I just thought you told me that when you finally got your surgery, the doctors were amazed that instead of the tumor being the size of a grapefruit, it was only a little thing.
+
+Q: It was the size of seven centimeters. And once they took it out and dissected it, it was one.
+
+Q: That's like nothing.
+
+Q: I'm saying, why did you do surgery? It's only one, couldn't you find that out in the biopsy?
+
+A: No, you were shrinking. And by the time they got to surgery, it had shrunk so much. They didn't know it would shrink.
+
+Q: Plus biopsies are bad. They spread cancer.
+
+A: Well, a biopsy is taking a tube, throwing it into your tissue, taking a whole section of tissue out. So all of it, no matter if it's nerve, if it's layers of tissue, all of it starts bleeding into each other. So you've taken up quite a bit of tissue. As deep as you do that biopsy into that tissue, all of that stuff drains into each other, and they don't belong into each other.
 
 Q: I thought they only did that to trees.
 
-Q: [laughter]
+[laughter]
 
-A: And wells.
+A: Yeah, and wells. It's the earth and the wells.
 
-Q: Yeah, wells.
-
-Q: Was it a tumor or a cancer?
+Q: Is a tumor and a cancer the same thing?
 
 A: Pardon?
 
-Q: Tumor or a cancer?
+Q: Is a tumor and a cancer the same thing?
 
-A: Well, you could have basal cell cancer, just not tumor.
+A: Well, you could have basal cell cancer that's not tumorous.
 
-Q: Tumor is a collection of cells.
+Q: A tumor is just a collection of cells.
 
-A: Dead cells. Squamous cell or basal cell. The basal cell is more acidic and dissolves itself. Squamous cell develops. It's larger. Squamous cells are usually, it's like a scaly growth that keeps growing. Your basal cell cancer starts melting as it grows. It just keeps melting itself.
+A: Dead cells. Squamous cell or basal cell. The basal cell is more acidic and dissolves itself. Squamous cell develops. It gets larger.
 
-Q: Can you have internal?
+Q: Cancer is squamous cells?
 
-A: Oh, yes, you can. A lot of bone cancer. My cancer is dissolving the bone.
+A: Squamous cells are usually... It's like a scaly growth that keeps growing. Your basal cell cancer starts melting as it grows. It just keeps melting itself.
 
-Q: So why do people die from cancer? If it's kind of a detox, which you said earlier.
+Q: Can you have it internal?
 
-A: Because they don't need eat the foods. It just gets more toxic. They don't have the nutrients to clean it. Just like you try to clean, let's say you're going to raze this building and rebuild it, but you have no materials to break it down right, and all your workers come in and get toxic. They have no masks. They have nothing to start carrying everything down. So they die and can't even get off the property. So you keep bringing more people in to do the work, and there are more bodies lying. It just keeps getting worse. You don't have the proper material nor the vehicles to transport the decaying matter out of the system. On this diet, it doesn't change anything. People think that this diet causes more detoxification. It does not. There's 12 to 18 percent less detoxification that occurs in people on the diet than those off the diet. However, the thing that's different between this diet and normal eating, the SAD diet, the Standard American Diet, is that you heal properly on this diet after you detoxify properly. So you get younger and healthier every day instead of getting more toxic every day.
+A: Oh yes you can. A lot of bone cancer is that way. My cancer was that way. Dissolving the bone.
 
-Q: Each person is different as far as the time it takes to heal.
+Q: So why do people die from cancer then? If it's kind of a detox.
 
-A: Absolutely. Well, no, I find that they go through different kinds of detoxes, and their body will take care of different parts of the body differently than other people. But overall, it still takes 40 years for everyone, if they're 100 percent.
+A: Because they don't eat the proper foods. And it just gets more toxic and more toxic. They don't have the nutrients to clean. It's like you try to clean... Let's say you're going to raze this building and rebuild it. But you have no materials to break it down right. And all your workers come in and get toxic. They have no masks. They have nothing. They start tearing everything down. So they die and can't even get off the property. So you keep bringing more people in to do the work. And there are more bodies lying around. It just keeps getting worse. And you don't have the proper material. Nor the vehicles to transport the decaying matter out of the system. On this diet, it doesn't change anything. People think that this diet causes more detoxification. It does not. There's 12% to 18% less detoxification that occurs in people on the diet than are off the diet. However, the thing that's different between this diet and normal eating, the SAD diet, standard American diet, is that you heal properly on this diet after you detoxify properly. So you get younger and healthier every day instead of getting more toxic every day.
+
+Q: Each person is different as far as the time it takes them.
+
+A: Absolutely... Well, no, I've found that they go through different kinds of detoxes, and their body will take care of different parts of the body differently than other people. But overall, it still takes 40 years for everybody, if they're 100%. 
 
 Q: Talk about doing coffee enemas.
 
 A: That's not healthy.
 
-Q: Liver flushes?
+Q: I didn't think so. And liver flushes.
 
-A: Those aren't healthy. That's nothing to do with primal diet. Those are aggressive ways of trying, like beating a child to get him to be [unintelligible]. That's not healthy. Do you have a question?
+A: Those aren't healthy. That's nothing to do with the primal diet. Those are aggressive ways of trying... It's like beating a child to get him to be behaved. Not a way to do it. Do you have a question?
 
-Q: Yes. I've got a question about, a concern about the possible radiation emitted from the computer monitors on the backs of the seats on the airplane.
+Q: Me?
 
-Q: The computer monitors?
+Q: Me?
 
-Q: The computer monitors on the backs of the seats.
+A: Yes.
 
-A: There is an LCD monitor.
+Q: I've got a question about... A concern about the possible radiation emitted from... The computer monitors on the backs of every seat on the airplane.
 
-Q: Oh, I see.
+Q: The computer what?
 
-Q: Those are the TVs.
+Q: The computer monitors on the backs of every seat. On the back.
 
-Q: Oh, the television you're talking about? LCD?
+A: They're LCD.
+
+Q: So those are okay, you think?
+
+A: Not a problem. You take a meter right up to them, they're not a problem.
+
+Q: Oh, for the television you're talking about? LCD?
 
 Q: Yeah, the monitors, yeah.
 
-A: In the airplane.
+A: In airplanes.
 
-Q: Oh, all the airplanes.
+Q: On airplanes. So that's all right, eh?
 
-A: They're all LCD screens. The radiation fallout on the LCD screen is about an inch.
+A: They're all LCD screens.
 
-Q: So they're in the seat in the back of the headrest?
+Q: And keep the head a couple inches away?
 
-A: An inch and a half. They're four inches, six inches thick.
+A: No, the radiation fallout on the LCD screen is about an inch and a half.
 
-Q: [unintelligible]
+Q: But they're in the back of your headrest for the person behind you.
 
-A: There you go.
+A: Inch and a half.
 
-Q: Sure. Regarding dehydrated food, so if, you mentioned that [unintelligible], it could be dehydrated. So it doesn't matter if it's been dehydrated to a very low temperature or if they're in a...
+Q: Okay.
 
-A: It doesn't make any difference. If I dehydrate you and you die at a low temperature, are you going to come back to me?
+A: And you're, you know, they're four inches, six inches thick.
+
+Q: Okay, that's it.
+
+Q: Unless [unintelligible].
+
+[laughter]
+
+A: Yes. Mary, do you have a question?
+
+Q: Sure. Regarding dehydrated foods. So if, you mentioned that they're, they might be like useless if they've been dehydrated. So it doesn't matter if they've been dehydrated at a very low temperature or if they're...
+
+A: Doesn't make any difference.
+
+Q: Yeah.
+
+A: If I dehydrate you and you die at a low temperature, are you gonna come back to me?
 
 Q: I'm really spiritually powerful.
 
-A: Well, congratulations. I'm afraid I touched you.
+A: Well, congrats.
 
-Q: [laughter]
+[laughter]
 
-Q: Well, I mean, with like the minerals and vitamins that are within some of those...
+Q: Well, I mean, with like the minerals and the vitamins that are, wouldn't some of those remain?
 
-A: You have to understand enzymes make use of everything. It's like if I go into a factory and I kill all my workers, are my managers going to be able to do anything? It takes the enzymes to make everything new be utilized properly.
+A: You have to understand enzymes make use of everything. It's like if I go into a factory and I kill all my workers, are my managers going to be able to do anything? It takes the enzymes to make everything be utilized properly.
 
-Q: And so soaking something in mineral water wouldn't necessarily resurrect it?
+Q: And so, soaking something in mineral water wouldn't necessarily resurrect it?
 
-A: That doesn't provide enzymes. What it will do, it will start... If you take something that's dehydrated and rehydrate it, you'll have enzymes for decomposition that are starting to form. But not sustained life. A life of a growing living substance. It will be for decomposition, for decay.
+A: That doesn't provide enzymes. What it will do, it'll start, if you take something that's dehydrated and rehydrate it, you'll have enzymes for decomposition that are starting to form, but not sustain life. A life of a growing, living substance. It would be for decomposition, for decay.
 
 Q: Okay, and might...
 
-A: Same with freezing food. You freeze the food, immediately what does it do? Every cell will go start in decomposition.
+A: Same with freezing foods. You freeze the food, immediately what does it do? Every cell will go start into decomposition.
 
-Q: Could that be useful for any detoxific problems?
+Q: Could that be useful for any detoxification process in the body?
 
-A: A lot of smokers could do that. That's why I tell smokers and other people who have lung problems to eat ice cream.
+A: Smokers could use that. That's why I tell smokers and other people who have lung problems to eat ice cream.
 
 Q: Eat ice cream?
 
@@ -604,133 +746,187 @@ A: Eat ice cream.
 
 Q: What about the sugar?
 
-A: I mean the raw ice cream. We're not talking... I mean I'm talking about everything's raw. We're not talking about coffee enemas, coffee's cooked, all that stuff. We're not talking about raw food.
+A: Pardon?
 
-Q: But with ice cream, I haven't ever made ice cream. According to your recipe, do you freeze it?
+Q: He means the raw ice cream.
+
+Q: Raw ice cream.
+
+A: We're not talking about that. I'm not talking about... Everything's raw. We're not talking about coffee enemas, coffee's cooked, all that stuff. We're talking about raw foods only.
+
+Q: But with this ice cream, I haven't ever made the ice cream. According to your recipe, do you freeze it or not?
 
 A: Well, when you do it like that, you've frozen it.
 
 Q: So you're saying that frozen ice cream, according to your recipe, is good for smokers?
 
-A: Good for smokers and anybody who has lung problems. Emphysema and asthma.
+A: Good for smokers and anybody who has lung problems, emphysema, asthma, any of them.
 
-Q: However, rehydrating something dry that has all these decomposition enzymes isn't necessarily a natural thing. So there are no herbs that could be dried at low temperatures and then soaked and then used to facilitate...
+Q: However, rehydrating something dry that has all these decomposition enzymes isn't necessarily a beneficial thing. So there are no herbs that could be dried at low temperatures and then soaked and then used to facilitate...
 
-A: Yeah, you can. You can create that. Some of the stuff I'll go over in the detox book. And you can take molds of anything and enzymes for the deterioration of anything and help get rid of it. You know, of similar substances within your body. Like people that don't, you know, let's say... I ate a lot of sugar crisps because when I was a kid I just boxed it up. Sometimes a couple boxes a day when I was in school. You know, I was in college or high school. I ate what I wanted to. [unintelligible] Rice. Pumped rice. Basically with lots of sugar on it. So I used to take rice and let it break down into a mold and then eat it. It helped clear some of that out of my system. Every food that I've eaten cooked, I eat moldy. I eat moldy stuff, cleared out of my system. Cooked food, you destroy all the natural, ecological breakdowns that naturally occur. It helps you eliminate waste products of any food. They're cooked, they're destroyed. So how do you replace them? You have to grow them and ingest them.
+A: Yeah, you can create that. That's some of the stuff I'm going to go over in the detox book. You could take molds of anything and enzymes for deterioration of anything and help get rid of it. You know, of similar substances in your body. Like people lived on, you know, let's say I ate a lot of sugar crisps. When I was a kid, I used to go through boxes, sometimes a couple boxes a day when I was in school, you know. You know, when I was in college or high school and I was, you know, I ate what I wanted to. So, sugar crisps, you know, rice, puffed rice, you know, basically with lots of sugar on it. So I used to take rice and let it break down into a mold and then eat it. It helped clear some of that out of my system. Every food that I've eaten cooked, I eat molded. I've eaten moldy, it helped clear it out of my system. Because when you cook a food, you destroy all the natural ecological breakdowns that naturally occur to help you eliminate waste products of any food. They're cooked, they're destroyed. So how do you replace them? You have to grow them and ingest them.
 
-Q: [unintelligible]
+Q: Okay. So there's hope and usefulness in the future for dehydrated herbs and other dehydrated foods?
 
-A: I prefer not dehydrated, I prefer that they, you know, get the moisture, break them up, and cause a different kind of a mold, so it's a little bit more accurate. You'll have more enzymes, even if you create a mold on a fresh food, then you will on a dehydrate the food. There'll be a lot less enzymes when it's dehydrated.
+A: I prefer you don't dehydrate them. I prefer that you get them moist and break them up and cause a different kind of a mold so it's a little bit more active. You'll have more enzymes even if you create a mold on a fresh food than you will on a dehydrated food. There'll be a lot less enzymes on a dehydrated food.
 
-Q: [unintelligible]
+Q: How long until your detox book comes out?
 
-A: [unintelligible] will get done with it, but probably June.
+A: I'll tell you, so many complications going on. It'll get done when it gets done. Probably June.
 
-Q: Well, this year.
+Q: Oh, this year?
 
 A: No, next year.
 
 Q: Oh, yeah, that's right.
 
-Q: Can you explain how eating ice cream is going to repair the lungs?
+[laughter]
+
+Q: Can you explain how eating ice cream is going to encourage cleansing in the lungs, a detox in the lungs?
 
 A: Well, I didn't create the world.
 
 Q: You didn't?
 
-A: I created my world, not the world in general. I just watch what it does. I noticed that in all of my patients that had lung problems or smokers, that when they had ice cream, within hours sometimes, they would start coughing up mucus. So this is something I learned over a 10-year period by observing what happens.
+A: No. I created my world, not the world in general. I just watch what it does. And I noticed that all of my patients that had lung problems or were smokers, that when they had ice cream, within hours sometimes, they would start coughing up mucus. So this is something I learned over a ten year period by observing what happened.
 
-Q: Do you have a clue why?
+Q: You don't know why?
 
 A: I don't have a clue why it does it on those people, mainly those people.
 
-Q: You just said that the enzymes form a decaying… 
+Q: Well, you just said that the enzymes form a decaying...
 
 A: Yes, but why does it go to the lungs and not somewhere else? Why not the liver? Because the liver deals with fat more than anything else. I don't know, but it goes to the lungs.
 
+Q: So if you're in polluted areas, then you can take an ice cream and help.
+
+A: Probably, yeah. If the pollution absorbed into your lungs, sinus and cavities.
+
+Q: Is there a particular brand of ice cream makers that you recommend?
+
+A: Donvier. 
+
+Q: What is it?
+
+Q: Donvier. 
+
+A: With a hand crank, Donvier. 
+
+Q: Where can you get it?
+
+A: Find it on the internet. D-O-N-V-I-E-R.
+
+Q: V-E-I-R.
+
+A: D-O-N-V-I-E-R.
+
+Q: V-I-E-R.
+
 Q: [unintelligible]
-
-A: [unintelligible] Donvier. The hand-crank Donvier.
-
-Q: Where do you get it?
-
-Q: Find it on the Internet.
-
-A: Find it on the Internet. D-O-N-V-I-E-R, Donvier. D-O-N-V-I-E-R. D-O-N-V-I-E-R.
-
-Q: How do you do that without Internet?
 
 A: Go to a library.
 
-Q: [unintelligible] the other one that you saw.
+Q: D-O-N-V-I-E-R.
 
-A: The Donvier is nice. If you get the electrical crank ones, you put EMFs directly in your ice cream. When you hand-crank, use the hand-crank, you only have to turn it every five minutes. You have to turn it for a minute out of every five minutes. And in 20 minutes, 25 minutes, you have ice cream.
+A: I found a couple there. And the Donvier is nice. If you get the electrical crank ones, you know, you put EMFs directly in your ice cream. When you hand crank, use a hand crank, you only have to turn it every five minutes. You go to it and turn it for a minute out of every five minutes. And, you know, 20 minutes, 25 minutes, you have ice cream.
 
-Q: Does anybody have it that you can call them and get their phone number? I don't have an Internet.
+Q: Does somebody have it that I can call them and get their phone number?
+
+Q: On the internet.
+
+Q: I don't have an internet.
+
+Q: Just give me your phone number and I'll call you.
 
 Q: It's 310...
 
-A: Later. Do you have a...
+[laughter]
 
-Q: Is this diet good for people with mental problems?
+A: Later, later, later. Yeah.
 
-A: Mental problems? It's the only diet they should be on. They should have lots of protein and more of the alkalizing proteins with the acid proteins. They should be mixing red and white together. They should not eat red meat. If you have mental problems, it's the same meal. Chicken and fish and beef all together.
+Q: This diet is good for people with mental problems.
 
-Q: [unintelligible]
+A: Mental problems?
 
-A: It depends on the person's mental problem. The chemical imbalance that's causing their mental issues. It has to be specific in those cases.
+Q: Yeah.
+
+A: It's the only diet they should be on.
+
+Q: Yeah.
+
+A: And they should have lots of protein and more of the alkalizing proteins with the acid proteins. You should be mixing red and white together, they should not eat red meat alone.
+
+Q: Not eat red meat?
+
+A: If you have mental problems, at the same meal.
+
+Q: So chicken and meat?
+
+A: Chicken and fish and beef all together. Preferable way.
+
+Q: You were talking about food for the nerves. Would that be kind of related?
+
+A: No. It depends on the person's mental problem. The chemical imbalance that's causing their mental issues. It has to get specific in those cases.
 
 Q: You told somebody that when they have their juice in the morning, they should have meat?
 
-A: 45 minutes to an hour later.
+A: It's 45 minutes to an hour later.
 
-Q: You told me in my consultation that I should have eggs first.
+Q: Yeah, but you told me in my consultation that I should have eggs first. So it's different for everybody?
 
-A: That was from the time that I saw you. That was for a year. Whether you still should do that, I don't know. Whether I can still recommend it. But you have some toxicity, some kind of chemical toxicity that needed to be pulled out after a sleep state. The way you can remedy that, you have juice and then you can have your eggs and meat together. That's the way I do it. Especially now, because I can't chew. I have to chop my meat and make it very slimy and let it slide down. You guys didn't get it. I got mugged in Thailand. They broke my jaw. It was wired.
+A: Well, that was for the time that I saw you, and that was for a year. Whether you still should do that, I don't know. Whether I would still recommend that, I don't know. But you had some toxicity, some kind of chemical toxicity that needed to be pulled out after a sleep state. But the way you can remedy that, you have juice, and then you can have your eggs and meat together. That's the way I do it. And especially now, because I can't chew, so I have to make my meat, make it very slimy and just let it slide down. You guys didn't get it. I got mugged in Thailand, so they broke my jaw. It was wired, so... Do you have a question.
 
-Q: I read across this tape lecture by Dr. Wallach. The main point that he made was, he said the longest living people, he quoted about six tribes or six nations. They were like the Hunza, the Titicaca and about four others. He attributed their longevity to them living at high altitudes where all the crops were fed by mineral, glacier water which was very milky because it had a high mineral content. Essentially what he was saying, their longevity was due to the fact that the water they drank, the food they ate was irrigated with very high mineral content. Is that true at all?
+Q: Oh, yeah. I came across this tape lecture by... I think his name was Dr. Wallach. I can't remember exactly. Anyway, the main point that he made was, he said the longest living people, he quoted about six tribes or six nations. Sort of like the Hunza, the Titicaca, and about four others. And he attributed their longevity to them living at high altitudes where all the crops were fed by mineral, glacier water, which was like very milky because it had a high mineral content. So essentially what he was saying, their longevity was due to the fact that the water they drank plus the food they ate was irrigated with very high mineral content. Is that true at all?
 
-A: I've heard that theory since the early 60s. There is no proof of that and no one has gone in to see if there is a difference. There is a group of people in Georgia, Russia. They are the longest living. They lived to, I think the oldest one was about 166, 168. The average was about 127, 130. There was one couple that was married for 92 years and that was their second marriage. 
+A: Well, I've heard that theory since the late 60s. There's no proof of that. No one's gone in to see if there's a difference. There is a group of people in Georgia, Russia, it's not high altitude, and they are the longest living. The National Geographic did, I mean they're not high altitude, maybe 2,000 feet. They live to, I think the oldest one was about 166, 168. The average is about 127, 130. And there was one couple that was married for 92 years, and that was their second marriage.
 
-Q: 60 minutes did special. It opened up with a man 105 going to his mother's birthday party. They walked up and down [unintelligible] all day. The cameramen couldn't keep up with them, the young guys. They drank, they smoked, but the most important thing I saw, they had a family love that was so incredible. The grandparents, great grandparents, great great, all lived together. They are the teachers of the young and they are nurtured and they are loved. There is such a close love between them all. That was the most important thing.
+[laughter]
 
-A: There is lots of those people all over the world. [unintelligible] But they, lots of raw meat and lots of raw eggs.
+Q: 60 Minutes did a special on that. It opened up with a man 105 going to his mother's birthday party. It was great. They walk up and down this terrain all day. The cameraman couldn't keep up with them, the young guys. But the most, they drink, they smoke. But the most important thing I saw, they had a family love. It was so incredible. The grandparents, great-grandparents, great-great, all lived together. And they are the teachers of the young, and they're nurtured, and they're loved. There was such a close love between them all. That was the most important.
 
-Q: The Georgians?
+A: Well, there's lots of those tribes that way all over the world. And they still have diseases depending on what they're eating. But they ate lots of raw meat and lots of raw eggs. National Geographic and those Discovery Channels shy away from those. Discovery Channel called me four times over the past year talking about doing a show. And every time they get scared. So they don't like to present anything that goes against the medical profession. So they don't present to you what people really eat. The Fulani and those kind of people, they do because they're Africans and it's okay. But when it comes to a white man eating that way, they do not publish it. They have scheduled me for a filming three times and cancelled.
 
-A: Yeah. National Geographic and those Discovery Channels shy away from this. Discovery Channel called me four times over the past year talking about doing a show and every time they get scared. So they don't like to present anything that goes against the medical curriculum. So they don't present to you what the real people really eat. The Fulani and those kind of people, they do because they are African and it's okay. But when it comes to a white man eating that way, they do not publish it. They had scheduled me for filming three times in Kansas. Canceled. Three times. So you can't believe it was National Geographic, as those people say, because they are mainly academics who are making those documentaries. They are very brainwashed medical-oriented academics.
+Q: They cancelled you?
 
-Q: They also have got a job to keep.
+A: Cancelled me three times already. So, you know, you can't believe what National Geographic or those people say because they are mainly academics who are making those documentaries and they are very brainwashed, medically oriented academic people.
+
+Q: And also they have got a job to keep.
 
 A: Yes. 
 
-Q: They have sponsors to keep.
+Q: Right. They have sponsors to keep.
 
-A: Absolutely.
+A: Absolutely, yes.
 
-Q: What about Weston Price? I mean, do you think that he...
+Q: What about Weston Price? I mean, do you think that...
 
-A: Weston Price was an adventurer. He was not a scientist. He lived very brief times, very short times in tribes. He really didn't get to know them, their culture, because most tribes, when I was traveling, would tell you everything but lies, unless you lived with them for a very long time. They mistrust the white man completely. There are many things that the American Indians used to tell the white men they would do for their strength and endurance, though they were very unhealthy to do, and they wanted the white man [unintelligible]. And they would pretend to do these things. So Weston Price was an adventurer. He was not a scientist.
+A: Weston Price was an adventurer. He was not a scientist. He lived very brief times, very short times with the tribes. He really didn't get to know them, their culture. Because most tribes, when I was traveling, would tell you everything but lies unless you lived with them for a very long time. And they mistrust the white man completely. There are many things that the American Indian used to tell the white men that they would do for their strength and endurance, but they were very unhealthy to do. And they wanted the white man to hurt himself. And they would pretend to do these things. So Weston Price was an adventurer. He was not a scientist.
 
 Q: But he took a lot of photos.
 
-A: Yes, but you have to take a look. If I put in the same photos, I can go into a civilization with a wide jaw and everything, and you can't call a wide jaw normal for that civilization, because you have all kinds of bone structures that are different. You can go into India and see the same type of bone structure everywhere in the world. You can go to Thailand, Malaysia, everywhere. Some people have big jaws, some people have little jaws. And even if they're eating healthy, you go to the Maasai the same way, the Fulani, these people who have no diseases. And you have different bone structures. It's just a difference in nature. But he would take pictures of people and make these, like the Nazis did, make these huge extrapolations on them and base these theories on it, and it had nothing to do with facts. The only thing that I did agree with him was congestive teeth. If they went off their natural diet that their body wasn't used to assimilating, whether it was cooked or raw, their teeth would bunch together and cause buck teeth or double teeth.
+A: Yeah, but you have to take a look. If I took those same photos, I can go into a civilization with a wide jaw and everything. And you can't call a wide jaw normal for that civilization because you have all kinds of bone structures that are different. You can go into India and see the same type of bone structure everywhere in the world. You can go to Thailand, Malaysia, everywhere. Some people have big jaws, some people have little jaws. And even if they're eating healthy, you can go with the Maasai the same way. The Fulani, these people who have no diseases. And you have different bone structures. This is just a difference in nature. But he would take pictures of people and make these, like the Nazis did, make these huge extrapolations on them and base these theories on them. And it has nothing to do with fact. The only thing that I did agree with him was congested teeth. If they went off their natural diet that their body wasn't used to assimilating, whether it was cooked or raw, their teeth would bunch together and cause, you know, buck teeth or double teeth.
 
-Q: Right, because they would show a family with six children and the parents have the first two children while they were eating their native diet. And then they went to work for four years at an American camp and had sugar and stuff, and they'd show the next two children who had one clubfoot and one, and they had messed up teeth. And then they'd go back to their tribal land, eat their tribal diet, and the next two kids did have normal teeth.
+Q: Right, because they would show a family, say, with six children, and the parents had the first two children while they were eating their native diet, and then they went to work for four years at an American camp and had sugar and stuff, and they'd show the next two children who had one club foot and one, and they had messed up teeth, and then they'd move back to their tribal land, eat their tribal diet, and the next two kids had normal teeth.
 
-A: That was the only thing I agreed with him was worth it. Francis Pottenger was a scientist. I mean, taking 900 cats over a 10-year period and giving them different diets, and following each one specifically, photographing everyone at autopsy, that's science. That man was a scientist. He proved that raw food creates health and cooked foods, depending upon the cooking and the processing, the degree, the worse the disease.
+A: That was the only thing they agreed with in his work. Francis Pottenger was a scientist. I mean, taking 900 cats over a 10-year period and giving them different diets and following each one specifically, photographing everyone at autopsy, that's science. That man was a scientist, and he proved that raw food creates health, but cooked foods, depending upon the cooking and the processing, the degree, the worse the diseases.
 
-Q: And I was just talking with someone earlier about this, and I am throwing it out there. So I was saying that your theory is that this diet is the optimal diet, but that the body can withstand a lot of assault from cooked foods. So if, for example, what Weston Price was saying about their diet, say, being 50% cooked, even if that was more than it was, that because they didn't have all the pollutants in the air, they didn't have, I don't know, maybe other factors showing that they were still able to have that really nice jaw structure and be free of the pain.
+Q: And I was just talking with someone earlier about this, and I am throwing it out there. So I was saying that your theory is that this diet is the optimal diet, but that the body can withstand a lot of assaults from cooked foods. So if, for example, what Weston Price was saying about their diet, say, being 50% cooked, even if that wasn't more than it was, that because they didn't have all the pollutants in the air, they didn't have, I don't know, maybe other factors to deal with, that they were still able to have that really nice jaw structure and be free of decaying teeth.
 
-A: Well, you have to understand, these people ate 5, 6 foods at the most. So their bodies got used to it, even when cooked. There was the chemistry that the body learned. We have, where is it, somewhere around 643,000 in chemicals in the last 100 years. Bodies can't even get used to it. There's no way we're going to have health in here, unless you're on a completely raw diet. I mean, there's no way you can handle the pollution in the air, unless you're on 100% raw diet. I mean, if you do have to live in the Tules, you know, with some native tribe where there's no pollution, you might get away with, you know, being that you came from a very toxic, cosmopolitan society, you might get away with 10, 20% cooked and be in marvelous health. But we're not.
+A: But you have to understand, these people ate five, six foods at the most. So their bodies got used to it, even when cooked. There was a chemistry that the body learned. We have, what is it, somewhere around 642,000 new chemicals in the last 100 years. Bodies can't even get used to it. There's no way we're going to have health in here unless you're on a completely raw diet. I mean, there's no way you can handle the pollution in the air unless you're on a 100% raw diet. I mean, if you had to live in the tules, some native tribe where there's no pollution, you might get away with, you know, being that we came from a very toxic cosmopolitan society, you might get away with 10-20% cooked and be in marvelous health. But we're not.
 
 Q: Where do you get the idea of cooking food? Is that a European idea, or is it a...
 
-A: There are lots of theories about why cooking started. There are many, many, many theories. Most of them are because they, if you watch the American Indians, when they used to do it, the Kostner excavations in Ohio and Indiana show that the American Indians would migrate to that whole valley along the Mississippi River, the Ohio Valley, and they would stay there for about 175 years every time they'd do it. But they couldn't stay there for more than that without forming disease, because they'd hunt around the area, they would kill all the animals, then they'd have to rely upon agriculture. They'd have to rely upon plants and nuts and seeds and grains. Cultivating, you don't digest those very well. We're not cows, not herbivores. So they started cooking them to be able to release and eat more of it and assimilate more of it, but then you have all the toxicity that goes along with it. So within 175 years of doing that, they started developing osteoporosis and other diseases. So that they would give up the land and then go, you know, become nomads again, get their health back. But they always had an inclination to be rooted, but when you root and your society develops, and you don't have refrigerators, meat doesn't keep, unless you dry it, and then dried meat doesn't give you a lot of health.
+A: There are lots of theories about why cooking started. There are many, many, many theories. And most of them are because, if we watch the American Indians, when they used to do it, the Koster excavations in Ohio and Indiana show that the American Indians would migrate to that whole valley along the Mississippi River there, the Ohio Valley, and they would stay there for about 175 years every time they'd do it. But they couldn't stay there for more than that without forming disease, because they'd hunt around the area, they would kill all the animals, then they'd have to rely upon agriculture. They'd have to rely upon plants and nuts and seeds and grains, cultivating them. You don't digest those very well. We're not cows, we're not herbivores. So they started cooking them to be able to release and eat more of it and assimilate more of it, but then you have all the toxicity that goes along with it. So within 175 years of doing that, they started developing osteoporosis and other diseases. So then they would give up the land and then go become nomads again, get their health back. But they always had an inclination to be rooted. But when you root and your society develops, and you don't have refrigerators, meat doesn't keep unless you dry it. And then dried meat doesn't give you a lot of health, because there are no enzymes.
 
-Q: [unintelligible] but I listen a lot and I take what you're saying in [unintelligible]. But I listen to [unintelligible] and how they told us things to mislead us so we hurt ourselves or whatever. And I go, well, where does that come from? I don't know where you learned that, or tonight they're going to go, oh, go tell the next guy. I don't know where, like, I'd like to know where the basis of that is.
+Q: Can I back up for a moment? This concerns me, but I see no one else, I'm fine with it. But I listen a lot and I take what you say as truth in a way. The one thing...
 
-A: No, when I was living with the Indians, the Yaqui Indians told me the same thing, the Mayan Indians told me the same thing, the Indian, the Alaskan, the Tuscan.
+A: [unintelligible]
+
+[laughter]
+
+Q: I listen to things about the Indians and how they told us things to mislead us, so we hurt ourselves or whatever. And I go, well, where does that come from? I don't know where you learned that. Because then I take it and go, well, tell the next guy. I don't know where... I'd like to know where is the basis of that. I mean, did you read it someplace?
+
+A: No, but I was living with the Indians. The Yaqui Indians told me the same thing. The Mayan Indians told me the same thing. The Inuit in Alaska...
 
 Q: They did that?
 
