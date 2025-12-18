@@ -15,7 +15,7 @@ function createResultCard(titleText, results, link) {
   resultCard.className = 'card';
 
   const resultTitle = document.createElement('h2');
-  resultTitle.innerHTML = `<a class="result-link" href="${link}">${titleText}</a>`;
+  resultTitle.innerHTML = `<a class="result-title" href="${link}">${titleText}</a>`;
   resultCard.appendChild(resultTitle);
 
   if (results.length === 0) return resultCard;
@@ -29,7 +29,7 @@ function createResultCard(titleText, results, link) {
 }
 
 async function performCloudSearch(query, controller) {
-  const resultsDOM = document.querySelector('.results');
+  const resultsDOM = document.querySelector('#results');
 
   try {
     const response = await fetch('code/cloudsearch.php', {
@@ -84,7 +84,7 @@ data.forEach(item => {
       const tmp = document.createElement('div');
       tmp.innerHTML = htmlSnippet;
       const snippetText = tmp.textContent || tmp.innerText || '';
-      return `<a class="result-link" href="${link}?s=${sParam}&search=${encodeURIComponent(snippetText)}">${htmlSnippet}</a><br><br><hr>`;
+      return `<a class="result-text" href="${link}?s=${sParam}&search=${encodeURIComponent(snippetText)}">${htmlSnippet}</a><hr>`;
     });
 
     if (isExact) {
@@ -122,7 +122,7 @@ data.forEach(item => {
   } catch (err) {
     if (err.name === 'AbortError') return;
     console.error('Error during cloud search:', err);
-    document.querySelector('.results').innerHTML = '<p>Error performing search.</p>';
+    document.querySelector('#results').innerHTML = '<p>Error performing search.</p>';
   }
 }
 
@@ -132,9 +132,9 @@ function search(input) {
   const searchValue = raw;
   const trimmedSearchValue = searchValue.trim();
 
-  const catBar     = document.querySelector('.categories');
-  const grid       = document.querySelector('.grid');
-  const resultsDOM = document.querySelector('.results');
+  const catBar     = document.querySelector('#categories');
+  const grid       = document.querySelector('#grid');
+  const resultsDOM = document.querySelector('#results');
 
   resultsDOM.innerHTML = '';
   document.getElementById('clear-icon').style.display =
@@ -148,7 +148,7 @@ function search(input) {
   if (!hasValidToken) {
     grid.style.display = 'block';
     resultsDOM.style.display = 'none';
-    if (catBar) catBar.style.display = 'flex';
+    if (catBar) catBar.style.display = 'block';
     if (currentSearchController) currentSearchController.abort();
     return;
   }
@@ -262,10 +262,10 @@ document.body.addEventListener('click', function(e) {
     }
 });
 
-function filterCategory(category, sanitizedCategory, element) {
+function filterCategory(ev, category, sanitizedCategory, element) {
   // Deselect all categories
-  event.preventDefault();
-  const categories = document.querySelectorAll('.categories a');
+  if (ev) ev.preventDefault();
+  const categories = document.querySelectorAll('#categories a');
   for (let i = 0; i < categories.length; i++) {
     categories[i].classList.remove('chosen-category');
   }

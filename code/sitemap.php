@@ -6,12 +6,12 @@ header('Content-Type: application/xml; charset=utf-8');
 require_once dirname(__DIR__) . '/config.php';
 $mdFolder = dirname(__DIR__) . '/' . $mdFolder;
 
-function sanitizeFileName($string) {
-    $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
-    $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
-    $string = preg_replace('/\s+/', '-', $string);
-    $string = strtolower(trim($string, '-'));
-    return $string;
+function sanitizeFileName(string $s): string {
+    $t = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $s);
+    if ($t !== false) $s = $t;
+    $s = preg_replace('/[^a-zA-Z0-9\s]/', '', $s);
+    $s = preg_replace('/\s+/', '-', $s);
+    return strtolower(trim($s, '-'));
 }
 
 $xml = '<?xml version="1.0" encoding="UTF-8"?>';

@@ -7,6 +7,9 @@ $mdFolder = 'texts';
 // Your site base URL
 $baseUrl = 'https://aajonus.net/';
 
+// Logo title
+$logoTitle = "Aajonus.net";
+
 // SEO
 $siteTitle = "Aajonus Vonderplanitz";
 $siteDescription = "Raw Primal Diet: Aajonus Online Archive by Aajonus Vonderplanitz. Complete Aajonus Transcriptions.";
@@ -19,6 +22,9 @@ $categoryInLinks = false;
 
 // Prioritize these categories in search results
 $prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
+
+// Any main categories that should sort by date-in-title
+$sortArticlesByDate = ['QNA'];
 
 // Pin these articles to the top for its category
 $pinnedArticles = ['we-want-to-live'];

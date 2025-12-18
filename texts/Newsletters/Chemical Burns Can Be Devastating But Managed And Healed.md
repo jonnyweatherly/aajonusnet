@@ -6,6 +6,8 @@ world on February 23, 2011 in her 92nd year.
 
 [Show photo 1](/imgs/pdn25_burn-1.jpg)
 
+[Show photo 1 (Full)](/imgs/pdn25_burn-full.jpg)
+
 Photo taken 7 days after chemical-detoxification burn appeared with no signs of improvement.
 
 ===

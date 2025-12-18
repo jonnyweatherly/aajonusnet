@@ -2,6 +2,8 @@
 
 Date: 2012
 
+"Extreme Health Trends; Raw Meat Diet"
+
 Transcribed by Aajonus.net & Rawmeatgang
 
 Host: Well, today's show is full of some of the most eyebrow-raising, surprising, and downright shocking health trends that you've ever seen, and it all starts right now.

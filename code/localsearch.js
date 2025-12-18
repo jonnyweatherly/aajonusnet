@@ -27,10 +27,10 @@ async function runQuery({ seq, searchValue, trimmedSearchValue, words }) {
   if (seq === activeSeq) { // tell main thread to reset UI for this seq
     self.postMessage({ type: 'reset', seq, searchValue, trimmedSearchValue, words });
   } else {
-	return;
+    return;
   }
 
-  const batch = [];
+  let batch = [];
 
   for (let i = 0; i < docs.length; i++) {
     if (seq !== activeSeq) return; // cancelled
@@ -45,20 +45,21 @@ async function runQuery({ seq, searchValue, trimmedSearchValue, words }) {
     }
 
     if (batch.length >= BATCH_DOCS) {
-      self.postMessage({ type: 'batch', seq, results: batch.splice(0) });
+      self.postMessage({ type: 'batch', seq, results: batch });
+      batch.length = 0;
       await sleep(0); // yield so keystrokes can be processed
       if (seq !== activeSeq) return; // cancelled
     }
 
-    if (i % 50 === 0) await sleep(0); // periodic yield during scanning
+    if (i && i % 50 === 0) await sleep(0); // periodic yield during scanning
   }
 
   if (batch.length) {
-    self.postMessage({ type: 'batch', seq, results: batch.splice(0) });
+    self.postMessage({ type: 'batch', seq, results: batch });
+    batch.length = 0;
   }
   self.postMessage({ type: 'done', seq, totalResults });
 }
-
 
 function findMatches(text, searchValue, words, maxLength, exactRegex, partialRegex, seq) {
   const wantPartial = words.length > 1;
@@ -95,7 +96,6 @@ function findMatches(text, searchValue, words, maxLength, exactRegex, partialReg
       offset = text.indexOf(word, offset + 1);
     }
   }
-
   return [exactMatches, partialMatches];
 }
 

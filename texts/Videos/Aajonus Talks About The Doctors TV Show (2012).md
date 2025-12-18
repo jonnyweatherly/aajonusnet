@@ -1,6 +1,6 @@
 @[Video Source](https://archive.org/details/aajonus-talks-about-the-doctors-tv-show-2012)
 
-Date: 2012
+Date: 21 June 2012
 
 Transcribed by Aajonus.net & Rawmeatgang
 
