@@ -1,3 +1,7 @@
+The audio/transcripts for these events are missing. Please contact aajonus at ik.me if you have them.
+
+(Announcements from [RawPaleoDietForum.com](https://web.archive.org/web/20210125194635/https://www.rawpaleodietforum.com/index.php?topic=184.0))
+
 2008
 - September 6–9 – Aspen/Carbondale, CO: Lecture, workshop, potluck, and iridology consults.
 - September 27–29 – Edmonton, Canada event. - UNCLEAR if this ever happened.
@@ -51,3 +55,80 @@
 - April 20 – Rockhampton, Queensland, Australia: Workshop.
 - May 25 – Chicago, IL: Workshop.
 - June 8 – Omaha, NE: Workshop.
+
+-------
+
+## =====================
+###       ALREADY FOUND / ON THIS WEBSITE:     
+## =====================
+
+-------
+
+2008
+
+- July 20 – Primal Potluck in San Clemente, CA.
+- August 24 – Annual Primal Potluck in Malibu, CA.
+- September 20–24 – Lecture/workshop and consults in Hinsdale/Chicago, IL.
+- November 24–26 – Workshop and consults in Pahoa, Hawaii.
+- December 7 – Potluck in San Clemente, CA.
+- December 14 – Potluck in Los Angeles, CA.
+
+
+2009
+- February 22 – Potluck and dancing in Santa Monica, CA.
+- April 25–29 – Chicago/Hinsdale, IL events.
+- May 9–11 – Cherry Hill, NJ events.
+- May 24 – Potluck in San Clemente, CA.
+- June 7 – Potluck in Marina Del Rey, CA.
+- September 13 – Malibu, CA: Annual Primal Potluck at Aajonus’ home.
+- October 3–6 – Chicago/Hinsdale, IL: Lecture/workshop and consults.
+- October 24 – Free lecture, workshop, and mini-consults at Harbourfront Community Centre, Toronto, ON.
+- November 1 – Potluck in Marina Del Rey, CA.
+- November 14–15 – Hamilton, OH: Workshop and consults.
+
+2010
+- April 4 - UNKNOWN (California)
+- April 10 – Mullica Hill, NJ: Free lecture and workshop.
+- April 24–28 – Hinsdale, IL: Free lecture, workshop, and consults.
+- May 23 – Los Angeles, CA: Potluck at 960 Sanborn Ave.
+- May 30 – Carlsbad, CA: Potluck hosted by Liza Szabo.
+- September 26 – Potluck in Marina Del Rey, CA.
+- October 2–5 – Aspen/Carbondale, CO: Workshop and consults.
+- October 15 – Chicago, IL: Workshop. (or apparently 16)
+- October 24 – Carlsbad, CA: Potluck hosted by Liza Szabo.
+
+2011
+- January 2 – Carlsbad, CA: Emergency location change for Potluck.
+- January 9 – Potluck in Los Angeles, CA.
+- May 29 – Carlsbad, CA: Potluck hosted by Liza Szabo.
+- June 4 - UNKNOWN (Chicago)
+- June 11–12 – Toronto, ON: Lecture, workshop, and consults.
+- July 10 – Los Angeles, CA: Potluck and Q&A.
+- August 13 – Carbondale, CO: Workshop and potluck.
+- August 22 – Omaha, NE: Q&A at Peg Booth’s home.
+- August 28 – Potluck in Carlsbad, CA.
+- September 11 - UNKNOWN (California)
+
+2012
+- March 11 – Potluck in Marina Del Rey, CA.
+- March 18 - UNKNOWN (California)
+- March 31–April 4 – Chicago, IL: Workshop and consults.
+- April 7–9 – Pahoa, HI: Lecture, workshop, and consults.
+- April 21–24 – Fort Lauderdale, FL: Workshop and consults.
+- May 20 – Los Angeles, CA: Potluck at 960 Sanborn Ave.
+- May 27 – Carlsbad, CA: Potluck at Liza Szabo’s home.
+- June 2–4 – Toronto, ON: Lecture, workshop, and consults.
+- October 14 – Potluck in Marina Del Rey, CA.
+- November 10 – Chicago, IL: Free lecture and workshop.
+- November 18 - UNKNOWN (California)
+
+2013
+- January 27 – Potluck in Marina Del Rey, CA.
+- February 3 – Potluck in Carlsbad, CA.
+- March 2 – Mullica Hill, NJ: Free lecture and workshop.
+- March 9 – Fort Lauderdale, FL: Lecture and workshop.
+- April 27 – Gold Coast, QLD: Workshop.
+- May 26 – La Jolla, CA: Potluck hosted by Joseph Manfredi.
+- June 1 – St. Louis, MO: Lecture and workshop.
+- June 16 – Bel Air, CA: Potluck hosted by Jill and Jon Fox.
+- June 22 – Wheaton, IL: Workshop.

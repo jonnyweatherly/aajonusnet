@@ -880,7 +880,7 @@ A: Well, $130, I think, now.
 
 Q: Right.
 
-A:  E-cost. E-cost. E-cost, I think it was. Cheaper.
+A: E-cost. E-cost. E-cost, I think it was. Cheaper.
 
 Q: Yeah. I had Edison come by and check the property. I said, it's fine. He said, there's nothing that stops an EMF. They go through concrete, steel. They travel great distances, and if they hit another EMF, it will re-energize them. They can go further. They go into the ground.
 
@@ -922,7 +922,7 @@ A: Draws it out of the leg into the pillow.
 
 Q: It doesn't stay in the feet?
 
-A: No. No, because you have the... Unless you're terribly deformed, you know, you have energy that runs up to the brain all the time. It's flowing down and up, down and up, all the way around. So you've got a bunch of magnets there drawing it up. And those magnets, they've got their north-south, north-south, north-south. So you don't get too much of your own energy field pulled into the pillow. So it mitigates that. That's the way Nikon did it. When I studied with Nikon from 1989-92 and their magnetic healing properties, a lot of the product that they put out was absolutely, completely contrary to their science. Like their bed. The magnets were up and down in lines instead of in the spirals. And not flip from north to south. It's like, hey, you've got all this science and you're not using it. You're selling these freaking little thin pads with magnets on it for a thousand dollars. No integrity. Some people have no freaking integrity.
+A: No. No, because you have the... Unless you're terribly deformed, you know, you have energy that runs up to the brain all the time. It's flowing down and up, down and up, all the way around. So you've got a bunch of magnets there drawing it up. And those magnets, they've got their north-south, north-south, north-south. So you don't get too much of your own energy field pulled into the pillow. So it mitigates that. That's the way Nikken did it. When I studied with Nikken from 1989-92 and their magnetic healing properties, a lot of the product that they put out was absolutely, completely contrary to their science. Like their bed. The magnets were up and down in lines instead of in the spirals. And not flip from north to south. It's like, hey, you've got all this science and you're not using it. You're selling these freaking little thin pads with magnets on it for a thousand dollars. No integrity. Some people have no freaking integrity.
 
 Q: So this would also be a good idea to use for the computer?
 

@@ -60,13 +60,13 @@ which to recover health. He covers a tremendous variety of subjects.
 
 Find out:
 
- Why eat meat?
+- Why eat meat?
 
- How to be able to concentrate your attention
+- How to be able to concentrate your attention
 
- What fruits and what meats are best for an overly anxious person
+- What fruits and what meats are best for an overly anxious person
 
- Advice to bodybuilders
+- Advice to bodybuilders
 
 and more and more.
 

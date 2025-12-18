@@ -2,6 +2,9 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
+# Sitemap
+RewriteRule ^sitemap\.xml$ sitemap.php [L,NC]
+
 # Handle only the category
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -11,6 +14,7 @@ RewriteRule ^([^/%]+)/?$ index.php?category=$1 [L,QSA,B,UnsafeAllow3F]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^/%]+)/([^/%]+)/?$ index.php?category=$1&file=$2 [L,QSA,B,UnsafeAllow3F]
+
 
 <IfModule mod_expires.c>
     ExpiresActive on

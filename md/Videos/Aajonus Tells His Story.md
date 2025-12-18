@@ -2,9 +2,9 @@
 
 Transcribed by Aajonus.net & Rawmeatgang
 
-Date: January 2007
+Date: 28 January 2007
 
-This is a bonus talk by Aajonus from the [UCLA Workshop DVD](primal-diet-workshop-of-january-20-2007-dvd), recorded at the UCLA campus in Westwood, California.
+This is a bonus talk by Aajonus from the [UCLA Workshop DVD](primal-diet-workshop-of-january-28-2007-dvd), recorded at the UCLA campus in Westwood, California.
 
 (Also known as "Aajonus Journey")
 

@@ -1,6 +1,8 @@
 Transcribed by Aajonus.net & Rawmeatgang
 
-Comment on Raw Milk, 2013
+Date: 27 March 2013
+
+Comment on Raw Milk
 
 A: Hi, I'm Aajonus Vonderplanitz, nutritionist, been a nutritionist and drinking raw milk for a lot of years. Now if you listen to the health department and doctors who know nothing about health, they know nothing about nutrition, they know nothing about diet, yet they will tell you this little glass of milk will crawl out with all these things and take over your body like the blob and will kill you. Well, I was dying of cancer of the blood, bone, stomach and lymphatic system, I went through surgeries, chemo and radiation, I was a worm on the floor. My teeth were dangling in my gums because the radiation therapy deteriorated the bone and gave me bone cancer. This little thing right here which was suggested by a volunteer from the hospice, 18 year old boy, said drink raw milk. If you've ever had chemo and radiation, you know that everything tastes like postage stamp glue and cardboard after that. Milk, raw milk, was the only thing that tasted good and within a year, all of my bone regenerated around my teeth and saved my teeth. They wanted to pull all of my teeth because they dangled in my gums and I was losing quite a bit of blood every week and getting one to two transfusions weekly. This little monster here that the government wants you to believe is bad is a wonderful healthful substance. I drink two quarts minimum daily.
 

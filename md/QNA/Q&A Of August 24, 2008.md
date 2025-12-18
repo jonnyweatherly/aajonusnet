@@ -2,7 +2,7 @@
 
 Location: Malibu, CA
 
-A: A lot of people think that the Primal Diet™ is a stagnant diet.
+A: A lot of people think that the Primal Diet is a stagnant diet.
 
 Q: Is a what?
 

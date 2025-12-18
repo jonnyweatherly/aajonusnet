@@ -612,7 +612,7 @@ Q: I'm better now probably than I have been.
 
 A: That's what I mean, but it may have to do with your body getting healthier, not necessarily his work. Just try the two positions.
 
-Q:  [unintelligible] I have some idea. I don't know how to show it to you.
+Q: [unintelligible] I have some idea. I don't know how to show it to you.
 
 Q: Well, I don't know. I think you're dealing with a lot of personal issues from what I'm sensing with you. And if you don't know what you're dealing with, going into the physical, to a both, you might be put off. And you said that you're again, it's self-abuse that you're being attracted to.
 
@@ -1120,7 +1120,7 @@ Q: The other question is, whenever I go through a detox, like then I sleep at ni
 
 A: 40 years.
 
-Q:  Because it seems like you think it will come out of itself, but where is it buried actually?
+Q: Because it seems like you think it will come out of itself, but where is it buried actually?
 
 A: It's buried in the tissues and the bones, everywhere, in every cell.
 

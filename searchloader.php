@@ -10,18 +10,19 @@ $data = json_decode($rawInput, true);
 
 $ids = (isset($data['ids']) && is_array($data['ids'])) ? $data['ids'] : [];
 
-$replaceArray = ["\n", "\r", "\t"];
+$replaceWith = '/\s+/u';
 $contents = [];
 
 foreach ($ids as $filePath) {
-    if (file_exists($filePath)) {
+    if (is_file($filePath)) {
         $text = file_get_contents($filePath);
-        $text = str_replace($replaceArray, ' ', $text);
-        $contents[$filePath] = htmlentities($text, ENT_QUOTES, 'UTF-8');
+        $text = preg_replace($replaceWith, ' ', $text);
+				$text = trim($text);
+        $contents[$filePath] = $text;
     }
 }
 
-$json = json_encode($contents);
+$json = json_encode($contents, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 
 header('Content-Type: application/json');
 header('X-Total-Uncompressed-Length: ' . strlen($json));

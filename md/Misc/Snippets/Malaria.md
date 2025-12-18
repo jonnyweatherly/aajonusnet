@@ -1,7 +1,7 @@
 ....and malaria. They're nonsense.
 
 If you [really] work in a laboratory, what is malaria? Malaria is
-a Falaria, a microscopic worm that eats degenerative tissue from a
+a Filaria, a microscopic worm that eats degenerative tissue from a
 blood cell, and.... Mosquitoes don't give us malaria, we give them
 malaria. it's from a human cell, not from a cell of a mosquito. So you
 have to take a look at that hard. Wait a minute. If they get the malaria
@@ -12,15 +12,15 @@ the blood, either. She gets it to feed her larvae. Without the larvae,
 without the blood, the larvae would not survive.
 
 So when you have malaria, it is a broken down bloodstream. You're red
-blood cells are deficient and damaged. The Falaria gets in there and
+blood cells are deficient and damaged. The Filaria gets in there and
 eats it. If there are, let's say you have low phagocytes, white blood
 cells. The white blood cells are given the job of eating dead red blood
 cells. If they're not enough of them, there's too much destruction and
-they cannot consume everything, then we will get Malaria Falaria to
+they cannot consume everything, then we will get Malaria Filaria to
 break down those red blood cells.
 
 So the idea that we get malaria from a mosquito is absolutely
-fiction.. They need to keep the blood very clean. Also, that falaria,
+fiction.. They need to keep the blood very clean. Also, that Filaria,
 is so microscopically small that one phagocyte, one white blood cell,
 could consume a massive amount of them, so you could never take over
 the blood and do us damage. So you have to take those, those so-called
@@ -29,7 +29,7 @@ diseases as myth.
 How many cases of malaria have you seen? What are the symptoms of
 malaria? Malaria is just a severe cold, flu, but they will identify
 it, they will find the stuff in red blood cells, and they'll find
-this microscopic Falaria. And it takes a very powerful electronic
+this microscopic Filaria. And it takes a very powerful electronic
 microscope to see it. So they want to say, oh, this particular epidemic
 was caused by malaria, only all they have to do is look, they're always
 going to find malaria in the human bloodstream. And they'll say, see,
@@ -69,4 +69,6 @@ land. So now I'm part of the tribe. So, don't get hooked into that stuff.
 
 ===
 
-Primal Diet Workshop Lecture, Fort Lauderdale, FL, June 18th, 2011.
+Workshop Lecture, Fort Lauderdale, FL, June 18th, 2011.
+
+@[Source](/primal-diet-workshop-qa-of-june-18-2011)

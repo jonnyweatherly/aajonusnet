@@ -786,11 +786,11 @@ A: This week.
 
 Q: What happened to Gerolsteiner? Their prices have gone up. The whole energy of that about a year ago.
 
-A:  Yeah, well, that's what's happened to them. They're greedy.
+A: Yeah, well, that's what's happened to them. They're greedy.
 
 Q: What's the good mineral water to take, then?
 
-A: I'm taking San Faustino, Pellegrino, San Pellegrino, Romlusa, Apolinarius. What are some of the others?
+A: I'm taking San Faustino, Pellegrino, San Pellegrino, Ramlosa, Apolinarius. What are some of the others?
 
 Q: The one you drink it. I drink it with my meal.
 

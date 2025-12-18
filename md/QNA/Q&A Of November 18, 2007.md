@@ -232,9 +232,9 @@ states where you can get it, it’s not available in stores except in
 Connecticut and California. Otherwise you can buy it at a farm. So that’s the
 only way you can get it is buy it at the farm or have somebody who gets it from
 the farm and distributes it. That’s what I created all over the United States.
-We have the Rawsome club here; we've got branches of the Rawesome all over just
+We have the Rawesome club here; we've got branches of the Rawesome all over just
 spelled differently. This Rawesome has an E after the R, A, W and the
-E...S.O.M.E the other Rawesome clubs throughout the United States are Rawsome
+E...S.O.M.E the other Rawesome clubs throughout the United States are Rawesome
 and what I do is we lease the herds or chickens or flocks or whatever it is. The
 club leases the herd or flocks, the herds, whatever it is, for milk or meat. The
 co-op for the Rawesome club leases it so that they own the herd; they own all

@@ -2461,18 +2461,23 @@ of mutant antibodies, which increases cellular malnutrition and results
 in greater weaknesses, diseases, malfunctions and deformities.
 Table 1 shows the reported incidents of polio in the year 1958, before the compulsory polio vaccine law, and the year 1959, when the law was adopted. Only four states and one city kept records. The statistics show that the polio vaccine actually created the disease that it was purported to have prevented.
 Table 1: Number of Polio Cases Reported in 5 areas, Before and After Polio Vaccine became Compulsory
- 1958 1959 % Increase NO YES
-45 123 273% 89 190 213% 78 313 401% 17 52 306%
- Compulsory Vaccination? Connecticut
-Los Angeles, CA
-North Carolina
+
+
+|  | 1958 | 1959 | % Increase |
+|-------------------|------|------|------------|
+| Compulsory Vaccination? | NO | YES |  |
+| Connecticut | 45 | 123 | 273% |
+| Los Angeles, CA | 89 | 190 | 213% |
+| North Carolina | 78 | 313 | 401% |
+| Ohio* | 17 | 52 | 306% |
+| Tennessee | 119 | 386 | 324% |
+
+* Ohio had an escape clause and many people declined inoculation.
+Therefore there were fewer incidents of Polio.
+
 Eighty-two percent of all of the people who had polio in 1959 (listed above) had been vaccinated with one or more polio vaccines. Twenty percent had at least three polio vaccinations. Polio vaccines create polio.
 Vaccines have other immediate side effects. There is temporary or permanent paralysis (Guillain-Barre) associated with any type of vaccine, including flu shots. Almost everyone receiving a vaccine of any sort suffers some of the following side effects: blindness, brain damage, convulsions, death, dizziness, other serious diseases, fever, headaches, hepatitis, impotence, irritability, muscular pain and soreness, nausea, skin eruptions and disease, sore throat, stiffness and vomiting.
 Former Secretary of War, Henry L. Stimsom, reported that at a military boot camp in only a six-month period, there were 63 deaths and 25,585 cases of hepatitis “as a direct result of the yellow fever vaccine.”
-Ohio*
-Tennessee 119
-*Ohio had an escape clause and many people declined inoculation. Therefore there were fewer incidents of Polio.
-386 324%
 
 PAGE 136
 

@@ -18,7 +18,7 @@ Q: You never had pain?
 
 A: No. I'd been started when I was two years old. My bladder wall was this thick. It's only supposed to be this thick. The stone had irritated it. And you know, the bladder is supposed to be a smooth wall. And it would look like coral. The same way the stones look like coral. So now I pee like a horse. No waiting. I mean, it's so weird because I'm used to going to the toilet, stand there for two, three minutes, waiting for it to start. Then the stream was very tiny. And that's the way it's been in my whole life. And now for two months I'm peeing like a horse. It's great. Only 15, 20 seconds and I'm finished. It's great.
 
-Q:  They put you out [unintelligible]
+Q: They put you out [unintelligible]
 
 A: Yeah, and you can see the poisons coming out of my skin from it.
 
@@ -1170,7 +1170,7 @@ A: Yes.
 
 Q: Okay, great.
 
-Q:  And then on the Saturdays?
+Q: And then on the Saturdays?
 
 A: 8 o'clock on Wednesdays.
 

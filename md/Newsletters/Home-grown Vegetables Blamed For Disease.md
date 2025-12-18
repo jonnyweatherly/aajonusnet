@@ -227,5 +227,3 @@ inflammation, Park said earlier this month.
 Park said people cultivating home-grown vegetables need to clean
 them leaf by leaf, and warned that a species of slug on the Big
 Island has tiny larvae, about 1 to 2 millimeters long.
-
-===

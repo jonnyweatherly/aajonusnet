@@ -125,7 +125,6 @@ removing formaldehyde, benzene, and carbon monoxide from the air:
 | Peace Lily             | Spathiphyllum "Mauna Loa"  |
 | Warneckii              | Dracaena "Warneckii"       |
 
-===
 
 The most effective at removing formaldehyde were philodendron, spider
 plant, and golden pothos. Gerbera daisy and chrysanthemum (mum) are common

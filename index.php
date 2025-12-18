@@ -17,9 +17,10 @@ $articleMap = [];
 $categoryMap = [];
 
 function sanitizeFileName($string) {
+    $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
     $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
     $string = preg_replace('/\s+/', '-', $string);
-    return strtolower($string);
+    return strtolower(trim($string, '-'));
 }
 
 function populateArticleMap() {
@@ -64,7 +65,7 @@ $dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=38">
+    <link rel="stylesheet" href="style.css?v=47">
     <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
@@ -305,8 +306,8 @@ if (isset($_GET['search'])) {
     $pattern = '';
     $searchValue = preg_replace('/\s/', '', html_entity_decode(strip_tags($_GET['search'])));
     
-    for ($i = 0; $i < mb_strlen($searchValue); $i++) {
-        $pattern .= preg_quote(mb_substr($searchValue, $i, 1), '/') . '(?:\\s*|)';
+    for ($i = 0; $i < iconv_strlen($searchValue, 'UTF-8'); $i++) {
+        $pattern .= preg_quote(iconv_substr($searchValue, $i, 1, 'UTF-8'), '/') . '(?:\\s*|)';
     }
 
     if (preg_match('#' . $pattern . '#miu', $content, $matches, PREG_OFFSET_CAPTURE)) {
@@ -333,7 +334,7 @@ if (isset($_GET['pos'])) {
         $words = explode('+', $s); // Split the words
 
         $words = array_filter($words, function($word) {
-           return mb_strlen($word) >= 2;
+           return iconv_strlen($word, 'UTF-8') >= 2;
         });
 
         $pattern = implode('|', array_map(function ($word) {
@@ -341,7 +342,8 @@ if (isset($_GET['pos'])) {
         }, $words)); // Create a pattern that matches any of the words
 
         // Replace each match with the highlighted version
-        $content = preg_replace_callback('/' . $pattern . '/miu', function ($match) {
+				
+				$content = preg_replace_callback('/' . $pattern . '/miu', function ($match) {
             return '<span class="highlight">' . $match[0] . '</span>';
         }, $content);
     }
@@ -374,7 +376,7 @@ foreach ($footnoteRefs as $ref) {
 }
                     echo $htmlContent;
 if (isset($_GET['s'])) {
-            echo '<button id="removeHighlights">&#10005; Highlights</button>';
+    echo '<button id="removeHighlights"><span class="x">×</span>Highlights</button>';
         }
                 } else {
                     echo '<p>File not found.</p>';

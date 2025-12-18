@@ -530,7 +530,7 @@ Q: Will it grow back?
 
 A: It can. It depends on how much mercury and iodine they coated on you during the surgery. It could be permanent. It could damage the RNA and DNA, and they won't reproduce properly.
 
-Q:  So what should I be eating?
+Q: So what should I be eating?
 
 A: Well, bone marrow is good. Sperm is good. Anything with natural high...
 

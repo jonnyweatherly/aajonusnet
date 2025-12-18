@@ -2,7 +2,7 @@ Transcribed by Aajonus.net & Rawmeatgang
 
 Location: La Jolla, CA
 
-Note: This Q&A has been wrongly uploaded by some people under the date 26 March 2013.
+Note: This Q&A has been wrongly uploaded by some people under the date 26 March 2013 / March 26 2013.
 
 Q: So just don't worry about it.
 
@@ -1408,7 +1408,7 @@ A: It's going through the heart. You got metals in your heart.
 
 Q: Yeah.
 
-Q: Is that a Glenn Ivy thing, now don't they check your bag so you can't bring any glassware in there?
+Q: Is that a Glen Ivy thing, now don't they check your bag so you can't bring any glassware in there?
 
 Q: That's true. What I did is I brought plastic and some ice water and that they let me take in. It was a plastic container of ice water.
 
@@ -1432,7 +1432,7 @@ A: It's good for four months.
 
 Q: Yeah.
 
-A: I mean, they might, at Glenn Ivy, they may take it once a year. But for flying, sometimes they'll say, you know, you've got to have it on fresh four months.
+A: I mean, they might, at Glen Ivy, they may take it once a year. But for flying, sometimes they'll say, you know, you've got to have it on fresh four months.
 
 Q: Yeah, I actually had it work. Once, if you're in Denver, when I was coming back from Denver, they actually accepted the letter. The first one, when I went out in Burbank, for whatever reason, at Whole Foods, for the salary, I guess the woman was wearing something or something, they swab. And if it's positive in the swab, and it was positive, oh, they went nuts. Yeah. Even though my luggage went through the x-ray, they double-checked it. They tore up my, oh, really something.
 
@@ -2238,7 +2238,7 @@ A: You're just going to have to do suppositories; see you're almost as dry as sh
 
 Q: I got a rash on my legs after the trips to Glen Ivy hot springs and your facial cream worked.
 
-A: Yeah, good. See I tell you, you just need to get the poisons out of the body with the heat first and then the poisons are out. When they're trapped in the skin, they're going to keep doing damage to the skin because they're locking up in the connective tissue underneath the skin and passing through the skin a little at a time and it abraises the tissue. When you get into the hot bath like at Glenn Ivy and you spend the day in there, you've got like five, seven, eight hours in there where you are constantly perspiring those poisons out. Now the next wave that comes under the skin again, if another wave does come, you need to do the same thing again because those poisons are either coming from your muscles or your bones and it has to get to the skin again, under the skin and then it has to pass through the skin. So if you move it fast with long hot baths and then put the Primal Facial body care cream there on top, you strengthen those cells while they're cleaning. And they get to absorb everything. But if the poisons are locked in the skin, the poisons have a tendency to hold on to the fat molecules.
+A: Yeah, good. See I tell you, you just need to get the poisons out of the body with the heat first and then the poisons are out. When they're trapped in the skin, they're going to keep doing damage to the skin because they're locking up in the connective tissue underneath the skin and passing through the skin a little at a time and it abraises the tissue. When you get into the hot bath like at Glen Ivy and you spend the day in there, you've got like five, seven, eight hours in there where you are constantly perspiring those poisons out. Now the next wave that comes under the skin again, if another wave does come, you need to do the same thing again because those poisons are either coming from your muscles or your bones and it has to get to the skin again, under the skin and then it has to pass through the skin. So if you move it fast with long hot baths and then put the Primal Facial body care cream there on top, you strengthen those cells while they're cleaning. And they get to absorb everything. But if the poisons are locked in the skin, the poisons have a tendency to hold on to the fat molecules.
 
 Q: Could you divert it by eating cheese and divert it to the stomach? Instead of in the skin?
 

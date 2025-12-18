@@ -479,8 +479,8 @@ A: Right. Even longer. Yeah
 Q: So, so it’s ok to eat those eggs?
 
 A: Absolutely. Just remember that mold breaks down eggs the same way the
-bacteria does. So it just predigests it for you, just like acidophulus,
-bulgarius. All of those break down the different elements within foods, so they
+bacteria does. So it just predigests it for you, just like acidophilus,
+bulgaricus. All of those break down the different elements within foods, so they
 just predigest it for you. If you understand how your digestive tract works,
 it won’t be so unusual for you. But we live on piss and shit. Period. That’s
 what we live on. We eat food - the hydrochloric acids and other acids break up

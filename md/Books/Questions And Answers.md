@@ -3503,21 +3503,19 @@ Some very well-meaning people wrote in favor of some vaccines, citing several hi
 	were permantly disabled."
 That is myth. As I wrote in my first book in Appendix D: the following table lists the reported incidents of polio in the year 1958, before the compulsory polio vaccine law, and the year 1959, when the law was adopted. Only four states and one city kept records. The statistics show that the polio vaccine actually created the disease that it was purported to have prevented.
 
-```
-	Number of Polio Cases Reported in 5 areas, Before and After Polio Vaccine became
-	Compulsory
-							1958 	1959 	% Increase
-	Compulsory Vaccination? 	NO 		YES
-	Connecticut 				45 		123 		273%
-	Los Angeles, CA 			89 		190 		213%
-	North Carolina 			78 		313 		401%
-	Ohio* 					17 		52 		306%
-	Tennessee 				119 		386 		324%
-```
-```
-	*Ohio had an escape clause and many people declined inoculation. Therefore there were
-	fewer incidents of Polio.
-```
+
+|  | 1958 | 1959 | % Increase |
+|-------------------|------|------|------------|
+| Compulsory Vaccination? | NO | YES |  |
+| Connecticut | 45 | 123 | 273% |
+| Los Angeles, CA | 89 | 190 | 213% |
+| North Carolina | 78 | 313 | 401% |
+| Ohio* | 17 | 52 | 306% |
+| Tennessee | 119 | 386 | 324% |
+
+* Ohio had an escape clause and many people declined inoculation.
+Therefore there were fewer incidents of Polio.
+
 Eighty-two percent of all of the people who had polio in 1959 (listed above) had been vaccinated with one or more polio vaccines. Twenty percent had at least three polio vaccinations. All cases had had at least one vaccine. Most cases reported as dead-by-polio were medically treated individuals.
 
 The decline in polio cases had bottomed by 1958, so the polio vaccine had nothing to do with the elimination of polio. The same is true with the statistics of smallpox. Often, statistics have been twisted to seemingly confirm success of medical technology. As you can see by the table above, polio vaccines created polio and did not eliminate it.

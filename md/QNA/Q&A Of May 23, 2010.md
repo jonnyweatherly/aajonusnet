@@ -1807,7 +1807,7 @@ A: It’s the feed that’s not a good, healthy feed. It’s a regular dairy
 feed that they’re giving them. They put heavy chlorine in their tanks to clean
 them. They have to keep the coliform count down to 10. Organic pastures has to
 do the same; they’re worse now since that law went in. So when you get it at
-Rawsome, we’re getting it from Pennsylvania. It’s the only one I drink.
+Rawesome, we’re getting it from Pennsylvania. It’s the only one I drink.
 
 Q: Is massage a necessity or a luxury and what is its role in optimum health?
 

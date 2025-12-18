@@ -112,7 +112,7 @@ Q: You wouldn't find mercury in their feces then?
 
 A: No, probably not as much. I've done the test on those. What I did was frozen meats. I did a test with animals, just like I did with the swordfish. And I gave the same meats from the same animal frozen and cooked. The animals that ate it frozen all got a skin disorder, whether it was psoriasis or scabies or the mange. Every one of them got a skin disorder. The other group that got it raw, nothing wrong, and that's all they got. They got a little bit of water, and all they got was the meat, either raw or frozen. The group that had it raw, no skin disorders, fine. The ones within six weeks that were eating the frozen were ripping their skin apart. So I knew that butter corrected skin problems quicker than anything else. So I took frozen butter and non-frozen raw butter, frozen raw butter and non-frozen raw butter, and gave that to the sick group with the skin disorders. The ones who ate the fresh, raw, unfrozen butter healed five times faster than the ones who got the frozen butter. So when Sally Fallon or anybody else says eat frozen meat, eat frozen butter, eat all that stuff to destroy bacteria, don't listen to them. Because it is not safe and it is not true that it is safe and fine and healthy.
 
-Q: The blue butter at Rawsome is no good?
+Q: The blue butter at Rawesome is no good?
 
 A: That's not frozen, but it's also not organic.
 
@@ -152,7 +152,7 @@ A: Yeah, I heard. But I was also told that you took the 20 pounds out at one tim
 
 Q: Four weeks.
 
-A: Four weeks? Oh, then Jim lied to me. James lied to me. Okay, I got another problem at the Rawsome. You know, you're told that these sesame oil and all of that is pressed at low temperature. Well, just Wednesday, I caught the guy pressing the oil and having a heat gun, a high-powered industrial heat gun, hitting it on the end because his oil jams. It is not raw. It is not anywhere under 200 to 200 and some degrees, not down to 96. So that flax oil, the sesame oil, all of that at Rawsome is not raw. Pardon? Just at Rawsome, yeah. Is the guy's name Andy or something like that?
+A: Four weeks? Oh, then Jim lied to me. James lied to me. Okay, I got another problem at the Rawesome. You know, you're told that these sesame oil and all of that is pressed at low temperature. Well, just Wednesday, I caught the guy pressing the oil and having a heat gun, a high-powered industrial heat gun, hitting it on the end because his oil jams. It is not raw. It is not anywhere under 200 to 200 and some degrees, not down to 96. So that flax oil, the sesame oil, all of that at Rawesome is not raw. Pardon? Just at Rawesome, yeah. Is the guy's name Andy or something like that?
 
 Q: Andreas, Andreas.
 
@@ -160,7 +160,7 @@ A: Andreas, yeah. You know, he's totally lying to everybody, and he did it with 
 
 Q: Would that machine be okay if you took it apart and unjammed it without heat?
 
-A: Yeah, but everybody who produces anything wants to have maximum time, less time of labor to make money. They don't give a shit about you. It's about their time and their expense. But yeah, that would work. If he'd just heat the room up like they make it when they make coconut. So the room is heated to 80 degrees to juice the coconuts to get enough. Because when you juice coconut, the coconut meat, the room has to be 80 degrees or hotter. Under 96 degrees to allow the fats, whether they're water, oil, soluble fats, to release from the cellulose. So people who don't heat their rooms and are pressing or juicing their coconut at 70 degrees are going to get half of what they could get if they'd heat the room up to 80 degrees. So at Rawsome, they heat a room up to 80 degrees and they juice the coconut in there. If that guy would go in that heated room and let his machine heat up in that room to 80 degrees, 83 degrees, before he starts pressing it, he wouldn't have that kind of trouble.
+A: Yeah, but everybody who produces anything wants to have maximum time, less time of labor to make money. They don't give a shit about you. It's about their time and their expense. But yeah, that would work. If he'd just heat the room up like they make it when they make coconut. So the room is heated to 80 degrees to juice the coconuts to get enough. Because when you juice coconut, the coconut meat, the room has to be 80 degrees or hotter. Under 96 degrees to allow the fats, whether they're water, oil, soluble fats, to release from the cellulose. So people who don't heat their rooms and are pressing or juicing their coconut at 70 degrees are going to get half of what they could get if they'd heat the room up to 80 degrees. So at Rawesome, they heat a room up to 80 degrees and they juice the coconut in there. If that guy would go in that heated room and let his machine heat up in that room to 80 degrees, 83 degrees, before he starts pressing it, he wouldn't have that kind of trouble.
 
 Q: Can I say something because I work there? I've never once seen him do that except for just this last week. I'm there for hours and I watch the machine working.
 
@@ -460,7 +460,7 @@ Q: Yeah, LAX.
 
 A: Only LAX do they give you trouble. But what you have to do is you have to be very insistent. You say, listen, I'll get very sick. Please read the letter. You have to understand it. And if you don't have the authority, please, let's call your supervisor. And if that person rejects, they'll say, please, can I speak with your supervisor? And let me tell you, by that time, they want to get the hell rid of you. Sometimes it's taken me 45 minutes to get my food cleared, but only twice out of two years was I stopped. So it went through the hand x-ray one time. I'll still eat it. If it goes through twice, I won't eat it.
 
-Q: Well, they put that thing on it once when I took the tuna from Rawsome. They put that, I don't know what they did, some kind of a scanner thing?
+Q: Well, they put that thing on it once when I took the tuna from Rawesome. They put that, I don't know what they did, some kind of a scanner thing?
 
 A: That's just metal. No, that's just a metal detector.
 
@@ -1028,7 +1028,7 @@ Q: In Wilcox, Arizona.
 
 A: They sell milk in several health food stores there.
 
-Q:  I just take the vinegar and I just take the salt.
+Q: I just take the vinegar and I just take the salt.
 
 A: Yeah, just put it in the water, yeah. And that's all. You can make coconut cream while you're there too. If you don't have the milk, you can put that in the water. Oh, because I went from 185 to 140. I've got a little extra skin here that has to go away. And that will take a few months.
 
@@ -1302,11 +1302,11 @@ A: No, I just like the taste of the heart. So I just eat it.
 
 Q: Where can I get it?
 
-A: North Star bison. Well, from Rawsome. They have buffalo heart. Are you here locally?
+A: North Star bison. Well, from Rawesome. They have buffalo heart. Are you here locally?
 
 Q: Yeah.
 
-A: Okay, then go to Rawsome and get a buffalo heart. And they have the bone marrow right in the same two containers. So you get the heart and the bone marrow together. And eat once a day. Eat some heart with, you know, about a half a cup of heart with at least, you know, or just one bone marrow from one bone. Okay. Just do it every day and it will clear up in about a year, year and a half.
+A: Okay, then go to Rawesome and get a buffalo heart. And they have the bone marrow right in the same two containers. So you get the heart and the bone marrow together. And eat once a day. Eat some heart with, you know, about a half a cup of heart with at least, you know, or just one bone marrow from one bone. Okay. Just do it every day and it will clear up in about a year, year and a half.
 
 Q: If we can get two million people to get that, like they did for the Obama healthcare, we'd be on TV and get all the publicity we need to get it.
 
@@ -1320,7 +1320,7 @@ Q: She just wanted to know, unwashed eggs versus washed eggs. Apparently you sai
 
 A: Okay. Unwashed eggs. I get unwashed eggs whenever I can because they use a detergent. It destroys some of the bacteria. It deprives the egg of the ability to reproduce. And it does stop the bacterial growth inside the egg from the outside in. So I like bacteria, bacteria is 99% of any organic function of any animal. So I want bacteria, I want as much as I can get. So unwashed eggs, I mean people see me going Asian, I buy this chicken shit egg, you know, and I go, I like this, suck it out and they go, you know, you're gonna die. And I said, how many chickens, how many animals do you see around going around licking each other's butts with the E. coli in the feces? I'm just having it off of the egg.
 
-Q: Are Rawsome eggs okay?
+Q: Are Rawesome eggs okay?
 
 A: They're okay. They're pretty good.
 
@@ -1356,7 +1356,7 @@ Q: He doesn't give them any feed either, does he?
 
 A: No, he gives them sprouted in buttermilk or whey or some kefir. He gives them some sprouted grains like oats.
 
-Q: How much better is going to be an egg from a chicken that eats as much meat as Amos' do as your typical eggs we're getting around here from Rawsome and the farmer's markets?
+Q: How much better is going to be an egg from a chicken that eats as much meat as Amos' do as your typical eggs we're getting around here from Rawesome and the farmer's markets?
 
 A: Considerably better.
 

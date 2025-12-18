@@ -52,7 +52,7 @@ A: Whoever has the money, that's right.
 
 Q: They made a big contribution to the governor, of Texas.
 
-A:  Also, they're trying to do it in Iowa, is it? In Michigan, I think it's the next two states they're pushing for. But Merck has lobbied 28 states for it, and it looks like 28 states are going to make it mandatory. But just remember, every time they tell you it's mandatory, it isn't. There's always a waiver. There are 13 states where you can't get out of it. You just don't live in those states. And if you want to know what states those are, go to Dr. Sherri Tenpenny. T-E-N-P-E-N-N-Y, Tenpenny. And she has it all on her website. And she's an M.D. who is very much against all vaccines. And she knows the law on which states, and the outs for those states, and those states that you don't have any outs for.
+A: Also, they're trying to do it in Iowa, is it? In Michigan, I think it's the next two states they're pushing for. But Merck has lobbied 28 states for it, and it looks like 28 states are going to make it mandatory. But just remember, every time they tell you it's mandatory, it isn't. There's always a waiver. There are 13 states where you can't get out of it. You just don't live in those states. And if you want to know what states those are, go to Dr. Sherri Tenpenny. T-E-N-P-E-N-N-Y, Tenpenny. And she has it all on her website. And she's an M.D. who is very much against all vaccines. And she knows the law on which states, and the outs for those states, and those states that you don't have any outs for.
 
 Q: Don't you have rights? Can't you exercise your rights?
 
@@ -842,7 +842,7 @@ Q: They say wherever there's high triglycerides there is always high blood press
 
 A: Okay, what happened? One of the tests came out of the UK two months ago. They checked 45,000 people with high blood pressure. Those that took medication and lowered it to between 110 and 120 had all the heart attacks. People who didn't take the high blood pressure medicine and kept the high blood pressure at 160 to 170, no heart attacks. Shot them right out of the water. Did that, did that test get, it lasted a day in the news and was gone. Because there's no money in it. It just shot down trillions of dollars for people who were taking high blood pressure medicine.
 
-Q:  So high blood pressure is not a threat. 
+Q: So high blood pressure is not a threat. 
 
 A: Oh, that's what they say it is. They say you're likely to have strokes and you're likely to have a heart attack with high blood pressure. And they proved just the opposite in these UK tests.
 

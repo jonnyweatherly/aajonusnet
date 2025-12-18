@@ -1373,7 +1373,7 @@ a great extent. So, they cook the pig they’ve got big problems – because
 it’s high in radiation. If you don’t cook the pig and eat it raw, most of
 it’s not going to be stored in your body; it’s going to pass out of the
 body, either in the feces, or in your urine, or less in the urine: in the
-faeces, urine and your perspiration. So, it’s not going to get into the glands
+feces, urine and your perspiration. So, it’s not going to get into the glands
 and areas like that.
 
 Now the mushroom – how the mushroom works: the mushroom is just a fruit of

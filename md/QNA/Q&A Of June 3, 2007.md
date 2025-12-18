@@ -718,7 +718,7 @@ Q: I have one now.
 
 A: Okay.
 
-Q: And it's pretty short, I think. The woman that was talking about Glenn Ivy, what is your opinion, like you talked about minerals was the issue, meaning replenishment. Mineral water without the carbonation, is that any use? 
+Q: And it's pretty short, I think. The woman that was talking about Glen Ivy, what is your opinion, like you talked about minerals was the issue, meaning replenishment. Mineral water without the carbonation, is that any use? 
 
 A: No, again, it will leach. If you look under an archaeological book, the first word, the first element, the first thing under solvent is water. When it rains, it dissolves rock so plants can eat. Water is a solvent. There are no nutrient values for the human body. Well, the only reason I say that carbonated water is better is because at least in the carbon, I've seen that it allows more nitrogen in the digestive tract and more oxygen in the blood. So if you're going to drink water, that's better than drinking just plain old water. But I'm still against drinking much water.
 

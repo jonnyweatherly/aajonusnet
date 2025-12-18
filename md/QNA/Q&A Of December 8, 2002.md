@@ -1326,7 +1326,7 @@ A: Oh, you're going to keep them, are you?
 
 Q: I don't know. Somebody brought that one.
 
-Q:  Is there a model number?
+Q: Is there a model number?
 
 A: It just says, tri-field meter.
 

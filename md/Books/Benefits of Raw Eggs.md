@@ -57,10 +57,11 @@ Chapter 6 is completely unique because you are writing it as you go along.
 This e-book has been assembled in such a way that
 
 ```
- It can be read through from top to bottom, covering a LOT of material.
- It can be searched very quickly for any term (or phrase in “quotes”).
- The date of a particular quote is provided when available, giving a sense of where, within
-Aajonus’s continuing research, this information fits.
+- It can be read through from top to bottom, covering a LOT of material.
+
+- It can be searched very quickly for any term (or phrase in “quotes”).
+
+- The date of a particular quote is provided when available, giving a sense of where, within Aajonus’s continuing research, this information fits.
 ```
 
 ### Table of Contents

@@ -2,7 +2,7 @@ Date: 9 April 2010
 
 Transcribed by Aajonus.net & Rawmeatgang
 
-H = Host (Antonio), M = Mark, A = Aajonus
+H = Host (Tonio Epstein), M = Mark, A = Aajonus
 
 H: Good morning, this is WGDR in Plainfield. We have a special guest this morning who we're still waiting to call. Oh, here he is. And I'm in the studio with Mark Harmon. And good morning, Mark. We're scrambling here to get things ready and timing has been tricky. Good morning, Aajonus. Is that you?
 
@@ -10,7 +10,7 @@ A: Yes.
 
 H: It's great to have you on with us, Aajonus.
 
-A: Well, thank you, Antonio. How are you today?
+A: Well, thank you, Tonio. How are you today?
 
 H: I'm doing really good. And I have Mark Harmon in the studio with me as well. Good morning, Mark.
 
@@ -424,7 +424,7 @@ M: We have to juice our way forward.
 
 H: The next show is coming up in literally one minute. So it's been a pleasure to have you on, Aajonus.
 
-A: Thank you, Antonio.
+A: Thank you, Tonio.
 
 H: Maybe we can do this again because we had a lot of questions and I really didn't get to any of them hardly.
 

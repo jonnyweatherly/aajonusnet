@@ -1329,9 +1329,9 @@ changed it every day.
 A: They flow through..in California you have to have the flowing only. Like the
 one in.....
 
-Q: Glenn Ivy?
+Q: Glen Ivy?
 
-A: Glenn Ivy! Glenn Ivy has one that they don't chlorinate. You have the
+A: Glen Ivy! Glen Ivy has one that they don't chlorinate. You have the
 swimming pool; you have the one that you walk into and then you've got the mud
 bath over there and then you've got all the others. That one that's near the mud
 pool - there's no chlorine in that. The pool has got lots of chlorine. Three
@@ -1340,7 +1340,7 @@ but they have the constant water flowing through it. And the one with the clay
 in it, they don't require them even though its not a continually flowing one.
 With the clay in it they don't require it to be chlorinated.
 
-Every other pool on there, every other hot tub on that property of Glenn Ivy is
+Every other pool on there, every other hot tub on that property of Glen Ivy is
 chlorinated. But if you really want a good place to go to a hot springs where
 its constantly you got different temperatures and you're outdoors go to Deep
 Creek.

@@ -74,6 +74,11 @@ h1, .header, .title {
 
 .content ol, .content ul {
     padding-left: 15px;
+    margin-bottom: 1em;
+}
+
+.content table {
+    margin-bottom: 1em;
 }
 
 .content ol ol {
@@ -107,7 +112,7 @@ h1, .header, .title {
 }
 
 #share-button:hover path {
-    fill: #DDD;
+    fill: #ddd;
 }
 
 .read-more {
@@ -117,7 +122,7 @@ h1, .header, .title {
 
 .search-bar {
     width: 100%;
-    margin: 2vh auto;
+    margin: 1vh auto 2vh;
     padding: 8px 40px;
     border: 1px solid #fff;
     border-radius: 5px;
@@ -141,7 +146,7 @@ h1, .header, .title {
 
 .search-icon, .clear-icon {
     position: absolute;
-    top: 50%;
+    top: calc(50% - 0.5vh);
     transform: translateY(-50%);
 }
 
@@ -185,6 +190,9 @@ h1, .header, .title {
     align-items: center;
     position: relative;
 }
+.title-container h1 {
+    margin-top: 0;
+}
 .categories {
     display: flex;
     justify-content: center;
@@ -209,20 +217,41 @@ h1, .header, .title {
     color:#000;
 }
 
-@media (min-width: 768px) {
-    .card .card-md {
-        flex-basis: 48%;
-    }
-    #removeHighlights {
-        right: calc(90%);
-    }
+#removeHighlights {
+    position: fixed;
+    bottom: 28px;
+    left: 10px;
+    z-index: 9999;
+    display: inline-flex;
+    align-items: center;
+    padding: .48rem 1rem;
+    border: 0;
+    border-radius: 9999px;
+    background: #303030;
+    color: #fff;
+    font-size: .9rem;
+    font-weight: 600;
+    line-height: 1;
+    box-shadow: 0 1px 3px #0006;
+    user-select: none;
+    -webkit-user-select: none;
+}
+#removeHighlights .x {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: .45rem;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 18px;
+    font-size: .8rem;
+    font-weight: 400;
+    border-radius: 50%;
+    background: #505050;
 }
 
-#removeHighlights {
-  position: fixed;
-  bottom: 30px;
-  left: 10px;
-  z-index: 9999;
+#removeHighlights:hover {
+    background-color: #262626;
 }
 
 
@@ -233,7 +262,7 @@ h1, .header, .title {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #000;
+    background-color: #303030;
     color: #fff;
     padding: 10px 20px;
     z-index: 1000;
@@ -242,6 +271,7 @@ h1, .header, .title {
     justify-content: center;
     box-sizing: border-box;
     user-select: none;
+    -webkit-user-select: none;
 }
 .find-on-page-content {
     display: flex;
@@ -298,7 +328,7 @@ body.find-on-page-active {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: #000;
+    background-color: #303030;
     color: #fff;
     border: none;
     border-radius: 50%;

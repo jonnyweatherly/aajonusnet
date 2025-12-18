@@ -251,8 +251,7 @@ on pages 153-158.
 #### Chapter 3
 
 ```
-How Much Toxicity Does It Take To Develop Disease And
-How Do We Reverse It?
+How Much Toxicity Does It Take To Develop Disease And How Do We Reverse It?
 ```
 We experience degenerative conditions and symptoms from
 accumulated toxins. For some people, a little toxicity is enough
@@ -1636,8 +1635,7 @@ Health-Giving Recipes!
 ```
 
 ```
-Be certain to read all of the instructions on pages 46-50
-before making any recipe.
+Be certain to read all of the instructions on pages 46-50 before making any recipe.
 ```
 #### Necessary Equipment
 
@@ -1707,7 +1705,7 @@ jar, and rinse and dry the washer before reapplying it to the jar.
 
 Blender blades are made of cold metal that will cause butter
 to chill and stiffen. That often causes the ingredients to freeze-up
-and not blenderize. When blenderizi ng a recipe with butter that
+and not blenderize. When blenderizing a recipe with butter that
 needs to be melted, it is best to cap the jar with blender
 washer/blades/base before immersing in mildly hot water. That
 way, the blades will heat along with the ingredients and

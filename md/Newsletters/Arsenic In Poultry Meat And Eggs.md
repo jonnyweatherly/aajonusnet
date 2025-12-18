@@ -73,8 +73,6 @@ and cut.
 | Hardee's Chicken breast, no bread                    | 5                    | 7.5
 | Hardee's Chicken strips, breaded, fried              | 5                    | 7.1
 
-===
-
 Removing bodily storages of arsenic may be accomplished by eating
 combinations of raw foods, such as 1/3 cup tomato, 2 tablespoons
 no-salt-added raw cheese and 5-7 leaves of cilantro, or 2-3 ounces raw

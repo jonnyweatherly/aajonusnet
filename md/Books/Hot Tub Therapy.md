@@ -1150,8 +1150,12 @@ lymphatic system) can be done.
 In a nutshell, what was worked out was a three stage
 filter system in the sequence as below:
 
-1. Paper filter which gets down to 5 microns of filtration. This was the first stage of the filter system as the paper itself has toxic properties being chemically produced itself.
-2. Coconut activated carbon filter media. This is a common filter media for drinking water.
+1. Paper filter which gets down to 5 microns of
+    filtration. This was the first stage of the filter
+    system as the paper itself has toxic properties
+    being chemically produced itself.
+2. Coconut activated carbon filter media. This is a
+    common filter media for drinking water.
 3. Sand filtration.
 
 The application of these can be as follows:
@@ -1851,34 +1855,25 @@ There are many varying designs.
 
 #### Tools needed
 
-```
- Table saw with sharp blade
- Protractor – used for measuring the angle cut of
-the staves
- Chop saw or circular saw
- Compass - Can be a pencil on a string or pencil in
-a board (more accurate) which is used for
-marking the floor board circumference cut
- Drill and drill bits
- Doweling jig - used for pre-drilling holes for
-dowels in the floor boards
- Saber saw or jig saw (same thing) for circular
-cuts on the floor board
-```
+- Table saw with sharp blade
+- Protractor – used for measuring the angle cut of the staves
+- Chop saw or circular saw
+- Compass - Can be a pencil on a string or pencil in a board (more accurate) which is used for marking the floor board circumference cut
+- Drill and drill bits
+- Doweling jig - used for pre-drilling holes for dowels in the floor boards
+- Saber saw or jig saw (same thing) for circular cuts on the floor board
 
 ```
- Dado blade for table saw - for cutting staves to fit
-the floor board
- Blue masking tape - To hold stave up while you
-put others in place
- Rubber mallet – for securing the staves to the
-floor board
- Wood hole cutter (hole saw) for cutting plumbing
-holes
- Belt sander or sand paper and sanding block
- Reciprocating saw or chop saw for cutting PVC
-piping.
 ```
+
+- Dado blade for table saw - for cutting staves to fit the floor board
+- Blue masking tape - To hold stave up while you put others in place
+- Rubber mallet – for securing the staves to the floor board
+- Wood hole cutter (hole saw) for cutting plumbing
+holes
+- Belt sander or sand paper and sanding block
+- Reciprocating saw or chop saw for cutting PVC piping.
+
 #### Materials required
 
 - Staves 2 x 6. Floor boards 2 x 12. Benches 2 x 8 or
@@ -1912,7 +1907,6 @@ The wood for the staves is to be 2 x 6 nominal wood.
 | 6            | 4 degrees 15 minutes   | 45          | 869       |
 | 8            | 3 degrees 6 minutes    | 60          | 1117      |
 
-==
 
 The gallons measurement is based upon a 4 foot tall hot
 tub. If you wish a 5 foot tall hot tub, the angle is the
@@ -1932,170 +1926,87 @@ Decide on size of the hot tub you want to build
 ```
 1. Procure the materials and tools
 
-2. Get the angle for the staves from the grid that you
-will use for the cuts
+2. Get the angle for the staves from the grid that you will use for the cuts
 
-3. Set up your table saw using the protractor so you
-can cut the staves to the correct angle
+3. Set up your table saw using the protractor so you can cut the staves to the correct angle
 
-4.Use less expensive wood for a test cut. Adjust the
-angle as needed so it is exact as per the angle laid
-out in the grid
+4. Use less expensive wood for a test cut. Adjust the angle as needed so it is exact as per the angle laid out in the grid
 
-5. Bevel cut all the staves using the table saw and
-the angle of the staves per the grid except for 1
-stave which you will cut last. You are cutting this
-bevel on both sides of the stave.
-You are making a custom sized trapezoid. It is
-this angle that forms the round tub by putting all
-the pieces (staves) together.
+5. Bevel cut all the staves using the table saw and the angle of the staves per the grid except for 1 stave which you will cut last. You are cutting this bevel on both sides of the stave.
+You are making a custom sized trapezoid. It is this angle that forms the round tub by putting all the pieces (staves) together.
 
 Trapezoid:
 ```
 
 ![[hottub_6.png]]
 ```
-6. Using the table saw and dado blade, notch all the
-staves to accept the floor. Measure 3 inches up
-from the bottom of the stave and make the notch
-there. The notch is to be 5/8th of an inch deep.
-Make the width of the notch 1/ 16 th to 1 / 8 th less
-than the width of the floorboard so it can fit
-tightly around the floor.
+6. Using the table saw and dado blade, notch all the staves to accept the floor. Measure 3 inches up from the bottom of the stave and make the notch there. The notch is to be 5/8th of an inch deep.
+Make the width of the notch 1/ 16 th to 1 / 8 th less than the width of the floorboard so it can fit tightly around the floor.
 ```
 ![[hottub_7.png]]
 ```
-7. Clean any burs and edges off the staves and keep
-them dry.
+7. Clean any burs and edges off the staves and keep them dry.
 
-8. Collect up the floor boards and square them off
-with the table saw so they fit very tightly
-together. Just trim off like 1/16th of an inch or a
-saw blade width on the edges to do this. You
-want these boards totally flush with no gaps.
+8. Collect up the floor boards and square them off with the table saw so they fit very tightly together. Just trim off like 1/16th of an inch or a saw blade width on the edges to do this. You want these boards totally flush with no gaps.
 
-9. Set up your drill with the jig to drill holes in the
-ends of the floor boards to accept the dowels. The
-jig is used to ensure a square hole is drilled. Set it
-up to drill a hole in the center of the floorboard
-edge.
+9. Set up your drill with the jig to drill holes in the ends of the floor boards to accept the dowels. The jig is used to ensure a square hole is drilled. Set it up to drill a hole in the center of the floorboard edge.
 
-10. Drill the one dowel hole 3 inches from each end
-and two others spaced in between so there are 4
-dowels total. You will need to measure accurately
-both sides of each of the floorboards which are to
-fit to themselves using the dowel holes. You want
-them to align easily when assembling and be
-flush with each other. If there is a bit of wood
-hanging jaggedly off at the _end_ of the board that
-is okay. The ends will be cut with the jig saw to
-form the circular floor.
+10. Drill the one dowel hole 3 inches from each end and two others spaced in between so there are 4 dowels total. You will need to measure accurately both sides of each of the floorboards which are to fit to themselves using the dowel holes. You want them to align easily when assembling and be flush with each other. If there is a bit of wood hanging jaggedly off at the _end_ of the board that is okay. The ends will be cut with the jig saw to form the circular floor.
 
 11. Lay out the floor boards.
 
-12. Drill each dowel hole 1 & 1/8th deep in each floor
-board that will be connecting to each other.
+12. Drill each dowel hole 1 & 1/8th deep in each floor board that will be connecting to each other.
 
-13. Insert the dowels and using a rubber hammer,
-gently drive the floor boards together.
+13. Insert the dowels and using a rubber hammer, gently drive the floor boards together.
 
-14. Once the floor boards are tightly together, using
-the 1 x 3 nominal wood, secure the floorboards to
-themselves using 1 & 5/8th inch screws. You will
-need to cut the 1 x 3 to size. Space these evenly
-across the floorboards. Be careful to not drill
-through the whole floor board, (but you should
-not be able to with that size wood and screw.)
+14. Once the floor boards are tightly together, using the 1 x 3 nominal wood, secure the floorboards to themselves using 1 & 5/8th inch screws. You will need to cut the 1 x 3 to size. Space these evenly
+across the floorboards. Be careful to not drill through the whole floor board, (but you should not be able to with that size wood and screw.)
 
 15. This will be the bottom of the floor.
 ```
 ![[hottub_8.png]]
 ```
-16. Draw the circle for the circumference cut. For a 6
-foot tub, measure 3 feet into the floor boards
-now assembled and find the center. Take a nail
-and put it into this center just enough to hold it
-in place. Take a string and create a noose in it.
+16. Draw the circle for the circumference cut. For a 6 foot tub, measure 3 feet into the floor boards now assembled and find the center. Take a nail and put it into this center just enough to hold it in place. Take a string and create a noose in it.
 ```
 
 ```
-Put the noose around the nail. Mark out 3 feet
-from the center and attached a marker to the
-string. Then draw your line. This is for a 6 foot in
-diameter hot tub. A larger or shorter diameter
-would have a different measurement
-accordingly.
+Put the noose around the nail. Mark out 3 feet from the center and attached a marker to the string. Then draw your line. This is for a 6 foot in diameter hot tub. A larger or shorter diameter would have a different measurement accordingly.
 
-17. Now that the line is drawn, carefully make your
-circumference cut with a jig saw. Make sure your
-jig saw is properly set for a 90 degree cut.
+17. Now that the line is drawn, carefully make your circumference cut with a jig saw. Make sure your jig saw is properly set for a 90 degree cut.
 
-18. With a light sander such as an orbital sander or
-by hand, chamfer both edges of the floor to aid in
-the attachment of the staves.
+18. With a light sander such as an orbital sander or by hand, chamfer both edges of the floor to aid in the attachment of the staves.
 
-19. Flip over the floor and place it on the support
-4x4 or 4x6 beams and get it even and supported.
-The floor should have about 2 inches of working
-room on the sides to allow for the stave
-installation.
+19. Flip over the floor and place it on the support 4x4 or 4x6 beams and get it even and supported.
+The floor should have about 2 inches of working room on the sides to allow for the stave installation.
 
-20. Install the staves one at a time using the rubber
-hammer to secure them in place. Use the blue
-masking tape to hold them together as you go
-along. You may also need some kind of brace. Do
-not pound the staves in completely at first; this
-will help to snug up the staves to each other as
-they come together at their angles. Once you
-have installed several staves, go back and pound
-them in completely. Make sure you pound the
-staves in sideways as you go along. Repeat these
-steps as you go along.
+20. Install the staves one at a time using the rubber hammer to secure them in place. Use the blue masking tape to hold them together as you go along. You may also need some kind of brace. Do not pound the staves in completely at first; this will help to snug up the staves to each other as they come together at their angles. Once you have installed several staves, go back and pound them in completely. Make sure you pound the staves in sideways as you go along. Repeat these steps as you go along.
 ```
 ![[hottub_9.png]]
 ```
-21. The final stave is a custom cut as the angle is
-dictated by the width and it is bound to be
-different. Measure at the bottom both inner and
-outer angle with a protractor. Re-measure and
-cut a test piece to fit. Set this mock stave in place
-and if the angle and width are correct, then cut
-the final stave with the proper wood. If not, re-
-measure and adjust until you have the correct fit
-for the final stave. Then install.
+21. The final stave is a custom cut as the angle is dictated by the width and it is bound to be different. Measure at the bottom both inner and outer angle with a protractor. Re-measure and cut a test piece to fit. Set this mock stave in place and if the angle and width are correct, then cut the final stave with the proper wood. If not, re-measure and adjust until you have the correct fit for the final stave. Then install.
 
-22. Make your cut for a drain in the floor if you are
-going to install a drain.
+22. Make your cut for a drain in the floor if you are going to install a drain.
 
 ```
 **RING INSTALLATION**
 
-For a 4 foot tall hot tub, the first ring is set directly at
-the edge of the floor where the staves meet the floor.
+For a 4 foot tall hot tub, the first ring is set directly at the edge of the floor where the staves meet the floor.
 
 
 Tighten them snugly.
 
-The second ring is at 12 to 14 inches from the bottom
-of the floor.
+The second ring is at 12 to 14 inches from the bottom of the floor.
 
 The third ring is set at 44 inches or so.
 
-The forth ring is placed near the top, about 6 inches
-down from the top. I recommend 4 rings for a 4 foot tall
-hot tub and 5 rings for a 5 foot tall hot tub.
+The forth ring is placed near the top, about 6 inches down from the top. I recommend 4 rings for a 4 foot tall hot tub and 5 rings for a 5 foot tall hot tub.
 
-Stagger the lugs of the rings so they are not all in a row
-going up the hot tub.
+Stagger the lugs of the rings so they are not all in a row going up the hot tub.
 
-Tighten the bottom ring as well as you can. Take the
-rubber mallet and pound on the ring to tighten the
-wood staves into the floor even more. Then re-tighten
-the ring again. Repeat.
+Tighten the bottom ring as well as you can. Take the rubber mallet and pound on the ring to tighten the wood staves into the floor even more. Then re-tighten the ring again. Repeat.
 
 Continue on up without the mallet on the upper rings.
-Then start again at the bottom until the rings are about
-as tight as you can get.
+Then start again at the bottom until the rings are about as tight as you can get.
 
 #### Plumbing and plumbing cuts
 

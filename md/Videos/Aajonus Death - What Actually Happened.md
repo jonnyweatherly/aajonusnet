@@ -6,7 +6,9 @@ Paul: We′re making this video, because people are asking you a lot of question
 
 Wasma: So, he just died on that phone and... 
 
-Paul: Did you hear all that? Yeah, I hear when they were pumping, she told me, I'm shocked too, what happened? And that time, I never hear the story because no time to tell the story. She only tell he fall off the house and broken his back and he in a coma. Meanwhile, I went to Bangkok. He sent her to Bangkok to deal with the court thing.
+Paul: Did you hear all that?
+
+Wasma: Yeah, I hear when they were pumping, she told me, I'm shocked too, what happened? And that time, I never hear the story because no time to tell the story. She only tell he fall off the house and broken his back and he in a coma. Meanwhile, I went to Bangkok. He sent her to Bangkok to deal with the court thing.
 
 Paul: Because the Thai government was having claim against the property, part of the property, no?
 

@@ -172,7 +172,7 @@ Q: One.
 
 Q: I know. So I'm looking at taking a trip to India, and I've been before, and I'm really working with this whole idea that the bacteria are actually our friends, and I've been working with that also through Dr. Yanick's work, and he talks about commensals and building commensals.
 
-Q:  Can you speak up.
+Q: Can you speak up.
 
 Q: He talks about building commensals by strengthening the strength of our vagus nerve. And I know that when I went to India, I was one of the few people that didn't get sick, and I was taking lots of hydrochloric acid to, you know, supposedly prevent myself from those bacteria that I might have been ingesting, being able to cause a problem, you know, to get into my digestive system, which is where I understand that they can affect the bloodstream, through the digestive system. And I'm wondering what you would say about Americans coming to a country like India, why is it that they're so strongly influenced by the different parasites there and the amoebas and the different things that are in the water that's so different than here in the United States? And is it only because we are so toxic, or is it something beyond that? Is it just natural for a human being to go into a different environment and have a stomach?
 

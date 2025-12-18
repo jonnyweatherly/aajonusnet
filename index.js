@@ -1,6 +1,7 @@
 async function search(input) {
     const searchValue = input.value.toLowerCase();
     const trimmedSearchValue = searchValue.trim();
+    const catBar = document.querySelector('.categories');
     const grid = document.querySelector('.grid');
     const results_DOM = document.querySelector('.results');
     results_DOM.innerHTML = '';
@@ -13,8 +14,11 @@ async function search(input) {
         // Less than 3 consecutive non-space characters, ignore this search
         grid.style.display = 'block';
         results_DOM.style.display = 'none';
+				catBar.style.display = 'flex';
         return;
     }
+    catBar.style.display = 'none';
+
     grid.style.display = 'none';
     results_DOM.style.display = 'block';
     

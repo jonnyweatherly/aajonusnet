@@ -1339,6 +1339,7 @@ Beneficial Home Baths compilation.
 
 #### March 18, 2012
 
+```
 3 cups of any combination of cucumber, tomatoes, water melon
 3 T coconut cream
 3 T dairy cream
@@ -1347,9 +1348,12 @@ Beneficial Home Baths compilation.
 1 T ACV
 2-3 T honey
 4 eggs
+```
+
 Makes 1 qt.; if not quite a qt,, may add a little water to make it 1 qt_._
 
 _Sports drink, given to a woman in a Q&A session September 11, 2011_
+
 Sport drink: 2 cups watermelon (pink and red from the seeds down to rind), 1 cup of milk, 1 T.
 APV vinegar, 1 ½ tsp moist Terramin clay, 1 T. each lime juice, lemon juice, 2 T. coconut
 cream, 2-3 eggs, 20 blueberries (to pull out metals) ... blend and sip. Watermelon =
@@ -1357,12 +1361,12 @@ perspiration & body heat (can add ½ cup tomato 1 cup cucumber, whey). Whatever 
 
 #### SPORT DRINK (10 July 2011)
 
+```
 1 cup whey
 1 cup watermelon puree
 1 cup tomato puree
 OR cucumber and watermelon puree instead of tomato and watermelon OR tomato and
-cucumber – these 3 are interchangeable: cucumber, tomato and watermelon. OR all three
-can be combined too.
+cucumber – these 3 are interchangeable: cucumber, tomato and watermelon. OR all three can be combined too.
 2 tablespoons lemon juice
 2 tablespoons lime juice
 1 tablespoon raw apple cider vinegar
@@ -1370,13 +1374,16 @@ can be combined too.
 1 – 2 tablespoons coconut cream
 1 – 2 tablespoons dairy cream (if intense athlete, 2 – 4 tablespoons cream)
 ½ cup sparkling mineral water
-Blend it altogether and you sip on that. It makes about a quart and lasts for 5 hours of sports. Water
-will slow you down because it leaches nutrients out of the body.
+```
+
+Blend it altogether and you sip on that. It makes about a quart and lasts for 5 hours of sports. Water will slow you down because it leaches nutrients out of the body.
 
 
 #### SPORT DRINK (9 Jan 2011)
 
 My athletes drink:
+
+```
 1 cup tomato puree
 1 cup cucumber puree
 1 cup whey
@@ -1385,11 +1392,13 @@ My athletes drink:
 2 – 2 ½ tablespoons honey
 2 tablespoons dairy cream
 usually 2 – 3 eggs
-Blend that together and sip on that. It makes a quart. My athletes go through a quart in 5
-hours and they don’t get weak or tired.
+```
+
+Blend that together and sip on that. It makes a quart. My athletes go through a quart in 5 hours and they don’t get weak or tired.
 
 #### SPORT DRINK (22 Feb 09)
 
+```
 2 cups cucumber puree (some of my tennis players use 3 cups)
 1 cup tomato puree
 1 tablespoon vinegar
@@ -1398,10 +1407,11 @@ hours and they don’t get weak or tired.
 2 – 4 tablespoons coconut cream
 2 – 4 tablespoons dairy cream
 2 ½ oz sparkling mineral water
+```
+
 Blend that altogether.
-Those who are actually performing, doing like 5 hours of sports in a tournament, I have them
-put an egg in every cup of that: whip an egg into it and sip that. But they add the egg into that
-right before they drink it.
+
+Those who are actually performing, doing like 5 hours of sports in a tournament, I have them put an egg in every cup of that: whip an egg into it and sip that. But they add the egg into that right before they drink it.
 
 #### SPORT FORUMULA (14 Dec 2008)
 
@@ -1432,20 +1442,25 @@ _Q: Right._
 A: Yep, and what you could use is whey, instead of the water in the sports drink. Two and a
 half to - well you are a big guy – four ounces of whey instead of four ounces of water.
 
-_As a recipe:
+_As a recipe:_
+
+```
 2 – 2 ½ cups cucumber puree
 1 cup tomato puree
 1 tablespoon vinegar
 1 tablespoon lemon juice
 2 – 4 tablespoons coconut cream
 2 – 4 tablespoons dairy cream
-about 2 ½ – 4 oz. sparkling mineral water or whey._
-Whey can be added to the Sport Formula instead of vinegar or along with the vinegar. You
-blend that altogether and you sip it throughout the day.
+about 2 ½ – 4 oz. sparkling mineral water or whey.
+```
+
+Whey can be added to the Sport Formula instead of vinegar or along with the vinegar. You blend that altogether and you sip it throughout the day.
 
 #### SPORT FORMULA (24 Aug 2008)
 
 If you’re doing sports you want nutrients.
+
+```
 1 – 1 ½ cups tomato puree – leave skins on
 1 ½ – 2 cups cucumber puree – peel the cucumber
 3 – 4 tablespoons coconut cream
@@ -1456,9 +1471,11 @@ If you’re doing sports you want nutrients.
 3 – 4 tablespoons honey (some athletes have problems with that much honey, so you can
 cut it down to just 2 tablespoons)
 1 cup water – If you’re doing a high sport you add a cup of water because you will need a little bit of water in there.
-1 egg – If you’re a sports person you put an egg in it. If you’re not a sports person you
-don’t have to put an egg in it.
+1 egg – If you’re a sports person you put an egg in it. If you’re not a sports person you don’t have to put an egg in it.
+```
+
 Blend it all together.
+
 That’ll take you through 5 hours of hard activity.
-I have tennis players that are playing 5 hours on that one quart of fluid and their competitors
-are drinking a whole gallon of water in that 5 hours.
+
+I have tennis players that are playing 5 hours on that one quart of fluid and their competitors are drinking a whole gallon of water in that 5 hours.

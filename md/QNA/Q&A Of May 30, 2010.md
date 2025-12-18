@@ -992,7 +992,7 @@ A: The primal facial body care cream. Oh, and primal facial body care cream, it'
 
 Q: Where do you get the bone marrow?
 
-A: I get it from North Star Bison. You know, you can get a delivery when Cynthia, when you buy her, get her stuff, she gets it from Rawsome in Los Angeles, so you can order it through her, or you order it direct from North Star Bison. And you get it popped out of the bone already, half the price.
+A: I get it from North Star Bison. You know, you can get a delivery when Cynthia, when you buy her, get her stuff, she gets it from Rawesome in Los Angeles, so you can order it through her, or you order it direct from North Star Bison. And you get it popped out of the bone already, half the price.
 
 Q: Oh, they have it without the bone?
 
