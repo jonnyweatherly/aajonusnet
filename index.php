@@ -1,4 +1,50 @@
 <?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+// Define the path to the cache directory
+$cacheDir = __DIR__ . '/cache';
+
+// Ensure the cache directory exists and is writable
+if (!is_dir($cacheDir)) {
+    mkdir($cacheDir, 0755, true);
+}
+
+// Paths for combined and compressed files
+$combinedContentFile = $cacheDir . '/all-content.md';
+$compressedArchivePathBr = $cacheDir . '/all-content.md.br';
+$compressedArchivePathGz = $cacheDir . '/all-content.md.gz';
+$markdownDir = __DIR__ . '/md';
+
+if (!file_exists($compressedArchivePathBr) && !file_exists($compressedArchivePathGz)) {
+    // Combine all .md files into one if not existing
+    if (!file_exists($combinedContentFile)) {
+        $combinedContent = '';
+        $rii = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($markdownDir));
+        foreach ($rii as $file) {
+            if ($file->isFile() && strtolower($file->getExtension()) === 'md') {
+                // Append the content of each file separated by a special delimiter
+                // We add a new line for clarity.
+                $combinedContent .= "==## File: " . $file->getFilename() . " ##==\n";
+                $fileContents = file_get_contents($file->getRealPath());
+                // Ensure no special characters break JSON if we store it as JSON
+                $combinedContent .= $fileContents . "\n\n";
+            }
+        }
+        file_put_contents($combinedContentFile, $combinedContent);
+    }
+
+    // Attempt to compress combined content using Brotli extension
+    if (extension_loaded('brotli')) {
+        file_put_contents($compressedArchivePathBr, brotli_compress(file_get_contents($combinedContentFile), 11));
+    } else {
+        // Use gzip as fallback
+        file_put_contents($compressedArchivePathGz, gzencode(file_get_contents($combinedContentFile), 9));
+    }
+}
+
+
 $title = "Aajonus Vonderplanitz";
 $description = "Raw Primal Diet: Aajonus Online Archive by Aajonus Vonderplanitz. Complete Aajonus Transcriptions.";
 $url = "https://aajonus.net/";
@@ -393,6 +439,6 @@ if (isset($_GET['s'])) {
     </div>
 </div>
     <?php } ?>
-    <script src="index.js?v=215"></script>
+    <script src="index.js?v=216"></script>
 </body>
 </html>

@@ -424,7 +424,7 @@ Q: What else causes dryness?
 
 A: Toxins in the body. The body is using up the fat to bind with toxins. There's a lot of things that can cause dryness. Many toxins. Even hydrogenated fat causes dryness. Because it's plastic. It's not a fat that your body can utilize properly to lubricate itself, so it will cause dryness. You haven't read the books. Do you have a question?
 
-Q: Um... Well, I have degenerated [unintelligible] my back. If you put a hot water bottle on it, it helps it, right?
+Q: Um... Well, I have degenerated discs my back. If you put a hot water bottle on it, it helps it, right?
 
 A: Absolutely, but if you have a degenerated... Yeah, you can actually see it's dissolving. What does it look like?
 
@@ -432,19 +432,21 @@ Q: Well, it's not equivalent. There's not enough space in there. They're contrac
 
 A: So, then the hot water bottle is the main thing you have to do. Because you need to expand those tendons. Right now, they're choking everything and will keep compressing. And your body will start dissolving its vertebrae to make up for that and it'll start shrinking. So, if you put the heat there, that'll allow the tendons to hold the spinal cord together, the column together, to allow them to relax and there'll be space. That's the only way you can do it. Also, yoga, you know, you can do the spinal twist, whether sitting spinal twist or lying down spinal twist, to make sure that after you use the heat, you know, like you would use a hot water bottle at night, get up in the morning, and do the spinal twist to make sure that everything is stretched while it's still soft, while it's still relaxed. And then it will stretch it even more. By the time it's night time again, then do it again, stretch before you go to sleep, and then put that hot water bottle on. Pardon?
 
-Q: I have a [unintelligible].
+Q: I have a [unintelligible] pain.
 
-A: Always do heat first. So, [unintelligible]. 
+A: Always do heat first. So, hang in the warmth.
 
 Q: That spinal twist is a really important thing to do.
 
 A: If you go and stretch it when those tendons are not relaxed and soft, it will make them more tense. So, as soon as you get off that, they're going to go right back to gripping. And they're just going to, sometimes they'll turn off like that and press on the nerve and cause pain. So, you've got to put heat first. Which is, tendons, when you stretch them, they'll stay stretched and not go right back like a rubber band.
 
-Q: [unintelligible]
+Q: [unintelligible] my physical therapist who will have me go on heat then I stretch.
 
 A: Good. But is he using a hot heating pad? Electric heating pad or what?
 
-Q: It's a hot pad. It's in water. [unintelligible]
+Q: Hydrometer, or .. it's a hot pad. It's in water. [unintelligible]
+
+Q: He put it in a microwave oven with [unintelligible]
 
 A: Oh, yeah, radioactive material. Not a good thing.
 
@@ -456,7 +458,7 @@ Q: I think I know what you're talking about.
 
 Q: Okay, let me show you. I'm not too good these days because of my own uncomfortable stuff that I've been going through. So, I haven't been doing this for a long time. So, I'll just show you. I'll do the lying down one and then also the sitting up one. And I prefer the lying because when you're not so strong, the lying down is a lot easier. And I was told that you move just a little fraction if you're going to one side. So, you put your leg down. I'm going to the left, so I have to turn my head first. You have to make sure that you're going to proper alignment. So, imagine pulling your head so your chin is facing towards your chest and you turn it parallel to your shoulder first. You take your arms out and you twist, holding your knee and keeping your right shoulder down. And when you stay in that position, it relaxes.
 
-A: Sometimes it may not be relaxing for the first minute, but the longer you're in it, the more it will relax. Unless you go into it too fast. If you try to lie down, don't do it slowly like she did. Just lie down and immediately turn it over and you can cause yourself to go into a cramp. [unintelligible] from your back.
+A: Sometimes it may not be relaxing for the first minute, but the longer you're in it, the more it will relax. Unless you go into it too fast. If you try to lie down, don't do it slowly like she did. Just lie down and immediately turn it over and you can cause yourself to go into a cramp. A charley horse in your back.
 
 Q: The key thing is that you really have to follow your body. And that's one thing I try to monitor with my body because it's not really healthy at the moment. And I'm going to move a slight to the left and I'm going to align my head and chin. And I'm going to the left. And again, the leg that's down, you're flexing your toes. You're not pointing, you're flexing because that creates the proper alignment in the energy of your right side. And then slowly go as far as you can. If you try to go this far, that's all you go. I know how far I can go. And I'm surrendering.
 
@@ -548,7 +550,7 @@ Q: Yeah, you're also trying to elongate, which means to stretch, but it's done f
 
 Q: But, yeah, that's good information. Thank you.
 
-A: Well, yoga, basically, when I studied it, when I taught it, is to stretch everything. Like animals, when they first get up, you'll see them all stretch and move around so they can be limber, so they can be fast. If you've got joints rubbing on each other, you're going to wear down your cartilage. Yoga is about stretching everything out to be limber. Then, of course, they've got a [unintelligible] yoga in there to fast up to give you the sweat and exercise. Quick stuff, but yoga was always a slow meditative process to stretch the body in all different positions.
+A: Well, yoga, basically, when I studied it, when I taught it, is to stretch everything. Like animals, when they first get up, you'll see them all stretch and move around so they can be limber, so they can be fast. If you've got joints rubbing on each other, you're going to wear down your cartilage. Yoga is about stretching everything out to be limber. Then, of course, they've got a Bikram yoga in there to fast up to give you the sweat and exercise. Quick stuff, but yoga was always a slow meditative process to stretch the body in all different positions.
 
 Q: One instructor once said, the reason why I'm incorporating so many positions in this one and a half hour class is to tell you, to show you as many good postures as possible. But when you go home, ideally, each pose should be a minimum three to ten minutes. In that way, you allow the body, when you relax, you allow the body to relax and release and then stretch. So there's a lot, there's a lot, like everything's a sign. There's so much information and if you're not ready to hear it, you're not going to hear it. And then you're going to say, yeah, I do that in a fast pace, Bikram yoga in a sweated room. And you know, it's like, you might just not have a proper hot bath.
 
@@ -698,7 +700,7 @@ Q: There's nothing that's healthy.
 
 A: Well, you can go through each part. I mean, you can go through each, you know, let's say the one I bought was the Venetian style, which means there was one block this big, and then another block this big, and then two squares this big, and then another two sections that were like this. So, that was the pattern. So, that's all throughout, you know, the house that way.
 
-Q: [unintelligible[
+Q: [unintelligible]
 
 A: No, it wasn't that. About probably this thick. Not very expensive. And I got it at something like 20% discount. Well, she has a... What is it? I can't think of the name of the stone.
 
@@ -866,15 +868,13 @@ Q: Where are they from?
 
 A: Pennsylvania, Amish farmer.
 
-Q: [unintelligible]
+Q: Amos Miller?
 
-A: No, Eli Nellop, a neighbor.
+A: No, Eli Miller, a neighbor [note, in 2020 it is Willow Run Foods].
 
 Q: Are they trucked in?
 
-A: Trucked in.
-
-Q: Same truckings were...
+A: Trucked in. Same truckings were...
 
 Q: What about the ones at the farmer's market?
 
@@ -1130,7 +1130,7 @@ Q: Yeah, it's getting in the skull too and it comes out like the glandular syste
 
 A: If you put hot water bottles at your neck at night and cover, you know, like this area with a towel, so you can still breathe through your nose, you know, you'll cause yourself to perspire it out through the skin quicker without causing it to go out the throat. Because right now it's not getting out through the skin very easily. It needs to melt down so it goes out of your tongue and your throat.
 
-Q: How do you put [unintelligible]?
+Q: How do you put those hot water bottles around you?
 
 A: Hang on, just put them on the side and then you keep the heat in with a towel or a shawl or something like that.
 
@@ -1146,11 +1146,7 @@ Q: And then, as you're going through it, and you know your tissues are all raw.
 
 A: Just do it, just do it. I would, if you had that kind of reaction, I'd do it before you went to sleep and then have the hot water bottles. Unless you could take a nap after having it. Just so you can perspire it out.
 
-Q: [unintelligible] slow the detox a little bit?
-
-A: Pardon?
-
-Q: [unintelligible] slow the detox a little bit?
+Q: What if you want to slow the detox a little bit?
 
 A: I think just use less than an ounce. Of course, that's a hell of a way to make it.
 
@@ -1212,7 +1208,7 @@ A: If there's no window that opens, I don't go to that hotel.
 
 Q: Yeah.
 
-Q: [unintelligible]
+Q: Does apple cider vinegar clean just as well as white vinegar?
 
 A: I think better. It leaves a film though. Because there's a slight bit of oil in it. White vinegar has no oil.
 
@@ -1256,7 +1252,7 @@ Q: Right.
 
 A: I don't care if it's an alley. I'm off of the main street, I want the back and a window that opens, and no chemical cleanser. None. Use water and vinegar maybe, but that's it.
 
-Q: Do you follow [unintelligible]?
+Q: And power lines don't bother you in [unintelligible]?
 
 A: Not a lot of cities have it. I haven't run into it around hotels. I haven't seen any big electrical units around a hotel in Nevada.
 
@@ -1272,7 +1268,7 @@ Q: Organic cotton sheets.
 
 A: Where is it? Gaiam. Gaiam.com. G-A-I-A-M. Gaiam.com.
 
-Q: You can get some local into it. EchoBathing.com in San Diego.
+Q: You can get some locally too. EchoBathing.com in San Diego.
 
 A: G-A-I-A-M. 
 
@@ -1350,13 +1346,13 @@ Q: Where does the dryness come from? Is it sucking up all your fat?
 
 A: Yeah, any time you have toxins, like you say, let's say you have a toxin of mercury that was in a nerve and all of a sudden it's coming out of your gum. Your body has to use 50 to 200 molecules of fat to harness that one molecule of mercury. So all of a sudden you go dry. And you look at people and you say, where do they go dry first? They start wrinkling in the face. Because the brain is 60 to 80% fat. So that's where a lot of toxins go. And when the brain detoxifies, where does it detoxify? Tongue, gums and salivary glands.
 
-Q: [unintelligible]
+Q: [unintelligible] kiwi mango [unintelligible]?
 
-A: That's why it goes in the face first. 
+A: Yep. That's why it goes in the face first and neck. 
 
-Q: It's toxins.
+Q: It's toxins?
 
-A: Toxins leaving the brain, ripping all the fat. So they're fat deficient in the whole face.
+A: Toxins leaving the brain, ripping all the fat. So you are fat deficient in the whole face.
 
 Q: So if you put that primal cream...
 
@@ -1366,7 +1362,7 @@ Q: I don't know. Four.
 
 A: Four o'clock. We'll do another 15 minutes. Do you have another question?
 
-Q: Why is having too much cream caused osteoporosis?
+Q: Why does having too much cream cause osteoporosis?
 
 A: Any kind of... See, when your body utilizes fat in the body, it needs a certain amount of protein to utilize it. Also needs a certain amount of minerals. It's very mineral deficient. And it causes a lot of need for minerals. So if you're eating a lot of cream, it's difficult to digest already. And you've got a mineral deficiency or you're not keeping up with eating enough cheese. Then you're going to have a mineral deficiency. But you'll do that by overeating any kind of oil or any kind of fat.
 
@@ -1450,9 +1446,9 @@ Q: Any metal.
 
 A: Yeah, any kind of metal. The way I first discovered it was, every time I would eat a lot of oysters, because when I go to Asia I eat a lot of oysters, and now the price is so high they're even more expensive over there than here now. But when I was going over there first, I noticed that the metal that showed up in my iris was remarkably less every time I went through a long period of eating a lot of oysters. So I had one woman who was born and raised in the heart of London, and there are four airports. So you've got four airports dumping their benzene all over the place over London. And she looked like a lathe operator. She had so much metal in her system she was chronically fatigued, fibromyalgia, emotionally distraught, imbalanced, couldn't stay on and off the diet, nothing was satisfying. So after about two years of all that mess, I said, you need to do something radical. So give this a try. She wouldn't eat the high meat. But high meat was really not her problem. She needed to remove the metals. So I said, take a half a cup of red meat, ground would be better because I don't want you to spend a lot of time on digestion, and eat three oysters twice daily, six days a week. And on the seventh day, eat chicken or whatever you want, with that beef or no beef and just eat chicken, some other kind of fish, some other kind of seafood. So she did that solidly, religiously for a year. And when she came back, usually when it takes people three to five years, metal to remove, she removed in that one year. It changed her whole life. She became happy. She was solid. She could have a relationship. She was emotionally moody. Pardon?
 
-Q: What did she eat [unintelligible]?
+Q: What did she eat with the oysters [unintelligible], fat?
 
-A: I said, she had half a cup of red meat, and then the three oysters, and of course, at least a tablespoon of butter.
+A: I said, she had to have half a cup of red meat, and then the three oysters, and of course, at least a tablespoon of butter.
 
 Q: Can you drink that the liquid when you chuck it in yourself, is that a good idea?
 
@@ -1876,4 +1872,128 @@ Q: I think Cynthia's place is ideal for it.
 
 Q: But she doesn't want to do it. That's the thing. If she wants to do it with me, she wants to do it with James. If she doesn't want to do it because of her, well, there you go. She's doing it for emotional, spiritual, and mental.
 
-Q: But here's the thing. The thing of it is whether you do it or you do it as a group.
+Q: But here's the thing. The thing of it is whether you do it or you do it as a group. If you say, okay, [unintelligible], January 2nd. You receive all the data that you need to understand about what's the conflict and what's the issue. Here's the deal. [unintelligible] Now, if you want to still be part of the co-op connection with that, then fine, John will be your [unintelligible]. If you don't want to, then we have to...
+
+Q: [unintelligible]
+
+Q: Well, you don't have to put that in.
+
+Q: Yes, you do. She'll keep doing all the other people that don't know that.
+
+Q: Well, because, once again, it's for spiritual stuff.
+
+Q: Well, she's got a lot going on. She makes all kinds of mistakes in terms of her excuses. She's got a lot going on, but it's not really about that. Anyway, I don't mind speaking to her and saying, you know, we're concerned. No, I've called her. I've called her. So, anyway, I'll say to her that if she doesn't want to switch over when it's time with John Reed, then...
+
+A: Of course, you're going to set up somewhere else.
+
+Q: Well, as a group, we'll just set up somewhere else and we won't order through you for John Reed.
+
+Q: Let all these other people get e-mails and continue to order and continue to say, as a group, this is what we want.
+
+Q: Oh, no. Well, that's what I'm trying to say, as a group. But how do you... Yeah.
+
+A: But if she says no... 
+
+Q: Then you just say, if you have somebody else...
+
+Q: Well, I won't even say that. I'll just... If she says no, I'll just say, well, okay, I've heard you and you've heard me.
+
+Q: But you need to say that because the whole point of it is you just... Joe just said she wants to do the co-op. Okay, so the message to me is very clear. The majority says we want to switch. So if you want to do the co-op, you go to John Reed.
+
+Q: Okay, then it's getting mixed up because...
+
+A: It seems like she still wants to do the co-op.
+
+Q: Yeah.
+
+Q: Okay, you know what, I'm...
+
+Q: I'm actually involved with her a lot on it. When the stuff comes in, I do the calculation.
+
+Q: I see that.
+
+Q: Because she just seems to be so slow on it and so scattered with other things going on. She has conference calls on spiritual stuff, and so I end up doing all the calculations. I pay the difference between what everybody else pays and what James needs. So I pay that, and then the rest I give to her and Ebrahim, and so I do all the calculations.
+
+A: So why are you not doing it instead of her?
+
+Q: Well, there's no place.
+
+Q: Because that place is convenient there. I live in La Jolla, [unintelligible].
+
+Q: I live in La Jolla.
+
+Q: You know, I really think it should come from you, because there's too much things that are mixed up with me at home. But I will have a yard to do it in. Joe can set it up with people on the email, and the order can come in to Encinitas proper, where I am.
+
+Q: [unintelligible]
+
+Q: She said she does it, because she makes it.
+
+Q: Because when you put a little surcharge on it, because her discount from January was so small, she was almost making nothing.
+
+A: Oh, yeah, that's what I mean.
+
+Q: Her discount was so stingy, and so I talked her into putting a small surcharge on it, and so now she's making, you know, pretty good.
+
+Q: [unintelligible]
+
+Q: There's the answer right there. She's making money from it, so if you take the green letter away from her, then...
+
+Q: Well, first of all, I really think you should talk to her, because I think she's too scattered, and she's using that as an excuse, the whole spiritual thing. She doesn't want to really step on anybody, because it's been going on for so long, and I don't know.
+
+Q: That's not what it is. It's point dry. She said it back in summer, which is, she doesn't believe in what I see.
+
+Q: Yeah, no, I've spoken to Cynthia. She goes here and there.
+
+Q: She was talking about, it's all about a feud between Aajonus and just what she thought it was.
+
+Q: She's making up other stories.
+
+Q: No, she's not wanting to see it for what it is. No, she doesn't want to see it for what it is. She wants to take sides.
+
+A: Well, she took the wrong side.
+
+Q: Well, she doesn't even know what side she's taking.
+
+Q: You know, I've seen that kind of manner. A person's going to switch whatever's happening, and it's not that she wants to take sides.
+
+A: But that's what I thought. That's why we had that evidence meeting to show everyone. Only like 30 people came.
+
+Q: She's not convinced, though. She's not convinced.
+
+A: It's there on the website. I don't have any responsibility... If she wants to come to me about it, fine. I don't have any... For somebody like that, who I helped out of cancer and is alive today, and she attacks me...
+
+Q: She's not really attacking you. In her mind, she's not attacking you.
+
+A: No, no, no. That's attacking... I don't believe Aajonus, is attacking me.
+
+Q: But she doesn't want you to get [unintelligible].
+
+A: I don't give a shit. I have no compassion for her.
+
+Q: I agree with you on this.
+
+A: I have no loyalty. If she has no loyalty, I have no loyalty.
+
+Q: Well, I'd still speak to her.
+
+Q: What are your books? I can buy them on here.
+
+A: No, I only have one of them here. My recipe book I have here in the car. But the other one I don't have, but you can buy that one.
+
+Q: Oh, so you don't have those, too.
+
+A: I only have one of the two.
+
+Q: Yeah, I will buy whatever you have.
+
+A: Okay. Does everybody have the $35 for this? That's the smallest group you've ever had.
+
+Q: And it's been wonderful.
+
+A: Good.
+
+Q: Every last minute.
+
+Q: So you don't think it's okay to speak to her?
+
+A: Umm...

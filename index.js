@@ -32,8 +32,9 @@ async function search(input) {
     for (let i = 0; i < cards.length; i++) {
        const card = cards[i];
        const title = card.querySelector('h2').textContent.toLowerCase();
-       const content = card.querySelector('.data').innerHTML.toLowerCase();
        const link = card.querySelector('.read-more').href;
+       const dataId = card.querySelector('.data').id;
+       const content = articleData[dataId].text;
        const [exactResults, partialResults] = await highlightSearchText(content, searchValue, validwords, trimmedSearchValue, link);
 
        if (title.includes(searchValue)) {
@@ -369,28 +370,36 @@ openRequest.onerror = function(event) {
 
 let hasRetried = false;
 
-// Populate HTML and enable search
+// Global variable to store data
+let articleData = {};
+
 function populateAndEnableSearch(data) {
-try {
-  Object.keys(data).forEach(id => {
-    const el = document.getElementById(id);
-    el.innerHTML = data[id];
-    el.style.display = "none"; // Keep it hidden for search later
-  });
-  const searchEl = document.getElementById("search");
-  searchEl.disabled = false;
-  searchEl.placeholder = "Search";
-  search(searchEl); // Assuming you have a search function
-  hasRetried = false;
-} catch (error) {
-  console.error("Error:", error);
-  if (!hasRetried) { // Reset the cache
-    hasRetried = true;
-    const transaction = db.transaction(["myData"], "readwrite");
-    transaction.objectStore("myData").delete("allData");
-    loadContentAsync();
-  }
-}
+    try {
+        // Create a temporary div to handle HTML parsing
+        const tempDiv = document.createElement('div');
+        
+        // Populate articleData with parsed HTML content
+        Object.keys(data).forEach(id => {
+            tempDiv.innerHTML = data[id];
+            articleData[id] = {
+                html: data[id],
+                text: tempDiv.textContent.toLowerCase()
+            };
+        });
+        const searchEl = document.getElementById("search");
+        searchEl.disabled = false;
+        searchEl.placeholder = "Search";
+        search(searchEl); // Initiate search if necessary
+        hasRetried = false;
+    } catch (error) {
+        console.error("Error:", error);
+        if (!hasRetried) { // Reset the cache
+            hasRetried = true;
+            const transaction = db.transaction(["myData"], "readwrite");
+            transaction.objectStore("myData").delete("allData");
+            loadContentAsync();
+        }
+    }
 }
 
 // Store entire dataset in IndexedDB with expiration time

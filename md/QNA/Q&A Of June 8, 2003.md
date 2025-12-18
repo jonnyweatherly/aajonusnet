@@ -454,7 +454,7 @@ Q: [unintelligible] The reason why these people are not getting sick.
 
 Q: [unintelligible]
 
-A: Well, it was [unintelligible] to begin with. I mean, I started [unintelligible] in '69 and started eating meat in '76. I made sure a lot of years passed and I got enough research. I got a lot of experience behind this.  Doctors [unintelligible] these people get out there on the [unintelligible]. Because they imagine they agree with some kind of science that it's the truth. You know, I tell these people, I said, you don't know. You're new into it. You don't know. I would never be able to think that I [unintelligible] to the public in the world. And I worked with it a long time. [unintelligible[ a new book called the [unintelligible].
+A: Well, it was [unintelligible] to begin with. I mean, I started [unintelligible] in '69 and started eating meat in '76. I made sure a lot of years passed and I got enough research. I got a lot of experience behind this.  Doctors [unintelligible] these people get out there on the [unintelligible]. Because they imagine they agree with some kind of science that it's the truth. You know, I tell these people, I said, you don't know. You're new into it. You don't know. I would never be able to think that I [unintelligible] to the public in the world. And I worked with it a long time. [unintelligible] a new book called the [unintelligible].
 
 Q: [unintelligible]. When I do my research, [unintelligible].
 
