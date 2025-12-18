@@ -46,7 +46,7 @@ async function search(input) {
        }
 
        const content = dataEntry.text;
-       const [exactResults, partialResults] = await highlightSearchText(content, searchValue, validwords, trimmedSearchValue, link);
+       const [exactResults, partialResults] = highlightSearchText(content, searchValue, validwords, trimmedSearchValue, link);
 
        const searchTitleWords = trimmedSearchValue.split(/\s+/);
        if (searchTitleWords.every(word => title.includes(word))) {
@@ -68,6 +68,7 @@ async function search(input) {
 
      // Display the total number of results
      const resultsSummary = document.createElement('p');
+     resultsSummary.classList.add('results-summary');
      resultsSummary.textContent = `There are ${totalResults} results.`;
      results_DOM.insertBefore(resultsSummary, results_DOM.firstChild);
     
@@ -311,11 +312,6 @@ document.addEventListener("DOMContentLoaded", function() {
         removeHighlights();
     });
   }
-  
-  // Check if running as a web app and article is open
-  if (isPWA() && document.getElementById("share-button")) {
-      document.getElementById("share-button").style.display = "inline-block";
-  }
 });
 
 function isPWA() {
@@ -393,7 +389,6 @@ let articleData = {};
 
 function populateAndEnableSearch(data) {
     try {
-        // Create a temporary div to handle HTML parsing
         const tempDiv = document.createElement('div');
         
         // Populate articleData with parsed HTML content

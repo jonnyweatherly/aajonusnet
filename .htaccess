@@ -1,7 +1,4 @@
 RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-
 # Sitemap
 RewriteRule ^sitemap\.xml$ sitemap.php [L,NC]
 
@@ -17,9 +14,9 @@ RewriteRule ^([^/%]+)/([^/%]+)/?$ index.php?category=$1&file=$2 [L,QSA,B,UnsafeA
 
 <IfModule mod_expires.c>
     ExpiresActive on
- 
     ExpiresByType image/jpg "access plus 1 month"
     ExpiresByType image/jpeg "access plus 1 month"
     ExpiresByType image/gif "access plus 1 month"
     ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/webp  "access plus 1 month"
 </IfModule>

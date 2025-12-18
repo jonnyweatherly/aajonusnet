@@ -8,6 +8,7 @@ $description = "Raw Primal Diet: Aajonus Online Archive by Aajonus Vonderplanitz
 $keywords = "aajonus, aajonus vonderplanitz, primal diet, raw primal diet, raw meat, raw milk, raw dairy, raw meat diet, raw honey";
 $url = "https://aajonus.net/";
 $sitename = "Aajonus Vonderplanitz";
+$twitterAccount = "@Aajonus";
 
 $categoryInLinks = false;
 $prioritizeCategories = ['QNA', 'Newsletters', 'Books', 'Books/Old'];
@@ -17,16 +18,16 @@ $articleMap = [];
 $categoryMap = [];
 
 function sanitizeFileName($string) {
+    $string = iconv('UTF-8', 'ASCII//TRANSLIT', $string);
     $string = preg_replace('/[^a-zA-Z0-9\s]/', '', $string);
     $string = preg_replace('/\s+/', '-', $string);
-    return strtolower($string);
+    return strtolower(trim($string, '-'));
 }
 
 function populateArticleMap() {
-    global $articleMap, $categoryMap;
-    $mdFolder = 'md';
+    global $articleMap, $categoryMap, $mdFolder;
     $mdFolderLength = strlen($mdFolder) + 1;
-    $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder,  FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::SELF_FIRST);
+    $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder, FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::SELF_FIRST);
     foreach ($files as $file) {
         $filePath = $file->getPathname();
         if ($file->isDir()) {
@@ -55,7 +56,7 @@ $uriSegments = explode("/", $uri);
 $sanitizedFile = array_pop($uriSegments);
 $originalFile = findOriginalFileName($sanitizedFile);
 
-$dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
+$dynamicTitle = $originalFile ? basename($originalFile, '.md') : $title;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -65,9 +66,9 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="canonical" href="<?php echo $url; ?>">
     <base href="/">
-    <link rel="stylesheet" href="style.css?v=28">
-    <link rel="icon" href="favicon.ico" type="image/x-icon" sizes="any">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="style.css?v=50">
+    <link rel="icon" href="logos/favicon.ico" type="image/x-icon" sizes="any">
+    <link rel="apple-touch-icon" href="logos/apple-touch-icon.png">
 
     <meta name="title" content="<?php echo $dynamicTitle; ?>">
     <meta name="description" content="<?php echo $description; ?>">
@@ -78,10 +79,12 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
     <meta property="og:url" content="<?php echo $url; ?>">
     <meta property="og:site_name" content="<?php echo $sitename; ?>">
     <meta property="og:type" content="website">
-	<meta property="og:image" content="<?php echo $url; ?>large-logo.jpg">
+    <meta property="og:image" content="<?php echo $url; ?>logos/large-logo.jpg">
 
     <meta name="twitter:card" content="summary">
-	<meta name="format-detection" content="telephone=no">
+    <meta property="twitter:image" content="<?php echo $url; ?>logos/large-logo.jpg">
+    <meta name="twitter:site" content="<?php echo $twitterAccount; ?>">
+    <meta name="format-detection" content="telephone=no">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
 
@@ -93,7 +96,7 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
             <?php if ($originalFile) { ?>
                 <div class="back-arrow" onclick="goBack()">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-                        <path fill="#FFFFFF" d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/>
+                        <polygon fill="#FFFFFF" points="20,11 7.83,11 13.42,5.41 12,4 4,12 12,20 13.41,18.59 7.83,13 20,13"/>
                     </svg>
                 </div>
 
@@ -106,11 +109,10 @@ $dynamicTitle = (!$originalFile) ? $title : basename($originalFile, '.md');
         <?php } ?>
         </div>
     </div>
-    <?php 
-if (!$originalFile) { ?>
+    <?php if (!$originalFile) { ?>
         <!-- Search Bar -->
         <div class="search-container">
-            <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 44"> <path fill="#757575" d="M14.298,27.202l-3.87-3.87c0.701-0.929,1.122-2.081,1.122-3.332c0-3.06-2.489-5.55-5.55-5.55c-3.06,0-5.55,2.49-5.55,5.55 c0,3.061,2.49,5.55,5.55,5.55c1.251,0,2.403-0.421,3.332-1.122l3.87,3.87c0.151,0.151,0.35,0.228,0.548,0.228 s0.396-0.076,0.548-0.228C14.601,27.995,14.601,27.505,14.298,27.202z M1.55,20c0-2.454,1.997-4.45,4.45-4.45 c2.454,0,4.45,1.997,4.45,4.45S8.454,24.45,6,24.45C3.546,24.45,1.55,22.454,1.55,20z"></path> </svg>
+            <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 44"><g stroke="#757575" stroke-width="1.1" fill="none" stroke-linecap="butt"><circle cx="6" cy="20" r="5"/><line x1="10.039" y1="23.721" x2="13.909" y2="27.591"/></g></svg>
             <input type="text" id="search" class="search-bar" oninput="search(this)" placeholder="Search">
             <div id="clear-icon" class="clear-icon" onclick="clearSearch()">&#10005;</div>
         </div>
@@ -118,7 +120,6 @@ if (!$originalFile) { ?>
 	    <div class="categories">
     		    <a href="#" onclick="filterCategory('All', 'All', this)">All</a>
     		    <?php 
-   		    $mdFolder = 'md';
     		    $directories = glob($mdFolder . '/*', GLOB_ONLYDIR);
             $folderName = '';
             if (isset($_GET['category'])) {
@@ -128,11 +129,7 @@ if (!$originalFile) { ?>
     		    foreach ($directories as $dir) {
        		    $category = str_replace('md', '', basename($dir));
                  $sanitizedCategory = sanitizeFileName($category);
-                  $selectedClass = '';
-
-                  if (isset($folderName) && strtolower($category) === strtolower($folderName)) {
-                     $selectedClass = 'chosen-link';
-                  }
+                 $selectedClass = (isset($folderName) && strtolower($category) === strtolower($folderName)) ? 'chosen-link' : '';
         		    echo '<a href="#" class="' . $selectedClass . '" onclick="event.preventDefault(); filterCategory(\'' . $category . '\', \'' . $sanitizedCategory . '\', this)">' . $category . '</a><br>';
    		    }
    		    ?>
@@ -141,12 +138,12 @@ if (!$originalFile) { ?>
         <div class="grid">
         <?php
 		   if (!empty($folderName)) {
-                $fullFolderPath = "md/" . $folderName;
+                $fullFolderPath = $mdFolder . "/" . $folderName;
 
                 $lowerFullFolderPath = strtolower($fullFolderPath);
                 $folderExists = false;
                 
-                 foreach (glob("md/*", GLOB_ONLYDIR) as $dir) {
+                 foreach (glob($mdFolder . "/*", GLOB_ONLYDIR) as $dir) {
                     if (strtolower($dir) == $lowerFullFolderPath) {
                        $folderExists = true;
                        $folderName = basename($dir);
@@ -164,7 +161,6 @@ if (!$originalFile) { ?>
             
             $articles = [];
 
-            $mdFolder = 'md';
             $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($mdFolder));
 
 foreach ($files as $file) {
@@ -228,7 +224,7 @@ if ($mainCatA == 'QNA') {
     
     return $timestampB - $timestampA;  // Newest first
 }
-        
+
         $fullCatA = $a['category'];
         $fullCatB = $b['category'];
         
@@ -300,13 +296,12 @@ $sanitizedName = sanitizeFileName($originalName);
     </main>
     <?php } else { ?>
         <div class="content"><?php
-                $file = 'md/' . $originalFile . '.md';
+                $file = $mdFolder . '/' . $originalFile . '.md';
 
                 if (file_exists($file)) {
                     require 'libs/Parsedown.php';
                     $Parsedown = new Parsedown();  
-                    $content = file_get_contents($file);
-                    $content = trim($content);
+                    $content = trim(file_get_contents($file));
 
 $scrollToThisPlaceholder = "\u{F8FF}";
 
@@ -314,8 +309,8 @@ if (isset($_GET['search'])) {
     $pattern = '';
     $searchValue = preg_replace('/\s/', '', html_entity_decode(strip_tags($_GET['search'])));
     
-    for ($i = 0; $i < mb_strlen($searchValue); $i++) {
-        $pattern .= preg_quote(mb_substr($searchValue, $i, 1), '/') . '(?:\\s*|)';
+    for ($i = 0; $i < iconv_strlen($searchValue, 'UTF-8'); $i++) {
+        $pattern .= preg_quote(iconv_substr($searchValue, $i, 1, 'UTF-8'), '/') . '(?:\\s*|)';
     }
 
     if (preg_match('#' . $pattern . '#miu', $content, $matches, PREG_OFFSET_CAPTURE)) {
@@ -342,7 +337,7 @@ if (isset($_GET['pos'])) {
         $words = explode('+', $s); // Split the words
 
         $words = array_filter($words, function($word) {
-           return mb_strlen($word) >= 2;
+           return iconv_strlen($word, 'UTF-8') >= 2;
         });
 
         $pattern = implode('|', array_map(function ($word) {
@@ -356,7 +351,6 @@ if (isset($_GET['pos'])) {
     }
 
 $content = str_replace($scrollToThisPlaceholder, '<span id="scrollToThis"></span>', $content);
-     //$category = basename(dirname($file));
 
          $content = preg_replace('/!\[\[(.*?) \| (\d+)\]\]/', '<img src="imgs/$1" alt="$1" width="$2">', $content);
          $content = preg_replace('/!\[(.*?)\]\((.*?)\)/', '![$1](imgs/$2)', $content);
@@ -384,14 +378,13 @@ foreach ($footnoteRefs as $ref) {
 }
                     echo $htmlContent;
 if (isset($_GET['s'])) {
-            echo '<button id="removeHighlights">&#10005; Highlights</button>';
+            echo '<button id="removeHighlights"><span class="x">×</span>Highlights</button>';
         }
                 } else {
                     echo '<p>File not found.</p>';
                 }
             ?>
-    </main>
-</div>
+    </div>
 <button id="activate-find-on-page" class="activate-find-on-page">
     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="11" cy="11" r="8"></circle>
@@ -410,6 +403,6 @@ if (isset($_GET['s'])) {
     </div>
 </div>
     <?php } ?>
-    <script src="index2.js?v=231"></script>
+    <script src="index2.js?v=342"></script>
 </body>
 </html>

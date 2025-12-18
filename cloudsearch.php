@@ -84,13 +84,16 @@ usort($articles, function ($a, $b) use ($prioritizeCategories) {
         $pattern = '/\b(?:(January|February|March|April|May|June|July|August|September|October|November|December)'
                  . '(?:(?:\s+(\d{1,2})(?:,\s*|\s+))|(?:,\s*))?)?(\d{4})\b/';
         preg_match($pattern, $a['filename'], $ma);
-        $timestampA = strtotime(
-            ($ma[1] ?? 'January') . ' ' . ($ma[2] ?? '1') . ', ' . ($ma[3] ?? '1970')
-        );
+        $monthA = !empty($ma[1]) ? $ma[1] : 'January';
+        $dayA   = !empty($ma[2]) ? $ma[2] : '1';
+        $yearA  = isset($ma[3])  ? $ma[3] : '1970';
+        $timestampA = strtotime("$monthA $dayA, $yearA");
+
         preg_match($pattern, $b['filename'], $mb);
-        $timestampB = strtotime(
-            ($mb[1] ?? 'January') . ' ' . ($mb[2] ?? '1') . ', ' . ($mb[3] ?? '1970')
-        );
+        $monthB = !empty($mb[1]) ? $mb[1] : 'January';
+        $dayB   = !empty($mb[2]) ? $mb[2] : '1';
+        $yearB  = isset($mb[3])  ? $mb[3] : '1970';
+        $timestampB = strtotime("$monthB $dayB, $yearB");
         return $timestampB - $timestampA;
     }
     $fullCatA = $a['category'];
@@ -134,11 +137,10 @@ function findMatches($body, $searchValue, $words, $maxLen, $link) {
         $offset = 0;
         while (false !== ($pos = strpos($body, $w, $offset))) {
             $start = max(0, $pos - $maxLen);
-            $end   = min(strlen($body), $pos + $maxLen);
             if ($start < $lastEnd) {
-                $offset = $pos + 1;
-                continue;
+                $start = $lastEnd;
             }
+            $end = min(strlen($body), $start + ($maxLen * 2));
 
             $win = substr($body, $start, $end - $start);
             $win = mb_convert_encoding($win, 'UTF-8', 'UTF-8');

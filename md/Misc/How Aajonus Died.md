@@ -4,7 +4,7 @@ The name of Aajonus Vonderplanitz has lived beyond his death.
 
 Alongside advocating for his raw food diet, The Primal Diet outlined in his talks and books, and helping desperate refugees of the medical industrial complex regain their strength, he was an active supporter of food freedom. He was early and prominent in the push for making raw milk accessible under unjust legal circumstances.
 
-![[aajonusdeath_stonewall.jpg]]
+![[aajonus_04.jpg]]
 
 ### Aajonus Vonderplanitz falls from his balcony in Thailand
 
@@ -142,7 +142,7 @@ There are also some articles, topics, and transcribed Q&A sessions hosted on aaj
 
 ### Aajonus Vonderplanitz and his mother Doris
 
-![[aajonusdeath_mom-doris.jpg]]
+![[aajonus_16.jpg]]
 
 
 Friendly reminder that you don’t have all the time in the world. Get out there and do something.

@@ -1456,7 +1456,7 @@ A: Oh you don't want those. They won't juice well at all. We want firm
 and moist, hard and moist because ifits soft, you're not going to get a lot of
 juice unless you run the pulp through many times.
 
-Q:: Where do you buy it?
+Q: Where do you buy it?
 
 A: Well, the best place to get the freshest ones is go to a fruit
 supplier, a fruit market supplier and get a fresh bag because any of those that

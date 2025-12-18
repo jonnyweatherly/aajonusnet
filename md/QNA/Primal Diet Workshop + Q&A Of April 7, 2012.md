@@ -1220,7 +1220,7 @@ Q: She hasn't been here in a while.
 
 A: So no questions, right?
 
-Q:Well, if you were, I got a couple questions. If you were to want to have the optimal diet, but you just don't want to eat, I have a few of my friends or my mom that thinks it's just gross, it's disgusting. And so how would you go about having an optimal diet with no meat? Is that even possible?
+Q: Well, if you were, I got a couple questions. If you were to want to have the optimal diet, but you just don't want to eat, I have a few of my friends or my mom that thinks it's just gross, it's disgusting. And so how would you go about having an optimal diet with no meat? Is that even possible?
 
 A: Well, it depends upon your energy level. If she's a slug, then just have her drink milk. You know, I have lots of people, lots of, not lots, I've got eight women over the age of 60 who live on their raw milk, but they're not, they don't go out and golf. They don't do heavy, you know, they do their food preparation. They watch their soap operas, and they read, and they sew, and they knit, stuff like that. They're not out golfing or playing tennis, you know. None of them do. If they, all of the elderly people who do sports need the raw meat. So it depends on her activity level.
 

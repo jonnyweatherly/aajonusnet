@@ -123,9 +123,9 @@ h1, .header, .title {
     width: 100%;
     margin: 1vh auto 2vh;
     padding: 8px 40px;
-    border: 1px solid #fff;
+    border: 1px solid #444;
     border-radius: 5px;
-    background-color: transparent;
+    background-color: #111;
     color: #fff;
     font-size: 20px;
     box-sizing: border-box;
@@ -153,6 +153,7 @@ h1, .header, .title {
     left: 12px;
     width: 18.75px;
     height: 55px;
+    z-index: 2;
 }
 
 .clear-icon {
@@ -170,6 +171,9 @@ h1, .header, .title {
 .result-link, .title {
     color: #fff;
     text-decoration: none;
+}
+.results-summary {
+    color: #ccc;
 }
 .category {
     color: #ddd;
@@ -200,13 +204,14 @@ h1, .header, .title {
 .categories a {
     color: #fff;
     text-decoration: none;
+    background-color: #111;
     margin: 5px;
-    border: 1px solid #fff;
+    border: 1px solid #444;
     padding: 1vh;
     border-radius: 1vh;
 }
 .chosen-link {
-    background-color: #fff;
+    background-color: #fff !important;
     color: #000 !important;
 }
 #scrollToThis {

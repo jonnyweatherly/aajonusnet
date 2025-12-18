@@ -358,7 +358,7 @@ So bone marrow is the only other place. So it helps you regenerate tissue faster
 
 Q: I mean, I get a cut of meat that has bone, that has marrow in it. I mean, you don't get much, but you still get something.
 
-Q:Can you just buy the bones?
+Q: Can you just buy the bones?
 
 A: You're going to saw them in two and break them up?
 

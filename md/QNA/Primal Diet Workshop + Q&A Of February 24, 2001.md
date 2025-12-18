@@ -810,7 +810,7 @@ Q: So, in small quantities for some people that might be appropriate?
 
 A: Correct.
 
-Q:And what about things like sweet potatoes, is that the same thing?
+Q: And what about things like sweet potatoes, is that the same thing?
 
 A: Never.
 

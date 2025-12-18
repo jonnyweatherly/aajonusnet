@@ -2,7 +2,7 @@
 
 Date: 9 June 2022
 
-![[sonjeff.webp]]
+![[sonjeff.jpg]]
 
 J = Jeff, Z = Zara Milan
 

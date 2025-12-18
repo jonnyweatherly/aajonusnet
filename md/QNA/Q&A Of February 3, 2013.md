@@ -2063,7 +2063,7 @@ Q: A day.....
 A: The Andes in Chili.But they kick a wicker ball and they'll have nine in a
 line, and they may have a hundred of those lines and at all ages - even 90, 100
 year old men. The first one kicks the thing as far as he can and they're very
-good at it because you''re on a narrow mountain trail. And they'll kick that
+good at it because you're on a narrow mountain trail. And they'll kick that
 wicker ball, they'll kick it away, that person falls back behind, next one kicks
 and they just do that the whole way. And that keeps them entertained so they
 don't get bored with running that hundred miles.
