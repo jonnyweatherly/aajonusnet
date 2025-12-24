@@ -1,4 +1,4 @@
-@[Source](https://web.archive.org/web/20230321170125/https://www.primaldiet.net/shop/transcript-of-consult-with-photosfinalelena/)
+@[Source](https://archive.org/download/aajonus-books/Personal%20Consult%20Elena.pdf) (@[Original Release](https://web.archive.org/web/20210304212439/https://www.primaldiet.net/shop/transcript-of-consult-with-photosfinalelena/))
 
 Client: Elena
 

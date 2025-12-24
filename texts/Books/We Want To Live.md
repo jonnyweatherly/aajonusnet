@@ -1,6 +1,6 @@
-[(Click here to skip straight to the remedies)](#remedies)
+@[Source](https://archive.org/download/aajonus-books/We%20Want%20To%20Live.pdf)
 
-WANT TO LIVE! Expanded and Revised in 2005 by Aajonus Vonderplanitz
+WE WANT TO LIVE! Expanded and Revised in 2005 by Aajonus Vonderplanitz
  
 “Revolutionary! This is an exciting book. An important book.” Dr. Robert Atkins, M.D. Author of numerous best selling diet books
 
@@ -38,13 +38,13 @@ Mr. Vonderplanitz is based in Malibu, California, USA, and advises people on nut
 
 -----------------<>----------------
 
-Volume One
+[Volume One](#vol1)
 
 Out of the Grips of Disease and Death (the story)
 
 -----------------<>----------------
 
-Volume Two
+[Volume Two](#vol2)
 
 Healthfully (the facts)
 
@@ -76,7 +76,7 @@ Dedication, and Acknowledgment 5
 
 Prologue 6
 
-VOLUME ONE
+[VOLUME ONE](#vol1)
 
 Out Of The Grips Of Disease And Death (the story) 7
 
@@ -88,8 +88,10 @@ E ~137 F ~138 G ~ 138 H ~ 138 I ~139 J ~139 K ~140 L ~141 M ~ 143 N ~144 O ~ 145
 
 PAGE 4
 
-VOLUME TWO
+[VOLUME TWO](#vol2)
+
 Healthfully (the facts)
+
 Expanded and Revised in 2005
 Understanding the Primal Diet
 
@@ -120,7 +122,7 @@ Obtaining The Foods We Want And Need 208
 
 Brief Preparation Guide 209
 
-Vital Food Remedies 212
+[Vital Food Remedies](#remedies) 212
 
 Health Methodologies; Opinions And Tips 325
 
@@ -153,7 +155,7 @@ If you do not wish to be bound by the above, you may return this book, unread an
 
 PAGE 7
 
-VOLUME ONE
+### VOLUME ONE {#vol1}
 
 WE WANT TO LIVE!
 
@@ -2945,13 +2947,13 @@ _________________________
 
 PAGE 164
 
-VOLUME TWO
-of
-WE WANT TO LIVE!
-    Expanded and Revised in 2005
-Healthfully (the facts)
-UNDERSTANDING THE
-PRIMAL DIET TM
+### VOLUME TWO {#vol2}
+
+of WE WANT TO LIVE! Expanded and Revised in 2005  
+
+Healthfully (the facts)  
+
+UNDERSTANDING THE PRIMAL DIET TM
 
 I’ve learned that if I eat donuts today I look and feel like donuts tomorrow, and maybe for the rest of my life. -- Jill, School teacher
 

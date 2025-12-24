@@ -1,3 +1,5 @@
+@[Source](https://archive.org/download/aajonus-books/Questions%20And%20Answers.pdf)
+
 ## Introduction
 
 Aajonus devoted the greater part of his life to researching in the field of health. From his research he developed the very effective and workable Primal Diet, writing two books and 31 newsletters on the subject, as well as making 2 DVDs. He also gave thousands of consultations to his many clients and taught workshops all around the world. And he devoted a great deal of his time to answering people’s questions. People would phone him or email him and ask about their health problems and he would answer. To our tremendous loss, he died on Aug 28, 2013 from an accidental fall.

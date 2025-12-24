@@ -1,3 +1,5 @@
+@[Source](https://archive.org/download/aajonus-books/Beneficial%20Home%20Baths.pdf)
+
 **_Foreword_**
 
 I knew Aajonus well enough that he could be sharp with me when needed but that

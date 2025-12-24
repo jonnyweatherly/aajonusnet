@@ -1,3 +1,5 @@
+@[Source](https://archive.org/download/aajonus-books/Early%20Training%20with%20Aajonus.pdf)
+
 **Training With Aajonus**
 
 **Early Training With Aajonus. Observations and Techniques - 1996**

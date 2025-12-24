@@ -1,3 +1,5 @@
+@[Source](https://archive.org/download/aajonus-books/The%20Food%20Book.pdf)
+
 Based on the works of  
 **Aajonus Vonderplanitz**
 

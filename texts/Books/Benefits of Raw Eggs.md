@@ -1,3 +1,5 @@
+@[Source](https://archive.org/download/aajonus-books/Benefits%20of%20Raw%20Eggs%20and%20Cheese.pdf)
+
 #### Preface
 
 Aajonus Vonderplanitz was without question an extremely controversial activist in the fields of
